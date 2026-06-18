@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.DS_Store
+*.egg-info/
+dist/
+build/
+.scraper_errors.log.swp
