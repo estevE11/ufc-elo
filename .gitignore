@@ -9,4 +9,4 @@ dist/
 build/
 .scraper_errors.log.swp
 scrape.log
-scraper_errors.log
+db/scraper_errors.log

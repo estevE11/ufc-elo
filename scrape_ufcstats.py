@@ -378,8 +378,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--data-dir",
         type=Path,
-        default=Path("."),
-        help="Directory for CSV output and scraper_errors.log",
+        default=Path("db"),
+        help="Directory for CSV output and scraper_errors.log (default: db)",
     )
     return parser.parse_args()
 

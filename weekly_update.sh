@@ -16,9 +16,9 @@ if [[ ! -x "$PYTHON" ]]; then
 fi
 
 echo "[$(date -Iseconds)] Starting incremental scrape..."
-"$PYTHON" scrape_ufcstats.py --mode incremental
+"$PYTHON" scrape_ufcstats.py --mode incremental --data-dir "$ROOT/db"
 
-git add fighters.csv fights.csv
+git add db/fighters.csv db/fights.csv
 
 if git diff --cached --quiet; then
   echo "[$(date -Iseconds)] No data changes; skipping commit and push."
