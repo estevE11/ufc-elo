@@ -86,15 +86,17 @@ def ensure_division_elo(
     return state.divisional_elos[weight_class]
 
 
-def zero_sum_elo_update(
+def asymmetric_elo_update(
     rating_winner: float,
     rating_loser: float,
     k_adjusted: float,
+    loss_multiplier: float,
 ) -> tuple[float, float]:
+    """Apply Elo update where losses cost loss_multiplier times more than wins gain."""
     expected_winner = expected_score(rating_winner, rating_loser)
     expected_loser = expected_score(rating_loser, rating_winner)
     delta_winner = k_adjusted * (1.0 - expected_winner)
-    delta_loser = k_adjusted * (0.0 - expected_loser)
+    delta_loser = k_adjusted * loss_multiplier * (0.0 - expected_loser)
     return rating_winner + delta_winner, rating_loser + delta_loser
 
 
@@ -104,6 +106,7 @@ class EloEngine:
         self.fighter_names = fighter_names
         self.starting_elo = float(config["STARTING_ELO"])
         self.carry_over_pct = float(config["DEBUT_CARRY_OVER_PCT"])
+        self.loss_multiplier = float(config.get("LOSS_MULTIPLIER", 1.5))
         self.fighters_state: dict[str, FighterState] = {}
         self.event_snapshots: list[dict[str, Any]] = []
 
@@ -163,16 +166,17 @@ class EloEngine:
         ensure_division_elo(winner_state, weight_class, self.starting_elo, self.carry_over_pct)
         ensure_division_elo(loser_state, weight_class, self.starting_elo, self.carry_over_pct)
 
-        winner_state.p4p, loser_state.p4p = zero_sum_elo_update(
+        winner_state.p4p, loser_state.p4p = asymmetric_elo_update(
             winner_state.p4p,
             loser_state.p4p,
             k_adjusted,
+            self.loss_multiplier,
         )
 
         winner_div = winner_state.divisional_elos[weight_class]
         loser_div = loser_state.divisional_elos[weight_class]
         winner_state.divisional_elos[weight_class], loser_state.divisional_elos[weight_class] = (
-            zero_sum_elo_update(winner_div, loser_div, k_adjusted)
+            asymmetric_elo_update(winner_div, loser_div, k_adjusted, self.loss_multiplier)
         )
 
         winner_state.last_fight_weight = weight_class
@@ -225,6 +229,7 @@ def build_forward_filled_snapshots(event_df: pd.DataFrame) -> pd.DataFrame:
     )
 
     filled_frames: list[pd.DataFrame] = []
+    global_max = event_df["date"].max()
 
     for (fighter_id, weight_class), group in event_df.groupby(
         ["fighter_id", "weight_class"],
@@ -233,11 +238,13 @@ def build_forward_filled_snapshots(event_df: pd.DataFrame) -> pd.DataFrame:
         group = group.sort_values("date").set_index("date")
         fighter_name = str(group["fighter_name"].iloc[-1])
 
-        monthly = group[["elo_score"]].resample("MS").last().ffill().dropna(subset=["elo_score"])
+        monthly = group[["elo_score"]].resample("MS").last()
+        full_index = pd.date_range(monthly.index.min(), global_max, freq="MS")
+        monthly = monthly.reindex(full_index).ffill().dropna(subset=["elo_score"])
         if monthly.empty:
             continue
 
-        frame = monthly.reset_index()
+        frame = monthly.reset_index().rename(columns={"index": "date"})
         frame["fighter_id"] = fighter_id
         frame["fighter_name"] = fighter_name
         frame["weight_class"] = weight_class

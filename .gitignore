@@ -10,3 +10,4 @@ build/
 .scraper_errors.log.swp
 scrape.log
 db/scraper_errors.log
+output/
