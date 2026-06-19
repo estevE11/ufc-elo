@@ -183,7 +183,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--snapshots",
         type=Path,
-        default=Path("db/historical_elo_snapshots.csv"),
+        default=Path("data/historical_elo_snapshots.csv"),
     )
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
     parser.add_argument("--start-date", default=START_DATE)

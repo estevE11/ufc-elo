@@ -291,12 +291,12 @@ def run_engine(
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Run UFC multi-dimensional Elo engine.")
-    parser.add_argument("--config", type=Path, default=Path("config.json"))
-    parser.add_argument("--data-dir", type=Path, default=Path("db"))
+    parser.add_argument("--config", type=Path, default=Path("config/config.json"))
+    parser.add_argument("--data-dir", type=Path, default=Path("data"))
     parser.add_argument(
         "--output",
         type=Path,
-        default=Path("db/historical_elo_snapshots.csv"),
+        default=Path("data/historical_elo_snapshots.csv"),
     )
     return parser.parse_args()
 
