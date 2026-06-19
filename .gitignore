@@ -8,3 +8,5 @@ __pycache__/
 dist/
 build/
 .scraper_errors.log.swp
+scrape.log
+scraper_errors.log
