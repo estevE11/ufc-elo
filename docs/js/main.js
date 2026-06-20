@@ -4,7 +4,6 @@ let meta = null;
 let rankings = null;
 let fightersIndex = null;
 let currentMode = "current";
-let activeDivision = "p4p";
 
 async function init() {
   try {
@@ -13,7 +12,6 @@ async function init() {
       fetchJSON("rankings.json"),
       fetchJSON("fighters_index.json"),
     ]);
-    renderDivisionTabs();
     renderRankings();
     setupModeSwitch();
     setupSearch();
@@ -25,70 +23,63 @@ async function init() {
   }
 }
 
-function renderDivisionTabs() {
-  const container = document.getElementById("division-tabs");
-  container.innerHTML = meta.divisions
-    .map(
-      (div) =>
-        `<button class="division-tab${div.code === activeDivision ? " active" : ""}" data-code="${div.code}">${div.name}</button>`
-    )
-    .join("");
-
-  container.querySelectorAll(".division-tab").forEach((btn) => {
-    btn.addEventListener("click", () => {
-      activeDivision = btn.dataset.code;
-      container.querySelectorAll(".division-tab").forEach((b) => b.classList.remove("active"));
-      btn.classList.add("active");
-      renderRankings();
-    });
-  });
-}
-
 function renderRankings() {
   const modeData = rankings[currentMode];
-  const entries = modeData[activeDivision] || [];
-  const division = meta.divisions.find((d) => d.code === activeDivision);
 
-  document.getElementById("division-title").textContent = division?.name || activeDivision;
   document.getElementById("mode-subtitle").textContent =
     currentMode === "current"
       ? `Active fighters only (fought within ${meta.inactivity_years_current_mode} years)`
       : "All fighters (historical, no inactivity filter)";
 
-  const tbody = document.getElementById("rankings-body");
-  if (entries.length === 0) {
-    tbody.innerHTML = `<tr><td colspan="3">No ranked fighters in this division.</td></tr>`;
-    return;
-  }
-
-  tbody.innerHTML = entries
-    .map(
-      (entry) => `
-    <tr class="rank-${entry.rank}">
-      <td class="rank-num">#${entry.rank}</td>
-      <td><a class="fighter-link" href="${fighterPageUrl(entry.fighter_id)}">${entry.name}</a></td>
-      <td class="elo-score">${entry.elo.toFixed(2)}</td>
-    </tr>`
-    )
+  const grid = document.getElementById("division-grid");
+  grid.innerHTML = meta.divisions
+    .map((division) => {
+      const entries = modeData[division.code] || [];
+      const rows =
+        entries.length === 0
+          ? `<li class="mini-empty">No ranked fighters</li>`
+          : entries
+              .map(
+                (entry) => `
+            <li class="rank-${entry.rank}">
+              <span class="mini-rank">#${entry.rank}</span>
+              <a class="fighter-link" href="${fighterPageUrl(entry.fighter_id)}">${entry.name}</a>
+              <span class="elo-score">${entry.elo.toFixed(2)}</span>
+            </li>`
+              )
+              .join("");
+      return `
+      <section class="division-card">
+        <header class="division-card-header">${division.name}</header>
+        <ol class="mini-rank-list">${rows}</ol>
+      </section>`;
+    })
     .join("");
 }
 
 function setupModeSwitch() {
   const toggle = document.getElementById("mode-toggle");
-  const label = document.getElementById("mode-label");
+  const options = toggle.querySelectorAll(".mode-option");
 
-  function updateLabel() {
-    label.textContent = currentMode === "current" ? "Current" : "Historical";
-    toggle.classList.toggle("active", currentMode === "current");
+  function update() {
+    toggle.classList.toggle("is-historical", currentMode === "historical");
+    options.forEach((btn) => {
+      const active = btn.dataset.mode === currentMode;
+      btn.classList.toggle("active", active);
+      btn.setAttribute("aria-checked", active ? "true" : "false");
+    });
   }
 
-  toggle.addEventListener("click", () => {
-    currentMode = currentMode === "current" ? "historical" : "current";
-    updateLabel();
-    renderRankings();
+  options.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      if (btn.dataset.mode === currentMode) return;
+      currentMode = btn.dataset.mode;
+      update();
+      renderRankings();
+    });
   });
 
-  updateLabel();
+  update();
 }
 
 function setupSearch() {

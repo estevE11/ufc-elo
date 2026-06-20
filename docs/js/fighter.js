@@ -5,6 +5,9 @@ import {
   formatDelta,
   deltaClass,
   formatResult,
+  shortResult,
+  shortWeightClass,
+  shortDate,
 } from "./common.js";
 
 let chart = null;
@@ -205,17 +208,18 @@ function renderFights() {
   tbody.innerHTML = fights
     .map((fight) => {
       const outcomeClass = fight.outcome === "W" ? "outcome-w" : "outcome-l";
+      const divDeltaCls = deltaClass(fight.div_delta);
       return `
     <tr>
-      <td>${fight.date}</td>
-      <td>${fight.weight_class_name}</td>
-      <td><a href="${fighterPageUrl(fight.opponent_id)}">${fight.opponent_name}</a></td>
-      <td class="${outcomeClass}">${fight.outcome}</td>
-      <td>${formatResult(fight.result)}</td>
-      <td class="${deltaClass(fight.p4p_delta)}">${formatDelta(fight.p4p_delta)}</td>
-      <td>${fight.p4p_after.toFixed(2)}</td>
-      <td class="${deltaClass(fight.div_delta)}">${formatDelta(fight.div_delta)}</td>
-      <td>${fight.div_after.toFixed(2)}</td>
+      <td class="col-outcome ${outcomeClass}"><span class="outcome-text">${fight.outcome}</span><span class="outcome-bar" aria-hidden="true"></span></td>
+      <td class="col-date"><span class="cell-full">${fight.date}</span><span class="cell-short">${shortDate(fight.date)}</span></td>
+      <td class="col-div"><span class="cell-full">${fight.weight_class_name}</span><span class="cell-short">${shortWeightClass(fight.weight_class)}</span></td>
+      <td class="col-opp"><a href="${fighterPageUrl(fight.opponent_id)}">${fight.opponent_name}</a></td>
+      <td class="col-method"><span class="cell-full">${formatResult(fight.result)}</span><span class="cell-short">${shortResult(fight.result)}</span></td>
+      <td class="col-p4p-delta ${deltaClass(fight.p4p_delta)}">${formatDelta(fight.p4p_delta)}</td>
+      <td class="col-p4p-elo">${fight.p4p_after.toFixed(2)}</td>
+      <td class="col-div-delta ${divDeltaCls}"><span class="cell-full">${formatDelta(fight.div_delta)}</span><span class="cell-short elo-delta-mini ${divDeltaCls}">${formatDelta(fight.div_delta)}</span></td>
+      <td class="col-div-elo">${fight.div_after.toFixed(2)}</td>
     </tr>`;
     })
     .join("");

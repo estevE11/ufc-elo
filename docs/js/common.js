@@ -43,3 +43,44 @@ export function formatResult(result) {
   };
   return labels[result] || result.toUpperCase();
 }
+
+export function shortResult(result) {
+  const labels = {
+    "ko/tko": "KO",
+    sub: "SUB",
+    ud: "UD",
+    sd: "SD",
+    md: "MD",
+    dq: "DQ",
+    draw: "D",
+    nc: "NC",
+  };
+  return labels[result] || result.toUpperCase();
+}
+
+const WEIGHT_SHORT = {
+  hw: "HW",
+  lhw: "LHW",
+  mw: "MW",
+  ww: "WW",
+  lw: "LW",
+  fw: "FW",
+  bw: "BW",
+  flw: "FLW",
+  wsw: "WSW",
+  wflw: "WFLW",
+  wbw: "WBW",
+  wfw: "WFW",
+  catch: "CW",
+};
+
+export function shortWeightClass(code) {
+  return WEIGHT_SHORT[code] || (code ? code.toUpperCase() : "—");
+}
+
+/** ISO date (YYYY-MM-DD) -> MM/YY. */
+export function shortDate(iso) {
+  if (!iso) return "—";
+  const [y, m] = iso.split("-");
+  return `${m}/${y.slice(2)}`;
+}

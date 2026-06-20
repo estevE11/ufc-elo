@@ -31,24 +31,26 @@
 
     <section class="fights-section">
       <h2>Fight History</h2>
+      <div class="fights-table-wrap">
       <table class="fights-table">
         <thead>
           <tr>
-            <th>Date</th>
-            <th>Division</th>
-            <th>Opponent</th>
-            <th>W/L</th>
-            <th>Method</th>
-            <th>P4P Δ</th>
-            <th>P4P Elo</th>
-            <th>Div Δ</th>
-            <th>Div Elo</th>
+            <th class="col-outcome"><span class="th-full">W/L</span></th>
+            <th class="col-date">Date</th>
+            <th class="col-div">Division</th>
+            <th class="col-opp">Opponent</th>
+            <th class="col-method">Method</th>
+            <th class="col-p4p-delta">P4P Δ</th>
+            <th class="col-p4p-elo">P4P Elo</th>
+            <th class="col-div-delta">Div Δ</th>
+            <th class="col-div-elo">Div Elo</th>
           </tr>
         </thead>
         <tbody id="fights-body">
           <tr><td colspan="9" class="loading">Loading fights…</td></tr>
         </tbody>
       </table>
+      </div>
     </section>
   </main>
 

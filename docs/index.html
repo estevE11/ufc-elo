@@ -16,10 +16,10 @@
 
   <main class="container" id="app">
     <div class="controls">
-      <div class="mode-switch">
-        <label>Ranking mode</label>
-        <div id="mode-toggle" class="toggle active" role="switch" aria-checked="true" title="Toggle historical / current mode"></div>
-        <span id="mode-label" class="mode-label">Current</span>
+      <div id="mode-toggle" class="mode-toggle" role="radiogroup" aria-label="Ranking mode">
+        <span class="mode-toggle-thumb" aria-hidden="true"></span>
+        <button type="button" class="mode-option active" data-mode="current" role="radio" aria-checked="true">Current</button>
+        <button type="button" class="mode-option" data-mode="historical" role="radio" aria-checked="false">Historical</button>
       </div>
       <div class="search-box">
         <input type="search" id="fighter-search" placeholder="Search fighters…" autocomplete="off">
@@ -27,25 +27,10 @@
       </div>
     </div>
 
-    <nav id="division-tabs" class="division-tabs" aria-label="Weight divisions"></nav>
+    <p id="mode-subtitle" class="subtitle"></p>
 
-    <section class="rankings-panel">
-      <div class="rankings-header">
-        <h2 id="division-title">Pound for Pound</h2>
-        <p id="mode-subtitle" class="subtitle"></p>
-      </div>
-      <table class="rankings-table">
-        <thead>
-          <tr>
-            <th>Rank</th>
-            <th>Fighter</th>
-            <th>Elo</th>
-          </tr>
-        </thead>
-        <tbody id="rankings-body">
-          <tr><td colspan="3" class="loading">Loading rankings…</td></tr>
-        </tbody>
-      </table>
+    <section id="division-grid" class="division-grid" aria-label="Rankings by division">
+      <div class="loading">Loading rankings…</div>
     </section>
   </main>
 

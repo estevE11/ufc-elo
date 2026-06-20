@@ -90,52 +90,57 @@ a:hover {
   margin: 1.5rem 0;
 }
 
-.mode-switch {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
+/* Animated segmented mode switch */
+.mode-toggle {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 999px;
-  padding: 0.35rem 0.75rem 0.35rem 1rem;
+  padding: 4px;
+  user-select: none;
 }
 
-.mode-switch label {
-  font-size: 0.85rem;
-  color: var(--muted);
-}
-
-.toggle {
-  position: relative;
-  width: 48px;
-  height: 26px;
-  background: var(--surface-2);
-  border-radius: 999px;
-  cursor: pointer;
-  border: 1px solid var(--border);
-}
-
-.toggle::after {
-  content: "";
+.mode-toggle-thumb {
   position: absolute;
-  top: 2px;
-  left: 2px;
-  width: 20px;
-  height: 20px;
-  background: var(--muted);
-  border-radius: 50%;
-  transition: transform 0.2s, background 0.2s;
-}
-
-.toggle.active::after {
-  transform: translateX(22px);
+  top: 4px;
+  left: 4px;
+  width: calc(50% - 4px);
+  height: calc(100% - 8px);
   background: var(--accent);
+  border-radius: 999px;
+  transition: transform 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 0;
 }
 
-.mode-label {
+.mode-toggle.is-historical .mode-toggle-thumb {
+  transform: translateX(100%);
+}
+
+.mode-option {
+  position: relative;
+  z-index: 1;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--muted);
   font-size: 0.85rem;
   font-weight: 600;
-  min-width: 70px;
+  padding: 0.4rem 1.1rem;
+  border-radius: 999px;
+  transition: color 0.2s;
+  white-space: nowrap;
+}
+
+.mode-option.active {
+  color: #fff;
+}
+
+.subtitle {
+  color: var(--muted);
+  font-size: 0.8rem;
+  margin: -0.75rem 0 1.25rem;
 }
 
 .search-box input {
@@ -184,107 +189,93 @@ a:hover {
   position: relative;
 }
 
-/* Division tabs */
-.division-tabs {
-  display: flex;
-  gap: 0.25rem;
-  overflow-x: auto;
-  padding-bottom: 0.5rem;
-  margin-bottom: 1rem;
-  scrollbar-width: thin;
+/* Division grid */
+.division-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  align-items: start;
 }
 
-.division-tab {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  color: var(--muted);
-  cursor: pointer;
-  font-size: 0.8rem;
-  font-weight: 600;
-  padding: 0.5rem 0.85rem;
-  white-space: nowrap;
-  transition: all 0.15s;
-}
-
-.division-tab:hover {
-  border-color: var(--accent);
-  color: var(--text);
-}
-
-.division-tab.active {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: #fff;
-}
-
-/* Rankings table */
-.rankings-panel {
+.division-card {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 8px;
   overflow: hidden;
 }
 
-.rankings-header {
+.division-card-header {
   background: var(--surface-2);
   border-bottom: 1px solid var(--border);
-  padding: 1rem 1.25rem;
-}
-
-.rankings-header h2 {
-  font-size: 1.1rem;
+  padding: 0.75rem 1rem;
+  font-size: 0.9rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.04em;
 }
 
-.rankings-header .subtitle {
-  color: var(--muted);
-  font-size: 0.8rem;
-  margin-top: 0.15rem;
+.mini-rank-list {
+  list-style: none;
 }
 
-.rankings-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-.rankings-table th {
-  color: var(--muted);
-  font-size: 0.75rem;
-  font-weight: 600;
-  letter-spacing: 0.05em;
-  padding: 0.75rem 1.25rem;
-  text-align: left;
-  text-transform: uppercase;
-}
-
-.rankings-table td {
+.mini-rank-list li {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.5rem 1rem;
   border-top: 1px solid var(--border);
-  padding: 0.85rem 1.25rem;
+  font-size: 0.9rem;
 }
 
-.rankings-table tr:hover td {
+.mini-rank-list li:first-child {
+  border-top: none;
+}
+
+.mini-rank-list li:hover {
   background: var(--surface-2);
 }
 
-.rank-num {
+.mini-rank {
   font-weight: 800;
-  width: 3rem;
+  color: var(--muted);
+  min-width: 1.9rem;
+  font-variant-numeric: tabular-nums;
 }
 
-.rank-1 .rank-num { color: var(--gold); }
-.rank-2 .rank-num { color: var(--silver); }
-.rank-3 .rank-num { color: var(--bronze); }
+.mini-empty {
+  color: var(--muted);
+  font-style: italic;
+}
+
+.rank-1 .mini-rank { color: var(--gold); }
+.rank-2 .mini-rank { color: var(--silver); }
+.rank-3 .mini-rank { color: var(--bronze); }
 
 .fighter-link {
   font-weight: 600;
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .elo-score {
   color: var(--muted);
   font-variant-numeric: tabular-nums;
+  font-size: 0.82rem;
+}
+
+@media (max-width: 900px) {
+  .division-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 560px) {
+  .division-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* Fighter profile */
@@ -356,11 +347,15 @@ a:hover {
   text-transform: uppercase;
 }
 
-.fights-table {
+.fights-table-wrap {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 8px;
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.fights-table {
   width: 100%;
   border-collapse: collapse;
 }
@@ -401,6 +396,12 @@ a:hover {
 .delta-pos { color: var(--win); }
 .delta-neg { color: var(--loss); }
 
+/* Short-form cells: desktop shows full, hides short */
+.cell-short,
+.outcome-bar {
+  display: none;
+}
+
 /* Footer */
 .site-footer {
   border-top: 1px solid var(--border);
@@ -422,12 +423,63 @@ a:hover {
 }
 
 @media (max-width: 600px) {
-  .rankings-table th:nth-child(3),
-  .rankings-table td:nth-child(3) {
+  .profile-header h1 {
+    font-size: 1.5rem;
+  }
+
+  /* Compact fight rows */
+  .fights-table th,
+  .fights-table td {
+    padding: 0.55rem 0.5rem;
+    font-size: 0.82rem;
+  }
+
+  /* Toggle full <-> short cells */
+  .fights-table .cell-full {
+    display: none;
+  }
+  .fights-table .cell-short {
+    display: inline;
+  }
+
+  /* Drop verbose columns on mobile */
+  .col-p4p-delta,
+  .col-p4p-elo,
+  .col-div-elo {
     display: none;
   }
 
-  .profile-header h1 {
-    font-size: 1.5rem;
+  /* Outcome becomes a thin colored bar */
+  .col-outcome {
+    width: 8px;
+    padding: 0 !important;
+  }
+  .th.col-outcome,
+  th.col-outcome {
+    width: 8px;
+  }
+  .col-outcome .th-full,
+  .col-outcome .outcome-text {
+    display: none;
+  }
+  .col-outcome .outcome-bar {
+    display: block;
+    width: 6px;
+    min-height: 1.6rem;
+    border-radius: 3px;
+    margin: 0 auto;
+  }
+  .outcome-w .outcome-bar { background: var(--win); }
+  .outcome-l .outcome-bar { background: var(--loss); }
+
+  /* Smaller divisional elo delta */
+  .elo-delta-mini {
+    font-size: 0.72rem;
+    font-weight: 700;
+  }
+
+  .col-opp a {
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 }
