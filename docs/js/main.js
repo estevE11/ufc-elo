@@ -1,4 +1,4 @@
-import { fetchJSON, fighterPageUrl } from "./common.js";
+import { fetchJSON, fighterPageUrl } from "./common.js?v=2";
 
 let meta = null;
 let rankings = null;

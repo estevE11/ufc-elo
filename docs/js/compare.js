@@ -3,7 +3,7 @@ import {
   getCompareIdsFromURL,
   fighterPageUrl,
   formatResult,
-} from "./common.js";
+} from "./common.js?v=2";
 
 const COLORS = {
   a: { line: "#ff3030", fill: "rgba(255, 48, 48, 0.12)" },

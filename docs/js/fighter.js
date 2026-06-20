@@ -8,7 +8,7 @@ import {
   shortResult,
   shortWeightClass,
   shortDate,
-} from "./common.js";
+} from "./common.js?v=2";
 
 let chart = null;
 let profile = null;
