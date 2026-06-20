@@ -1,0 +1,151 @@
+{
+  "id": "ca80d72da81d7224",
+  "name": "Michelle Montague",
+  "slug": "michelle-montague",
+  "last_fight_date": "2026-04-25",
+  "active_current_mode": true,
+  "divisions": [
+    "wbw"
+  ],
+  "division_names": {
+    "wbw": "Women's Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-09-01",
+        "rank": 429,
+        "elo": 1016.15
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 428,
+        "elo": 1016.15
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 425,
+        "elo": 1016.15
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 424,
+        "elo": 1016.15
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 422,
+        "elo": 1016.15
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 426,
+        "elo": 1016.15
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 429,
+        "elo": 1016.15
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 306,
+        "elo": 1029.21
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 307,
+        "elo": 1029.21
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 306,
+        "elo": 1029.21
+      }
+    ],
+    "wbw": [
+      {
+        "date": "2025-09-01",
+        "rank": 22,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 25,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 25,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 24,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 24,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 24,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 24,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 12,
+        "elo": 1030.24
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 12,
+        "elo": 1030.24
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 12,
+        "elo": 1030.24
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-04-25",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "cc8c623cca88f54f",
+      "opponent_name": "Mayra Bueno Silva",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1016.15,
+      "p4p_after": 1029.21,
+      "p4p_delta": 13.06,
+      "div_before": 1016.0,
+      "div_after": 1030.24,
+      "div_delta": 14.24
+    },
+    {
+      "date": "2025-09-27",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "528b071cf3da7c56",
+      "opponent_name": "Luana Carolina",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1016.15,
+      "p4p_delta": 16.15,
+      "div_before": 1000.0,
+      "div_after": 1016.0,
+      "div_delta": 16.0
+    }
+  ]
+}

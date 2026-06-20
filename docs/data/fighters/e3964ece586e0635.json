@@ -1,0 +1,570 @@
+{
+  "id": "e3964ece586e0635",
+  "name": "Jacqueline Cavalcanti",
+  "slug": "jacqueline-cavalcanti",
+  "last_fight_date": "2026-05-16",
+  "active_current_mode": true,
+  "divisions": [
+    "catch",
+    "wbw"
+  ],
+  "division_names": {
+    "catch": "Catch",
+    "wbw": "Women's Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2023-09-01",
+        "rank": 436,
+        "elo": 1013.56
+      },
+      {
+        "date": "2023-10-01",
+        "rank": 443,
+        "elo": 1013.56
+      },
+      {
+        "date": "2023-11-01",
+        "rank": 442,
+        "elo": 1013.56
+      },
+      {
+        "date": "2023-12-01",
+        "rank": 438,
+        "elo": 1013.56
+      },
+      {
+        "date": "2024-01-01",
+        "rank": 441,
+        "elo": 1013.56
+      },
+      {
+        "date": "2024-02-01",
+        "rank": 444,
+        "elo": 1013.56
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 447,
+        "elo": 1013.56
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 447,
+        "elo": 1013.56
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 453,
+        "elo": 1013.56
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 448,
+        "elo": 1013.56
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 444,
+        "elo": 1013.56
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 306,
+        "elo": 1025.06
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 236,
+        "elo": 1036.64
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 240,
+        "elo": 1036.64
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 245,
+        "elo": 1036.64
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 247,
+        "elo": 1036.64
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 245,
+        "elo": 1036.64
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 173,
+        "elo": 1050.28
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 172,
+        "elo": 1050.28
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 172,
+        "elo": 1050.28
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 173,
+        "elo": 1050.28
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 171,
+        "elo": 1050.28
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 172,
+        "elo": 1050.28
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 169,
+        "elo": 1050.28
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 169,
+        "elo": 1050.28
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 167,
+        "elo": 1050.28
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 129,
+        "elo": 1062.66
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 132,
+        "elo": 1062.66
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 132,
+        "elo": 1062.66
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 131,
+        "elo": 1062.66
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 135,
+        "elo": 1062.66
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 135,
+        "elo": 1062.66
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 255,
+        "elo": 1036.86
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 256,
+        "elo": 1036.86
+      }
+    ],
+    "catch": [
+      {
+        "date": "2023-09-01",
+        "rank": 38,
+        "elo": 1016.0
+      },
+      {
+        "date": "2023-10-01",
+        "rank": 38,
+        "elo": 1016.0
+      },
+      {
+        "date": "2023-11-01",
+        "rank": 39,
+        "elo": 1016.0
+      },
+      {
+        "date": "2023-12-01",
+        "rank": 39,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-01-01",
+        "rank": 39,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-02-01",
+        "rank": 39,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 39,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 39,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 39,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 40,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 40,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 40,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 40,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 40,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 40,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 41,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 41,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 36,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 36,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 36,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 36,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 36,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 36,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 43,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 43,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 43,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 45,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 45,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 45,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 39,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 39,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 39,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 39,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 45,
+        "elo": 1016.0
+      }
+    ],
+    "wbw": [
+      {
+        "date": "2024-08-01",
+        "rank": 26,
+        "elo": 1011.11
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 12,
+        "elo": 1023.13
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 13,
+        "elo": 1023.13
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 13,
+        "elo": 1023.13
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 13,
+        "elo": 1023.13
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 13,
+        "elo": 1023.13
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 10,
+        "elo": 1037.5
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 10,
+        "elo": 1037.5
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 10,
+        "elo": 1037.5
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 10,
+        "elo": 1037.5
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 9,
+        "elo": 1037.5
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 9,
+        "elo": 1037.5
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 9,
+        "elo": 1037.5
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 9,
+        "elo": 1037.5
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 8,
+        "elo": 1037.5
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 6,
+        "elo": 1051.73
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 6,
+        "elo": 1051.73
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 6,
+        "elo": 1051.73
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 6,
+        "elo": 1051.73
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 6,
+        "elo": 1051.73
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 6,
+        "elo": 1051.73
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 15,
+        "elo": 1025.57
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 15,
+        "elo": 1025.57
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-16",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "b9706f80d005036c",
+      "opponent_name": "Ketlen Vieira",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1062.66,
+      "p4p_after": 1036.86,
+      "p4p_delta": -25.8,
+      "div_before": 1051.73,
+      "div_after": 1025.57,
+      "div_delta": -26.16
+    },
+    {
+      "date": "2025-11-08",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "cc8c623cca88f54f",
+      "opponent_name": "Mayra Bueno Silva",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1050.28,
+      "p4p_after": 1062.66,
+      "p4p_delta": 12.38,
+      "div_before": 1037.5,
+      "div_after": 1051.73,
+      "div_delta": 14.23
+    },
+    {
+      "date": "2025-02-15",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "86d9dbe1bfcbade7",
+      "opponent_name": "Julia Avila",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1036.64,
+      "p4p_after": 1050.28,
+      "p4p_delta": 13.64,
+      "div_before": 1023.13,
+      "div_after": 1037.5,
+      "div_delta": 14.37
+    },
+    {
+      "date": "2024-09-28",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "f2b3f4ef3f780168",
+      "opponent_name": "Nora Cornolle",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 1025.06,
+      "p4p_after": 1036.64,
+      "p4p_delta": 11.58,
+      "div_before": 1011.11,
+      "div_after": 1023.13,
+      "div_delta": 12.02
+    },
+    {
+      "date": "2024-08-24",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "68d35296f566792b",
+      "opponent_name": "Josiane Nunes",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 1013.56,
+      "p4p_after": 1025.06,
+      "p4p_delta": 11.5,
+      "div_before": 1000.0,
+      "div_after": 1011.11,
+      "div_delta": 11.11
+    },
+    {
+      "date": "2023-09-02",
+      "weight_class": "catch",
+      "weight_class_name": "Catch",
+      "opponent_id": "862b0b3375aa4b6e",
+      "opponent_name": "Zarah Fairn",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1013.56,
+      "p4p_delta": 13.56,
+      "div_before": 1000.0,
+      "div_after": 1016.0,
+      "div_delta": 16.0
+    }
+  ]
+}

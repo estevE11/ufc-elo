@@ -1,0 +1,56 @@
+{
+  "id": "20a0e4cc5227c117",
+  "name": "Jose Souza",
+  "slug": "jose-souza",
+  "last_fight_date": "2026-05-30",
+  "active_current_mode": true,
+  "divisions": [
+    "ww"
+  ],
+  "division_names": {
+    "ww": "Welterweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-05-01",
+        "rank": 490,
+        "elo": 1011.2
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 487,
+        "elo": 1011.2
+      }
+    ],
+    "ww": [
+      {
+        "date": "2026-05-01",
+        "rank": 102,
+        "elo": 1011.2
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 102,
+        "elo": 1011.2
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-30",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "e0664abaa023fd6f",
+      "opponent_name": "Ding Meng",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1011.2,
+      "p4p_delta": 11.2,
+      "div_before": 1000.0,
+      "div_after": 1011.2,
+      "div_delta": 11.2
+    }
+  ]
+}

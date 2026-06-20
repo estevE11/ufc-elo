@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-06-20T11:08:29Z",
+  "reference_date": "2026-06-01",
+  "fighter_count": 2701,
+  "fight_count": 8624,
+  "top_n": 10,
+  "inactivity_years_current_mode": 2,
+  "divisions": [
+    {
+      "code": "p4p",
+      "name": "Pound for Pound",
+      "gender": "all"
+    },
+    {
+      "code": "hw",
+      "name": "Heavyweight",
+      "gender": "M"
+    },
+    {
+      "code": "lhw",
+      "name": "Light Heavyweight",
+      "gender": "M"
+    },
+    {
+      "code": "mw",
+      "name": "Middleweight",
+      "gender": "M"
+    },
+    {
+      "code": "ww",
+      "name": "Welterweight",
+      "gender": "M"
+    },
+    {
+      "code": "lw",
+      "name": "Lightweight",
+      "gender": "M"
+    },
+    {
+      "code": "fw",
+      "name": "Featherweight",
+      "gender": "M"
+    },
+    {
+      "code": "bw",
+      "name": "Bantamweight",
+      "gender": "M"
+    },
+    {
+      "code": "flw",
+      "name": "Flyweight",
+      "gender": "M"
+    },
+    {
+      "code": "wsw",
+      "name": "Women's Strawweight",
+      "gender": "W"
+    },
+    {
+      "code": "wflw",
+      "name": "Women's Flyweight",
+      "gender": "W"
+    },
+    {
+      "code": "wbw",
+      "name": "Women's Bantamweight",
+      "gender": "W"
+    },
+    {
+      "code": "wfw",
+      "name": "Women's Featherweight",
+      "gender": "W"
+    }
+  ],
+  "model": {
+    "STARTING_ELO": 1000,
+    "BASE_K_FACTOR": 32,
+    "LOSS_MULTIPLIER": 1.5
+  }
+}

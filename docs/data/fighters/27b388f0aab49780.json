@@ -1,0 +1,356 @@
+{
+  "id": "27b388f0aab49780",
+  "name": "Dione Barbosa",
+  "slug": "dione-barbosa",
+  "last_fight_date": "2026-04-04",
+  "active_current_mode": true,
+  "divisions": [
+    "wflw"
+  ],
+  "division_names": {
+    "wflw": "Women's Flyweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2024-05-01",
+        "rank": 424,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 415,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 638,
+        "elo": 993.27
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 646,
+        "elo": 993.27
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 643,
+        "elo": 993.27
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 644,
+        "elo": 993.27
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 650,
+        "elo": 993.27
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 648,
+        "elo": 993.27
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 643,
+        "elo": 993.27
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 647,
+        "elo": 993.27
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 655,
+        "elo": 993.27
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 500,
+        "elo": 1008.71
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 496,
+        "elo": 1008.71
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 496,
+        "elo": 1008.71
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 493,
+        "elo": 1008.71
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 746,
+        "elo": 986.93
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 753,
+        "elo": 986.93
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 755,
+        "elo": 986.93
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 759,
+        "elo": 986.93
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 762,
+        "elo": 986.93
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 761,
+        "elo": 986.93
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 764,
+        "elo": 986.93
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 768,
+        "elo": 986.93
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 573,
+        "elo": 1000.76
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 582,
+        "elo": 1000.76
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 581,
+        "elo": 1000.76
+      }
+    ],
+    "wflw": [
+      {
+        "date": "2024-05-01",
+        "rank": 17,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 17,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 35,
+        "elo": 993.46
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 36,
+        "elo": 993.46
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 35,
+        "elo": 993.46
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 35,
+        "elo": 993.46
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 36,
+        "elo": 993.46
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 35,
+        "elo": 993.46
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 35,
+        "elo": 993.46
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 35,
+        "elo": 993.46
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 37,
+        "elo": 993.46
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 23,
+        "elo": 1011.5
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 23,
+        "elo": 1011.5
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 25,
+        "elo": 1011.5
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 25,
+        "elo": 1011.5
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 40,
+        "elo": 989.64
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 40,
+        "elo": 989.64
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 40,
+        "elo": 989.64
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 41,
+        "elo": 989.64
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 41,
+        "elo": 989.64
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 41,
+        "elo": 989.64
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 41,
+        "elo": 989.64
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 40,
+        "elo": 989.64
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 31,
+        "elo": 1002.7
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 31,
+        "elo": 1002.7
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 32,
+        "elo": 1002.7
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-04-04",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "a4a80dd7336ffd59",
+      "opponent_name": "Melissa Gatto",
+      "result": "md",
+      "outcome": "W",
+      "p4p_before": 986.93,
+      "p4p_after": 1000.76,
+      "p4p_delta": 13.83,
+      "div_before": 989.64,
+      "div_after": 1002.7,
+      "div_delta": 13.06
+    },
+    {
+      "date": "2025-08-16",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "9d62c2d8ee151f08",
+      "opponent_name": "Karine Silva",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1008.71,
+      "p4p_after": 986.93,
+      "p4p_delta": -21.78,
+      "div_before": 1011.5,
+      "div_after": 989.64,
+      "div_delta": -21.86
+    },
+    {
+      "date": "2025-04-05",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "d7e40dca3ae125be",
+      "opponent_name": "Diana Belbita",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 993.27,
+      "p4p_after": 1008.71,
+      "p4p_delta": 15.44,
+      "div_before": 993.46,
+      "div_after": 1011.5,
+      "div_delta": 18.04
+    },
+    {
+      "date": "2024-07-20",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "f29a6350c69f4a33",
+      "opponent_name": "Miranda Maverick",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1016.0,
+      "p4p_after": 993.27,
+      "p4p_delta": -22.73,
+      "div_before": 1016.0,
+      "div_after": 993.46,
+      "div_delta": -22.54
+    },
+    {
+      "date": "2024-05-04",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "e4faa79383c9f214",
+      "opponent_name": "Ernesta Kareckaite",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1016.0,
+      "p4p_delta": 16.0,
+      "div_before": 1000.0,
+      "div_after": 1016.0,
+      "div_delta": 16.0
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "b701f095e6ccb149",
+  "name": "Ollie Schmid",
+  "slug": "ollie-schmid",
+  "last_fight_date": "2026-05-02",
+  "active_current_mode": true,
+  "divisions": [
+    "fw"
+  ],
+  "division_names": {
+    "fw": "Featherweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-05-01",
+        "rank": 1152,
+        "elo": 970.51
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 1149,
+        "elo": 970.51
+      }
+    ],
+    "fw": [
+      {
+        "date": "2026-05-01",
+        "rank": 219,
+        "elo": 970.67
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 219,
+        "elo": 970.67
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-02",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "6eedb757f13b9978",
+      "opponent_name": "Marwan Rahiki",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 970.51,
+      "p4p_delta": -29.49,
+      "div_before": 1000.0,
+      "div_after": 970.67,
+      "div_delta": -29.33
+    }
+  ]
+}

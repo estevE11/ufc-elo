@@ -1,0 +1,231 @@
+{
+  "id": "d3f89fa685bd8420",
+  "name": "Austin Bashi",
+  "slug": "austin-bashi",
+  "last_fight_date": "2025-08-02",
+  "active_current_mode": true,
+  "divisions": [
+    "fw"
+  ],
+  "division_names": {
+    "fw": "Featherweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-01-01",
+        "rank": 916,
+        "elo": 976.32
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 923,
+        "elo": 976.32
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 927,
+        "elo": 976.32
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 925,
+        "elo": 976.32
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 926,
+        "elo": 976.32
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 927,
+        "elo": 976.32
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 921,
+        "elo": 976.32
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 584,
+        "elo": 998.54
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 589,
+        "elo": 998.54
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 590,
+        "elo": 998.54
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 592,
+        "elo": 998.54
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 593,
+        "elo": 998.54
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 592,
+        "elo": 998.54
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 601,
+        "elo": 998.54
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 601,
+        "elo": 998.54
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 602,
+        "elo": 998.54
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 610,
+        "elo": 998.54
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 611,
+        "elo": 998.54
+      }
+    ],
+    "fw": [
+      {
+        "date": "2025-01-01",
+        "rank": 184,
+        "elo": 972.86
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 186,
+        "elo": 972.86
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 187,
+        "elo": 972.86
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 190,
+        "elo": 972.86
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 191,
+        "elo": 972.86
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 191,
+        "elo": 972.86
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 190,
+        "elo": 972.86
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 102,
+        "elo": 995.28
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 102,
+        "elo": 995.28
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 103,
+        "elo": 995.28
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 104,
+        "elo": 995.28
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 104,
+        "elo": 995.28
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 105,
+        "elo": 995.28
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 106,
+        "elo": 995.28
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 107,
+        "elo": 995.28
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 110,
+        "elo": 995.28
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 110,
+        "elo": 995.28
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 109,
+        "elo": 995.28
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2025-08-02",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "450bcab0968562c4",
+      "opponent_name": "John Yannis",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 976.32,
+      "p4p_after": 998.54,
+      "p4p_delta": 22.22,
+      "div_before": 972.86,
+      "div_after": 995.28,
+      "div_delta": 22.42
+    },
+    {
+      "date": "2025-01-11",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "5ec591b78349ba7e",
+      "opponent_name": "Christian Rodriguez",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 976.32,
+      "p4p_delta": -23.68,
+      "div_before": 1000.0,
+      "div_after": 972.86,
+      "div_delta": -27.14
+    }
+  ]
+}

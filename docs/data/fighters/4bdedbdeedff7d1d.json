@@ -1,0 +1,386 @@
+{
+  "id": "4bdedbdeedff7d1d",
+  "name": "Bolaji Oki",
+  "slug": "bolaji-oki",
+  "last_fight_date": "2026-03-14",
+  "active_current_mode": true,
+  "divisions": [
+    "lw"
+  ],
+  "division_names": {
+    "lw": "Lightweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2024-02-01",
+        "rank": 463,
+        "elo": 1011.2
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 467,
+        "elo": 1011.2
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 468,
+        "elo": 1011.2
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 472,
+        "elo": 1011.2
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 467,
+        "elo": 1011.2
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 463,
+        "elo": 1011.2
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 463,
+        "elo": 1011.2
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 874,
+        "elo": 978.6
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 875,
+        "elo": 978.6
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 878,
+        "elo": 978.6
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 876,
+        "elo": 978.6
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 882,
+        "elo": 978.6
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 888,
+        "elo": 978.6
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 890,
+        "elo": 978.6
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 889,
+        "elo": 978.6
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 629,
+        "elo": 995.58
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 628,
+        "elo": 995.58
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 621,
+        "elo": 995.58
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 628,
+        "elo": 995.58
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 1450,
+        "elo": 963.07
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 1454,
+        "elo": 963.07
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 1460,
+        "elo": 963.07
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 1466,
+        "elo": 963.07
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 1473,
+        "elo": 963.07
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 1472,
+        "elo": 963.07
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 2188,
+        "elo": 935.18
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 2194,
+        "elo": 935.18
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 2205,
+        "elo": 935.18
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 2205,
+        "elo": 935.18
+      }
+    ],
+    "lw": [
+      {
+        "date": "2024-02-01",
+        "rank": 112,
+        "elo": 1011.2
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 113,
+        "elo": 1011.2
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 115,
+        "elo": 1011.2
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 116,
+        "elo": 1011.2
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 115,
+        "elo": 1011.2
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 115,
+        "elo": 1011.2
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 115,
+        "elo": 1011.2
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 210,
+        "elo": 978.71
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 209,
+        "elo": 978.71
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 209,
+        "elo": 978.71
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 209,
+        "elo": 978.71
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 208,
+        "elo": 978.71
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 209,
+        "elo": 978.71
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 206,
+        "elo": 978.71
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 206,
+        "elo": 978.71
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 150,
+        "elo": 995.69
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 149,
+        "elo": 995.69
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 148,
+        "elo": 995.69
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 147,
+        "elo": 995.69
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 361,
+        "elo": 963.4
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 361,
+        "elo": 963.4
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 361,
+        "elo": 963.4
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 360,
+        "elo": 963.4
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 362,
+        "elo": 963.4
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 362,
+        "elo": 963.4
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 510,
+        "elo": 935.48
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 514,
+        "elo": 935.48
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 515,
+        "elo": 935.48
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 514,
+        "elo": 935.48
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-03-14",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "5870c541798124ae",
+      "opponent_name": "Manoel Sousa",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 963.07,
+      "p4p_after": 935.18,
+      "p4p_delta": -27.89,
+      "div_before": 963.4,
+      "div_after": 935.48,
+      "div_delta": -27.92
+    },
+    {
+      "date": "2025-09-06",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "f6ad6a1e4d600e0d",
+      "opponent_name": "Mason Jones",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 995.58,
+      "p4p_after": 963.07,
+      "p4p_delta": -32.51,
+      "div_before": 995.69,
+      "div_after": 963.4,
+      "div_delta": -32.29
+    },
+    {
+      "date": "2025-05-31",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "01c9e4013afce141",
+      "opponent_name": "Michael Aswell Jr.",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 978.6,
+      "p4p_after": 995.58,
+      "p4p_delta": 16.98,
+      "div_before": 978.71,
+      "div_after": 995.69,
+      "div_delta": 16.98
+    },
+    {
+      "date": "2024-09-28",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "fd406a32a6fb3a29",
+      "opponent_name": "Chris Duncan",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1011.2,
+      "p4p_after": 978.6,
+      "p4p_delta": -32.6,
+      "div_before": 1011.2,
+      "div_after": 978.71,
+      "div_delta": -32.49
+    },
+    {
+      "date": "2024-02-10",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "0e46690e55a8df75",
+      "opponent_name": "Timmy Cuamba",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1011.2,
+      "p4p_delta": 11.2,
+      "div_before": 1000.0,
+      "div_after": 1011.2,
+      "div_delta": 11.2
+    }
+  ]
+}

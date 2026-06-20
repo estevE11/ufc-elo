@@ -1,0 +1,251 @@
+{
+  "id": "17923f676f100e16",
+  "name": "Tallison Teixeira",
+  "slug": "tallison-teixeira",
+  "last_fight_date": "2026-05-30",
+  "active_current_mode": true,
+  "divisions": [
+    "hw"
+  ],
+  "division_names": {
+    "hw": "Heavyweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-02-01",
+        "rank": 385,
+        "elo": 1019.37
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 386,
+        "elo": 1019.37
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 386,
+        "elo": 1019.37
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 387,
+        "elo": 1019.37
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 384,
+        "elo": 1019.37
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 712,
+        "elo": 988.05
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 720,
+        "elo": 988.05
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 728,
+        "elo": 988.05
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 728,
+        "elo": 988.05
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 731,
+        "elo": 988.05
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 735,
+        "elo": 988.05
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 547,
+        "elo": 1001.9
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 555,
+        "elo": 1001.9
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 558,
+        "elo": 1001.9
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 554,
+        "elo": 1001.9
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 945,
+        "elo": 977.17
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 943,
+        "elo": 977.17
+      }
+    ],
+    "hw": [
+      {
+        "date": "2025-02-01",
+        "rank": 53,
+        "elo": 1019.36
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 54,
+        "elo": 1019.36
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 54,
+        "elo": 1019.36
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 54,
+        "elo": 1019.36
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 53,
+        "elo": 1019.36
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 104,
+        "elo": 987.63
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 104,
+        "elo": 987.63
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 106,
+        "elo": 987.63
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 106,
+        "elo": 987.63
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 108,
+        "elo": 987.63
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 110,
+        "elo": 987.63
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 84,
+        "elo": 1001.49
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 86,
+        "elo": 1001.49
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 86,
+        "elo": 1001.49
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 86,
+        "elo": 1001.49
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 128,
+        "elo": 976.78
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 129,
+        "elo": 976.78
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-30",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "f14cf73e51b29254",
+      "opponent_name": "Sergei Pavlovich",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1001.9,
+      "p4p_after": 977.17,
+      "p4p_delta": -24.73,
+      "div_before": 1001.49,
+      "div_after": 976.78,
+      "div_delta": -24.71
+    },
+    {
+      "date": "2026-01-31",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "c62fbc117d57b943",
+      "opponent_name": "Tai Tuivasa",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 988.05,
+      "p4p_after": 1001.9,
+      "p4p_delta": 13.85,
+      "div_before": 987.63,
+      "div_after": 1001.49,
+      "div_delta": 13.86
+    },
+    {
+      "date": "2025-07-12",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "d3df1add9d9a7efb",
+      "opponent_name": "Derrick Lewis",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1019.37,
+      "p4p_after": 988.05,
+      "p4p_delta": -31.32,
+      "div_before": 1019.36,
+      "div_after": 987.63,
+      "div_delta": -31.73
+    },
+    {
+      "date": "2025-02-08",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "e13abac8089a801a",
+      "opponent_name": "Justin Tafa",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1019.37,
+      "p4p_delta": 19.37,
+      "div_before": 1000.0,
+      "div_after": 1019.36,
+      "div_delta": 19.36
+    }
+  ]
+}

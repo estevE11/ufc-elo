@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UFC Elo Rankings</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="logo">UFC <span>Elo</span></a>
+      <span class="back-link">Data as of <span id="ref-date">—</span></span>
+    </div>
+  </header>
+
+  <main class="container" id="app">
+    <div class="controls">
+      <div class="mode-switch">
+        <label>Ranking mode</label>
+        <div id="mode-toggle" class="toggle active" role="switch" aria-checked="true" title="Toggle historical / current mode"></div>
+        <span id="mode-label" class="mode-label">Current</span>
+      </div>
+      <div class="search-box">
+        <input type="search" id="fighter-search" placeholder="Search fighters…" autocomplete="off">
+        <div id="search-results" class="search-results"></div>
+      </div>
+    </div>
+
+    <nav id="division-tabs" class="division-tabs" aria-label="Weight divisions"></nav>
+
+    <section class="rankings-panel">
+      <div class="rankings-header">
+        <h2 id="division-title">Pound for Pound</h2>
+        <p id="mode-subtitle" class="subtitle"></p>
+      </div>
+      <table class="rankings-table">
+        <thead>
+          <tr>
+            <th>Rank</th>
+            <th>Fighter</th>
+            <th>Elo</th>
+          </tr>
+        </thead>
+        <tbody id="rankings-body">
+          <tr><td colspan="3" class="loading">Loading rankings…</td></tr>
+        </tbody>
+      </table>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      Custom Elo ratings from UFC fight history · <a href="https://github.com/estevE11/ufc-elo">GitHub</a>
+    </div>
+  </footer>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

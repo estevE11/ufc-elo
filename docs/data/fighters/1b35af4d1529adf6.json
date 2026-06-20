@@ -1,0 +1,296 @@
+{
+  "id": "1b35af4d1529adf6",
+  "name": "Stephanie Luciano",
+  "slug": "stephanie-luciano",
+  "last_fight_date": "2025-10-18",
+  "active_current_mode": true,
+  "divisions": [
+    "wsw"
+  ],
+  "division_names": {
+    "wsw": "Women's Strawweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2024-08-01",
+        "rank": 406,
+        "elo": 1016.52
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 407,
+        "elo": 1016.52
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 406,
+        "elo": 1016.52
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 410,
+        "elo": 1016.52
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 406,
+        "elo": 1016.52
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 412,
+        "elo": 1016.52
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 416,
+        "elo": 1016.52
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 612,
+        "elo": 996.8
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 617,
+        "elo": 996.8
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 614,
+        "elo": 996.8
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 613,
+        "elo": 996.8
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 607,
+        "elo": 996.8
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 615,
+        "elo": 996.8
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 619,
+        "elo": 996.8
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 424,
+        "elo": 1016.43
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 421,
+        "elo": 1016.43
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 420,
+        "elo": 1016.43
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 419,
+        "elo": 1016.43
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 423,
+        "elo": 1016.43
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 425,
+        "elo": 1016.43
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 427,
+        "elo": 1016.43
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 431,
+        "elo": 1016.43
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 430,
+        "elo": 1016.43
+      }
+    ],
+    "wsw": [
+      {
+        "date": "2024-08-01",
+        "rank": 21,
+        "elo": 1016.52
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 21,
+        "elo": 1016.52
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 21,
+        "elo": 1016.52
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 22,
+        "elo": 1016.52
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 21,
+        "elo": 1016.52
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 23,
+        "elo": 1016.52
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 22,
+        "elo": 1016.52
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 38,
+        "elo": 996.88
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 38,
+        "elo": 996.88
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 38,
+        "elo": 996.88
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 38,
+        "elo": 996.88
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 37,
+        "elo": 996.88
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 37,
+        "elo": 996.88
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 36,
+        "elo": 996.88
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 22,
+        "elo": 1017.87
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 22,
+        "elo": 1017.87
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 22,
+        "elo": 1017.87
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 22,
+        "elo": 1017.87
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 22,
+        "elo": 1017.87
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 22,
+        "elo": 1017.87
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 22,
+        "elo": 1017.87
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 22,
+        "elo": 1017.87
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 23,
+        "elo": 1017.87
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2025-10-18",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "4948e412fa6ab67d",
+      "opponent_name": "Ravena Oliveira",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 996.8,
+      "p4p_after": 1016.43,
+      "p4p_delta": 19.63,
+      "div_before": 996.88,
+      "div_after": 1017.87,
+      "div_delta": 20.99
+    },
+    {
+      "date": "2025-03-15",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "e94085e821bd81de",
+      "opponent_name": "Sam Hughes",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 1016.52,
+      "p4p_after": 996.8,
+      "p4p_delta": -19.72,
+      "div_before": 1016.52,
+      "div_after": 996.88,
+      "div_delta": -19.64
+    },
+    {
+      "date": "2024-08-10",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "d35298b6df168456",
+      "opponent_name": "Talita Alencar",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1016.52,
+      "p4p_delta": 16.52,
+      "div_before": 1000.0,
+      "div_after": 1016.52,
+      "div_delta": 16.52
+    }
+  ]
+}

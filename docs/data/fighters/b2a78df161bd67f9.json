@@ -1,0 +1,216 @@
+{
+  "id": "b2a78df161bd67f9",
+  "name": "Gauge Young",
+  "slug": "gauge-young",
+  "last_fight_date": "2026-04-18",
+  "active_current_mode": true,
+  "divisions": [
+    "lw"
+  ],
+  "division_names": {
+    "lw": "Lightweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-04-01",
+        "rank": 1008,
+        "elo": 974.66
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 1008,
+        "elo": 974.66
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 1010,
+        "elo": 974.66
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 1005,
+        "elo": 974.66
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 704,
+        "elo": 989.43
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 712,
+        "elo": 989.43
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 710,
+        "elo": 989.43
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 714,
+        "elo": 989.43
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 718,
+        "elo": 989.43
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 718,
+        "elo": 989.43
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 721,
+        "elo": 989.43
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 722,
+        "elo": 989.43
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 588,
+        "elo": 999.95
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 597,
+        "elo": 999.95
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 597,
+        "elo": 999.95
+      }
+    ],
+    "lw": [
+      {
+        "date": "2025-04-01",
+        "rank": 243,
+        "elo": 974.87
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 247,
+        "elo": 974.87
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 247,
+        "elo": 974.87
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 247,
+        "elo": 974.87
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 154,
+        "elo": 989.71
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 153,
+        "elo": 989.71
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 152,
+        "elo": 989.71
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 152,
+        "elo": 989.71
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 152,
+        "elo": 989.71
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 153,
+        "elo": 989.71
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 153,
+        "elo": 989.71
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 157,
+        "elo": 989.71
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 141,
+        "elo": 1000.31
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 142,
+        "elo": 1000.31
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 142,
+        "elo": 1000.31
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-04-18",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "d945aae53e3e54e6",
+      "opponent_name": "Thiago Moises",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 989.43,
+      "p4p_after": 999.95,
+      "p4p_delta": 10.52,
+      "div_before": 989.71,
+      "div_after": 1000.31,
+      "div_delta": 10.6
+    },
+    {
+      "date": "2025-08-23",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "8c1ca54b5089d199",
+      "opponent_name": "Maheshate",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 974.66,
+      "p4p_after": 989.43,
+      "p4p_delta": 14.77,
+      "div_before": 974.87,
+      "div_after": 989.71,
+      "div_delta": 14.84
+    },
+    {
+      "date": "2025-04-26",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "d9a56ecb6e94f02e",
+      "opponent_name": "Evan Elder",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 974.66,
+      "p4p_delta": -25.34,
+      "div_before": 1000.0,
+      "div_after": 974.87,
+      "div_delta": -25.13
+    }
+  ]
+}

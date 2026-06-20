@@ -1,0 +1,281 @@
+{
+  "id": "a474aade8eb3a8f0",
+  "name": "SuYoung You",
+  "slug": "suyoung-you",
+  "last_fight_date": "2026-03-14",
+  "active_current_mode": true,
+  "divisions": [
+    "bw"
+  ],
+  "division_names": {
+    "bw": "Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2024-11-01",
+        "rank": 418,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 413,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 420,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 425,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 291,
+        "elo": 1029.88
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 290,
+        "elo": 1029.88
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 293,
+        "elo": 1029.88
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 295,
+        "elo": 1029.88
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 305,
+        "elo": 1029.88
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 195,
+        "elo": 1044.68
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 193,
+        "elo": 1044.68
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 197,
+        "elo": 1044.68
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 201,
+        "elo": 1044.68
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 204,
+        "elo": 1044.68
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 203,
+        "elo": 1044.68
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 201,
+        "elo": 1044.68
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 476,
+        "elo": 1012.18
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 477,
+        "elo": 1012.18
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 482,
+        "elo": 1012.18
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 480,
+        "elo": 1012.18
+      }
+    ],
+    "bw": [
+      {
+        "date": "2024-11-01",
+        "rank": 62,
+        "elo": 1016.0
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 62,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 62,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 61,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 40,
+        "elo": 1031.26
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 40,
+        "elo": 1031.26
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 39,
+        "elo": 1031.26
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 40,
+        "elo": 1031.26
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 38,
+        "elo": 1031.26
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 26,
+        "elo": 1045.99
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 25,
+        "elo": 1045.99
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 24,
+        "elo": 1045.99
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 25,
+        "elo": 1045.99
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 25,
+        "elo": 1045.99
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 24,
+        "elo": 1045.99
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 23,
+        "elo": 1045.99
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 72,
+        "elo": 1013.46
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 73,
+        "elo": 1013.46
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 74,
+        "elo": 1013.46
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 72,
+        "elo": 1013.46
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-03-14",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "7478b7f959ba61f5",
+      "opponent_name": "Elijah Smith",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1044.68,
+      "p4p_after": 1012.18,
+      "p4p_delta": -32.5,
+      "div_before": 1045.99,
+      "div_after": 1013.46,
+      "div_delta": -32.53
+    },
+    {
+      "date": "2025-08-23",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "86bace9e4ad85542",
+      "opponent_name": "Xiao Long",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1029.88,
+      "p4p_after": 1044.68,
+      "p4p_delta": 14.8,
+      "div_before": 1031.26,
+      "div_after": 1045.99,
+      "div_delta": 14.73
+    },
+    {
+      "date": "2025-03-15",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "d1053e55f00e53fe",
+      "opponent_name": "AJ Cunningham",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1016.0,
+      "p4p_after": 1029.88,
+      "p4p_delta": 13.88,
+      "div_before": 1016.0,
+      "div_after": 1031.26,
+      "div_delta": 15.26
+    },
+    {
+      "date": "2024-11-23",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "8677e67a75d65b8e",
+      "opponent_name": "Baergeng Jieleyisi",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1016.0,
+      "p4p_delta": 16.0,
+      "div_before": 1000.0,
+      "div_after": 1016.0,
+      "div_delta": 16.0
+    }
+  ]
+}

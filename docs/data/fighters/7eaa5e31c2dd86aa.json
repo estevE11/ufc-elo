@@ -1,0 +1,221 @@
+{
+  "id": "7eaa5e31c2dd86aa",
+  "name": "Nick Klein",
+  "slug": "nick-klein",
+  "last_fight_date": "2025-08-02",
+  "active_current_mode": true,
+  "divisions": [
+    "mw"
+  ],
+  "division_names": {
+    "mw": "Middleweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-02-01",
+        "rank": 1113,
+        "elo": 970.37
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 1112,
+        "elo": 970.37
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 1108,
+        "elo": 970.37
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 1111,
+        "elo": 970.37
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 1115,
+        "elo": 970.37
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 1111,
+        "elo": 970.37
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 2020,
+        "elo": 939.72
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 2029,
+        "elo": 939.72
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 2028,
+        "elo": 939.72
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 2035,
+        "elo": 939.72
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 2043,
+        "elo": 939.72
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 2046,
+        "elo": 939.72
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 2053,
+        "elo": 939.72
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 2061,
+        "elo": 939.72
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 2067,
+        "elo": 939.72
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 2078,
+        "elo": 939.72
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 2077,
+        "elo": 939.72
+      }
+    ],
+    "mw": [
+      {
+        "date": "2025-02-01",
+        "rank": 238,
+        "elo": 970.39
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 241,
+        "elo": 970.39
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 241,
+        "elo": 970.39
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 241,
+        "elo": 970.39
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 241,
+        "elo": 970.39
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 241,
+        "elo": 970.39
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 383,
+        "elo": 939.74
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 383,
+        "elo": 939.74
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 386,
+        "elo": 939.74
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 386,
+        "elo": 939.74
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 387,
+        "elo": 939.74
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 387,
+        "elo": 939.74
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 390,
+        "elo": 939.74
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 389,
+        "elo": 939.74
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 392,
+        "elo": 939.74
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 396,
+        "elo": 939.74
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 395,
+        "elo": 939.74
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2025-08-02",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "22e07d3da1aa3475",
+      "opponent_name": "Andrey Pulyaev",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 970.37,
+      "p4p_after": 939.72,
+      "p4p_delta": -30.65,
+      "div_before": 970.39,
+      "div_after": 939.74,
+      "div_delta": -30.65
+    },
+    {
+      "date": "2025-02-22",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "841695e02c99a521",
+      "opponent_name": "Mansur Abdul-Malik",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 970.37,
+      "p4p_delta": -29.63,
+      "div_before": 1000.0,
+      "div_after": 970.39,
+      "div_delta": -29.61
+    }
+  ]
+}

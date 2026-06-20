@@ -1,0 +1,260 @@
+{
+  "id": "fc0a4053eb8a3a59",
+  "name": "Nicolle Caliari",
+  "slug": "nicolle-caliari",
+  "last_fight_date": "2026-05-16",
+  "active_current_mode": true,
+  "divisions": [
+    "wflw",
+    "wsw"
+  ],
+  "division_names": {
+    "wflw": "Women's Flyweight",
+    "wsw": "Women's Strawweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-01-01",
+        "rank": 816,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 824,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 828,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 827,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 828,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 825,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 1659,
+        "elo": 952.7
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 1656,
+        "elo": 952.7
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 1664,
+        "elo": 952.7
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 1666,
+        "elo": 952.7
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 1674,
+        "elo": 952.7
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 1681,
+        "elo": 952.7
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 1686,
+        "elo": 952.7
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 1693,
+        "elo": 952.7
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 1701,
+        "elo": 952.7
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 1714,
+        "elo": 952.7
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 1047,
+        "elo": 974.74
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 1045,
+        "elo": 974.74
+      }
+    ],
+    "wflw": [
+      {
+        "date": "2025-01-01",
+        "rank": 46,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 46,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 47,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 47,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 46,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 47,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 85,
+        "elo": 952.7
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 85,
+        "elo": 952.7
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 85,
+        "elo": 952.7
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 85,
+        "elo": 952.7
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 86,
+        "elo": 952.7
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 86,
+        "elo": 952.7
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 86,
+        "elo": 952.7
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 86,
+        "elo": 952.7
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 86,
+        "elo": 952.7
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 86,
+        "elo": 952.7
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 86,
+        "elo": 952.7
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 86,
+        "elo": 952.7
+      }
+    ],
+    "wsw": [
+      {
+        "date": "2026-05-01",
+        "rank": 19,
+        "elo": 1019.22
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 20,
+        "elo": 1019.22
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-16",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "9c442aaf149ea982",
+      "opponent_name": "Shauna Bannon",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 952.7,
+      "p4p_after": 974.74,
+      "p4p_delta": 22.04,
+      "div_before": 1000.0,
+      "div_after": 1019.22,
+      "div_delta": 19.22
+    },
+    {
+      "date": "2025-07-19",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "f1ab6f37492c630a",
+      "opponent_name": "Carli Judice",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 982.04,
+      "p4p_after": 952.7,
+      "p4p_delta": -29.34,
+      "div_before": 982.04,
+      "div_after": 952.7,
+      "div_delta": -29.34
+    },
+    {
+      "date": "2025-01-11",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "e4faa79383c9f214",
+      "opponent_name": "Ernesta Kareckaite",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 982.04,
+      "p4p_delta": -17.96,
+      "div_before": 1000.0,
+      "div_after": 982.04,
+      "div_delta": -17.96
+    }
+  ]
+}

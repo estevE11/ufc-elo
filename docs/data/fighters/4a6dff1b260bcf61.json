@@ -1,0 +1,221 @@
+{
+  "id": "4a6dff1b260bcf61",
+  "name": "Aleksandre Topuria",
+  "slug": "aleksandre-topuria",
+  "last_fight_date": "2025-11-22",
+  "active_current_mode": true,
+  "divisions": [
+    "bw"
+  ],
+  "division_names": {
+    "bw": "Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-02-01",
+        "rank": 422,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 425,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 427,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 427,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 428,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 430,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 430,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 431,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 434,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 290,
+        "elo": 1031.3
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 287,
+        "elo": 1031.3
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 290,
+        "elo": 1031.3
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 294,
+        "elo": 1031.3
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 295,
+        "elo": 1031.3
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 296,
+        "elo": 1031.3
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 296,
+        "elo": 1031.3
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 295,
+        "elo": 1031.3
+      }
+    ],
+    "bw": [
+      {
+        "date": "2025-02-01",
+        "rank": 60,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 62,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 64,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 62,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 64,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 64,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 66,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 67,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 66,
+        "elo": 1016.0
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 40,
+        "elo": 1031.23
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 40,
+        "elo": 1031.23
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 40,
+        "elo": 1031.23
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 39,
+        "elo": 1031.23
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 39,
+        "elo": 1031.23
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 40,
+        "elo": 1031.23
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 40,
+        "elo": 1031.23
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 40,
+        "elo": 1031.23
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2025-11-22",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "a4dc0f2b95df4cc1",
+      "opponent_name": "Bekzat Almakhan",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1016.0,
+      "p4p_after": 1031.3,
+      "p4p_delta": 15.3,
+      "div_before": 1016.0,
+      "div_after": 1031.23,
+      "div_delta": 15.23
+    },
+    {
+      "date": "2025-02-08",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "ed7d329d7c29428d",
+      "opponent_name": "Colby Thicknesse",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1016.0,
+      "p4p_delta": 16.0,
+      "div_before": 1000.0,
+      "div_after": 1016.0,
+      "div_delta": 16.0
+    }
+  ]
+}

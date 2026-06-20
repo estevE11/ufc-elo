@@ -1,0 +1,260 @@
+{
+  "id": "29162be25ebef5f0",
+  "name": "Luis Gurule",
+  "slug": "luis-gurule",
+  "last_fight_date": "2026-05-30",
+  "active_current_mode": true,
+  "divisions": [
+    "bw",
+    "flw"
+  ],
+  "division_names": {
+    "bw": "Bantamweight",
+    "flw": "Flyweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-04-01",
+        "rank": 1460,
+        "elo": 961.6
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 1462,
+        "elo": 961.6
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 1467,
+        "elo": 961.6
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 1467,
+        "elo": 961.6
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 1468,
+        "elo": 961.6
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 2013,
+        "elo": 940.13
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 2012,
+        "elo": 940.13
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 2019,
+        "elo": 940.13
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 2026,
+        "elo": 940.13
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 2029,
+        "elo": 940.13
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 2370,
+        "elo": 921.58
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 2379,
+        "elo": 921.58
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 2387,
+        "elo": 921.58
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 2504,
+        "elo": 912.7
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 2504,
+        "elo": 912.7
+      }
+    ],
+    "bw": [
+      {
+        "date": "2026-05-01",
+        "rank": 198,
+        "elo": 968.8
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 198,
+        "elo": 968.8
+      }
+    ],
+    "flw": [
+      {
+        "date": "2025-04-01",
+        "rank": 105,
+        "elo": 959.84
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 105,
+        "elo": 959.84
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 105,
+        "elo": 959.84
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 105,
+        "elo": 959.84
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 105,
+        "elo": 959.84
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 138,
+        "elo": 938.53
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 138,
+        "elo": 938.53
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 137,
+        "elo": 938.53
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 137,
+        "elo": 938.53
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 138,
+        "elo": 938.53
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 151,
+        "elo": 920.08
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 151,
+        "elo": 920.08
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 150,
+        "elo": 920.08
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 135,
+        "elo": 937.75
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 135,
+        "elo": 937.75
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-30",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "2f43a3e82661fa99",
+      "opponent_name": "Rei Tsuruya",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 939.19,
+      "p4p_after": 912.7,
+      "p4p_delta": -26.49,
+      "div_before": 1000.0,
+      "div_after": 968.8,
+      "div_delta": -31.2
+    },
+    {
+      "date": "2026-05-16",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "e8fe9c15d348e778",
+      "opponent_name": "Daniel Barez",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 921.58,
+      "p4p_after": 939.19,
+      "p4p_delta": 17.61,
+      "div_before": 920.08,
+      "div_after": 937.75,
+      "div_delta": 17.67
+    },
+    {
+      "date": "2026-02-21",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "5e9ca8dd7d783a75",
+      "opponent_name": "Alden Coria",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 940.13,
+      "p4p_after": 921.58,
+      "p4p_delta": -18.55,
+      "div_before": 938.53,
+      "div_after": 920.08,
+      "div_delta": -18.45
+    },
+    {
+      "date": "2025-09-13",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "c051c2e12d692b8a",
+      "opponent_name": "Jesus Aguilar",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 961.6,
+      "p4p_after": 940.13,
+      "p4p_delta": -21.47,
+      "div_before": 959.84,
+      "div_after": 938.53,
+      "div_delta": -21.31
+    },
+    {
+      "date": "2025-04-05",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "6d68c1afe954f121",
+      "opponent_name": "Ode Osbourne",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 961.6,
+      "p4p_delta": -38.4,
+      "div_before": 1000.0,
+      "div_after": 959.84,
+      "div_delta": -40.16
+    }
+  ]
+}

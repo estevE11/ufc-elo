@@ -1,0 +1,76 @@
+{
+  "id": "ec3bd30378d63dd1",
+  "name": "Hecher Sosa",
+  "slug": "hecher-sosa",
+  "last_fight_date": "2026-03-14",
+  "active_current_mode": true,
+  "divisions": [
+    "bw"
+  ],
+  "division_names": {
+    "bw": "Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-03-01",
+        "rank": 454,
+        "elo": 1014.31
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 452,
+        "elo": 1014.31
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 457,
+        "elo": 1014.31
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 455,
+        "elo": 1014.31
+      }
+    ],
+    "bw": [
+      {
+        "date": "2026-03-01",
+        "rank": 68,
+        "elo": 1014.3
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 69,
+        "elo": 1014.3
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 70,
+        "elo": 1014.3
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 68,
+        "elo": 1014.3
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-03-14",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "6fc506e1099afe20",
+      "opponent_name": "Luan Lacerda",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1014.31,
+      "p4p_delta": 14.31,
+      "div_before": 1000.0,
+      "div_after": 1014.3,
+      "div_delta": 14.3
+    }
+  ]
+}

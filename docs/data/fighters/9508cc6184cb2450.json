@@ -1,0 +1,310 @@
+{
+  "id": "9508cc6184cb2450",
+  "name": "Eric McConico",
+  "slug": "eric-mcconico",
+  "last_fight_date": "2026-04-25",
+  "active_current_mode": true,
+  "divisions": [
+    "lhw",
+    "mw"
+  ],
+  "division_names": {
+    "lhw": "Light Heavyweight",
+    "mw": "Middleweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-02-01",
+        "rank": 1114,
+        "elo": 970.37
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 1113,
+        "elo": 970.37
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 1109,
+        "elo": 970.37
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 1112,
+        "elo": 970.37
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 1116,
+        "elo": 970.37
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 1112,
+        "elo": 970.37
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 832,
+        "elo": 981.52
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 840,
+        "elo": 981.52
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 846,
+        "elo": 981.52
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 1640,
+        "elo": 953.83
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 1647,
+        "elo": 953.83
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 1654,
+        "elo": 953.83
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 1659,
+        "elo": 953.83
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 1666,
+        "elo": 953.83
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 1117,
+        "elo": 971.79
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 1112,
+        "elo": 971.79
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 1110,
+        "elo": 971.79
+      }
+    ],
+    "lhw": [
+      {
+        "date": "2025-08-01",
+        "rank": 62,
+        "elo": 1011.2
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 63,
+        "elo": 1011.2
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 62,
+        "elo": 1011.2
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 62,
+        "elo": 1011.2
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 63,
+        "elo": 1011.2
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 63,
+        "elo": 1011.2
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 63,
+        "elo": 1011.2
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 63,
+        "elo": 1011.2
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 63,
+        "elo": 1011.2
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 63,
+        "elo": 1011.2
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 63,
+        "elo": 1011.2
+      }
+    ],
+    "mw": [
+      {
+        "date": "2025-02-01",
+        "rank": 218,
+        "elo": 972.5
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 221,
+        "elo": 972.5
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 220,
+        "elo": 972.5
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 221,
+        "elo": 972.5
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 221,
+        "elo": 972.5
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 221,
+        "elo": 972.5
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 222,
+        "elo": 972.5
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 222,
+        "elo": 972.5
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 223,
+        "elo": 972.5
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 365,
+        "elo": 945.61
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 366,
+        "elo": 945.61
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 365,
+        "elo": 945.61
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 368,
+        "elo": 945.61
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 370,
+        "elo": 945.61
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 325,
+        "elo": 964.02
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 327,
+        "elo": 964.02
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 327,
+        "elo": 964.02
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-04-25",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "260e9e0d4954aea6",
+      "opponent_name": "Rodolfo Vieira",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 953.83,
+      "p4p_after": 971.79,
+      "p4p_delta": 17.96,
+      "div_before": 945.61,
+      "div_after": 964.02,
+      "div_delta": 18.41
+    },
+    {
+      "date": "2025-11-15",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "d1feea7a4bdcd503",
+      "opponent_name": "Baisangur Susurkaev",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 981.52,
+      "p4p_after": 953.83,
+      "p4p_delta": -27.69,
+      "div_before": 972.5,
+      "div_after": 945.61,
+      "div_delta": -26.89
+    },
+    {
+      "date": "2025-08-09",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "f14f644d41ade29f",
+      "opponent_name": "Cody Brundage",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 970.37,
+      "p4p_after": 981.52,
+      "p4p_delta": 11.15,
+      "div_before": 1000.0,
+      "div_after": 1011.2,
+      "div_delta": 11.2
+    },
+    {
+      "date": "2025-02-22",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "49d2a08964c5eb11",
+      "opponent_name": "Nursulton Ruziboev",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 970.37,
+      "p4p_delta": -29.63,
+      "div_before": 1000.0,
+      "div_after": 972.5,
+      "div_delta": -27.5
+    }
+  ]
+}

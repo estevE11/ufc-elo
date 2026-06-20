@@ -1,0 +1,224 @@
+import {
+  fetchJSON,
+  getFighterIdFromURL,
+  fighterPageUrl,
+  formatDelta,
+  deltaClass,
+  formatResult,
+} from "./common.js";
+
+let chart = null;
+let profile = null;
+let meta = null;
+let activeChartDivision = "p4p";
+
+const DIVISION_LABELS = {
+  p4p: "P4P",
+  hw: "HW",
+  lhw: "LHW",
+  mw: "MW",
+  ww: "WW",
+  lw: "LW",
+  fw: "FW",
+  bw: "BW",
+  flw: "FLW",
+  wsw: "WSW",
+  wflw: "WFLW",
+  wbw: "WBW",
+  wfw: "WFW",
+  catch: "Catch",
+};
+
+async function init() {
+  const fighterId = getFighterIdFromURL();
+  if (!fighterId) {
+    document.getElementById("app").innerHTML =
+      `<div class="error">No fighter specified. <a href="index.html">Back to rankings</a></div>`;
+    return;
+  }
+
+  try {
+    [meta, profile] = await Promise.all([
+      fetchJSON("meta.json"),
+      fetchJSON(`fighters/${fighterId}.json`),
+    ]);
+    renderProfile();
+    renderChartFilters();
+    renderChart();
+    renderFights();
+    document.title = `${profile.name} — UFC Elo`;
+  } catch (err) {
+    document.getElementById("app").innerHTML =
+      `<div class="error">Fighter not found. <a href="index.html">Back to rankings</a></div>`;
+    console.error(err);
+  }
+}
+
+function renderProfile() {
+  const divisions = profile.divisions
+    .map((code) => profile.division_names[code] || code)
+    .join(", ");
+
+  document.getElementById("fighter-name").textContent = profile.name;
+  document.getElementById("fighter-meta").textContent = [
+    profile.fights.length ? `${profile.fights.length} rated fights` : null,
+    divisions ? `Divisions: ${divisions}` : null,
+    profile.last_fight_date ? `Last fight: ${profile.last_fight_date}` : null,
+  ]
+    .filter(Boolean)
+    .join(" · ");
+}
+
+function renderChartFilters() {
+  const container = document.getElementById("chart-filters");
+  const divisions = ["p4p", ...profile.divisions.filter((d) => d !== "p4p")];
+
+  container.innerHTML = divisions
+    .map((code) => {
+      const label =
+        code === "p4p"
+          ? "P4P"
+          : profile.division_names[code] || DIVISION_LABELS[code] || code.toUpperCase();
+      return `<button class="chart-filter${code === activeChartDivision ? " active" : ""}" data-code="${code}">${label}</button>`;
+    })
+    .join("");
+
+  container.querySelectorAll(".chart-filter").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      activeChartDivision = btn.dataset.code;
+      container.querySelectorAll(".chart-filter").forEach((b) => b.classList.remove("active"));
+      btn.classList.add("active");
+      renderChart();
+    });
+  });
+}
+
+function renderChart() {
+  const history = profile.rank_history[activeChartDivision] || [];
+  const canvas = document.getElementById("rank-chart");
+  const title = document.getElementById("chart-title");
+
+  const divisionName =
+    activeChartDivision === "p4p"
+      ? "Pound for Pound"
+      : profile.division_names[activeChartDivision] ||
+        DIVISION_LABELS[activeChartDivision] ||
+        activeChartDivision;
+
+  title.textContent = `${divisionName} Ranking Over Time`;
+
+  if (chart) {
+    chart.destroy();
+    chart = null;
+  }
+
+  if (history.length === 0) {
+    const ctx = canvas.getContext("2d");
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    return;
+  }
+
+  const labels = history.map((p) => p.date);
+  const ranks = history.map((p) => p.rank);
+  const elos = history.map((p) => p.elo);
+
+  chart = new Chart(canvas, {
+    type: "line",
+    data: {
+      labels,
+      datasets: [
+        {
+          label: "Rank",
+          data: ranks,
+          borderColor: "#d20a0a",
+          backgroundColor: "rgba(210, 10, 10, 0.1)",
+          yAxisID: "yRank",
+          tension: 0.2,
+          pointRadius: 0,
+          pointHoverRadius: 4,
+          borderWidth: 2,
+        },
+        {
+          label: "Elo",
+          data: elos,
+          borderColor: "#666",
+          yAxisID: "yElo",
+          tension: 0.2,
+          pointRadius: 0,
+          pointHoverRadius: 4,
+          borderWidth: 1,
+          borderDash: [4, 4],
+        },
+      ],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      interaction: { mode: "index", intersect: false },
+      plugins: {
+        legend: { labels: { color: "#999" } },
+        tooltip: {
+          callbacks: {
+            label(ctx) {
+              if (ctx.dataset.label === "Rank") {
+                return `Rank: #${ctx.parsed.y}`;
+              }
+              return `Elo: ${ctx.parsed.y.toFixed(2)}`;
+            },
+          },
+        },
+      },
+      scales: {
+        x: {
+          ticks: { color: "#666", maxTicksLimit: 10 },
+          grid: { color: "#222" },
+        },
+        yRank: {
+          type: "linear",
+          position: "left",
+          reverse: true,
+          title: { display: true, text: "Rank", color: "#999" },
+          ticks: { color: "#999", stepSize: 1 },
+          grid: { color: "#222" },
+        },
+        yElo: {
+          type: "linear",
+          position: "right",
+          title: { display: true, text: "Elo", color: "#666" },
+          ticks: { color: "#666" },
+          grid: { drawOnChartArea: false },
+        },
+      },
+    },
+  });
+}
+
+function renderFights() {
+  const tbody = document.getElementById("fights-body");
+  const fights = profile.fights;
+
+  if (fights.length === 0) {
+    tbody.innerHTML = `<tr><td colspan="8">No rated fights on record.</td></tr>`;
+    return;
+  }
+
+  tbody.innerHTML = fights
+    .map((fight) => {
+      const outcomeClass = fight.outcome === "W" ? "outcome-w" : "outcome-l";
+      return `
+    <tr>
+      <td>${fight.date}</td>
+      <td>${fight.weight_class_name}</td>
+      <td><a href="${fighterPageUrl(fight.opponent_id)}">${fight.opponent_name}</a></td>
+      <td class="${outcomeClass}">${fight.outcome}</td>
+      <td>${formatResult(fight.result)}</td>
+      <td class="${deltaClass(fight.p4p_delta)}">${formatDelta(fight.p4p_delta)}</td>
+      <td>${fight.p4p_after.toFixed(2)}</td>
+      <td class="${deltaClass(fight.div_delta)}">${formatDelta(fight.div_delta)}</td>
+      <td>${fight.div_after.toFixed(2)}</td>
+    </tr>`;
+    })
+    .join("");
+}
+
+init();

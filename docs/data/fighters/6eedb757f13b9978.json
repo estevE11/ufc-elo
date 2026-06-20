@@ -1,0 +1,91 @@
+{
+  "id": "6eedb757f13b9978",
+  "name": "Marwan Rahiki",
+  "slug": "marwan-rahiki",
+  "last_fight_date": "2026-05-02",
+  "active_current_mode": true,
+  "divisions": [
+    "fw"
+  ],
+  "division_names": {
+    "fw": "Featherweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-03-01",
+        "rank": 392,
+        "elo": 1019.02
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 395,
+        "elo": 1019.02
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 238,
+        "elo": 1038.68
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 241,
+        "elo": 1038.68
+      }
+    ],
+    "fw": [
+      {
+        "date": "2026-03-01",
+        "rank": 49,
+        "elo": 1020.8
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 49,
+        "elo": 1020.8
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 27,
+        "elo": 1040.36
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 27,
+        "elo": 1040.36
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-02",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "b701f095e6ccb149",
+      "opponent_name": "Ollie Schmid",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1019.02,
+      "p4p_after": 1038.68,
+      "p4p_delta": 19.66,
+      "div_before": 1020.8,
+      "div_after": 1040.36,
+      "div_delta": 19.56
+    },
+    {
+      "date": "2026-03-14",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "2dbc60c52de126d8",
+      "opponent_name": "Harry Hardwick",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1019.02,
+      "p4p_delta": 19.02,
+      "div_before": 1000.0,
+      "div_after": 1020.8,
+      "div_delta": 20.8
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "33a86e839ad202d8",
+  "name": "Luis Felipe Dias",
+  "slug": "luis-felipe-dias",
+  "last_fight_date": "2026-05-30",
+  "active_current_mode": true,
+  "divisions": [
+    "mw"
+  ],
+  "division_names": {
+    "mw": "Middleweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-05-01",
+        "rank": 385,
+        "elo": 1020.8
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 385,
+        "elo": 1020.8
+      }
+    ],
+    "mw": [
+      {
+        "date": "2026-05-01",
+        "rank": 69,
+        "elo": 1020.8
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 70,
+        "elo": 1020.8
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-30",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "e6666480a830f764",
+      "opponent_name": "YiSak Lee",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1020.8,
+      "p4p_delta": 20.8,
+      "div_before": 1000.0,
+      "div_after": 1020.8,
+      "div_delta": 20.8
+    }
+  ]
+}

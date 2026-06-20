@@ -1,0 +1,56 @@
+{
+  "id": "20d37922ba85e6fc",
+  "name": "Artur Minev",
+  "slug": "artur-minev",
+  "last_fight_date": "2026-05-16",
+  "active_current_mode": true,
+  "divisions": [
+    "lw"
+  ],
+  "division_names": {
+    "lw": "Lightweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-05-01",
+        "rank": 1272,
+        "elo": 968.8
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 1272,
+        "elo": 968.8
+      }
+    ],
+    "lw": [
+      {
+        "date": "2026-05-01",
+        "rank": 320,
+        "elo": 968.8
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 320,
+        "elo": 968.8
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-16",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "de83f920fd302871",
+      "opponent_name": "Tommy Gantt",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 968.8,
+      "p4p_delta": -31.2,
+      "div_before": 1000.0,
+      "div_after": 968.8,
+      "div_delta": -31.2
+    }
+  ]
+}

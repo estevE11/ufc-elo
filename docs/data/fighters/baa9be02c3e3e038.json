@@ -1,0 +1,311 @@
+{
+  "id": "baa9be02c3e3e038",
+  "name": "Jose Daniel Medina",
+  "slug": "jose-daniel-medina",
+  "last_fight_date": "2026-02-28",
+  "active_current_mode": true,
+  "divisions": [
+    "mw"
+  ],
+  "division_names": {
+    "mw": "Middleweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2024-08-01",
+        "rank": 987,
+        "elo": 974.98
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 983,
+        "elo": 974.98
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 984,
+        "elo": 974.98
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 991,
+        "elo": 974.98
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 990,
+        "elo": 974.98
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 996,
+        "elo": 974.98
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 1004,
+        "elo": 974.98
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 1824,
+        "elo": 946.03
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 1828,
+        "elo": 946.03
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 1826,
+        "elo": 946.03
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 1830,
+        "elo": 946.03
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 1830,
+        "elo": 946.03
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 1829,
+        "elo": 946.03
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 2460,
+        "elo": 910.54
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 2463,
+        "elo": 910.54
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 2469,
+        "elo": 910.54
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 2477,
+        "elo": 910.54
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 2483,
+        "elo": 910.54
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 2614,
+        "elo": 887.2
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 2626,
+        "elo": 887.2
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 2636,
+        "elo": 887.2
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 2645,
+        "elo": 887.2
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 2645,
+        "elo": 887.2
+      }
+    ],
+    "mw": [
+      {
+        "date": "2024-08-01",
+        "rank": 203,
+        "elo": 975.0
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 203,
+        "elo": 975.0
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 202,
+        "elo": 975.0
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 204,
+        "elo": 975.0
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 204,
+        "elo": 975.0
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 205,
+        "elo": 975.0
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 207,
+        "elo": 975.0
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 363,
+        "elo": 946.04
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 363,
+        "elo": 946.04
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 363,
+        "elo": 946.04
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 363,
+        "elo": 946.04
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 363,
+        "elo": 946.04
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 361,
+        "elo": 946.04
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 439,
+        "elo": 910.79
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 442,
+        "elo": 910.79
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 442,
+        "elo": 910.79
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 443,
+        "elo": 910.79
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 443,
+        "elo": 910.79
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 458,
+        "elo": 887.43
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 459,
+        "elo": 887.43
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 461,
+        "elo": 887.43
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 463,
+        "elo": 887.43
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 463,
+        "elo": 887.43
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-02-28",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "e463ce0a2ca474f4",
+      "opponent_name": "Ryan Gandra",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 910.54,
+      "p4p_after": 887.2,
+      "p4p_delta": -23.34,
+      "div_before": 910.79,
+      "div_after": 887.43,
+      "div_delta": -23.36
+    },
+    {
+      "date": "2025-09-13",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "866fd7b1a6c90e7f",
+      "opponent_name": "Dusko Todorovic",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 946.03,
+      "p4p_after": 910.54,
+      "p4p_delta": -35.49,
+      "div_before": 946.04,
+      "div_after": 910.79,
+      "div_delta": -35.25
+    },
+    {
+      "date": "2025-03-29",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "2f815ed5f8278ba6",
+      "opponent_name": "Ateba Gautier",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 974.98,
+      "p4p_after": 946.03,
+      "p4p_delta": -28.95,
+      "div_before": 975.0,
+      "div_after": 946.04,
+      "div_delta": -28.96
+    },
+    {
+      "date": "2024-08-24",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "23dec7c47cb418f8",
+      "opponent_name": "Zach Reese",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 974.98,
+      "p4p_delta": -25.02,
+      "div_before": 1000.0,
+      "div_after": 975.0,
+      "div_delta": -25.0
+    }
+  ]
+}

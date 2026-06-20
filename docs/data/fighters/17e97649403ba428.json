@@ -1,0 +1,556 @@
+{
+  "id": "17e97649403ba428",
+  "name": "Joshua Van",
+  "slug": "joshua-van",
+  "last_fight_date": "2026-05-09",
+  "active_current_mode": true,
+  "divisions": [
+    "flw"
+  ],
+  "division_names": {
+    "flw": "Flyweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2023-06-01",
+        "rank": 471,
+        "elo": 1008.49
+      },
+      {
+        "date": "2023-07-01",
+        "rank": 472,
+        "elo": 1008.49
+      },
+      {
+        "date": "2023-08-01",
+        "rank": 476,
+        "elo": 1008.49
+      },
+      {
+        "date": "2023-09-01",
+        "rank": 478,
+        "elo": 1008.49
+      },
+      {
+        "date": "2023-10-01",
+        "rank": 485,
+        "elo": 1008.49
+      },
+      {
+        "date": "2023-11-01",
+        "rank": 315,
+        "elo": 1024.1
+      },
+      {
+        "date": "2023-12-01",
+        "rank": 316,
+        "elo": 1024.1
+      },
+      {
+        "date": "2024-01-01",
+        "rank": 189,
+        "elo": 1043.46
+      },
+      {
+        "date": "2024-02-01",
+        "rank": 193,
+        "elo": 1043.46
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 192,
+        "elo": 1043.46
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 193,
+        "elo": 1043.46
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 189,
+        "elo": 1043.46
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 190,
+        "elo": 1043.46
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 501,
+        "elo": 1006.81
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 499,
+        "elo": 1006.81
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 328,
+        "elo": 1022.27
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 332,
+        "elo": 1022.27
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 332,
+        "elo": 1022.27
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 248,
+        "elo": 1036.54
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 246,
+        "elo": 1036.54
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 248,
+        "elo": 1036.54
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 169,
+        "elo": 1051.53
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 168,
+        "elo": 1051.53
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 168,
+        "elo": 1051.53
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 77,
+        "elo": 1084.26
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 79,
+        "elo": 1084.26
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 80,
+        "elo": 1084.26
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 80,
+        "elo": 1084.26
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 81,
+        "elo": 1084.26
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 81,
+        "elo": 1084.26
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 44,
+        "elo": 1107.96
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 45,
+        "elo": 1107.96
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 45,
+        "elo": 1107.96
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 44,
+        "elo": 1107.96
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 45,
+        "elo": 1107.96
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 23,
+        "elo": 1129.4
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 23,
+        "elo": 1129.4
+      }
+    ],
+    "flw": [
+      {
+        "date": "2023-06-01",
+        "rank": 31,
+        "elo": 1008.54
+      },
+      {
+        "date": "2023-07-01",
+        "rank": 32,
+        "elo": 1008.54
+      },
+      {
+        "date": "2023-08-01",
+        "rank": 32,
+        "elo": 1008.54
+      },
+      {
+        "date": "2023-09-01",
+        "rank": 32,
+        "elo": 1008.54
+      },
+      {
+        "date": "2023-10-01",
+        "rank": 32,
+        "elo": 1008.54
+      },
+      {
+        "date": "2023-11-01",
+        "rank": 19,
+        "elo": 1024.15
+      },
+      {
+        "date": "2023-12-01",
+        "rank": 19,
+        "elo": 1024.15
+      },
+      {
+        "date": "2024-01-01",
+        "rank": 14,
+        "elo": 1043.5
+      },
+      {
+        "date": "2024-02-01",
+        "rank": 14,
+        "elo": 1043.5
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 15,
+        "elo": 1043.5
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 15,
+        "elo": 1043.5
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 14,
+        "elo": 1043.5
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 15,
+        "elo": 1043.5
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 36,
+        "elo": 1008.11
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 36,
+        "elo": 1008.11
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 23,
+        "elo": 1024.39
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 25,
+        "elo": 1024.39
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 25,
+        "elo": 1024.39
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 19,
+        "elo": 1037.7
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 19,
+        "elo": 1037.7
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 19,
+        "elo": 1037.7
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 13,
+        "elo": 1052.64
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 13,
+        "elo": 1052.64
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 14,
+        "elo": 1052.64
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 4,
+        "elo": 1085.15
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 4,
+        "elo": 1085.15
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 5,
+        "elo": 1085.15
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 5,
+        "elo": 1085.15
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 5,
+        "elo": 1085.15
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 6,
+        "elo": 1085.15
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 3,
+        "elo": 1108.77
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 3,
+        "elo": 1108.77
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 3,
+        "elo": 1108.77
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 3,
+        "elo": 1108.77
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 3,
+        "elo": 1108.77
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 2,
+        "elo": 1129.48
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 2,
+        "elo": 1129.48
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-09",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "4461d7e47375a895",
+      "opponent_name": "Tatsuro Taira",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1107.96,
+      "p4p_after": 1129.4,
+      "p4p_delta": 21.44,
+      "div_before": 1108.77,
+      "div_after": 1129.48,
+      "div_delta": 20.71
+    },
+    {
+      "date": "2025-12-06",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "a0f0004aadf10b71",
+      "opponent_name": "Alexandre Pantoja",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1084.26,
+      "p4p_after": 1107.96,
+      "p4p_delta": 23.7,
+      "div_before": 1085.15,
+      "div_after": 1108.77,
+      "div_delta": 23.62
+    },
+    {
+      "date": "2025-06-28",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "6e15f63b6c2e2c15",
+      "opponent_name": "Brandon Royval",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1069.61,
+      "p4p_after": 1084.26,
+      "p4p_delta": 14.65,
+      "div_before": 1070.63,
+      "div_after": 1085.15,
+      "div_delta": 14.52
+    },
+    {
+      "date": "2025-06-07",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "294aa73dbf37d281",
+      "opponent_name": "Bruno Silva",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1051.53,
+      "p4p_after": 1069.61,
+      "p4p_delta": 18.08,
+      "div_before": 1052.64,
+      "div_after": 1070.63,
+      "div_delta": 17.99
+    },
+    {
+      "date": "2025-03-08",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "2f43a3e82661fa99",
+      "opponent_name": "Rei Tsuruya",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1036.54,
+      "p4p_after": 1051.53,
+      "p4p_delta": 14.99,
+      "div_before": 1037.7,
+      "div_after": 1052.64,
+      "div_delta": 14.94
+    },
+    {
+      "date": "2024-12-07",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "7f6ed67d3ed3c036",
+      "opponent_name": "Cody Durden",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1022.27,
+      "p4p_after": 1036.54,
+      "p4p_delta": 14.27,
+      "div_before": 1024.39,
+      "div_after": 1037.7,
+      "div_delta": 13.31
+    },
+    {
+      "date": "2024-09-14",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "5ef94841c4bc3f86",
+      "opponent_name": "Edgar Chairez",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1006.81,
+      "p4p_after": 1022.27,
+      "p4p_delta": 15.46,
+      "div_before": 1008.11,
+      "div_after": 1024.39,
+      "div_delta": 16.28
+    },
+    {
+      "date": "2024-07-13",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "814e5233e2acf2ee",
+      "opponent_name": "Charles Johnson",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1043.46,
+      "p4p_after": 1006.81,
+      "p4p_delta": -36.65,
+      "div_before": 1043.5,
+      "div_after": 1008.11,
+      "div_delta": -35.39
+    },
+    {
+      "date": "2024-01-13",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "53c10176e3bc7416",
+      "opponent_name": "Felipe Bunes",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1024.1,
+      "p4p_after": 1043.46,
+      "p4p_delta": 19.36,
+      "div_before": 1024.15,
+      "div_after": 1043.5,
+      "div_delta": 19.35
+    },
+    {
+      "date": "2023-11-11",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "34b96d52db1d26e6",
+      "opponent_name": "Kevin Borjas",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1008.49,
+      "p4p_after": 1024.1,
+      "p4p_delta": 15.61,
+      "div_before": 1008.54,
+      "div_after": 1024.15,
+      "div_delta": 15.61
+    },
+    {
+      "date": "2023-06-24",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "55fa6ce3e522c8bb",
+      "opponent_name": "Zhalgas Zhumagulov",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1008.49,
+      "p4p_delta": 8.49,
+      "div_before": 1000.0,
+      "div_after": 1008.54,
+      "div_delta": 8.54
+    }
+  ]
+}

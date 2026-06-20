@@ -1,0 +1,141 @@
+{
+  "id": "eff9074bc066f0f2",
+  "name": "Bia Mesquita",
+  "slug": "bia-mesquita",
+  "last_fight_date": "2026-03-14",
+  "active_current_mode": true,
+  "divisions": [
+    "wbw"
+  ],
+  "division_names": {
+    "wbw": "Women's Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-10-01",
+        "rank": 396,
+        "elo": 1019.0
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 393,
+        "elo": 1019.0
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 389,
+        "elo": 1019.0
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 390,
+        "elo": 1019.0
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 392,
+        "elo": 1019.0
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 237,
+        "elo": 1038.58
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 240,
+        "elo": 1038.58
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 240,
+        "elo": 1038.58
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 243,
+        "elo": 1038.58
+      }
+    ],
+    "wbw": [
+      {
+        "date": "2025-10-01",
+        "rank": 20,
+        "elo": 1018.94
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 20,
+        "elo": 1018.94
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 19,
+        "elo": 1018.94
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 19,
+        "elo": 1018.94
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 19,
+        "elo": 1018.94
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 10,
+        "elo": 1038.53
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 10,
+        "elo": 1038.53
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 9,
+        "elo": 1038.53
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 9,
+        "elo": 1038.53
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-03-14",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "60193e707634e560",
+      "opponent_name": "Montse Rendon",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1019.0,
+      "p4p_after": 1038.58,
+      "p4p_delta": 19.58,
+      "div_before": 1018.94,
+      "div_after": 1038.53,
+      "div_delta": 19.59
+    },
+    {
+      "date": "2025-10-11",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "103e2e33a60683e1",
+      "opponent_name": "Irina Alekseeva",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1019.0,
+      "p4p_delta": 19.0,
+      "div_before": 1000.0,
+      "div_after": 1018.94,
+      "div_delta": 18.94
+    }
+  ]
+}

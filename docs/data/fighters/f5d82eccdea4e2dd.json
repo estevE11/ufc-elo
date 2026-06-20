@@ -1,0 +1,56 @@
+{
+  "id": "f5d82eccdea4e2dd",
+  "name": "Christian Edwards",
+  "slug": "christian-edwards",
+  "last_fight_date": "2026-05-16",
+  "active_current_mode": true,
+  "divisions": [
+    "catch"
+  ],
+  "division_names": {
+    "catch": "Catch"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-05-01",
+        "rank": 850,
+        "elo": 982.32
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 849,
+        "elo": 982.32
+      }
+    ],
+    "catch": [
+      {
+        "date": "2026-05-01",
+        "rank": 74,
+        "elo": 983.2
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 75,
+        "elo": 983.2
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-16",
+      "weight_class": "catch",
+      "weight_class_name": "Catch",
+      "opponent_id": "476fe566d2df676e",
+      "opponent_name": "Modestas Bukauskas",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 982.32,
+      "p4p_delta": -17.68,
+      "div_before": 1000.0,
+      "div_after": 983.2,
+      "div_delta": -16.8
+    }
+  ]
+}

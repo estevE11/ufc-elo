@@ -1,0 +1,311 @@
+{
+  "id": "0cd0456d6029cec2",
+  "name": "Robert Valentin",
+  "slug": "robert-valentin",
+  "last_fight_date": "2026-04-18",
+  "active_current_mode": true,
+  "divisions": [
+    "mw"
+  ],
+  "division_names": {
+    "mw": "Middleweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2024-08-01",
+        "rank": 1212,
+        "elo": 968.8
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 1209,
+        "elo": 968.8
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 1209,
+        "elo": 968.8
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 1219,
+        "elo": 968.8
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 1217,
+        "elo": 968.8
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 1224,
+        "elo": 968.8
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 1231,
+        "elo": 968.8
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 1230,
+        "elo": 968.8
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 1631,
+        "elo": 953.5
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 1630,
+        "elo": 953.5
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 1634,
+        "elo": 953.5
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 2242,
+        "elo": 928.14
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 2242,
+        "elo": 928.14
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 2251,
+        "elo": 928.14
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 2253,
+        "elo": 928.14
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 2262,
+        "elo": 928.14
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 2269,
+        "elo": 928.14
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 2271,
+        "elo": 928.14
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 2277,
+        "elo": 928.14
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 2286,
+        "elo": 928.14
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 1698,
+        "elo": 953.19
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 1705,
+        "elo": 953.19
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 1704,
+        "elo": 953.19
+      }
+    ],
+    "mw": [
+      {
+        "date": "2024-08-01",
+        "rank": 266,
+        "elo": 968.8
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 266,
+        "elo": 968.8
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 270,
+        "elo": 968.8
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 270,
+        "elo": 968.8
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 270,
+        "elo": 968.8
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 265,
+        "elo": 968.8
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 275,
+        "elo": 968.8
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 279,
+        "elo": 968.8
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 344,
+        "elo": 953.5
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 344,
+        "elo": 953.5
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 344,
+        "elo": 953.5
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 415,
+        "elo": 928.14
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 418,
+        "elo": 928.14
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 418,
+        "elo": 928.14
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 421,
+        "elo": 928.14
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 420,
+        "elo": 928.14
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 420,
+        "elo": 928.14
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 420,
+        "elo": 928.14
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 423,
+        "elo": 928.14
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 423,
+        "elo": 928.14
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 356,
+        "elo": 953.19
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 359,
+        "elo": 953.19
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 358,
+        "elo": 953.19
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-04-18",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "cd0dfd9846bd03b9",
+      "opponent_name": "Julien Leblanc",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 928.14,
+      "p4p_after": 953.19,
+      "p4p_delta": 25.05,
+      "div_before": 928.14,
+      "div_after": 953.19,
+      "div_delta": 25.05
+    },
+    {
+      "date": "2025-07-19",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "2f815ed5f8278ba6",
+      "opponent_name": "Ateba Gautier",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 953.5,
+      "p4p_after": 928.14,
+      "p4p_delta": -25.36,
+      "div_before": 953.5,
+      "div_after": 928.14,
+      "div_delta": -25.36
+    },
+    {
+      "date": "2025-04-05",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "fbb60f24af5d5a02",
+      "opponent_name": "Torrez Finney",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 968.8,
+      "p4p_after": 953.5,
+      "p4p_delta": -15.3,
+      "div_before": 968.8,
+      "div_after": 953.5,
+      "div_delta": -15.3
+    },
+    {
+      "date": "2024-08-24",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "d5bab53a1a603aac",
+      "opponent_name": "Ryan Loder",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 968.8,
+      "p4p_delta": -31.2,
+      "div_before": 1000.0,
+      "div_after": 968.8,
+      "div_delta": -31.2
+    }
+  ]
+}

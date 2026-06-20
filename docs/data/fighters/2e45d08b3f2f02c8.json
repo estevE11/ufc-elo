@@ -1,0 +1,275 @@
+{
+  "id": "2e45d08b3f2f02c8",
+  "name": "Malcolm Wellmaker",
+  "slug": "malcolm-wellmaker",
+  "last_fight_date": "2026-05-16",
+  "active_current_mode": true,
+  "divisions": [
+    "bw",
+    "fw"
+  ],
+  "division_names": {
+    "bw": "Bantamweight",
+    "fw": "Featherweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-04-01",
+        "rank": 380,
+        "elo": 1020.4
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 382,
+        "elo": 1020.4
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 250,
+        "elo": 1036.25
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 257,
+        "elo": 1036.25
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 254,
+        "elo": 1036.25
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 254,
+        "elo": 1036.25
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 254,
+        "elo": 1036.25
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 485,
+        "elo": 1009.75
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 485,
+        "elo": 1009.75
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 484,
+        "elo": 1009.75
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 489,
+        "elo": 1009.75
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 496,
+        "elo": 1009.75
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 497,
+        "elo": 1009.75
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 933,
+        "elo": 977.68
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 931,
+        "elo": 977.68
+      }
+    ],
+    "bw": [
+      {
+        "date": "2025-04-01",
+        "rank": 55,
+        "elo": 1020.49
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 54,
+        "elo": 1020.49
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 33,
+        "elo": 1036.33
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 30,
+        "elo": 1036.33
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 33,
+        "elo": 1036.33
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 32,
+        "elo": 1036.33
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 33,
+        "elo": 1036.33
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 34,
+        "elo": 1036.33
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 34,
+        "elo": 1036.33
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 34,
+        "elo": 1036.33
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 33,
+        "elo": 1036.33
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 33,
+        "elo": 1036.33
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 33,
+        "elo": 1036.33
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 96,
+        "elo": 1001.88
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 94,
+        "elo": 1001.88
+      }
+    ],
+    "fw": [
+      {
+        "date": "2025-11-01",
+        "rank": 178,
+        "elo": 976.0
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 180,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 181,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 182,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 186,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 187,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 188,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 188,
+        "elo": 976.0
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-16",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "74939a16c7b56f33",
+      "opponent_name": "Juan Diaz",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1009.75,
+      "p4p_after": 977.68,
+      "p4p_delta": -32.07,
+      "div_before": 1036.33,
+      "div_after": 1001.88,
+      "div_delta": -34.45
+    },
+    {
+      "date": "2025-11-15",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "d776b5814f2400b4",
+      "opponent_name": "Ethyn Ewing",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1036.25,
+      "p4p_after": 1009.75,
+      "p4p_delta": -26.5,
+      "div_before": 1000.0,
+      "div_after": 976.0,
+      "div_delta": -24.0
+    },
+    {
+      "date": "2025-06-14",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "9c27f3217891f3f0",
+      "opponent_name": "Kris Moutinho",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1020.4,
+      "p4p_after": 1036.25,
+      "p4p_delta": 15.85,
+      "div_before": 1020.49,
+      "div_after": 1036.33,
+      "div_delta": 15.84
+    },
+    {
+      "date": "2025-04-26",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "3c8a5200436e19f3",
+      "opponent_name": "Cameron Saaiman",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1020.4,
+      "p4p_delta": 20.4,
+      "div_before": 1000.0,
+      "div_after": 1020.49,
+      "div_delta": 20.49
+    }
+  ]
+}

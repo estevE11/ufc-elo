@@ -1,0 +1,66 @@
+{
+  "id": "e6679e38e7fab7a8",
+  "name": "Jamie Siraj",
+  "slug": "jamie-siraj",
+  "last_fight_date": "2026-04-18",
+  "active_current_mode": true,
+  "divisions": [
+    "bw"
+  ],
+  "division_names": {
+    "bw": "Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-04-01",
+        "rank": 1429,
+        "elo": 965.82
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 1430,
+        "elo": 965.82
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 1428,
+        "elo": 965.82
+      }
+    ],
+    "bw": [
+      {
+        "date": "2026-04-01",
+        "rank": 184,
+        "elo": 968.8
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 186,
+        "elo": 968.8
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 186,
+        "elo": 968.8
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-04-18",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "450bcab0968562c4",
+      "opponent_name": "John Yannis",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 965.82,
+      "p4p_delta": -34.18,
+      "div_before": 1000.0,
+      "div_after": 968.8,
+      "div_delta": -31.2
+    }
+  ]
+}

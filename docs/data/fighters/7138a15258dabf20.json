@@ -1,0 +1,620 @@
+{
+  "id": "7138a15258dabf20",
+  "name": "Bruna Brasil",
+  "slug": "bruna-brasil",
+  "last_fight_date": "2026-03-28",
+  "active_current_mode": true,
+  "divisions": [
+    "wflw",
+    "wsw"
+  ],
+  "division_names": {
+    "wflw": "Women's Flyweight",
+    "wsw": "Women's Strawweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2023-04-01",
+        "rank": 1277,
+        "elo": 966.71
+      },
+      {
+        "date": "2023-05-01",
+        "rank": 1280,
+        "elo": 966.71
+      },
+      {
+        "date": "2023-06-01",
+        "rank": 1275,
+        "elo": 966.71
+      },
+      {
+        "date": "2023-07-01",
+        "rank": 749,
+        "elo": 984.24
+      },
+      {
+        "date": "2023-08-01",
+        "rank": 748,
+        "elo": 984.24
+      },
+      {
+        "date": "2023-09-01",
+        "rank": 756,
+        "elo": 984.24
+      },
+      {
+        "date": "2023-10-01",
+        "rank": 757,
+        "elo": 984.24
+      },
+      {
+        "date": "2023-11-01",
+        "rank": 763,
+        "elo": 984.24
+      },
+      {
+        "date": "2023-12-01",
+        "rank": 761,
+        "elo": 984.24
+      },
+      {
+        "date": "2024-01-01",
+        "rank": 760,
+        "elo": 984.24
+      },
+      {
+        "date": "2024-02-01",
+        "rank": 1378,
+        "elo": 964.26
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 1392,
+        "elo": 964.26
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 1395,
+        "elo": 964.26
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 1393,
+        "elo": 964.26
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 1393,
+        "elo": 964.26
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 826,
+        "elo": 980.79
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 832,
+        "elo": 980.79
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 827,
+        "elo": 980.79
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 827,
+        "elo": 980.79
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 831,
+        "elo": 980.79
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 830,
+        "elo": 980.79
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 836,
+        "elo": 980.79
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 1556,
+        "elo": 956.8
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 1559,
+        "elo": 956.8
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 1559,
+        "elo": 956.8
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 1558,
+        "elo": 956.8
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 1563,
+        "elo": 956.8
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 1565,
+        "elo": 956.8
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 984,
+        "elo": 975.71
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 994,
+        "elo": 975.71
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 998,
+        "elo": 975.71
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 1004,
+        "elo": 975.71
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 1010,
+        "elo": 975.71
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 1018,
+        "elo": 975.71
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 1720,
+        "elo": 951.45
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 2220,
+        "elo": 933.18
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 2225,
+        "elo": 933.18
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 2237,
+        "elo": 933.18
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 2237,
+        "elo": 933.18
+      }
+    ],
+    "wflw": [
+      {
+        "date": "2025-02-01",
+        "rank": 58,
+        "elo": 974.68
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 58,
+        "elo": 974.68
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 58,
+        "elo": 974.68
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 57,
+        "elo": 974.68
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 57,
+        "elo": 974.68
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 56,
+        "elo": 974.68
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 55,
+        "elo": 974.68
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 55,
+        "elo": 974.68
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 55,
+        "elo": 974.68
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 56,
+        "elo": 974.68
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 55,
+        "elo": 974.68
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 55,
+        "elo": 974.68
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 54,
+        "elo": 974.68
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 53,
+        "elo": 974.68
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 53,
+        "elo": 974.68
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 53,
+        "elo": 974.68
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 54,
+        "elo": 974.68
+      }
+    ],
+    "wsw": [
+      {
+        "date": "2023-04-01",
+        "rank": 61,
+        "elo": 966.72
+      },
+      {
+        "date": "2023-05-01",
+        "rank": 62,
+        "elo": 966.72
+      },
+      {
+        "date": "2023-06-01",
+        "rank": 63,
+        "elo": 966.72
+      },
+      {
+        "date": "2023-07-01",
+        "rank": 40,
+        "elo": 984.25
+      },
+      {
+        "date": "2023-08-01",
+        "rank": 40,
+        "elo": 984.25
+      },
+      {
+        "date": "2023-09-01",
+        "rank": 42,
+        "elo": 984.25
+      },
+      {
+        "date": "2023-10-01",
+        "rank": 43,
+        "elo": 984.25
+      },
+      {
+        "date": "2023-11-01",
+        "rank": 44,
+        "elo": 984.25
+      },
+      {
+        "date": "2023-12-01",
+        "rank": 45,
+        "elo": 984.25
+      },
+      {
+        "date": "2024-01-01",
+        "rank": 45,
+        "elo": 984.25
+      },
+      {
+        "date": "2024-02-01",
+        "rank": 66,
+        "elo": 964.49
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 66,
+        "elo": 964.49
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 66,
+        "elo": 964.49
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 65,
+        "elo": 964.49
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 67,
+        "elo": 964.49
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 47,
+        "elo": 982.99
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 48,
+        "elo": 982.99
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 47,
+        "elo": 982.99
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 48,
+        "elo": 982.99
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 49,
+        "elo": 982.99
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 50,
+        "elo": 982.99
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 50,
+        "elo": 982.99
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 50,
+        "elo": 982.99
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 48,
+        "elo": 982.99
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 47,
+        "elo": 982.99
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 46,
+        "elo": 982.99
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 46,
+        "elo": 982.99
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 45,
+        "elo": 982.99
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 33,
+        "elo": 1000.73
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 32,
+        "elo": 1000.73
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 34,
+        "elo": 1000.73
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 34,
+        "elo": 1000.73
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 34,
+        "elo": 1000.73
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 34,
+        "elo": 1000.73
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 53,
+        "elo": 976.36
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 77,
+        "elo": 956.61
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 77,
+        "elo": 956.61
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 78,
+        "elo": 956.61
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 77,
+        "elo": 956.61
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-03-28",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "545092d13c67aa49",
+      "opponent_name": "Alexia Thainara",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 951.45,
+      "p4p_after": 933.18,
+      "p4p_delta": -18.27,
+      "div_before": 976.36,
+      "div_after": 956.61,
+      "div_delta": -19.75
+    },
+    {
+      "date": "2026-02-07",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "8bd4200561c77a62",
+      "opponent_name": "Ketlen Souza",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 975.71,
+      "p4p_after": 951.45,
+      "p4p_delta": -24.26,
+      "div_before": 1000.73,
+      "div_after": 976.36,
+      "div_delta": -24.37
+    },
+    {
+      "date": "2025-08-22",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "d683f4870742b273",
+      "opponent_name": "Shi Ming",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 956.8,
+      "p4p_after": 975.71,
+      "p4p_delta": 18.91,
+      "div_before": 982.99,
+      "div_after": 1000.73,
+      "div_delta": 17.74
+    },
+    {
+      "date": "2025-02-08",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "2997e7fe3c9d3d4a",
+      "opponent_name": "Wang Cong",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 980.79,
+      "p4p_after": 956.8,
+      "p4p_delta": -23.99,
+      "div_before": 1000.0,
+      "div_after": 974.68,
+      "div_delta": -25.32
+    },
+    {
+      "date": "2024-07-27",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "51018a31ddf31eb2",
+      "opponent_name": "Molly McCann",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 964.26,
+      "p4p_after": 980.79,
+      "p4p_delta": 16.53,
+      "div_before": 964.49,
+      "div_after": 982.99,
+      "div_delta": 18.5
+    },
+    {
+      "date": "2024-02-10",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "4e30e4250cb08b61",
+      "opponent_name": "Loma Lookboonmee",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 984.24,
+      "p4p_after": 964.26,
+      "p4p_delta": -19.98,
+      "div_before": 984.25,
+      "div_after": 964.49,
+      "div_delta": -19.76
+    },
+    {
+      "date": "2023-07-22",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "9c442aaf149ea982",
+      "opponent_name": "Shauna Bannon",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 966.71,
+      "p4p_after": 984.24,
+      "p4p_delta": 17.53,
+      "div_before": 966.72,
+      "div_after": 984.25,
+      "div_delta": 17.53
+    },
+    {
+      "date": "2023-04-15",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "cffb87059e645bd1",
+      "opponent_name": "Denise Gomes",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 966.71,
+      "p4p_delta": -33.29,
+      "div_before": 1000.0,
+      "div_after": 966.72,
+      "div_delta": -33.28
+    }
+  ]
+}

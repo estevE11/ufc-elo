@@ -1,0 +1,66 @@
+{
+  "id": "078695e385ec2f57",
+  "name": "Victor Valenzuela",
+  "slug": "victor-valenzuela",
+  "last_fight_date": "2026-04-25",
+  "active_current_mode": true,
+  "divisions": [
+    "ww"
+  ],
+  "division_names": {
+    "ww": "Welterweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-04-01",
+        "rank": 464,
+        "elo": 1013.42
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 468,
+        "elo": 1013.42
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 466,
+        "elo": 1013.42
+      }
+    ],
+    "ww": [
+      {
+        "date": "2026-04-01",
+        "rank": 94,
+        "elo": 1013.45
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 94,
+        "elo": 1013.45
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 94,
+        "elo": 1013.45
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-04-25",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "b0d6a1d8ac3d563d",
+      "opponent_name": "Max Griffin",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1013.42,
+      "p4p_delta": 13.42,
+      "div_before": 1000.0,
+      "div_after": 1013.45,
+      "div_delta": 13.45
+    }
+  ]
+}

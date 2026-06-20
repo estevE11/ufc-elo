@@ -1,0 +1,56 @@
+{
+  "id": "2cdb479a0ef0ee1d",
+  "name": "Xiong Jingnan",
+  "slug": "xiong-jingnan",
+  "last_fight_date": "2026-05-30",
+  "active_current_mode": true,
+  "divisions": [
+    "wsw"
+  ],
+  "division_names": {
+    "wsw": "Women's Strawweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-05-01",
+        "rank": 1172,
+        "elo": 969.86
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 1171,
+        "elo": 969.86
+      }
+    ],
+    "wsw": [
+      {
+        "date": "2026-05-01",
+        "rank": 63,
+        "elo": 969.21
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 63,
+        "elo": 969.21
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-30",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "f0feeb2192937424",
+      "opponent_name": "Angela Hill",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 969.86,
+      "p4p_delta": -30.14,
+      "div_before": 1000.0,
+      "div_after": 969.21,
+      "div_delta": -30.79
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "a264d4e9a4d6bfe4",
+  "name": "Sangwook Kim",
+  "slug": "sangwook-kim",
+  "last_fight_date": "2026-01-31",
+  "active_current_mode": true,
+  "divisions": [
+    "lw"
+  ],
+  "division_names": {
+    "lw": "Lightweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-01-01",
+        "rank": 975,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 988,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 978,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 979,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 977,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 975,
+        "elo": 976.0
+      }
+    ],
+    "lw": [
+      {
+        "date": "2026-01-01",
+        "rank": 223,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 223,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 235,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 239,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 240,
+        "elo": 976.0
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 240,
+        "elo": 976.0
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-01-31",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "530af2900b5a1693",
+      "opponent_name": "Dom Mar Fan",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 976.0,
+      "p4p_delta": -24.0,
+      "div_before": 1000.0,
+      "div_after": 976.0,
+      "div_delta": -24.0
+    }
+  ]
+}

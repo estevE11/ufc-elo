@@ -1,0 +1,236 @@
+{
+  "id": "ed7d329d7c29428d",
+  "name": "Colby Thicknesse",
+  "slug": "colby-thicknesse",
+  "last_fight_date": "2026-05-02",
+  "active_current_mode": true,
+  "divisions": [
+    "bw"
+  ],
+  "division_names": {
+    "bw": "Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-02-01",
+        "rank": 953,
+        "elo": 976.0
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 957,
+        "elo": 976.0
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 955,
+        "elo": 976.0
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 955,
+        "elo": 976.0
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 949,
+        "elo": 976.0
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 943,
+        "elo": 976.0
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 956,
+        "elo": 976.0
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 677,
+        "elo": 991.58
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 674,
+        "elo": 991.58
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 676,
+        "elo": 991.58
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 679,
+        "elo": 991.58
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 678,
+        "elo": 991.58
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 684,
+        "elo": 991.58
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 684,
+        "elo": 991.58
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 688,
+        "elo": 991.58
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 553,
+        "elo": 1002.97
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 552,
+        "elo": 1002.97
+      }
+    ],
+    "bw": [
+      {
+        "date": "2025-02-01",
+        "rank": 141,
+        "elo": 976.0
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 145,
+        "elo": 976.0
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 145,
+        "elo": 976.0
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 144,
+        "elo": 976.0
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 145,
+        "elo": 976.0
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 146,
+        "elo": 976.0
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 147,
+        "elo": 976.0
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 102,
+        "elo": 991.58
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 103,
+        "elo": 991.58
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 103,
+        "elo": 991.58
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 102,
+        "elo": 991.58
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 103,
+        "elo": 991.58
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 103,
+        "elo": 991.58
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 105,
+        "elo": 991.58
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 108,
+        "elo": 991.58
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 93,
+        "elo": 1003.69
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 91,
+        "elo": 1003.69
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-02",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "37098a6e6c27fb66",
+      "opponent_name": "Vince Morales",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 991.58,
+      "p4p_after": 1002.97,
+      "p4p_delta": 11.39,
+      "div_before": 991.58,
+      "div_after": 1003.69,
+      "div_delta": 12.11
+    },
+    {
+      "date": "2025-09-27",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "723b64c0e9a8f348",
+      "opponent_name": "Josias Musasa",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 976.0,
+      "p4p_after": 991.58,
+      "p4p_delta": 15.58,
+      "div_before": 976.0,
+      "div_after": 991.58,
+      "div_delta": 15.58
+    },
+    {
+      "date": "2025-02-08",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "4a6dff1b260bcf61",
+      "opponent_name": "Aleksandre Topuria",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 976.0,
+      "p4p_delta": -24.0,
+      "div_before": 1000.0,
+      "div_after": 976.0,
+      "div_delta": -24.0
+    }
+  ]
+}

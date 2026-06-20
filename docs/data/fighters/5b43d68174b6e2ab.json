@@ -1,0 +1,76 @@
+{
+  "id": "5b43d68174b6e2ab",
+  "name": "Losene Keita",
+  "slug": "losene-keita",
+  "last_fight_date": "2026-03-21",
+  "active_current_mode": true,
+  "divisions": [
+    "fw"
+  ],
+  "division_names": {
+    "fw": "Featherweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-03-01",
+        "rank": 754,
+        "elo": 987.66
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 760,
+        "elo": 987.66
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 761,
+        "elo": 987.66
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 760,
+        "elo": 987.66
+      }
+    ],
+    "fw": [
+      {
+        "date": "2026-03-01",
+        "rank": 132,
+        "elo": 986.12
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 135,
+        "elo": 986.12
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 136,
+        "elo": 986.12
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 136,
+        "elo": 986.12
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-03-21",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "329e403448756217",
+      "opponent_name": "Nathaniel Wood",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 987.66,
+      "p4p_delta": -12.34,
+      "div_before": 1000.0,
+      "div_after": 986.12,
+      "div_delta": -13.88
+    }
+  ]
+}

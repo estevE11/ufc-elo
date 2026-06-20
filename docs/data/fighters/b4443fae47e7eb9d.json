@@ -1,0 +1,101 @@
+{
+  "id": "b4443fae47e7eb9d",
+  "name": "Wes Schultz",
+  "slug": "wes-schultz",
+  "last_fight_date": "2026-05-02",
+  "active_current_mode": true,
+  "divisions": [
+    "mw"
+  ],
+  "division_names": {
+    "mw": "Middleweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-02-01",
+        "rank": 1184,
+        "elo": 968.8
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 1192,
+        "elo": 968.8
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 1201,
+        "elo": 968.8
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 694,
+        "elo": 991.46
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 694,
+        "elo": 991.46
+      }
+    ],
+    "mw": [
+      {
+        "date": "2026-02-01",
+        "rank": 257,
+        "elo": 968.8
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 258,
+        "elo": 968.8
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 259,
+        "elo": 968.8
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 144,
+        "elo": 991.46
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 144,
+        "elo": 991.46
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-02",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "3261aa79bf6caa64",
+      "opponent_name": "Ben Johnston",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 968.8,
+      "p4p_after": 991.46,
+      "p4p_delta": 22.66,
+      "div_before": 968.8,
+      "div_after": 991.46,
+      "div_delta": 22.66
+    },
+    {
+      "date": "2026-02-28",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "fdd22e895a70e4a8",
+      "opponent_name": "Damian Pinas",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 968.8,
+      "p4p_delta": -31.2,
+      "div_before": 1000.0,
+      "div_after": 968.8,
+      "div_delta": -31.2
+    }
+  ]
+}

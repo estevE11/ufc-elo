@@ -1,0 +1,66 @@
+{
+  "id": "e3b30b573e7f0d19",
+  "name": "Adrian Luna Martinetti",
+  "slug": "adrian-luna-martinetti",
+  "last_fight_date": "2026-04-25",
+  "active_current_mode": true,
+  "divisions": [
+    "bw"
+  ],
+  "division_names": {
+    "bw": "Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-04-01",
+        "rank": 1046,
+        "elo": 974.86
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 1044,
+        "elo": 974.86
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 1042,
+        "elo": 974.86
+      }
+    ],
+    "bw": [
+      {
+        "date": "2026-04-01",
+        "rank": 156,
+        "elo": 975.31
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 158,
+        "elo": 975.31
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 158,
+        "elo": 975.31
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-04-25",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "113df4fde64735c6",
+      "opponent_name": "Davey Grant",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 974.86,
+      "p4p_delta": -25.14,
+      "div_before": 1000.0,
+      "div_after": 975.31,
+      "div_delta": -24.69
+    }
+  ]
+}

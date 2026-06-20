@@ -1,0 +1,111 @@
+{
+  "id": "530af2900b5a1693",
+  "name": "Dom Mar Fan",
+  "slug": "dom-mar-fan",
+  "last_fight_date": "2026-05-02",
+  "active_current_mode": true,
+  "divisions": [
+    "lw"
+  ],
+  "division_names": {
+    "lw": "Lightweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-01-01",
+        "rank": 427,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 432,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 434,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 431,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 873,
+        "elo": 980.86
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 872,
+        "elo": 980.86
+      }
+    ],
+    "lw": [
+      {
+        "date": "2026-01-01",
+        "rank": 107,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 107,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 109,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 110,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 207,
+        "elo": 980.86
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 207,
+        "elo": 980.86
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-02",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "aebaa8cec15b083d",
+      "opponent_name": "Kody Steele",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1016.0,
+      "p4p_after": 980.86,
+      "p4p_delta": -35.14,
+      "div_before": 1016.0,
+      "div_after": 980.86,
+      "div_delta": -35.14
+    },
+    {
+      "date": "2026-01-31",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "a264d4e9a4d6bfe4",
+      "opponent_name": "Sangwook Kim",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1016.0,
+      "p4p_delta": 16.0,
+      "div_before": 1000.0,
+      "div_after": 1016.0,
+      "div_delta": 16.0
+    }
+  ]
+}

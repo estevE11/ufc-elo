@@ -1,0 +1,205 @@
+{
+  "id": "ae81a3ac7b260411",
+  "name": "Tofiq Musayev",
+  "slug": "tofiq-musayev",
+  "last_fight_date": "2026-03-28",
+  "active_current_mode": true,
+  "divisions": [
+    "catch",
+    "lw"
+  ],
+  "division_names": {
+    "catch": "Catch",
+    "lw": "Lightweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-06-01",
+        "rank": 1097,
+        "elo": 970.78
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 1093,
+        "elo": 970.78
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 1098,
+        "elo": 970.78
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 1105,
+        "elo": 970.78
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 1112,
+        "elo": 970.78
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 1117,
+        "elo": 970.78
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 1123,
+        "elo": 970.78
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 1130,
+        "elo": 970.78
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 1128,
+        "elo": 970.78
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 707,
+        "elo": 989.97
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 711,
+        "elo": 989.97
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 715,
+        "elo": 989.97
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 716,
+        "elo": 989.97
+      }
+    ],
+    "catch": [
+      {
+        "date": "2025-06-01",
+        "rank": 130,
+        "elo": 967.29
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 130,
+        "elo": 967.29
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 131,
+        "elo": 967.29
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 131,
+        "elo": 967.29
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 132,
+        "elo": 967.29
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 136,
+        "elo": 967.29
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 137,
+        "elo": 967.29
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 137,
+        "elo": 967.29
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 141,
+        "elo": 967.29
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 141,
+        "elo": 967.29
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 141,
+        "elo": 967.29
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 143,
+        "elo": 967.29
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 145,
+        "elo": 967.29
+      }
+    ],
+    "lw": [
+      {
+        "date": "2026-03-01",
+        "rank": 93,
+        "elo": 1017.54
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 94,
+        "elo": 1017.54
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 95,
+        "elo": 1017.54
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 95,
+        "elo": 1017.54
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-03-28",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "e4a47b07044ddd72",
+      "opponent_name": "Ignacio Bahamondes",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 970.78,
+      "p4p_after": 989.97,
+      "p4p_delta": 19.19,
+      "div_before": 1000.0,
+      "div_after": 1017.54,
+      "div_delta": 17.54
+    },
+    {
+      "date": "2025-06-21",
+      "weight_class": "catch",
+      "weight_class_name": "Catch",
+      "opponent_id": "bf2c8e01b07d3eb1",
+      "opponent_name": "Myktybek Orolbai",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 970.78,
+      "p4p_delta": -29.22,
+      "div_before": 1000.0,
+      "div_after": 967.29,
+      "div_delta": -32.71
+    }
+  ]
+}

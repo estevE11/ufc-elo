@@ -1,0 +1,106 @@
+{
+  "id": "084532da3d25f3b8",
+  "name": "Cezary Oleksiejczuk",
+  "slug": "cezary-oleksiejczuk",
+  "last_fight_date": "2025-12-13",
+  "active_current_mode": true,
+  "divisions": [
+    "mw"
+  ],
+  "division_names": {
+    "mw": "Middleweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-12-01",
+        "rank": 403,
+        "elo": 1017.55
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 404,
+        "elo": 1017.55
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 407,
+        "elo": 1017.55
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 408,
+        "elo": 1017.55
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 410,
+        "elo": 1017.55
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 414,
+        "elo": 1017.55
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 413,
+        "elo": 1017.55
+      }
+    ],
+    "mw": [
+      {
+        "date": "2025-12-01",
+        "rank": 82,
+        "elo": 1017.66
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 82,
+        "elo": 1017.66
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 83,
+        "elo": 1017.66
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 82,
+        "elo": 1017.66
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 83,
+        "elo": 1017.66
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 85,
+        "elo": 1017.66
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 84,
+        "elo": 1017.66
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2025-12-13",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "64d47ef881a437a4",
+      "opponent_name": "Cesar Almeida",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1017.55,
+      "p4p_delta": 17.55,
+      "div_before": 1000.0,
+      "div_after": 1017.66,
+      "div_delta": 17.66
+    }
+  ]
+}

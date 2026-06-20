@@ -1,0 +1,411 @@
+{
+  "id": "bd532e9a2b93870c",
+  "name": "Melissa Mullins",
+  "slug": "melissa-mullins",
+  "last_fight_date": "2025-06-21",
+  "active_current_mode": true,
+  "divisions": [
+    "wbw"
+  ],
+  "division_names": {
+    "wbw": "Women's Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2023-10-01",
+        "rank": 403,
+        "elo": 1016.98
+      },
+      {
+        "date": "2023-11-01",
+        "rank": 404,
+        "elo": 1016.98
+      },
+      {
+        "date": "2023-12-01",
+        "rank": 402,
+        "elo": 1016.98
+      },
+      {
+        "date": "2024-01-01",
+        "rank": 404,
+        "elo": 1016.98
+      },
+      {
+        "date": "2024-02-01",
+        "rank": 406,
+        "elo": 1016.98
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 402,
+        "elo": 1016.98
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 761,
+        "elo": 985.71
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 760,
+        "elo": 985.71
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 754,
+        "elo": 985.71
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 748,
+        "elo": 985.71
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 753,
+        "elo": 985.71
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 747,
+        "elo": 985.71
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 750,
+        "elo": 985.71
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 502,
+        "elo": 1007.36
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 499,
+        "elo": 1007.36
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 501,
+        "elo": 1007.36
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 508,
+        "elo": 1007.36
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 510,
+        "elo": 1007.36
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 509,
+        "elo": 1007.36
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 504,
+        "elo": 1007.36
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 830,
+        "elo": 981.82
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 823,
+        "elo": 981.82
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 829,
+        "elo": 981.82
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 837,
+        "elo": 981.82
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 843,
+        "elo": 981.82
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 844,
+        "elo": 981.82
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 846,
+        "elo": 981.82
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 852,
+        "elo": 981.82
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 853,
+        "elo": 981.82
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 860,
+        "elo": 981.82
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 863,
+        "elo": 981.82
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 861,
+        "elo": 981.82
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 860,
+        "elo": 981.82
+      }
+    ],
+    "wbw": [
+      {
+        "date": "2023-10-01",
+        "rank": 19,
+        "elo": 1016.93
+      },
+      {
+        "date": "2023-11-01",
+        "rank": 20,
+        "elo": 1016.93
+      },
+      {
+        "date": "2023-12-01",
+        "rank": 18,
+        "elo": 1016.93
+      },
+      {
+        "date": "2024-01-01",
+        "rank": 18,
+        "elo": 1016.93
+      },
+      {
+        "date": "2024-02-01",
+        "rank": 18,
+        "elo": 1016.93
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 18,
+        "elo": 1016.93
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 38,
+        "elo": 985.61
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 38,
+        "elo": 985.61
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 38,
+        "elo": 985.61
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 38,
+        "elo": 985.61
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 39,
+        "elo": 985.61
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 38,
+        "elo": 985.61
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 38,
+        "elo": 985.61
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 26,
+        "elo": 1007.27
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 26,
+        "elo": 1007.27
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 25,
+        "elo": 1007.27
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 25,
+        "elo": 1007.27
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 26,
+        "elo": 1007.27
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 26,
+        "elo": 1007.27
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 26,
+        "elo": 1007.27
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 38,
+        "elo": 981.91
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 38,
+        "elo": 981.91
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 37,
+        "elo": 981.91
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 39,
+        "elo": 981.91
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 40,
+        "elo": 981.91
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 39,
+        "elo": 981.91
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 39,
+        "elo": 981.91
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 39,
+        "elo": 981.91
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 38,
+        "elo": 981.91
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 37,
+        "elo": 981.91
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 36,
+        "elo": 981.91
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 36,
+        "elo": 981.91
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 36,
+        "elo": 981.91
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2025-06-21",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "07047eb7d17fb0a2",
+      "opponent_name": "Daria Zhelezniakova",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1007.36,
+      "p4p_after": 981.82,
+      "p4p_delta": -25.54,
+      "div_before": 1007.27,
+      "div_after": 981.91,
+      "div_delta": -25.36
+    },
+    {
+      "date": "2024-11-09",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "9f5e3c20ce40b344",
+      "opponent_name": "Klaudia Sygula",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 985.71,
+      "p4p_after": 1007.36,
+      "p4p_delta": 21.65,
+      "div_before": 985.61,
+      "div_after": 1007.27,
+      "div_delta": 21.66
+    },
+    {
+      "date": "2024-04-06",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "f2b3f4ef3f780168",
+      "opponent_name": "Nora Cornolle",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1016.98,
+      "p4p_after": 985.71,
+      "p4p_delta": -31.27,
+      "div_before": 1016.93,
+      "div_after": 985.61,
+      "div_delta": -31.32
+    },
+    {
+      "date": "2023-10-14",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "103e2e33a60683e1",
+      "opponent_name": "Irina Alekseeva",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1016.98,
+      "p4p_delta": 16.98,
+      "div_before": 1000.0,
+      "div_after": 1016.93,
+      "div_delta": 16.93
+    }
+  ]
+}

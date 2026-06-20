@@ -1,0 +1,181 @@
+{
+  "id": "2caf993f53541fa1",
+  "name": "Andreas Gustafsson",
+  "slug": "andreas-gustafsson",
+  "last_fight_date": "2025-09-06",
+  "active_current_mode": true,
+  "divisions": [
+    "ww"
+  ],
+  "division_names": {
+    "ww": "Welterweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-06-01",
+        "rank": 415,
+        "elo": 1016.88
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 417,
+        "elo": 1016.88
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 415,
+        "elo": 1016.88
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 689,
+        "elo": 990.91
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 686,
+        "elo": 990.91
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 689,
+        "elo": 990.91
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 692,
+        "elo": 990.91
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 691,
+        "elo": 990.91
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 696,
+        "elo": 990.91
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 696,
+        "elo": 990.91
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 700,
+        "elo": 990.91
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 703,
+        "elo": 990.91
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 704,
+        "elo": 990.91
+      }
+    ],
+    "ww": [
+      {
+        "date": "2025-06-01",
+        "rank": 80,
+        "elo": 1016.88
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 80,
+        "elo": 1016.88
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 80,
+        "elo": 1016.88
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 151,
+        "elo": 990.64
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 151,
+        "elo": 990.64
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 150,
+        "elo": 990.64
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 151,
+        "elo": 990.64
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 151,
+        "elo": 990.64
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 151,
+        "elo": 990.64
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 150,
+        "elo": 990.64
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 150,
+        "elo": 990.64
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 149,
+        "elo": 990.64
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 149,
+        "elo": 990.64
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2025-09-06",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "8f765fd5775a8873",
+      "opponent_name": "Rinat Fakhretdinov",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1016.88,
+      "p4p_after": 990.91,
+      "p4p_delta": -25.97,
+      "div_before": 1016.88,
+      "div_after": 990.64,
+      "div_delta": -26.24
+    },
+    {
+      "date": "2025-06-07",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "2558ae2e5671e318",
+      "opponent_name": "Khaos Williams",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1016.88,
+      "p4p_delta": 16.88,
+      "div_before": 1000.0,
+      "div_after": 1016.88,
+      "div_delta": 16.88
+    }
+  ]
+}

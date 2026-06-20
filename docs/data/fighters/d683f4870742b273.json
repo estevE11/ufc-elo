@@ -1,0 +1,251 @@
+{
+  "id": "d683f4870742b273",
+  "name": "Shi Ming",
+  "slug": "shi-ming",
+  "last_fight_date": "2025-08-22",
+  "active_current_mode": true,
+  "divisions": [
+    "wsw"
+  ],
+  "division_names": {
+    "wsw": "Women's Strawweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2024-11-01",
+        "rank": 357,
+        "elo": 1020.8
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 357,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 361,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 360,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 364,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 364,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 363,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 362,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 370,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 662,
+        "elo": 992.43
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 665,
+        "elo": 992.43
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 662,
+        "elo": 992.43
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 664,
+        "elo": 992.43
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 667,
+        "elo": 992.43
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 666,
+        "elo": 992.43
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 672,
+        "elo": 992.43
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 671,
+        "elo": 992.43
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 674,
+        "elo": 992.43
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 681,
+        "elo": 992.43
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 682,
+        "elo": 992.43
+      }
+    ],
+    "wsw": [
+      {
+        "date": "2024-11-01",
+        "rank": 20,
+        "elo": 1020.8
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 19,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 20,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 19,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 19,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 19,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 21,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 21,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 21,
+        "elo": 1020.8
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 39,
+        "elo": 994.2
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 38,
+        "elo": 994.2
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 39,
+        "elo": 994.2
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 38,
+        "elo": 994.2
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 38,
+        "elo": 994.2
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 38,
+        "elo": 994.2
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 37,
+        "elo": 994.2
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 38,
+        "elo": 994.2
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 38,
+        "elo": 994.2
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 40,
+        "elo": 994.2
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 40,
+        "elo": 994.2
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2025-08-22",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "7138a15258dabf20",
+      "opponent_name": "Bruna Brasil",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1020.8,
+      "p4p_after": 992.43,
+      "p4p_delta": -28.37,
+      "div_before": 1020.8,
+      "div_after": 994.2,
+      "div_delta": -26.6
+    },
+    {
+      "date": "2024-11-23",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "c940b42df95bbd28",
+      "opponent_name": "Feng Xiaocan",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1020.8,
+      "p4p_delta": 20.8,
+      "div_before": 1000.0,
+      "div_after": 1020.8,
+      "div_delta": 20.8
+    }
+  ]
+}

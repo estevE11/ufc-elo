@@ -1,0 +1,56 @@
+{
+  "id": "74939a16c7b56f33",
+  "name": "Juan Diaz",
+  "slug": "juan-diaz",
+  "last_fight_date": "2026-05-16",
+  "active_current_mode": true,
+  "divisions": [
+    "bw"
+  ],
+  "division_names": {
+    "bw": "Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-05-01",
+        "rank": 358,
+        "elo": 1021.38
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 357,
+        "elo": 1021.38
+      }
+    ],
+    "bw": [
+      {
+        "date": "2026-05-01",
+        "rank": 51,
+        "elo": 1022.97
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 51,
+        "elo": 1022.97
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-16",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "2e45d08b3f2f02c8",
+      "opponent_name": "Malcolm Wellmaker",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1021.38,
+      "p4p_delta": 21.38,
+      "div_before": 1000.0,
+      "div_after": 1022.97,
+      "div_delta": 22.97
+    }
+  ]
+}

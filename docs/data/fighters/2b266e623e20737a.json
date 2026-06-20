@@ -1,0 +1,56 @@
+{
+  "id": "2b266e623e20737a",
+  "name": "Rodrigo Vera",
+  "slug": "rodrigo-vera",
+  "last_fight_date": "2026-05-30",
+  "active_current_mode": true,
+  "divisions": [
+    "fw"
+  ],
+  "division_names": {
+    "fw": "Featherweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-05-01",
+        "rank": 383,
+        "elo": 1020.8
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 383,
+        "elo": 1020.8
+      }
+    ],
+    "fw": [
+      {
+        "date": "2026-05-01",
+        "rank": 54,
+        "elo": 1020.8
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 55,
+        "elo": 1020.8
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-30",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "6f4ec5aa3eced219",
+      "opponent_name": "Zhu Kangjie",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1020.8,
+      "p4p_delta": 20.8,
+      "div_before": 1000.0,
+      "div_after": 1020.8,
+      "div_delta": 20.8
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ad5cb64af10fc946",
+  "name": "Donte Johnson",
+  "slug": "donte-johnson",
+  "last_fight_date": "2026-03-07",
+  "active_current_mode": true,
+  "divisions": [
+    "mw"
+  ],
+  "division_names": {
+    "mw": "Middleweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-11-01",
+        "rank": 404,
+        "elo": 1017.61
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 401,
+        "elo": 1017.61
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 402,
+        "elo": 1017.61
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 405,
+        "elo": 1017.61
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 320,
+        "elo": 1025.96
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 321,
+        "elo": 1025.96
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 324,
+        "elo": 1025.96
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 323,
+        "elo": 1025.96
+      }
+    ],
+    "mw": [
+      {
+        "date": "2025-11-01",
+        "rank": 83,
+        "elo": 1017.59
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 83,
+        "elo": 1017.59
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 83,
+        "elo": 1017.59
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 84,
+        "elo": 1017.59
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 45,
+        "elo": 1026.42
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 45,
+        "elo": 1026.42
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 45,
+        "elo": 1026.42
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 45,
+        "elo": 1026.42
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-03-07",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "f14f644d41ade29f",
+      "opponent_name": "Cody Brundage",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 1017.61,
+      "p4p_after": 1025.96,
+      "p4p_delta": 8.35,
+      "div_before": 1017.59,
+      "div_after": 1026.42,
+      "div_delta": 8.83
+    },
+    {
+      "date": "2025-11-01",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "4e6738062d469256",
+      "opponent_name": "Sedriques Dumas",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1017.61,
+      "p4p_delta": 17.61,
+      "div_before": 1000.0,
+      "div_after": 1017.59,
+      "div_delta": 17.59
+    }
+  ]
+}

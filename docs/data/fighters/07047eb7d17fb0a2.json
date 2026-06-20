@@ -1,0 +1,361 @@
+{
+  "id": "07047eb7d17fb0a2",
+  "name": "Daria Zhelezniakova",
+  "slug": "daria-zhelezniakova",
+  "last_fight_date": "2026-04-18",
+  "active_current_mode": true,
+  "divisions": [
+    "wbw"
+  ],
+  "division_names": {
+    "wbw": "Women's Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2024-03-01",
+        "rank": 410,
+        "elo": 1016.54
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 409,
+        "elo": 1016.54
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 411,
+        "elo": 1016.54
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 409,
+        "elo": 1016.54
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 407,
+        "elo": 1016.54
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 405,
+        "elo": 1016.54
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 756,
+        "elo": 984.93
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 760,
+        "elo": 984.93
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 765,
+        "elo": 984.93
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 765,
+        "elo": 984.93
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 766,
+        "elo": 984.93
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 774,
+        "elo": 984.93
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 780,
+        "elo": 984.93
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 781,
+        "elo": 984.93
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 779,
+        "elo": 984.93
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 547,
+        "elo": 1001.96
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 540,
+        "elo": 1001.96
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 541,
+        "elo": 1001.96
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 544,
+        "elo": 1001.96
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 543,
+        "elo": 1001.96
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 546,
+        "elo": 1001.96
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 548,
+        "elo": 1001.96
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 546,
+        "elo": 1001.96
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 554,
+        "elo": 1001.96
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 557,
+        "elo": 1001.96
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 936,
+        "elo": 977.72
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 932,
+        "elo": 977.72
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 930,
+        "elo": 977.72
+      }
+    ],
+    "wbw": [
+      {
+        "date": "2024-03-01",
+        "rank": 19,
+        "elo": 1016.55
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 21,
+        "elo": 1016.55
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 22,
+        "elo": 1016.55
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 21,
+        "elo": 1016.55
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 21,
+        "elo": 1016.55
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 21,
+        "elo": 1016.55
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 36,
+        "elo": 987.62
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 36,
+        "elo": 987.62
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 37,
+        "elo": 987.62
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 37,
+        "elo": 987.62
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 37,
+        "elo": 987.62
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 36,
+        "elo": 987.62
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 36,
+        "elo": 987.62
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 36,
+        "elo": 987.62
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 35,
+        "elo": 987.62
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 27,
+        "elo": 1004.52
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 27,
+        "elo": 1004.52
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 28,
+        "elo": 1004.52
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 29,
+        "elo": 1004.52
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 31,
+        "elo": 1004.52
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 31,
+        "elo": 1004.52
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 30,
+        "elo": 1004.52
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 30,
+        "elo": 1004.52
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 29,
+        "elo": 1004.52
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 29,
+        "elo": 1004.52
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 37,
+        "elo": 980.06
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 37,
+        "elo": 980.06
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 37,
+        "elo": 980.06
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-04-18",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "51e2f44a8dbf6984",
+      "opponent_name": "Melissa Croden",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1001.96,
+      "p4p_after": 977.72,
+      "p4p_delta": -24.24,
+      "div_before": 1004.52,
+      "div_after": 980.06,
+      "div_delta": -24.46
+    },
+    {
+      "date": "2025-06-21",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "bd532e9a2b93870c",
+      "opponent_name": "Melissa Mullins",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 984.93,
+      "p4p_after": 1001.96,
+      "p4p_delta": 17.03,
+      "div_before": 987.62,
+      "div_after": 1004.52,
+      "div_delta": 16.9
+    },
+    {
+      "date": "2024-09-28",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "06e4245d16fc5315",
+      "opponent_name": "Ailin Perez",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1016.54,
+      "p4p_after": 984.93,
+      "p4p_delta": -31.61,
+      "div_before": 1016.55,
+      "div_after": 987.62,
+      "div_delta": -28.93
+    },
+    {
+      "date": "2024-03-23",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "60193e707634e560",
+      "opponent_name": "Montse Rendon",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1016.54,
+      "p4p_delta": 16.54,
+      "div_before": 1000.0,
+      "div_after": 1016.55,
+      "div_delta": 16.55
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3261aa79bf6caa64",
+  "name": "Ben Johnston",
+  "slug": "ben-johnston",
+  "last_fight_date": "2026-05-02",
+  "active_current_mode": true,
+  "divisions": [
+    "mw"
+  ],
+  "division_names": {
+    "mw": "Middleweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-05-01",
+        "rank": 1427,
+        "elo": 966.01
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 1425,
+        "elo": 966.01
+      }
+    ],
+    "mw": [
+      {
+        "date": "2026-05-01",
+        "rank": 316,
+        "elo": 966.01
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 316,
+        "elo": 966.01
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-02",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "b4443fae47e7eb9d",
+      "opponent_name": "Wes Schultz",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 966.01,
+      "p4p_delta": -33.99,
+      "div_before": 1000.0,
+      "div_after": 966.01,
+      "div_delta": -33.99
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "2bd98ab77a8daa75",
+  "name": "Stewart Nicoll",
+  "slug": "stewart-nicoll",
+  "last_fight_date": "2026-04-04",
+  "active_current_mode": true,
+  "divisions": [
+    "flw"
+  ],
+  "division_names": {
+    "flw": "Flyweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2024-08-01",
+        "rank": 1128,
+        "elo": 969.0
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 1125,
+        "elo": 969.0
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 1125,
+        "elo": 969.0
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 1133,
+        "elo": 969.0
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 1132,
+        "elo": 969.0
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 1140,
+        "elo": 969.0
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 1147,
+        "elo": 969.0
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 1144,
+        "elo": 969.0
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 1139,
+        "elo": 969.0
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 1142,
+        "elo": 969.0
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 1147,
+        "elo": 969.0
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 1144,
+        "elo": 969.0
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 1148,
+        "elo": 969.0
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 1157,
+        "elo": 969.0
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 1866,
+        "elo": 945.11
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 1873,
+        "elo": 945.11
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 1879,
+        "elo": 945.11
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 1884,
+        "elo": 945.11
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 1893,
+        "elo": 945.11
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 1899,
+        "elo": 945.11
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 2457,
+        "elo": 915.51
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 2471,
+        "elo": 915.51
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 2470,
+        "elo": 915.51
+      }
+    ],
+    "flw": [
+      {
+        "date": "2024-08-01",
+        "rank": 84,
+        "elo": 969.05
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 83,
+        "elo": 969.05
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 83,
+        "elo": 969.05
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 87,
+        "elo": 969.05
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 88,
+        "elo": 969.05
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 87,
+        "elo": 969.05
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 87,
+        "elo": 969.05
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 86,
+        "elo": 969.05
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 86,
+        "elo": 969.05
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 86,
+        "elo": 969.05
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 85,
+        "elo": 969.05
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 85,
+        "elo": 969.05
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 84,
+        "elo": 969.05
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 84,
+        "elo": 969.05
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 121,
+        "elo": 945.15
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 120,
+        "elo": 945.15
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 120,
+        "elo": 945.15
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 121,
+        "elo": 945.15
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 122,
+        "elo": 945.15
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 122,
+        "elo": 945.15
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 155,
+        "elo": 915.44
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 155,
+        "elo": 915.44
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 155,
+        "elo": 915.44
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-04-04",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "3fa97913cfd205d3",
+      "opponent_name": "Alessandro Costa",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 945.11,
+      "p4p_after": 915.51,
+      "p4p_delta": -29.6,
+      "div_before": 945.15,
+      "div_after": 915.44,
+      "div_delta": -29.71
+    },
+    {
+      "date": "2025-10-11",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "e0d3d9b564f95635",
+      "opponent_name": "Lucas Rocha",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 969.0,
+      "p4p_after": 945.11,
+      "p4p_delta": -23.89,
+      "div_before": 969.05,
+      "div_after": 945.15,
+      "div_delta": -23.9
+    },
+    {
+      "date": "2024-08-17",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "c051c2e12d692b8a",
+      "opponent_name": "Jesus Aguilar",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 969.0,
+      "p4p_delta": -31.0,
+      "div_before": 1000.0,
+      "div_after": 969.05,
+      "div_delta": -30.95
+    }
+  ]
+}

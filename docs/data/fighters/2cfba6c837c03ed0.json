@@ -1,0 +1,181 @@
+{
+  "id": "2cfba6c837c03ed0",
+  "name": "Patchy Mix",
+  "slug": "patchy-mix",
+  "last_fight_date": "2025-10-04",
+  "active_current_mode": true,
+  "divisions": [
+    "bw"
+  ],
+  "division_names": {
+    "bw": "Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-06-01",
+        "rank": 835,
+        "elo": 981.31
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 828,
+        "elo": 981.31
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 836,
+        "elo": 981.31
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 844,
+        "elo": 981.31
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 1410,
+        "elo": 965.41
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 1415,
+        "elo": 965.41
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 1420,
+        "elo": 965.41
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 1427,
+        "elo": 965.41
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 1427,
+        "elo": 965.41
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 1436,
+        "elo": 965.41
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 1443,
+        "elo": 965.41
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 1444,
+        "elo": 965.41
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 1442,
+        "elo": 965.41
+      }
+    ],
+    "bw": [
+      {
+        "date": "2025-06-01",
+        "rank": 128,
+        "elo": 981.1
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 129,
+        "elo": 981.1
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 129,
+        "elo": 981.1
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 131,
+        "elo": 981.1
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 201,
+        "elo": 965.21
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 202,
+        "elo": 965.21
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 202,
+        "elo": 965.21
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 204,
+        "elo": 965.21
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 204,
+        "elo": 965.21
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 204,
+        "elo": 965.21
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 210,
+        "elo": 965.21
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 213,
+        "elo": 965.21
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 213,
+        "elo": 965.21
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2025-10-04",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "6902fcf0610dd303",
+      "opponent_name": "Jakub Wiklacz",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 981.31,
+      "p4p_after": 965.41,
+      "p4p_delta": -15.9,
+      "div_before": 981.1,
+      "div_after": 965.21,
+      "div_delta": -15.89
+    },
+    {
+      "date": "2025-06-07",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "bc711b6dd95c1af6",
+      "opponent_name": "Mario Bautista",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 981.31,
+      "p4p_delta": -18.69,
+      "div_before": 1000.0,
+      "div_after": 981.1,
+      "div_delta": -18.9
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "id": "64d47ef881a437a4",
+  "name": "Cesar Almeida",
+  "slug": "cesar-almeida",
+  "last_fight_date": "2025-12-13",
+  "active_current_mode": true,
+  "divisions": [
+    "mw"
+  ],
+  "division_names": {
+    "mw": "Middleweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2024-04-01",
+        "rank": 351,
+        "elo": 1020.8
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 352,
+        "elo": 1020.8
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 534,
+        "elo": 1002.89
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 535,
+        "elo": 1002.89
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 538,
+        "elo": 1002.89
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 538,
+        "elo": 1002.89
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 415,
+        "elo": 1015.79
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 421,
+        "elo": 1015.79
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 417,
+        "elo": 1015.79
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 266,
+        "elo": 1033.78
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 266,
+        "elo": 1033.78
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 267,
+        "elo": 1033.78
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 268,
+        "elo": 1033.78
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 268,
+        "elo": 1033.78
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 270,
+        "elo": 1033.78
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 279,
+        "elo": 1033.78
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 276,
+        "elo": 1033.78
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 278,
+        "elo": 1033.78
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 277,
+        "elo": 1033.78
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 277,
+        "elo": 1033.78
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 505,
+        "elo": 1007.46
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 503,
+        "elo": 1007.46
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 509,
+        "elo": 1007.46
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 514,
+        "elo": 1007.46
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 514,
+        "elo": 1007.46
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 518,
+        "elo": 1007.46
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 517,
+        "elo": 1007.46
+      }
+    ],
+    "mw": [
+      {
+        "date": "2024-04-01",
+        "rank": 67,
+        "elo": 1020.8
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 67,
+        "elo": 1020.8
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 109,
+        "elo": 1002.98
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 109,
+        "elo": 1002.98
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 111,
+        "elo": 1002.98
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 111,
+        "elo": 1002.98
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 78,
+        "elo": 1018.27
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 79,
+        "elo": 1018.27
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 79,
+        "elo": 1018.27
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 35,
+        "elo": 1036.26
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 36,
+        "elo": 1036.26
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 36,
+        "elo": 1036.26
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 38,
+        "elo": 1036.26
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 38,
+        "elo": 1036.26
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 37,
+        "elo": 1036.26
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 37,
+        "elo": 1036.26
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 37,
+        "elo": 1036.26
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 37,
+        "elo": 1036.26
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 36,
+        "elo": 1036.26
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 37,
+        "elo": 1036.26
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 104,
+        "elo": 1009.76
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 104,
+        "elo": 1009.76
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 106,
+        "elo": 1009.76
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 106,
+        "elo": 1009.76
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 107,
+        "elo": 1009.76
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 107,
+        "elo": 1009.76
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 106,
+        "elo": 1009.76
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2025-12-13",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "084532da3d25f3b8",
+      "opponent_name": "Cezary Oleksiejczuk",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1033.78,
+      "p4p_after": 1007.46,
+      "p4p_delta": -26.32,
+      "div_before": 1036.26,
+      "div_after": 1009.76,
+      "div_delta": -26.5
+    },
+    {
+      "date": "2025-01-11",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "eae431e70064e046",
+      "opponent_name": "Abdul Razak Alhassan",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1015.79,
+      "p4p_after": 1033.78,
+      "p4p_delta": 17.99,
+      "div_before": 1018.27,
+      "div_after": 1036.26,
+      "div_delta": 17.99
+    },
+    {
+      "date": "2024-10-05",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "260bd4cef10b033f",
+      "opponent_name": "Ihor Potieria",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1002.89,
+      "p4p_after": 1015.79,
+      "p4p_delta": 12.9,
+      "div_before": 1002.98,
+      "div_after": 1018.27,
+      "div_delta": 15.29
+    },
+    {
+      "date": "2024-06-01",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "9d83f6da776ff7d6",
+      "opponent_name": "Roman Kopylov",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 1020.8,
+      "p4p_after": 1002.89,
+      "p4p_delta": -17.91,
+      "div_before": 1020.8,
+      "div_after": 1002.98,
+      "div_delta": -17.82
+    },
+    {
+      "date": "2024-04-06",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "a817e238b2747404",
+      "opponent_name": "Dylan Budka",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1020.8,
+      "p4p_delta": 20.8,
+      "div_before": 1000.0,
+      "div_after": 1020.8,
+      "div_delta": 20.8
+    }
+  ]
+}

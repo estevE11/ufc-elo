@@ -1,0 +1,431 @@
+{
+  "id": "7ee0fd831c0fe7c3",
+  "name": "Carlos Prates",
+  "slug": "carlos-prates",
+  "last_fight_date": "2026-05-02",
+  "active_current_mode": true,
+  "divisions": [
+    "ww"
+  ],
+  "division_names": {
+    "ww": "Welterweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2024-02-01",
+        "rank": 394,
+        "elo": 1018.07
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 389,
+        "elo": 1018.07
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 389,
+        "elo": 1018.07
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 391,
+        "elo": 1018.07
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 208,
+        "elo": 1039.76
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 208,
+        "elo": 1039.76
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 133,
+        "elo": 1061.11
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 131,
+        "elo": 1061.11
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 135,
+        "elo": 1061.11
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 86,
+        "elo": 1079.88
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 87,
+        "elo": 1079.88
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 87,
+        "elo": 1079.88
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 83,
+        "elo": 1079.88
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 87,
+        "elo": 1079.88
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 149,
+        "elo": 1056.97
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 149,
+        "elo": 1056.97
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 149,
+        "elo": 1056.97
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 148,
+        "elo": 1056.97
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 98,
+        "elo": 1076.9
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 99,
+        "elo": 1076.9
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 99,
+        "elo": 1076.9
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 55,
+        "elo": 1100.51
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 56,
+        "elo": 1100.51
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 56,
+        "elo": 1100.51
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 56,
+        "elo": 1100.51
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 56,
+        "elo": 1100.51
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 54,
+        "elo": 1100.51
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 29,
+        "elo": 1122.56
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 28,
+        "elo": 1122.56
+      }
+    ],
+    "ww": [
+      {
+        "date": "2024-02-01",
+        "rank": 75,
+        "elo": 1018.84
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 74,
+        "elo": 1018.84
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 74,
+        "elo": 1018.84
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 74,
+        "elo": 1018.84
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 38,
+        "elo": 1040.59
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 38,
+        "elo": 1040.59
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 20,
+        "elo": 1062.78
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 20,
+        "elo": 1062.78
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 21,
+        "elo": 1062.78
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 13,
+        "elo": 1081.21
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 13,
+        "elo": 1081.21
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 13,
+        "elo": 1081.21
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 13,
+        "elo": 1081.21
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 14,
+        "elo": 1081.21
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 24,
+        "elo": 1058.18
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 24,
+        "elo": 1058.18
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 23,
+        "elo": 1058.18
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 24,
+        "elo": 1058.18
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 14,
+        "elo": 1077.94
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 15,
+        "elo": 1077.94
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 15,
+        "elo": 1077.94
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 9,
+        "elo": 1101.12
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 9,
+        "elo": 1101.12
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 9,
+        "elo": 1101.12
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 9,
+        "elo": 1101.12
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 9,
+        "elo": 1101.12
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 9,
+        "elo": 1101.12
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 6,
+        "elo": 1122.38
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 6,
+        "elo": 1122.38
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-05-02",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "6b453bc35a823c3f",
+      "opponent_name": "Jack Della Maddalena",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1100.51,
+      "p4p_after": 1122.56,
+      "p4p_delta": 22.05,
+      "div_before": 1101.12,
+      "div_after": 1122.38,
+      "div_delta": 21.26
+    },
+    {
+      "date": "2025-11-15",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "f1fac969a1d70b08",
+      "opponent_name": "Leon Edwards",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1076.9,
+      "p4p_after": 1100.51,
+      "p4p_delta": 23.61,
+      "div_before": 1077.94,
+      "div_after": 1101.12,
+      "div_delta": 23.18
+    },
+    {
+      "date": "2025-08-16",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "b997be68943010fc",
+      "opponent_name": "Geoff Neal",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1056.97,
+      "p4p_after": 1076.9,
+      "p4p_delta": 19.93,
+      "div_before": 1058.18,
+      "div_after": 1077.94,
+      "div_delta": 19.76
+    },
+    {
+      "date": "2025-04-26",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "442c9011034ae1fd",
+      "opponent_name": "Ian Machado Garry",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1079.88,
+      "p4p_after": 1056.97,
+      "p4p_delta": -22.91,
+      "div_before": 1081.21,
+      "div_after": 1058.18,
+      "div_delta": -23.03
+    },
+    {
+      "date": "2024-11-09",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "84b3e7d38f2d2ec5",
+      "opponent_name": "Neil Magny",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1061.11,
+      "p4p_after": 1079.88,
+      "p4p_delta": 18.77,
+      "div_before": 1062.78,
+      "div_after": 1081.21,
+      "div_delta": 18.43
+    },
+    {
+      "date": "2024-08-17",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "e64b96c07d7ce999",
+      "opponent_name": "Li Jingliang",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1039.76,
+      "p4p_after": 1061.11,
+      "p4p_delta": 21.35,
+      "div_before": 1040.59,
+      "div_after": 1062.78,
+      "div_delta": 22.19
+    },
+    {
+      "date": "2024-06-08",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "feedf3053472fe56",
+      "opponent_name": "Charles Radtke",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1018.07,
+      "p4p_after": 1039.76,
+      "p4p_delta": 21.69,
+      "div_before": 1018.84,
+      "div_after": 1040.59,
+      "div_delta": 21.75
+    },
+    {
+      "date": "2024-02-10",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "b27a1fcb56a3035a",
+      "opponent_name": "Trevin Giles",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1018.07,
+      "p4p_delta": 18.07,
+      "div_before": 1000.0,
+      "div_after": 1018.84,
+      "div_delta": 18.84
+    }
+  ]
+}

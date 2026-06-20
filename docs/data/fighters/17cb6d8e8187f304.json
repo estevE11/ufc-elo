@@ -1,0 +1,266 @@
+{
+  "id": "17cb6d8e8187f304",
+  "name": "Nyamjargal Tumendemberel",
+  "slug": "nyamjargal-tumendemberel",
+  "last_fight_date": "2026-03-07",
+  "active_current_mode": true,
+  "divisions": [
+    "flw"
+  ],
+  "division_names": {
+    "flw": "Flyweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2024-11-01",
+        "rank": 832,
+        "elo": 980.69
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 831,
+        "elo": 980.69
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 837,
+        "elo": 980.69
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 843,
+        "elo": 980.69
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 847,
+        "elo": 980.69
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 846,
+        "elo": 980.69
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 846,
+        "elo": 980.69
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 846,
+        "elo": 980.69
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 840,
+        "elo": 980.69
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 532,
+        "elo": 1002.65
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 535,
+        "elo": 1002.65
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 533,
+        "elo": 1002.65
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 536,
+        "elo": 1002.65
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 538,
+        "elo": 1002.65
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 536,
+        "elo": 1002.65
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 544,
+        "elo": 1002.65
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 450,
+        "elo": 1014.52
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 449,
+        "elo": 1014.52
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 454,
+        "elo": 1014.52
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 452,
+        "elo": 1014.52
+      }
+    ],
+    "flw": [
+      {
+        "date": "2024-11-01",
+        "rank": 58,
+        "elo": 980.65
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 58,
+        "elo": 980.65
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 59,
+        "elo": 980.65
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 59,
+        "elo": 980.65
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 57,
+        "elo": 980.65
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 57,
+        "elo": 980.65
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 57,
+        "elo": 980.65
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 56,
+        "elo": 980.65
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 55,
+        "elo": 980.65
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 39,
+        "elo": 1002.6
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 41,
+        "elo": 1002.6
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 40,
+        "elo": 1002.6
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 41,
+        "elo": 1002.6
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 40,
+        "elo": 1002.6
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 39,
+        "elo": 1002.6
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 41,
+        "elo": 1002.6
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 30,
+        "elo": 1014.74
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 30,
+        "elo": 1014.74
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 30,
+        "elo": 1014.74
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 30,
+        "elo": 1014.74
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-03-07",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "7f6ed67d3ed3c036",
+      "opponent_name": "Cody Durden",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1002.65,
+      "p4p_after": 1014.52,
+      "p4p_delta": 11.87,
+      "div_before": 1002.6,
+      "div_after": 1014.74,
+      "div_delta": 12.14
+    },
+    {
+      "date": "2025-08-22",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "a78f7a9135eb6249",
+      "opponent_name": "Terrance Saeteurn",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 980.69,
+      "p4p_after": 1002.65,
+      "p4p_delta": 21.96,
+      "div_before": 980.65,
+      "div_after": 1002.6,
+      "div_delta": 21.95
+    },
+    {
+      "date": "2024-11-23",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "798e48f9e7f6ba22",
+      "opponent_name": "Carlos Hernandez",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 980.69,
+      "p4p_delta": -19.31,
+      "div_before": 1000.0,
+      "div_after": 980.65,
+      "div_delta": -19.35
+    }
+  ]
+}

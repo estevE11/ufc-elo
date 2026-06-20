@@ -1,0 +1,86 @@
+{
+  "id": "51ec9dc3b4964f19",
+  "name": "Gianni Vazquez",
+  "slug": "gianni-vazquez",
+  "last_fight_date": "2026-02-07",
+  "active_current_mode": true,
+  "divisions": [
+    "bw"
+  ],
+  "division_names": {
+    "bw": "Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-02-01",
+        "rank": 1031,
+        "elo": 975.18
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 1037,
+        "elo": 975.18
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 1038,
+        "elo": 975.18
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 1036,
+        "elo": 975.18
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 1034,
+        "elo": 975.18
+      }
+    ],
+    "bw": [
+      {
+        "date": "2026-02-01",
+        "rank": 154,
+        "elo": 975.12
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 154,
+        "elo": 975.12
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 158,
+        "elo": 975.12
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 160,
+        "elo": 975.12
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 160,
+        "elo": 975.12
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-02-07",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "bbab3baf66128ae2",
+      "opponent_name": "Javid Basharat",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 975.18,
+      "p4p_delta": -24.82,
+      "div_before": 1000.0,
+      "div_after": 975.12,
+      "div_delta": -24.88
+    }
+  ]
+}

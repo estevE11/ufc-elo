@@ -1,0 +1,131 @@
+{
+  "id": "52b6bf4528130e86",
+  "name": "Shem Rock",
+  "slug": "shem-rock",
+  "last_fight_date": "2026-03-21",
+  "active_current_mode": true,
+  "divisions": [
+    "lw"
+  ],
+  "division_names": {
+    "lw": "Lightweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-11-01",
+        "rank": 918,
+        "elo": 977.89
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 923,
+        "elo": 977.89
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 929,
+        "elo": 977.89
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 930,
+        "elo": 977.89
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 1688,
+        "elo": 953.17
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 1699,
+        "elo": 953.17
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 1706,
+        "elo": 953.17
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 1705,
+        "elo": 953.17
+      }
+    ],
+    "lw": [
+      {
+        "date": "2025-11-01",
+        "rank": 213,
+        "elo": 977.88
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 212,
+        "elo": 977.88
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 213,
+        "elo": 977.88
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 213,
+        "elo": 977.88
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 416,
+        "elo": 953.16
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 421,
+        "elo": 953.16
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 423,
+        "elo": 953.16
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 423,
+        "elo": 953.16
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-03-21",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "597499ac7a5aac62",
+      "opponent_name": "Abdul-Kareem Al-Selwady",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 977.89,
+      "p4p_after": 953.17,
+      "p4p_delta": -24.72,
+      "div_before": 977.88,
+      "div_after": 953.16,
+      "div_delta": -24.72
+    },
+    {
+      "date": "2025-11-22",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "ca28cdf526d6b6e9",
+      "opponent_name": "Nurullo Aliev",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 977.89,
+      "p4p_delta": -22.11,
+      "div_before": 1000.0,
+      "div_after": 977.88,
+      "div_delta": -22.12
+    }
+  ]
+}

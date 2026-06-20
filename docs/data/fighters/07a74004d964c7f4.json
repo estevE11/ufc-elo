@@ -1,0 +1,261 @@
+{
+  "id": "07a74004d964c7f4",
+  "name": "Billy Elekana",
+  "slug": "billy-elekana",
+  "last_fight_date": "2026-01-31",
+  "active_current_mode": true,
+  "divisions": [
+    "lhw"
+  ],
+  "division_names": {
+    "lhw": "Light Heavyweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-01-01",
+        "rank": 1131,
+        "elo": 969.44
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 1138,
+        "elo": 969.44
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 1136,
+        "elo": 969.44
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 1131,
+        "elo": 969.44
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 1134,
+        "elo": 969.44
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 1139,
+        "elo": 969.44
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 745,
+        "elo": 986.63
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 754,
+        "elo": 986.63
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 762,
+        "elo": 986.63
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 765,
+        "elo": 986.63
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 500,
+        "elo": 1008.23
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 502,
+        "elo": 1008.23
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 329,
+        "elo": 1024.19
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 332,
+        "elo": 1024.19
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 335,
+        "elo": 1024.19
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 336,
+        "elo": 1024.19
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 338,
+        "elo": 1024.19
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 337,
+        "elo": 1024.19
+      }
+    ],
+    "lhw": [
+      {
+        "date": "2025-01-01",
+        "rank": 150,
+        "elo": 969.79
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 150,
+        "elo": 969.79
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 151,
+        "elo": 969.79
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 150,
+        "elo": 969.79
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 149,
+        "elo": 969.79
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 148,
+        "elo": 969.79
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 82,
+        "elo": 987.03
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 86,
+        "elo": 987.03
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 85,
+        "elo": 987.03
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 84,
+        "elo": 987.03
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 64,
+        "elo": 1008.6
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 65,
+        "elo": 1008.6
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 28,
+        "elo": 1026.75
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 28,
+        "elo": 1026.75
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 28,
+        "elo": 1026.75
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 29,
+        "elo": 1026.75
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 29,
+        "elo": 1026.75
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 29,
+        "elo": 1026.75
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-01-31",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "c15fa95b9a12fde4",
+      "opponent_name": "Junior Tafa",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1008.23,
+      "p4p_after": 1024.19,
+      "p4p_delta": 15.96,
+      "div_before": 1008.6,
+      "div_after": 1026.75,
+      "div_delta": 18.15
+    },
+    {
+      "date": "2025-11-01",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "7e9b36a9847db116",
+      "opponent_name": "Kevin Christian",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 986.63,
+      "p4p_after": 1008.23,
+      "p4p_delta": 21.6,
+      "div_before": 987.03,
+      "div_after": 1008.6,
+      "div_delta": 21.57
+    },
+    {
+      "date": "2025-07-26",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "6e8f1bcdda94ff45",
+      "opponent_name": "Ibo Aslan",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 969.44,
+      "p4p_after": 986.63,
+      "p4p_delta": 17.19,
+      "div_before": 969.79,
+      "div_after": 987.03,
+      "div_delta": 17.24
+    },
+    {
+      "date": "2025-01-18",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "ef5dcb10d2bd4b0f",
+      "opponent_name": "Bogdan Guskov",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 969.44,
+      "p4p_delta": -30.56,
+      "div_before": 1000.0,
+      "div_after": 969.79,
+      "div_delta": -30.21
+    }
+  ]
+}

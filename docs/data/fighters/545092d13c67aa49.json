@@ -1,0 +1,226 @@
+{
+  "id": "545092d13c67aa49",
+  "name": "Alexia Thainara",
+  "slug": "alexia-thainara",
+  "last_fight_date": "2026-03-28",
+  "active_current_mode": true,
+  "divisions": [
+    "wsw"
+  ],
+  "division_names": {
+    "wsw": "Women's Strawweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-03-01",
+        "rank": 408,
+        "elo": 1017.89
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 408,
+        "elo": 1017.89
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 410,
+        "elo": 1017.89
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 407,
+        "elo": 1017.89
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 409,
+        "elo": 1017.89
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 406,
+        "elo": 1017.89
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 257,
+        "elo": 1036.06
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 256,
+        "elo": 1036.06
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 257,
+        "elo": 1036.06
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 257,
+        "elo": 1036.06
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 260,
+        "elo": 1036.06
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 262,
+        "elo": 1036.06
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 188,
+        "elo": 1048.24
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 189,
+        "elo": 1048.24
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 190,
+        "elo": 1048.24
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 194,
+        "elo": 1048.24
+      }
+    ],
+    "wsw": [
+      {
+        "date": "2025-03-01",
+        "rank": 20,
+        "elo": 1020.3
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 20,
+        "elo": 1020.3
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 22,
+        "elo": 1020.3
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 22,
+        "elo": 1020.3
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 22,
+        "elo": 1020.3
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 20,
+        "elo": 1020.3
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 12,
+        "elo": 1038.5
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 12,
+        "elo": 1038.5
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 13,
+        "elo": 1038.5
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 13,
+        "elo": 1038.5
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 13,
+        "elo": 1038.5
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 13,
+        "elo": 1038.5
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 6,
+        "elo": 1051.67
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 6,
+        "elo": 1051.67
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 6,
+        "elo": 1051.67
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 6,
+        "elo": 1051.67
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-03-28",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "7138a15258dabf20",
+      "opponent_name": "Bruna Brasil",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1036.06,
+      "p4p_after": 1048.24,
+      "p4p_delta": 12.18,
+      "div_before": 1038.5,
+      "div_after": 1051.67,
+      "div_delta": 13.17
+    },
+    {
+      "date": "2025-09-27",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "4e30e4250cb08b61",
+      "opponent_name": "Loma Lookboonmee",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1017.89,
+      "p4p_after": 1036.06,
+      "p4p_delta": 18.17,
+      "div_before": 1020.3,
+      "div_after": 1038.5,
+      "div_delta": 18.2
+    },
+    {
+      "date": "2025-03-22",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "51018a31ddf31eb2",
+      "opponent_name": "Molly McCann",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1017.89,
+      "p4p_delta": 17.89,
+      "div_before": 1000.0,
+      "div_after": 1020.3,
+      "div_delta": 20.3
+    }
+  ]
+}

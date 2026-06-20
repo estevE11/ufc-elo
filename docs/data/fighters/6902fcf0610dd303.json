@@ -1,0 +1,141 @@
+{
+  "id": "6902fcf0610dd303",
+  "name": "Jakub Wiklacz",
+  "slug": "jakub-wiklacz",
+  "last_fight_date": "2026-02-07",
+  "active_current_mode": true,
+  "divisions": [
+    "bw"
+  ],
+  "division_names": {
+    "bw": "Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-10-01",
+        "rank": 477,
+        "elo": 1010.6
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 476,
+        "elo": 1010.6
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 476,
+        "elo": 1010.6
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 475,
+        "elo": 1010.6
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 301,
+        "elo": 1030.25
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 302,
+        "elo": 1030.25
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 303,
+        "elo": 1030.25
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 303,
+        "elo": 1030.25
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 302,
+        "elo": 1030.25
+      }
+    ],
+    "bw": [
+      {
+        "date": "2025-10-01",
+        "rank": 79,
+        "elo": 1010.59
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 77,
+        "elo": 1010.59
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 77,
+        "elo": 1010.59
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 77,
+        "elo": 1010.59
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 43,
+        "elo": 1030.4
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 42,
+        "elo": 1030.4
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 43,
+        "elo": 1030.4
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 43,
+        "elo": 1030.4
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 43,
+        "elo": 1030.4
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-02-07",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "a54660deb6a8489c",
+      "opponent_name": "Muin Gafurov",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1010.6,
+      "p4p_after": 1030.25,
+      "p4p_delta": 19.65,
+      "div_before": 1010.59,
+      "div_after": 1030.4,
+      "div_delta": 19.81
+    },
+    {
+      "date": "2025-10-04",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "2cfba6c837c03ed0",
+      "opponent_name": "Patchy Mix",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1010.6,
+      "p4p_delta": 10.6,
+      "div_before": 1000.0,
+      "div_after": 1010.59,
+      "div_delta": 10.59
+    }
+  ]
+}

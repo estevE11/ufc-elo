@@ -1,0 +1,266 @@
+{
+  "id": "9f5e3c20ce40b344",
+  "name": "Klaudia Sygula",
+  "slug": "klaudia-sygula",
+  "last_fight_date": "2026-02-07",
+  "active_current_mode": true,
+  "divisions": [
+    "wbw"
+  ],
+  "division_names": {
+    "wbw": "Women's Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2024-11-01",
+        "rank": 1304,
+        "elo": 967.52
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 1302,
+        "elo": 967.52
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 1308,
+        "elo": 967.52
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 1313,
+        "elo": 967.52
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 1311,
+        "elo": 967.52
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 1305,
+        "elo": 967.52
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 1309,
+        "elo": 967.52
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 779,
+        "elo": 984.82
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 771,
+        "elo": 984.82
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 781,
+        "elo": 984.82
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 788,
+        "elo": 984.82
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 792,
+        "elo": 984.82
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 795,
+        "elo": 984.82
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 797,
+        "elo": 984.82
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 799,
+        "elo": 984.82
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 617,
+        "elo": 997.34
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 616,
+        "elo": 997.34
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 616,
+        "elo": 997.34
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 623,
+        "elo": 997.34
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 624,
+        "elo": 997.34
+      }
+    ],
+    "wbw": [
+      {
+        "date": "2024-11-01",
+        "rank": 62,
+        "elo": 967.51
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 62,
+        "elo": 967.51
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 62,
+        "elo": 967.51
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 61,
+        "elo": 967.51
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 60,
+        "elo": 967.51
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 58,
+        "elo": 967.51
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 58,
+        "elo": 967.51
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 36,
+        "elo": 984.76
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 36,
+        "elo": 984.76
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 35,
+        "elo": 984.76
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 36,
+        "elo": 984.76
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 37,
+        "elo": 984.76
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 36,
+        "elo": 984.76
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 36,
+        "elo": 984.76
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 36,
+        "elo": 984.76
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 30,
+        "elo": 1000.33
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 30,
+        "elo": 1000.33
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 31,
+        "elo": 1000.33
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 31,
+        "elo": 1000.33
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 31,
+        "elo": 1000.33
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-02-07",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "b1e5bcaad32a3cac",
+      "opponent_name": "Priscila Cachoeira",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 984.82,
+      "p4p_after": 997.34,
+      "p4p_delta": 12.52,
+      "div_before": 984.76,
+      "div_after": 1000.33,
+      "div_delta": 15.57
+    },
+    {
+      "date": "2025-06-21",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "103e2e33a60683e1",
+      "opponent_name": "Irina Alekseeva",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 967.52,
+      "p4p_after": 984.82,
+      "p4p_delta": 17.3,
+      "div_before": 967.51,
+      "div_after": 984.76,
+      "div_delta": 17.25
+    },
+    {
+      "date": "2024-11-09",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "bd532e9a2b93870c",
+      "opponent_name": "Melissa Mullins",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 967.52,
+      "p4p_delta": -32.48,
+      "div_before": 1000.0,
+      "div_after": 967.51,
+      "div_delta": -32.49
+    }
+  ]
+}

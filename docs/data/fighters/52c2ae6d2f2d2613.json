@@ -1,0 +1,916 @@
+{
+  "id": "52c2ae6d2f2d2613",
+  "name": "Youssef Zalal",
+  "slug": "youssef-zalal",
+  "last_fight_date": "2026-04-25",
+  "active_current_mode": true,
+  "divisions": [
+    "fw"
+  ],
+  "division_names": {
+    "fw": "Featherweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2020-06-01",
+        "rank": 365,
+        "elo": 1013.97
+      },
+      {
+        "date": "2020-07-01",
+        "rank": 372,
+        "elo": 1013.97
+      },
+      {
+        "date": "2020-08-01",
+        "rank": 233,
+        "elo": 1029.32
+      },
+      {
+        "date": "2020-09-01",
+        "rank": 236,
+        "elo": 1029.32
+      },
+      {
+        "date": "2020-10-01",
+        "rank": 453,
+        "elo": 1003.3
+      },
+      {
+        "date": "2020-11-01",
+        "rank": 455,
+        "elo": 1003.3
+      },
+      {
+        "date": "2020-12-01",
+        "rank": 458,
+        "elo": 1003.3
+      },
+      {
+        "date": "2021-01-01",
+        "rank": 463,
+        "elo": 1003.3
+      },
+      {
+        "date": "2021-02-01",
+        "rank": 890,
+        "elo": 975.36
+      },
+      {
+        "date": "2021-03-01",
+        "rank": 892,
+        "elo": 975.36
+      },
+      {
+        "date": "2021-04-01",
+        "rank": 893,
+        "elo": 975.36
+      },
+      {
+        "date": "2021-05-01",
+        "rank": 894,
+        "elo": 975.36
+      },
+      {
+        "date": "2021-06-01",
+        "rank": 1382,
+        "elo": 958.45
+      },
+      {
+        "date": "2021-07-01",
+        "rank": 1384,
+        "elo": 958.45
+      },
+      {
+        "date": "2021-08-01",
+        "rank": 1389,
+        "elo": 958.45
+      },
+      {
+        "date": "2021-09-01",
+        "rank": 1392,
+        "elo": 958.45
+      },
+      {
+        "date": "2021-10-01",
+        "rank": 1396,
+        "elo": 958.45
+      },
+      {
+        "date": "2021-11-01",
+        "rank": 1398,
+        "elo": 958.45
+      },
+      {
+        "date": "2021-12-01",
+        "rank": 1393,
+        "elo": 958.45
+      },
+      {
+        "date": "2022-01-01",
+        "rank": 1400,
+        "elo": 958.45
+      },
+      {
+        "date": "2022-02-01",
+        "rank": 1407,
+        "elo": 958.45
+      },
+      {
+        "date": "2022-03-01",
+        "rank": 1404,
+        "elo": 958.45
+      },
+      {
+        "date": "2022-04-01",
+        "rank": 1408,
+        "elo": 958.45
+      },
+      {
+        "date": "2022-05-01",
+        "rank": 1411,
+        "elo": 958.45
+      },
+      {
+        "date": "2022-06-01",
+        "rank": 1410,
+        "elo": 958.45
+      },
+      {
+        "date": "2022-07-01",
+        "rank": 1407,
+        "elo": 958.45
+      },
+      {
+        "date": "2022-08-01",
+        "rank": 1411,
+        "elo": 958.45
+      },
+      {
+        "date": "2022-09-01",
+        "rank": 1422,
+        "elo": 958.45
+      },
+      {
+        "date": "2022-10-01",
+        "rank": 1420,
+        "elo": 958.45
+      },
+      {
+        "date": "2022-11-01",
+        "rank": 1413,
+        "elo": 958.45
+      },
+      {
+        "date": "2022-12-01",
+        "rank": 1413,
+        "elo": 958.45
+      },
+      {
+        "date": "2023-01-01",
+        "rank": 1422,
+        "elo": 958.45
+      },
+      {
+        "date": "2023-02-01",
+        "rank": 1438,
+        "elo": 958.45
+      },
+      {
+        "date": "2023-03-01",
+        "rank": 1449,
+        "elo": 958.45
+      },
+      {
+        "date": "2023-04-01",
+        "rank": 1454,
+        "elo": 958.45
+      },
+      {
+        "date": "2023-05-01",
+        "rank": 1460,
+        "elo": 958.45
+      },
+      {
+        "date": "2023-06-01",
+        "rank": 1460,
+        "elo": 958.45
+      },
+      {
+        "date": "2023-07-01",
+        "rank": 1463,
+        "elo": 958.45
+      },
+      {
+        "date": "2023-08-01",
+        "rank": 1460,
+        "elo": 958.45
+      },
+      {
+        "date": "2023-09-01",
+        "rank": 1473,
+        "elo": 958.45
+      },
+      {
+        "date": "2023-10-01",
+        "rank": 1469,
+        "elo": 958.45
+      },
+      {
+        "date": "2023-11-01",
+        "rank": 1470,
+        "elo": 958.45
+      },
+      {
+        "date": "2023-12-01",
+        "rank": 1472,
+        "elo": 958.45
+      },
+      {
+        "date": "2024-01-01",
+        "rank": 1475,
+        "elo": 958.45
+      },
+      {
+        "date": "2024-02-01",
+        "rank": 1481,
+        "elo": 958.45
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 797,
+        "elo": 982.78
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 802,
+        "elo": 982.78
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 801,
+        "elo": 982.78
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 800,
+        "elo": 982.78
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 794,
+        "elo": 982.78
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 539,
+        "elo": 1002.83
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 539,
+        "elo": 1002.83
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 537,
+        "elo": 1002.83
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 311,
+        "elo": 1025.06
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 311,
+        "elo": 1025.06
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 313,
+        "elo": 1025.06
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 216,
+        "elo": 1040.33
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 214,
+        "elo": 1040.33
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 214,
+        "elo": 1040.33
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 215,
+        "elo": 1040.33
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 215,
+        "elo": 1040.33
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 221,
+        "elo": 1040.33
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 219,
+        "elo": 1040.33
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 219,
+        "elo": 1040.33
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 130,
+        "elo": 1061.38
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 133,
+        "elo": 1061.38
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 135,
+        "elo": 1061.38
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 135,
+        "elo": 1061.38
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 134,
+        "elo": 1061.38
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 138,
+        "elo": 1061.38
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 215,
+        "elo": 1042.46
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 218,
+        "elo": 1042.46
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 222,
+        "elo": 1042.46
+      }
+    ],
+    "fw": [
+      {
+        "date": "2020-06-01",
+        "rank": 55,
+        "elo": 1013.96
+      },
+      {
+        "date": "2020-07-01",
+        "rank": 54,
+        "elo": 1013.96
+      },
+      {
+        "date": "2020-08-01",
+        "rank": 29,
+        "elo": 1029.32
+      },
+      {
+        "date": "2020-09-01",
+        "rank": 30,
+        "elo": 1029.32
+      },
+      {
+        "date": "2020-10-01",
+        "rank": 72,
+        "elo": 1003.3
+      },
+      {
+        "date": "2020-11-01",
+        "rank": 73,
+        "elo": 1003.3
+      },
+      {
+        "date": "2020-12-01",
+        "rank": 73,
+        "elo": 1003.3
+      },
+      {
+        "date": "2021-01-01",
+        "rank": 74,
+        "elo": 1003.3
+      },
+      {
+        "date": "2021-02-01",
+        "rank": 151,
+        "elo": 975.37
+      },
+      {
+        "date": "2021-03-01",
+        "rank": 150,
+        "elo": 975.37
+      },
+      {
+        "date": "2021-04-01",
+        "rank": 153,
+        "elo": 975.37
+      },
+      {
+        "date": "2021-05-01",
+        "rank": 156,
+        "elo": 975.37
+      },
+      {
+        "date": "2021-06-01",
+        "rank": 229,
+        "elo": 960.41
+      },
+      {
+        "date": "2021-07-01",
+        "rank": 231,
+        "elo": 960.41
+      },
+      {
+        "date": "2021-08-01",
+        "rank": 231,
+        "elo": 960.41
+      },
+      {
+        "date": "2021-09-01",
+        "rank": 231,
+        "elo": 960.41
+      },
+      {
+        "date": "2021-10-01",
+        "rank": 229,
+        "elo": 960.41
+      },
+      {
+        "date": "2021-11-01",
+        "rank": 229,
+        "elo": 960.41
+      },
+      {
+        "date": "2021-12-01",
+        "rank": 230,
+        "elo": 960.41
+      },
+      {
+        "date": "2022-01-01",
+        "rank": 230,
+        "elo": 960.41
+      },
+      {
+        "date": "2022-02-01",
+        "rank": 232,
+        "elo": 960.41
+      },
+      {
+        "date": "2022-03-01",
+        "rank": 231,
+        "elo": 960.41
+      },
+      {
+        "date": "2022-04-01",
+        "rank": 229,
+        "elo": 960.41
+      },
+      {
+        "date": "2022-05-01",
+        "rank": 229,
+        "elo": 960.41
+      },
+      {
+        "date": "2022-06-01",
+        "rank": 230,
+        "elo": 960.41
+      },
+      {
+        "date": "2022-07-01",
+        "rank": 231,
+        "elo": 960.41
+      },
+      {
+        "date": "2022-08-01",
+        "rank": 231,
+        "elo": 960.41
+      },
+      {
+        "date": "2022-09-01",
+        "rank": 233,
+        "elo": 960.41
+      },
+      {
+        "date": "2022-10-01",
+        "rank": 235,
+        "elo": 960.41
+      },
+      {
+        "date": "2022-11-01",
+        "rank": 234,
+        "elo": 960.41
+      },
+      {
+        "date": "2022-12-01",
+        "rank": 236,
+        "elo": 960.41
+      },
+      {
+        "date": "2023-01-01",
+        "rank": 237,
+        "elo": 960.41
+      },
+      {
+        "date": "2023-02-01",
+        "rank": 240,
+        "elo": 960.41
+      },
+      {
+        "date": "2023-03-01",
+        "rank": 241,
+        "elo": 960.41
+      },
+      {
+        "date": "2023-04-01",
+        "rank": 241,
+        "elo": 960.41
+      },
+      {
+        "date": "2023-05-01",
+        "rank": 242,
+        "elo": 960.41
+      },
+      {
+        "date": "2023-06-01",
+        "rank": 240,
+        "elo": 960.41
+      },
+      {
+        "date": "2023-07-01",
+        "rank": 241,
+        "elo": 960.41
+      },
+      {
+        "date": "2023-08-01",
+        "rank": 242,
+        "elo": 960.41
+      },
+      {
+        "date": "2023-09-01",
+        "rank": 247,
+        "elo": 960.41
+      },
+      {
+        "date": "2023-10-01",
+        "rank": 247,
+        "elo": 960.41
+      },
+      {
+        "date": "2023-11-01",
+        "rank": 246,
+        "elo": 960.41
+      },
+      {
+        "date": "2023-12-01",
+        "rank": 246,
+        "elo": 960.41
+      },
+      {
+        "date": "2024-01-01",
+        "rank": 246,
+        "elo": 960.41
+      },
+      {
+        "date": "2024-02-01",
+        "rank": 246,
+        "elo": 960.41
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 124,
+        "elo": 984.22
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 125,
+        "elo": 984.22
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 125,
+        "elo": 984.22
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 124,
+        "elo": 984.22
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 122,
+        "elo": 984.22
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 86,
+        "elo": 1004.18
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 87,
+        "elo": 1004.18
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 87,
+        "elo": 1004.18
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 43,
+        "elo": 1024.2
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 44,
+        "elo": 1024.2
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 44,
+        "elo": 1024.2
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 30,
+        "elo": 1039.19
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 30,
+        "elo": 1039.19
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 29,
+        "elo": 1039.19
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 28,
+        "elo": 1039.19
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 28,
+        "elo": 1039.19
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 28,
+        "elo": 1039.19
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 28,
+        "elo": 1039.19
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 29,
+        "elo": 1039.19
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 16,
+        "elo": 1060.06
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 16,
+        "elo": 1060.06
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 16,
+        "elo": 1060.06
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 16,
+        "elo": 1060.06
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 16,
+        "elo": 1060.06
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 17,
+        "elo": 1060.06
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 38,
+        "elo": 1032.86
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 38,
+        "elo": 1032.86
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 38,
+        "elo": 1032.86
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-04-25",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "cb696ebfb6598724",
+      "opponent_name": "Aljamain Sterling",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1061.38,
+      "p4p_after": 1042.46,
+      "p4p_delta": -18.92,
+      "div_before": 1060.06,
+      "div_after": 1032.86,
+      "div_delta": -27.2
+    },
+    {
+      "date": "2025-10-04",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "fba03cd6cc28dc41",
+      "opponent_name": "Josh Emmett",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1040.33,
+      "p4p_after": 1061.38,
+      "p4p_delta": 21.05,
+      "div_before": 1039.19,
+      "div_after": 1060.06,
+      "div_delta": 20.87
+    },
+    {
+      "date": "2025-02-15",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "751de04455cfaac0",
+      "opponent_name": "Calvin Kattar",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1025.06,
+      "p4p_after": 1040.33,
+      "p4p_delta": 15.27,
+      "div_before": 1024.2,
+      "div_after": 1039.19,
+      "div_delta": 14.99
+    },
+    {
+      "date": "2024-11-02",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "b8a85389d115e35a",
+      "opponent_name": "Jack Shore",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1002.83,
+      "p4p_after": 1025.06,
+      "p4p_delta": 22.23,
+      "div_before": 1004.18,
+      "div_after": 1024.2,
+      "div_delta": 20.02
+    },
+    {
+      "date": "2024-08-10",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "082eba4cd80f736f",
+      "opponent_name": "Jarno Errens",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 982.78,
+      "p4p_after": 1002.83,
+      "p4p_delta": 20.05,
+      "div_before": 984.22,
+      "div_after": 1004.18,
+      "div_delta": 19.96
+    },
+    {
+      "date": "2024-03-23",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "aa171d55d4b5208f",
+      "opponent_name": "Billy Quarantillo",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 958.45,
+      "p4p_after": 982.78,
+      "p4p_delta": 24.33,
+      "div_before": 960.41,
+      "div_after": 984.22,
+      "div_delta": 23.81
+    },
+    {
+      "date": "2021-06-05",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "4682bc59d5f55145",
+      "opponent_name": "Sean Woodson",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 975.36,
+      "p4p_after": 958.45,
+      "p4p_delta": -16.91,
+      "div_before": 975.37,
+      "div_after": 960.41,
+      "div_delta": -14.96
+    },
+    {
+      "date": "2021-02-06",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "a68575214ecad140",
+      "opponent_name": "SeungWoo Choi",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1003.3,
+      "p4p_after": 975.36,
+      "p4p_delta": -27.94,
+      "div_before": 1003.3,
+      "div_after": 975.37,
+      "div_delta": -27.93
+    },
+    {
+      "date": "2020-10-10",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "54f64b5e283b0ce7",
+      "opponent_name": "Ilia Topuria",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1029.32,
+      "p4p_after": 1003.3,
+      "p4p_delta": -26.02,
+      "div_before": 1029.32,
+      "div_after": 1003.3,
+      "div_delta": -26.02
+    },
+    {
+      "date": "2020-08-08",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "d21113c9ff3788ae",
+      "opponent_name": "Peter Barrett",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1013.97,
+      "p4p_after": 1029.32,
+      "p4p_delta": 15.35,
+      "div_before": 1013.96,
+      "div_after": 1029.32,
+      "div_delta": 15.36
+    },
+    {
+      "date": "2020-06-27",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "ebef46976554f975",
+      "opponent_name": "Jordan Griffin",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1013.97,
+      "p4p_delta": 13.97,
+      "div_before": 1000.0,
+      "div_after": 1013.96,
+      "div_delta": 13.96
+    }
+  ]
+}

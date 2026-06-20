@@ -1,0 +1,201 @@
+{
+  "id": "fbb60f24af5d5a02",
+  "name": "Torrez Finney",
+  "slug": "torrez-finney",
+  "last_fight_date": "2026-01-31",
+  "active_current_mode": true,
+  "divisions": [
+    "mw"
+  ],
+  "division_names": {
+    "mw": "Middleweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-04-01",
+        "rank": 481,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 479,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 479,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 477,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 476,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 480,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 480,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 479,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 479,
+        "elo": 1010.2
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 794,
+        "elo": 985.07
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 796,
+        "elo": 985.07
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 801,
+        "elo": 985.07
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 806,
+        "elo": 985.07
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 804,
+        "elo": 985.07
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 804,
+        "elo": 985.07
+      }
+    ],
+    "mw": [
+      {
+        "date": "2025-04-01",
+        "rank": 106,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 105,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 103,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 101,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 102,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 102,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 102,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 102,
+        "elo": 1010.2
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 102,
+        "elo": 1010.2
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 160,
+        "elo": 985.11
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 162,
+        "elo": 985.11
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 163,
+        "elo": 985.11
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 162,
+        "elo": 985.11
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 160,
+        "elo": 985.11
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 160,
+        "elo": 985.11
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-01-31",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "d4270315cbcf2569",
+      "opponent_name": "Jacob Malkoun",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1010.2,
+      "p4p_after": 985.07,
+      "p4p_delta": -25.13,
+      "div_before": 1010.2,
+      "div_after": 985.11,
+      "div_delta": -25.09
+    },
+    {
+      "date": "2025-04-05",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "0cd0456d6029cec2",
+      "opponent_name": "Robert Valentin",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1010.2,
+      "p4p_delta": 10.2,
+      "div_before": 1000.0,
+      "div_after": 1010.2,
+      "div_delta": 10.2
+    }
+  ]
+}

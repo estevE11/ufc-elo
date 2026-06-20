@@ -1,0 +1,76 @@
+{
+  "id": "3cc506f115cbb9d5",
+  "name": "Mantas Kondratavicius",
+  "slug": "mantas-kondratavicius",
+  "last_fight_date": "2026-03-21",
+  "active_current_mode": true,
+  "divisions": [
+    "mw"
+  ],
+  "division_names": {
+    "mw": "Middleweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-03-01",
+        "rank": 475,
+        "elo": 1012.22
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 476,
+        "elo": 1012.22
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 481,
+        "elo": 1012.22
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 479,
+        "elo": 1012.22
+      }
+    ],
+    "mw": [
+      {
+        "date": "2026-03-01",
+        "rank": 99,
+        "elo": 1012.22
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 100,
+        "elo": 1012.22
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 101,
+        "elo": 1012.22
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 100,
+        "elo": 1012.22
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-03-21",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "6d48a2df51749d91",
+      "opponent_name": "Antonio Trocoli",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1012.22,
+      "p4p_delta": 12.22,
+      "div_before": 1000.0,
+      "div_after": 1012.22,
+      "div_delta": 12.22
+    }
+  ]
+}

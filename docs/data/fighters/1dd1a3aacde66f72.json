@@ -1,0 +1,96 @@
+{
+  "id": "1dd1a3aacde66f72",
+  "name": "Sulangrangbo",
+  "slug": "sulangrangbo",
+  "last_fight_date": "2026-01-31",
+  "active_current_mode": true,
+  "divisions": [
+    "bw"
+  ],
+  "division_names": {
+    "bw": "Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-01-01",
+        "rank": 826,
+        "elo": 983.2
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 829,
+        "elo": 983.2
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 833,
+        "elo": 983.2
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 833,
+        "elo": 983.2
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 836,
+        "elo": 983.2
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 836,
+        "elo": 983.2
+      }
+    ],
+    "bw": [
+      {
+        "date": "2026-01-01",
+        "rank": 129,
+        "elo": 983.2
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 128,
+        "elo": 983.2
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 129,
+        "elo": 983.2
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 131,
+        "elo": 983.2
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 132,
+        "elo": 983.2
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 132,
+        "elo": 983.2
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-01-31",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "a1ad35b98a9136e5",
+      "opponent_name": "Lawrence Lui",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 983.2,
+      "p4p_delta": -16.8,
+      "div_before": 1000.0,
+      "div_after": 983.2,
+      "div_delta": -16.8
+    }
+  ]
+}

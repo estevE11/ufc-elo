@@ -25,13 +25,21 @@ ufc-elo/
 │   ├── fighters.csv           # fighter IDs and names
 │   ├── fights.csv             # bout results
 │   └── historical_elo_snapshots.csv
+├── docs/                      # GitHub Pages static site
+│   ├── index.html             # rankings (top 10 per division + P4P)
+│   ├── fighter.html           # fighter profile
+│   ├── css/, js/
+│   └── data/                  # generated JSON (run build_site.sh)
 ├── docs/blog.md               # design write-up
 ├── notebooks/elo_analysis.ipynb
 ├── output/                    # generated MP4s (gitignored)
-├── scripts/weekly_update.sh
+├── scripts/
+│   ├── weekly_update.sh
+│   └── build_site.sh          # rebuild Elo + export site data
 └── src/
     ├── scrape_ufcstats.py
     ├── elo_engine.py
+    ├── export_static_site.py  # JSON export for GitHub Pages
     └── generate_elo_animation.py
 ```
 
@@ -80,6 +88,41 @@ python src/generate_elo_animation.py
 ```
 
 Output: `output/elo_evolution_2020.mp4`
+
+### Build the GitHub Pages site
+
+```bash
+chmod +x scripts/build_site.sh
+./scripts/build_site.sh
+```
+
+This recomputes Elo snapshots and exports JSON into `docs/data/` for the static site in `docs/`.
+
+**Enable GitHub Pages:** repo Settings → Pages → Build from branch `main`, folder `/docs`.
+
+The site includes:
+
+- **Main page** — top 10 per weight class and P4P, with a toggle between *Current* mode (fighters inactive 2+ years excluded) and *Historical* mode (all fighters kept)
+- **Fighter profiles** — P4P/division rank chart over time, full fight history with Elo changes
+
+Preview locally with any static server (ES modules require HTTP):
+
+```bash
+python -m http.server 8000 --directory docs
+# open http://localhost:8000
+```
+
+### Incremental updates
+
+After new fights are scraped, update only what changed:
+
+```bash
+./scripts/update_data.sh
+```
+
+This runs an incremental scrape, updates Elo for new fights only, and rewrites fighter profiles for fighters who competed (rankings are always refreshed).
+
+To trigger the same pipeline on GitHub: **Actions → Update UFC data and site → Run workflow**.
 
 ### Weekly automated update
 

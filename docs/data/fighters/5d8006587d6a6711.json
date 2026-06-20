@@ -1,0 +1,106 @@
+{
+  "id": "5d8006587d6a6711",
+  "name": "Isaac Thomson",
+  "slug": "isaac-thomson",
+  "last_fight_date": "2025-12-13",
+  "active_current_mode": true,
+  "divisions": [
+    "fw"
+  ],
+  "division_names": {
+    "fw": "Featherweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-12-01",
+        "rank": 917,
+        "elo": 978.43
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 923,
+        "elo": 978.43
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 924,
+        "elo": 978.43
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 930,
+        "elo": 978.43
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 930,
+        "elo": 978.43
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 926,
+        "elo": 978.43
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 924,
+        "elo": 978.43
+      }
+    ],
+    "fw": [
+      {
+        "date": "2025-12-01",
+        "rank": 156,
+        "elo": 978.4
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 157,
+        "elo": 978.4
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 159,
+        "elo": 978.4
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 163,
+        "elo": 978.4
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 164,
+        "elo": 978.4
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 165,
+        "elo": 978.4
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 165,
+        "elo": 978.4
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2025-12-13",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "791c8437b341fba5",
+      "opponent_name": "Joanderson Brito",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 978.43,
+      "p4p_delta": -21.57,
+      "div_before": 1000.0,
+      "div_after": 978.4,
+      "div_delta": -21.6
+    }
+  ]
+}

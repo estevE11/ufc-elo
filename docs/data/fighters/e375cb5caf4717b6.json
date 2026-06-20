@@ -1,0 +1,636 @@
+{
+  "id": "e375cb5caf4717b6",
+  "name": "Piera Rodriguez",
+  "slug": "piera-rodriguez",
+  "last_fight_date": "2026-03-14",
+  "active_current_mode": true,
+  "divisions": [
+    "wsw"
+  ],
+  "division_names": {
+    "wsw": "Women's Strawweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2022-04-01",
+        "rank": 392,
+        "elo": 1014.7
+      },
+      {
+        "date": "2022-05-01",
+        "rank": 393,
+        "elo": 1014.7
+      },
+      {
+        "date": "2022-06-01",
+        "rank": 396,
+        "elo": 1014.7
+      },
+      {
+        "date": "2022-07-01",
+        "rank": 395,
+        "elo": 1014.7
+      },
+      {
+        "date": "2022-08-01",
+        "rank": 399,
+        "elo": 1014.7
+      },
+      {
+        "date": "2022-09-01",
+        "rank": 401,
+        "elo": 1014.7
+      },
+      {
+        "date": "2022-10-01",
+        "rank": 263,
+        "elo": 1028.44
+      },
+      {
+        "date": "2022-11-01",
+        "rank": 262,
+        "elo": 1028.44
+      },
+      {
+        "date": "2022-12-01",
+        "rank": 265,
+        "elo": 1028.44
+      },
+      {
+        "date": "2023-01-01",
+        "rank": 262,
+        "elo": 1028.44
+      },
+      {
+        "date": "2023-02-01",
+        "rank": 265,
+        "elo": 1028.44
+      },
+      {
+        "date": "2023-03-01",
+        "rank": 266,
+        "elo": 1028.44
+      },
+      {
+        "date": "2023-04-01",
+        "rank": 596,
+        "elo": 995.48
+      },
+      {
+        "date": "2023-05-01",
+        "rank": 596,
+        "elo": 995.48
+      },
+      {
+        "date": "2023-06-01",
+        "rank": 593,
+        "elo": 995.48
+      },
+      {
+        "date": "2023-07-01",
+        "rank": 588,
+        "elo": 995.48
+      },
+      {
+        "date": "2023-08-01",
+        "rank": 589,
+        "elo": 995.48
+      },
+      {
+        "date": "2023-09-01",
+        "rank": 594,
+        "elo": 995.48
+      },
+      {
+        "date": "2023-10-01",
+        "rank": 599,
+        "elo": 995.48
+      },
+      {
+        "date": "2023-11-01",
+        "rank": 601,
+        "elo": 995.48
+      },
+      {
+        "date": "2023-12-01",
+        "rank": 599,
+        "elo": 995.48
+      },
+      {
+        "date": "2024-01-01",
+        "rank": 601,
+        "elo": 995.48
+      },
+      {
+        "date": "2024-02-01",
+        "rank": 606,
+        "elo": 995.48
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 612,
+        "elo": 995.48
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 619,
+        "elo": 995.48
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 1083,
+        "elo": 970.48
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 1086,
+        "elo": 970.48
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 1084,
+        "elo": 970.48
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 1091,
+        "elo": 970.48
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 1088,
+        "elo": 970.48
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 1088,
+        "elo": 970.48
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 1099,
+        "elo": 970.48
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 698,
+        "elo": 989.25
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 696,
+        "elo": 989.25
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 699,
+        "elo": 989.25
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 707,
+        "elo": 989.25
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 710,
+        "elo": 989.25
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 707,
+        "elo": 989.25
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 705,
+        "elo": 989.25
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 697,
+        "elo": 989.25
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 564,
+        "elo": 1000.43
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 568,
+        "elo": 1000.43
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 570,
+        "elo": 1000.43
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 570,
+        "elo": 1000.43
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 571,
+        "elo": 1000.43
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 569,
+        "elo": 1000.43
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 579,
+        "elo": 1000.43
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 430,
+        "elo": 1016.04
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 430,
+        "elo": 1016.04
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 435,
+        "elo": 1016.04
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 434,
+        "elo": 1016.04
+      }
+    ],
+    "wsw": [
+      {
+        "date": "2022-04-01",
+        "rank": 20,
+        "elo": 1015.79
+      },
+      {
+        "date": "2022-05-01",
+        "rank": 19,
+        "elo": 1015.79
+      },
+      {
+        "date": "2022-06-01",
+        "rank": 19,
+        "elo": 1015.79
+      },
+      {
+        "date": "2022-07-01",
+        "rank": 19,
+        "elo": 1015.79
+      },
+      {
+        "date": "2022-08-01",
+        "rank": 21,
+        "elo": 1015.79
+      },
+      {
+        "date": "2022-09-01",
+        "rank": 22,
+        "elo": 1015.79
+      },
+      {
+        "date": "2022-10-01",
+        "rank": 15,
+        "elo": 1029.57
+      },
+      {
+        "date": "2022-11-01",
+        "rank": 16,
+        "elo": 1029.57
+      },
+      {
+        "date": "2022-12-01",
+        "rank": 18,
+        "elo": 1029.57
+      },
+      {
+        "date": "2023-01-01",
+        "rank": 18,
+        "elo": 1029.57
+      },
+      {
+        "date": "2023-02-01",
+        "rank": 19,
+        "elo": 1029.57
+      },
+      {
+        "date": "2023-03-01",
+        "rank": 19,
+        "elo": 1029.57
+      },
+      {
+        "date": "2023-04-01",
+        "rank": 33,
+        "elo": 995.72
+      },
+      {
+        "date": "2023-05-01",
+        "rank": 33,
+        "elo": 995.72
+      },
+      {
+        "date": "2023-06-01",
+        "rank": 34,
+        "elo": 995.72
+      },
+      {
+        "date": "2023-07-01",
+        "rank": 35,
+        "elo": 995.72
+      },
+      {
+        "date": "2023-08-01",
+        "rank": 35,
+        "elo": 995.72
+      },
+      {
+        "date": "2023-09-01",
+        "rank": 36,
+        "elo": 995.72
+      },
+      {
+        "date": "2023-10-01",
+        "rank": 35,
+        "elo": 995.72
+      },
+      {
+        "date": "2023-11-01",
+        "rank": 35,
+        "elo": 995.72
+      },
+      {
+        "date": "2023-12-01",
+        "rank": 36,
+        "elo": 995.72
+      },
+      {
+        "date": "2024-01-01",
+        "rank": 36,
+        "elo": 995.72
+      },
+      {
+        "date": "2024-02-01",
+        "rank": 36,
+        "elo": 995.72
+      },
+      {
+        "date": "2024-03-01",
+        "rank": 37,
+        "elo": 995.72
+      },
+      {
+        "date": "2024-04-01",
+        "rank": 38,
+        "elo": 995.72
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 57,
+        "elo": 970.82
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 58,
+        "elo": 970.82
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 60,
+        "elo": 970.82
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 61,
+        "elo": 970.82
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 61,
+        "elo": 970.82
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 60,
+        "elo": 970.82
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 61,
+        "elo": 970.82
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 44,
+        "elo": 989.58
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 44,
+        "elo": 989.58
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 44,
+        "elo": 989.58
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 44,
+        "elo": 989.58
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 44,
+        "elo": 989.58
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 43,
+        "elo": 989.58
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 43,
+        "elo": 989.58
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 41,
+        "elo": 989.58
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 32,
+        "elo": 1001.54
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 31,
+        "elo": 1001.54
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 33,
+        "elo": 1001.54
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 32,
+        "elo": 1001.54
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 32,
+        "elo": 1001.54
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 32,
+        "elo": 1001.54
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 33,
+        "elo": 1001.54
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 23,
+        "elo": 1017.17
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 23,
+        "elo": 1017.17
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 23,
+        "elo": 1017.17
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 24,
+        "elo": 1017.17
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-03-14",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "e94085e821bd81de",
+      "opponent_name": "Sam Hughes",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.43,
+      "p4p_after": 1016.04,
+      "p4p_delta": 15.61,
+      "div_before": 1001.54,
+      "div_after": 1017.17,
+      "div_delta": 15.63
+    },
+    {
+      "date": "2025-08-02",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "8bd4200561c77a62",
+      "opponent_name": "Ketlen Souza",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 989.25,
+      "p4p_after": 1000.43,
+      "p4p_delta": 11.18,
+      "div_before": 989.58,
+      "div_after": 1001.54,
+      "div_delta": 11.96
+    },
+    {
+      "date": "2024-12-14",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "971dba22c622af12",
+      "opponent_name": "Josefine Knutsson",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 970.48,
+      "p4p_after": 989.25,
+      "p4p_delta": 18.77,
+      "div_before": 970.82,
+      "div_after": 989.58,
+      "div_delta": 18.76
+    },
+    {
+      "date": "2024-05-18",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "c0d5c0c95c59050b",
+      "opponent_name": "Ariane Carnelossi",
+      "result": "dq",
+      "outcome": "L",
+      "p4p_before": 995.48,
+      "p4p_after": 970.48,
+      "p4p_delta": -25.0,
+      "div_before": 995.72,
+      "div_after": 970.82,
+      "div_delta": -24.9
+    },
+    {
+      "date": "2023-04-15",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "38c7f72747f4f712",
+      "opponent_name": "Gillian Robertson",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1028.44,
+      "p4p_after": 995.48,
+      "p4p_delta": -32.96,
+      "div_before": 1029.57,
+      "div_after": 995.72,
+      "div_delta": -33.85
+    },
+    {
+      "date": "2022-10-15",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "e94085e821bd81de",
+      "opponent_name": "Sam Hughes",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1014.7,
+      "p4p_after": 1028.44,
+      "p4p_delta": 13.74,
+      "div_before": 1015.79,
+      "div_after": 1029.57,
+      "div_delta": 13.78
+    },
+    {
+      "date": "2022-04-09",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "4100c7a09497ad41",
+      "opponent_name": "Kay Hansen",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1014.7,
+      "p4p_delta": 14.7,
+      "div_before": 1000.0,
+      "div_after": 1015.79,
+      "div_delta": 15.79
+    }
+  ]
+}

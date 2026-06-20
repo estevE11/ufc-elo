@@ -1,0 +1,161 @@
+{
+  "id": "5537efc6e496dd84",
+  "name": "Aaron Pico",
+  "slug": "aaron-pico",
+  "last_fight_date": "2026-04-11",
+  "active_current_mode": true,
+  "divisions": [
+    "fw"
+  ],
+  "division_names": {
+    "fw": "Featherweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-08-01",
+        "rank": 875,
+        "elo": 979.2
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 883,
+        "elo": 979.2
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 891,
+        "elo": 979.2
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 892,
+        "elo": 979.2
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 896,
+        "elo": 979.2
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 903,
+        "elo": 979.2
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 904,
+        "elo": 979.2
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 909,
+        "elo": 979.2
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 630,
+        "elo": 996.03
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 637,
+        "elo": 996.03
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 638,
+        "elo": 996.03
+      }
+    ],
+    "fw": [
+      {
+        "date": "2025-08-01",
+        "rank": 148,
+        "elo": 979.17
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 149,
+        "elo": 979.17
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 150,
+        "elo": 979.17
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 151,
+        "elo": 979.17
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 151,
+        "elo": 979.17
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 153,
+        "elo": 979.17
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 155,
+        "elo": 979.17
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 159,
+        "elo": 979.17
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 107,
+        "elo": 996.03
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 107,
+        "elo": 996.03
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 106,
+        "elo": 996.03
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-04-11",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "98a58c26c5b1ed17",
+      "opponent_name": "Patricio Pitbull",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 979.2,
+      "p4p_after": 996.03,
+      "p4p_delta": 16.83,
+      "div_before": 979.17,
+      "div_after": 996.03,
+      "div_delta": 16.86
+    },
+    {
+      "date": "2025-08-16",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "396fe87b84ac2e1c",
+      "opponent_name": "Lerone Murphy",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 979.2,
+      "p4p_delta": -20.8,
+      "div_before": 1000.0,
+      "div_after": 979.17,
+      "div_delta": -20.83
+    }
+  ]
+}

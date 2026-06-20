@@ -1,0 +1,455 @@
+{
+  "id": "ffd3224638c01b57",
+  "name": "Jean Matsumoto",
+  "slug": "jean-matsumoto",
+  "last_fight_date": "2026-02-07",
+  "active_current_mode": true,
+  "divisions": [
+    "bw",
+    "catch"
+  ],
+  "division_names": {
+    "bw": "Bantamweight",
+    "catch": "Catch"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2024-04-01",
+        "rank": 365,
+        "elo": 1020.39
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 366,
+        "elo": 1020.39
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 369,
+        "elo": 1020.39
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 367,
+        "elo": 1020.39
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 365,
+        "elo": 1020.39
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 368,
+        "elo": 1020.39
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 256,
+        "elo": 1034.69
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 260,
+        "elo": 1034.69
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 262,
+        "elo": 1034.69
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 259,
+        "elo": 1034.69
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 403,
+        "elo": 1018.01
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 405,
+        "elo": 1018.01
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 405,
+        "elo": 1018.01
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 407,
+        "elo": 1018.01
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 405,
+        "elo": 1018.01
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 407,
+        "elo": 1018.01
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 304,
+        "elo": 1029.49
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 304,
+        "elo": 1029.49
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 300,
+        "elo": 1029.49
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 300,
+        "elo": 1029.49
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 296,
+        "elo": 1029.49
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 299,
+        "elo": 1029.49
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 438,
+        "elo": 1015.25
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 443,
+        "elo": 1015.25
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 441,
+        "elo": 1015.25
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 445,
+        "elo": 1015.25
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 444,
+        "elo": 1015.25
+      }
+    ],
+    "bw": [
+      {
+        "date": "2024-04-01",
+        "rank": 52,
+        "elo": 1020.8
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 53,
+        "elo": 1020.8
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 53,
+        "elo": 1020.8
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 53,
+        "elo": 1020.8
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 54,
+        "elo": 1020.8
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 55,
+        "elo": 1020.8
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 40,
+        "elo": 1034.74
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 38,
+        "elo": 1034.74
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 37,
+        "elo": 1034.74
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 35,
+        "elo": 1034.74
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 35,
+        "elo": 1034.74
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 35,
+        "elo": 1034.74
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 35,
+        "elo": 1034.74
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 35,
+        "elo": 1034.74
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 37,
+        "elo": 1034.74
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 34,
+        "elo": 1034.74
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 24,
+        "elo": 1046.59
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 23,
+        "elo": 1046.59
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 22,
+        "elo": 1046.59
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 23,
+        "elo": 1046.59
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 24,
+        "elo": 1046.59
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 23,
+        "elo": 1046.59
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 41,
+        "elo": 1030.75
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 40,
+        "elo": 1030.75
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 41,
+        "elo": 1030.75
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 41,
+        "elo": 1030.75
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 41,
+        "elo": 1030.75
+      }
+    ],
+    "catch": [
+      {
+        "date": "2025-02-01",
+        "rank": 70,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 70,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 70,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 70,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 70,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 70,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 70,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 70,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 70,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 72,
+        "elo": 982.04
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 73,
+        "elo": 982.04
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 73,
+        "elo": 982.04
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 75,
+        "elo": 982.04
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 75,
+        "elo": 982.04
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 75,
+        "elo": 982.04
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 77,
+        "elo": 982.04
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 78,
+        "elo": 982.04
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-02-07",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "a09ed60aa67a3f67",
+      "opponent_name": "Farid Basharat",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 1029.49,
+      "p4p_after": 1015.25,
+      "p4p_delta": -14.24,
+      "div_before": 1046.59,
+      "div_after": 1030.75,
+      "div_delta": -15.84
+    },
+    {
+      "date": "2025-08-09",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "46e0d677f91bacc0",
+      "opponent_name": "Miles Johns",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 1018.01,
+      "p4p_after": 1029.49,
+      "p4p_delta": 11.48,
+      "div_before": 1034.74,
+      "div_after": 1046.59,
+      "div_delta": 11.85
+    },
+    {
+      "date": "2025-02-22",
+      "weight_class": "catch",
+      "weight_class_name": "Catch",
+      "opponent_id": "05339613bf8e9808",
+      "opponent_name": "Rob Font",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 1034.69,
+      "p4p_after": 1018.01,
+      "p4p_delta": -16.68,
+      "div_before": 1000.0,
+      "div_after": 982.04,
+      "div_delta": -17.96
+    },
+    {
+      "date": "2024-10-19",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "7b433309b0fd12aa",
+      "opponent_name": "Brad Katona",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1020.39,
+      "p4p_after": 1034.69,
+      "p4p_delta": 14.3,
+      "div_before": 1020.8,
+      "div_after": 1034.74,
+      "div_delta": 13.94
+    },
+    {
+      "date": "2024-04-06",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "e4ba58725825412d",
+      "opponent_name": "Dan Argueta",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1020.39,
+      "p4p_delta": 20.39,
+      "div_before": 1000.0,
+      "div_after": 1020.8,
+      "div_delta": 20.8
+    }
+  ]
+}

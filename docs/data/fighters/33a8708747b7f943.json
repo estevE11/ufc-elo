@@ -1,0 +1,66 @@
+{
+  "id": "33a8708747b7f943",
+  "name": "Lucas Brennan",
+  "slug": "lucas-brennan",
+  "last_fight_date": "2026-04-25",
+  "active_current_mode": true,
+  "divisions": [
+    "lw"
+  ],
+  "division_names": {
+    "lw": "Lightweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-04-01",
+        "rank": 1043,
+        "elo": 974.94
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 1041,
+        "elo": 974.94
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 1039,
+        "elo": 974.94
+      }
+    ],
+    "lw": [
+      {
+        "date": "2026-04-01",
+        "rank": 226,
+        "elo": 976.77
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 227,
+        "elo": 976.77
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 227,
+        "elo": 976.77
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-04-25",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "5d495dec23d7c68e",
+      "opponent_name": "Francis Marshall",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 974.94,
+      "p4p_delta": -25.06,
+      "div_before": 1000.0,
+      "div_after": 976.77,
+      "div_delta": -23.23
+    }
+  ]
+}

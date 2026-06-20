@@ -1,0 +1,146 @@
+{
+  "id": "a78f7a9135eb6249",
+  "name": "Terrance Saeteurn",
+  "slug": "terrance-saeteurn",
+  "last_fight_date": "2025-08-22",
+  "active_current_mode": true,
+  "divisions": [
+    "flw"
+  ],
+  "division_names": {
+    "flw": "Flyweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2025-08-01",
+        "rank": 1334,
+        "elo": 967.07
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 1344,
+        "elo": 967.07
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 1350,
+        "elo": 967.07
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 1355,
+        "elo": 967.07
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 1360,
+        "elo": 967.07
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 1367,
+        "elo": 967.07
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 1367,
+        "elo": 967.07
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 1376,
+        "elo": 967.07
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 1381,
+        "elo": 967.07
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 1380,
+        "elo": 967.07
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 1379,
+        "elo": 967.07
+      }
+    ],
+    "flw": [
+      {
+        "date": "2025-08-01",
+        "rank": 92,
+        "elo": 967.06
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 92,
+        "elo": 967.06
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 92,
+        "elo": 967.06
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 91,
+        "elo": 967.06
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 91,
+        "elo": 967.06
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 91,
+        "elo": 967.06
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 91,
+        "elo": 967.06
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 91,
+        "elo": 967.06
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 92,
+        "elo": 967.06
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 91,
+        "elo": 967.06
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 90,
+        "elo": 967.06
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2025-08-22",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "17cb6d8e8187f304",
+      "opponent_name": "Nyamjargal Tumendemberel",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 967.07,
+      "p4p_delta": -32.93,
+      "div_before": 1000.0,
+      "div_after": 967.06,
+      "div_delta": -32.94
+    }
+  ]
+}

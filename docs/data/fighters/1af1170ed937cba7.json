@@ -1,0 +1,336 @@
+{
+  "id": "1af1170ed937cba7",
+  "name": "Kayla Harrison",
+  "slug": "kayla-harrison",
+  "last_fight_date": "2025-06-07",
+  "active_current_mode": true,
+  "divisions": [
+    "wbw"
+  ],
+  "division_names": {
+    "wbw": "Women's Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2024-04-01",
+        "rank": 366,
+        "elo": 1020.38
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 367,
+        "elo": 1020.38
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 370,
+        "elo": 1020.38
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 368,
+        "elo": 1020.38
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 366,
+        "elo": 1020.38
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 369,
+        "elo": 1020.38
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 219,
+        "elo": 1038.3
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 225,
+        "elo": 1038.3
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 227,
+        "elo": 1038.3
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 225,
+        "elo": 1038.3
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 229,
+        "elo": 1038.3
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 227,
+        "elo": 1038.3
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 227,
+        "elo": 1038.3
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 228,
+        "elo": 1038.3
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 136,
+        "elo": 1060.25
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 135,
+        "elo": 1060.25
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 136,
+        "elo": 1060.25
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 135,
+        "elo": 1060.25
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 132,
+        "elo": 1060.25
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 136,
+        "elo": 1060.25
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 138,
+        "elo": 1060.25
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 139,
+        "elo": 1060.25
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 139,
+        "elo": 1060.25
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 143,
+        "elo": 1060.25
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 143,
+        "elo": 1060.25
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 140,
+        "elo": 1060.25
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 142,
+        "elo": 1060.25
+      }
+    ],
+    "wbw": [
+      {
+        "date": "2024-04-01",
+        "rank": 15,
+        "elo": 1021.47
+      },
+      {
+        "date": "2024-05-01",
+        "rank": 15,
+        "elo": 1021.47
+      },
+      {
+        "date": "2024-06-01",
+        "rank": 14,
+        "elo": 1021.47
+      },
+      {
+        "date": "2024-07-01",
+        "rank": 14,
+        "elo": 1021.47
+      },
+      {
+        "date": "2024-08-01",
+        "rank": 14,
+        "elo": 1021.47
+      },
+      {
+        "date": "2024-09-01",
+        "rank": 14,
+        "elo": 1021.47
+      },
+      {
+        "date": "2024-10-01",
+        "rank": 9,
+        "elo": 1039.39
+      },
+      {
+        "date": "2024-11-01",
+        "rank": 9,
+        "elo": 1039.39
+      },
+      {
+        "date": "2024-12-01",
+        "rank": 9,
+        "elo": 1039.39
+      },
+      {
+        "date": "2025-01-01",
+        "rank": 9,
+        "elo": 1039.39
+      },
+      {
+        "date": "2025-02-01",
+        "rank": 9,
+        "elo": 1039.39
+      },
+      {
+        "date": "2025-03-01",
+        "rank": 9,
+        "elo": 1039.39
+      },
+      {
+        "date": "2025-04-01",
+        "rank": 9,
+        "elo": 1039.39
+      },
+      {
+        "date": "2025-05-01",
+        "rank": 9,
+        "elo": 1039.39
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 5,
+        "elo": 1060.93
+      },
+      {
+        "date": "2025-07-01",
+        "rank": 5,
+        "elo": 1060.93
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 5,
+        "elo": 1060.93
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 5,
+        "elo": 1060.93
+      },
+      {
+        "date": "2025-10-01",
+        "rank": 4,
+        "elo": 1060.93
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 4,
+        "elo": 1060.93
+      },
+      {
+        "date": "2025-12-01",
+        "rank": 4,
+        "elo": 1060.93
+      },
+      {
+        "date": "2026-01-01",
+        "rank": 4,
+        "elo": 1060.93
+      },
+      {
+        "date": "2026-02-01",
+        "rank": 4,
+        "elo": 1060.93
+      },
+      {
+        "date": "2026-03-01",
+        "rank": 4,
+        "elo": 1060.93
+      },
+      {
+        "date": "2026-04-01",
+        "rank": 4,
+        "elo": 1060.93
+      },
+      {
+        "date": "2026-05-01",
+        "rank": 4,
+        "elo": 1060.93
+      },
+      {
+        "date": "2026-06-01",
+        "rank": 4,
+        "elo": 1060.93
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2025-06-07",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "3253b16d38ae087d",
+      "opponent_name": "Julianna Pena",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1038.3,
+      "p4p_after": 1060.25,
+      "p4p_delta": 21.95,
+      "div_before": 1039.39,
+      "div_after": 1060.93,
+      "div_delta": 21.54
+    },
+    {
+      "date": "2024-10-05",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "b9706f80d005036c",
+      "opponent_name": "Ketlen Vieira",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1020.38,
+      "p4p_after": 1038.3,
+      "p4p_delta": 17.92,
+      "div_before": 1021.47,
+      "div_after": 1039.39,
+      "div_delta": 17.92
+    },
+    {
+      "date": "2024-04-13",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "634e2fb70bde3fd5",
+      "opponent_name": "Holly Holm",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1020.38,
+      "p4p_delta": 20.38,
+      "div_before": 1000.0,
+      "div_after": 1021.47,
+      "div_delta": 21.47
+    }
+  ]
+}
