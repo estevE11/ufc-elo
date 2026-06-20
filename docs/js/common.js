@@ -19,6 +19,11 @@ export function fighterPageUrl(fighterId) {
   return `fighter.html?id=${encodeURIComponent(fighterId)}`;
 }
 
+export function getCompareIdsFromURL() {
+  const params = new URLSearchParams(window.location.search);
+  return { a: params.get("a"), b: params.get("b") };
+}
+
 export function formatDelta(value) {
   const sign = value > 0 ? "+" : "";
   return `${sign}${value.toFixed(2)}`;

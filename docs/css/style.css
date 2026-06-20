@@ -412,6 +412,239 @@ a:hover {
   margin-bottom: 1rem;
 }
 
+/* Chart header + compare control */
+.chart-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.chart-head h2 {
+  margin-bottom: 0;
+}
+
+.compare-control {
+  position: relative;
+  flex-shrink: 0;
+}
+
+.compare-btn {
+  background: var(--surface-2);
+  border: 1px solid var(--border-strong);
+  border-radius: 999px;
+  color: var(--text);
+  cursor: pointer;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 0.45rem 1rem;
+  transition: all 0.15s ease;
+}
+
+.compare-btn:hover {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-glow);
+  color: #fff;
+}
+
+.compare-search {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 0.5rem);
+  width: 260px;
+  max-width: 78vw;
+  background: var(--surface-2);
+  border: 1px solid var(--border-strong);
+  border-radius: 10px;
+  box-shadow: var(--shadow);
+  padding: 0.6rem;
+  z-index: 60;
+  display: none;
+}
+
+.compare-search.open {
+  display: block;
+}
+
+.compare-search input {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text);
+  font-size: 0.9rem;
+  padding: 0.5rem 0.75rem;
+  width: 100%;
+}
+
+.compare-search input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-glow);
+}
+
+.compare-search .search-results {
+  position: static;
+  width: 100%;
+  margin-top: 0.5rem;
+  border: none;
+  box-shadow: none;
+  background: none;
+  max-height: 260px;
+}
+
+.compare-search .search-results a {
+  border-radius: 6px;
+  border-bottom: none;
+}
+
+.chart-note {
+  color: var(--muted-2);
+  font-size: 0.78rem;
+  margin-top: 0.75rem;
+}
+
+/* Versus summary cards */
+.versus-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.vs-card {
+  background: linear-gradient(180deg, var(--surface), #111115);
+  border: 1px solid var(--border);
+  border-top: 3px solid var(--border-strong);
+  border-radius: 12px;
+  box-shadow: var(--shadow-sm);
+  padding: 1.1rem 1.25rem;
+}
+
+.vs-card-a { border-top-color: var(--accent); }
+.vs-card-b { border-top-color: #3b9dff; }
+
+.vs-card-name {
+  display: block;
+  font-size: 1.15rem;
+  font-weight: 800;
+  letter-spacing: 0.01em;
+  margin-bottom: 0.75rem;
+}
+
+.vs-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.vs-stats > div {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.vs-stats dt {
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.vs-stats dd {
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Versus title */
+#compare-title {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.85rem;
+  -webkit-text-fill-color: initial;
+  background: none;
+}
+
+.vs-name {
+  font-weight: 800;
+}
+
+.vs-name.vs-a { color: var(--accent-2); }
+.vs-name.vs-b { color: #5cb0ff; }
+
+.vs-sep {
+  color: var(--muted-2);
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+
+/* Head to head */
+.h2h-section:not(:empty) {
+  margin-bottom: 1.5rem;
+}
+
+.h2h-title {
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.85rem;
+  text-transform: uppercase;
+}
+
+.h2h-list {
+  list-style: none;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+}
+
+.h2h-list li {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.7rem 1.1rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.9rem;
+}
+
+.h2h-list li:first-child {
+  border-top: none;
+}
+
+.h2h-date {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  min-width: 6rem;
+}
+
+.h2h-winner {
+  font-weight: 700;
+  flex: 1;
+}
+
+.h2h-winner.vs-a { color: var(--accent-2); }
+.h2h-winner.vs-b { color: #5cb0ff; }
+
+.h2h-method,
+.h2h-div {
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+@media (max-width: 560px) {
+  .versus-grid {
+    grid-template-columns: 1fr;
+  }
+  .h2h-list li {
+    flex-wrap: wrap;
+    gap: 0.25rem 0.85rem;
+  }
+}
+
 .chart-filter {
   background: var(--surface-2);
   border: 1px solid var(--border);

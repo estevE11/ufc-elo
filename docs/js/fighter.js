@@ -49,6 +49,7 @@ async function init() {
     renderChartFilters();
     renderChart();
     renderFights();
+    setupCompare(fighterId);
     document.title = `${profile.name} — UFC Elo`;
   } catch (err) {
     document.getElementById("app").innerHTML =
@@ -193,6 +194,55 @@ function renderChart() {
         },
       },
     },
+  });
+}
+
+function setupCompare(fighterId) {
+  const btn = document.getElementById("compare-btn");
+  const box = document.getElementById("compare-search");
+  const input = document.getElementById("compare-input");
+  const results = document.getElementById("compare-results");
+  let index = null;
+
+  async function ensureIndex() {
+    if (!index) index = await fetchJSON("fighters_index.json");
+    return index;
+  }
+
+  btn.addEventListener("click", async () => {
+    const open = box.classList.toggle("open");
+    if (open) {
+      await ensureIndex();
+      input.focus();
+    }
+  });
+
+  input.addEventListener("input", () => {
+    const query = input.value.trim().toLowerCase();
+    if (query.length < 2 || !index) {
+      results.classList.remove("visible");
+      results.innerHTML = "";
+      return;
+    }
+    const matches = index
+      .filter((f) => f.id !== fighterId && f.name.toLowerCase().includes(query))
+      .slice(0, 10);
+    results.innerHTML = matches.length
+      ? matches
+          .map(
+            (f) =>
+              `<a href="compare.html?a=${encodeURIComponent(fighterId)}&b=${encodeURIComponent(f.id)}">${f.name}</a>`
+          )
+          .join("")
+      : `<div style="padding:0.5rem 0.85rem;color:var(--muted)">No matches</div>`;
+    results.classList.add("visible");
+  });
+
+  document.addEventListener("click", (e) => {
+    if (!e.target.closest(".compare-control")) {
+      box.classList.remove("open");
+      results.classList.remove("visible");
+    }
   });
 }
 

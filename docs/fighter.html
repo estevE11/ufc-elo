@@ -22,7 +22,16 @@
     </div>
 
     <section class="chart-section">
-      <h2 id="chart-title">Ranking Over Time</h2>
+      <div class="chart-head">
+        <h2 id="chart-title">Ranking Over Time</h2>
+        <div class="compare-control">
+          <button id="compare-btn" class="compare-btn" type="button">⚔ Compare</button>
+          <div id="compare-search" class="compare-search">
+            <input type="search" id="compare-input" placeholder="Search a fighter…" autocomplete="off">
+            <div id="compare-results" class="search-results"></div>
+          </div>
+        </div>
+      </div>
       <div id="chart-filters" class="chart-filters"></div>
       <div class="chart-container">
         <canvas id="rank-chart"></canvas>

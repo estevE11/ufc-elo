@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Compare — UFC Elo</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="logo">UFC <span>Elo</span></a>
+      <a href="index.html" class="back-link">← Back to rankings</a>
+    </div>
+  </header>
+
+  <main class="container" id="app">
+    <div class="profile-header">
+      <h1 id="compare-title">Loading…</h1>
+      <p id="compare-sub" class="profile-meta"></p>
+    </div>
+
+    <section id="versus" class="versus-grid"></section>
+
+    <section class="chart-section">
+      <div class="chart-head">
+        <h2 id="chart-title">Elo by Fight</h2>
+      </div>
+      <div id="chart-filters" class="chart-filters"></div>
+      <div class="chart-container">
+        <canvas id="compare-chart"></canvas>
+      </div>
+      <p class="chart-note">X axis is each fighter's fight number in this division (not calendar date).</p>
+    </section>
+
+    <section id="h2h" class="h2h-section"></section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      Custom Elo ratings from UFC fight history
+    </div>
+  </footer>
+
+  <script type="module" src="js/compare.js"></script>
+</body>
+</html>
