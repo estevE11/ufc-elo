@@ -2,7 +2,7 @@
   "id": "cd13728ae1151f46",
   "name": "Ion Cutelaba",
   "slug": "ion-cutelaba",
-  "last_fight_date": "2026-03-14",
+  "last_fight_date": "2026-06-20",
   "active_current_mode": true,
   "divisions": [
     "lhw"
@@ -14,22 +14,22 @@
     "p4p": [
       {
         "date": "2016-06-01",
-        "rank": 719,
+        "rank": 720,
         "elo": 972.41
       },
       {
         "date": "2016-07-01",
-        "rank": 722,
+        "rank": 724,
         "elo": 972.41
       },
       {
         "date": "2016-08-01",
-        "rank": 729,
+        "rank": 731,
         "elo": 972.41
       },
       {
         "date": "2016-09-01",
-        "rank": 729,
+        "rank": 731,
         "elo": 972.41
       },
       {
@@ -389,12 +389,12 @@
       },
       {
         "date": "2022-09-01",
-        "rank": 1993,
+        "rank": 1994,
         "elo": 931.76
       },
       {
         "date": "2022-10-01",
-        "rank": 1996,
+        "rank": 1997,
         "elo": 931.76
       },
       {
@@ -539,7 +539,7 @@
       },
       {
         "date": "2025-03-01",
-        "rank": 1609,
+        "rank": 1610,
         "elo": 954.29
       },
       {
@@ -554,7 +554,7 @@
       },
       {
         "date": "2025-06-01",
-        "rank": 2036,
+        "rank": 2037,
         "elo": 939.15
       },
       {
@@ -569,12 +569,12 @@
       },
       {
         "date": "2025-09-01",
-        "rank": 2045,
+        "rank": 2046,
         "elo": 939.15
       },
       {
         "date": "2025-10-01",
-        "rank": 2046,
+        "rank": 2047,
         "elo": 939.15
       },
       {
@@ -614,8 +614,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1449,
-        "elo": 965.09
+        "rank": 1994,
+        "elo": 942.35
       }
     ],
     "lhw": [
@@ -1221,12 +1221,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 169,
-        "elo": 968.41
+        "rank": 237,
+        "elo": 945.41
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "b4b496ec2197ee3e",
+      "opponent_name": "Navajo Stirling",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 965.09,
+      "p4p_after": 942.35,
+      "p4p_delta": -22.74,
+      "div_before": 968.41,
+      "div_after": 945.41,
+      "div_delta": -23.0
+    },
     {
       "date": "2026-03-14",
       "weight_class": "lhw",

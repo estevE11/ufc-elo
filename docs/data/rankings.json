@@ -176,15 +176,15 @@
       },
       {
         "rank": 9,
-        "fighter_id": "902ab9197b83d0db",
-        "name": "Phil Davis",
-        "elo": 1071.8
+        "fighter_id": "b4b496ec2197ee3e",
+        "name": "Navajo Stirling",
+        "elo": 1077.16
       },
       {
         "rank": 10,
-        "fighter_id": "f7a7f7118d4b01b6",
-        "name": "Lyoto Machida",
-        "elo": 1067.89
+        "fighter_id": "902ab9197b83d0db",
+        "name": "Phil Davis",
+        "elo": 1071.8
       }
     ],
     "mw": [
@@ -518,9 +518,9 @@
       },
       {
         "rank": 4,
-        "fighter_id": "98aa60cf58071fd6",
-        "name": "Kyoji Horiguchi",
-        "elo": 1101.49
+        "fighter_id": "5d1b7e3dd9e11074",
+        "name": "Manel Kape",
+        "elo": 1100.6
       },
       {
         "rank": 5,
@@ -536,21 +536,21 @@
       },
       {
         "rank": 7,
-        "fighter_id": "5d1b7e3dd9e11074",
-        "name": "Manel Kape",
-        "elo": 1078.43
-      },
-      {
-        "rank": 8,
         "fighter_id": "4461d7e47375a895",
         "name": "Tatsuro Taira",
         "elo": 1076.23
       },
       {
-        "rank": 9,
+        "rank": 8,
         "fighter_id": "80eacd4da0617c57",
         "name": "Joseph Benavidez",
         "elo": 1069.68
+      },
+      {
+        "rank": 9,
+        "fighter_id": "98aa60cf58071fd6",
+        "name": "Kyoji Horiguchi",
+        "elo": 1068.22
       },
       {
         "rank": 10,
@@ -698,45 +698,45 @@
       },
       {
         "rank": 3,
+        "fighter_id": "5078e1dacf9d25f4",
+        "name": "Luana Santos",
+        "elo": 1065.69
+      },
+      {
+        "rank": 4,
         "fighter_id": "fc169c387b4b465d",
         "name": "Raquel Pennington",
         "elo": 1062.87
       },
       {
-        "rank": 4,
+        "rank": 5,
         "fighter_id": "1af1170ed937cba7",
         "name": "Kayla Harrison",
         "elo": 1060.93
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "fighter_id": "eff9074bc066f0f2",
+        "name": "Bia Mesquita",
+        "elo": 1055.97
+      },
+      {
+        "rank": 7,
         "fighter_id": "f9ab66e67240db7b",
         "name": "Joselyne Edwards",
         "elo": 1051.74
       },
       {
-        "rank": 6,
-        "fighter_id": "5078e1dacf9d25f4",
-        "name": "Luana Santos",
-        "elo": 1051.32
-      },
-      {
-        "rank": 7,
+        "rank": 8,
         "fighter_id": "1d239d571e342453",
         "name": "Germaine de Randamie",
         "elo": 1050.86
       },
       {
-        "rank": 8,
+        "rank": 9,
         "fighter_id": "8bdac25ce0bb874d",
         "name": "Ronda Rousey",
         "elo": 1044.64
-      },
-      {
-        "rank": 9,
-        "fighter_id": "eff9074bc066f0f2",
-        "name": "Bia Mesquita",
-        "elo": 1038.53
       },
       {
         "rank": 10,
@@ -960,21 +960,21 @@
       },
       {
         "rank": 5,
+        "fighter_id": "b4b496ec2197ee3e",
+        "name": "Navajo Stirling",
+        "elo": 1077.16
+      },
+      {
+        "rank": 6,
         "fighter_id": "e4277e87a789d687",
         "name": "Dustin Jacoby",
         "elo": 1066.99
       },
       {
-        "rank": 6,
+        "rank": 7,
         "fighter_id": "e90a2f22417af68e",
         "name": "Azamat Murzakanov",
         "elo": 1064.08
-      },
-      {
-        "rank": 7,
-        "fighter_id": "b4b496ec2197ee3e",
-        "name": "Navajo Stirling",
-        "elo": 1061.83
       },
       {
         "rank": 8,
@@ -1320,9 +1320,9 @@
       },
       {
         "rank": 3,
-        "fighter_id": "98aa60cf58071fd6",
-        "name": "Kyoji Horiguchi",
-        "elo": 1101.49
+        "fighter_id": "5d1b7e3dd9e11074",
+        "name": "Manel Kape",
+        "elo": 1100.6
       },
       {
         "rank": 4,
@@ -1338,15 +1338,15 @@
       },
       {
         "rank": 6,
-        "fighter_id": "5d1b7e3dd9e11074",
-        "name": "Manel Kape",
-        "elo": 1078.43
-      },
-      {
-        "rank": 7,
         "fighter_id": "4461d7e47375a895",
         "name": "Tatsuro Taira",
         "elo": 1076.23
+      },
+      {
+        "rank": 7,
+        "fighter_id": "98aa60cf58071fd6",
+        "name": "Kyoji Horiguchi",
+        "elo": 1068.22
       },
       {
         "rank": 8,
@@ -1362,9 +1362,9 @@
       },
       {
         "rank": 10,
-        "fighter_id": "b1f21ce050035d58",
-        "name": "Andre Lima",
-        "elo": 1058.29
+        "fighter_id": "83455a9d17f57dae",
+        "name": "Rafael Estevam",
+        "elo": 1045.86
       }
     ],
     "wsw": [
@@ -1500,33 +1500,33 @@
       },
       {
         "rank": 2,
+        "fighter_id": "5078e1dacf9d25f4",
+        "name": "Luana Santos",
+        "elo": 1065.69
+      },
+      {
+        "rank": 3,
         "fighter_id": "fc169c387b4b465d",
         "name": "Raquel Pennington",
         "elo": 1062.87
       },
       {
-        "rank": 3,
+        "rank": 4,
         "fighter_id": "1af1170ed937cba7",
         "name": "Kayla Harrison",
         "elo": 1060.93
       },
       {
-        "rank": 4,
-        "fighter_id": "f9ab66e67240db7b",
-        "name": "Joselyne Edwards",
-        "elo": 1051.74
-      },
-      {
         "rank": 5,
-        "fighter_id": "5078e1dacf9d25f4",
-        "name": "Luana Santos",
-        "elo": 1051.32
+        "fighter_id": "eff9074bc066f0f2",
+        "name": "Bia Mesquita",
+        "elo": 1055.97
       },
       {
         "rank": 6,
-        "fighter_id": "eff9074bc066f0f2",
-        "name": "Bia Mesquita",
-        "elo": 1038.53
+        "fighter_id": "f9ab66e67240db7b",
+        "name": "Joselyne Edwards",
+        "elo": 1051.74
       },
       {
         "rank": 7,

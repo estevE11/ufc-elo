@@ -2,13 +2,15 @@
   "id": "96924b0019b3aff1",
   "name": "Gaston Bolanos",
   "slug": "gaston-bolanos",
-  "last_fight_date": "2025-05-03",
+  "last_fight_date": "2026-06-20",
   "active_current_mode": true,
   "divisions": [
-    "bw"
+    "bw",
+    "fw"
   ],
   "division_names": {
-    "bw": "Bantamweight"
+    "bw": "Bantamweight",
+    "fw": "Featherweight"
   },
   "rank_history": {
     "p4p": [
@@ -109,7 +111,7 @@
       },
       {
         "date": "2024-11-01",
-        "rank": 575,
+        "rank": 577,
         "elo": 999.87
       },
       {
@@ -119,17 +121,17 @@
       },
       {
         "date": "2025-01-01",
-        "rank": 568,
-        "elo": 999.87
-      },
-      {
-        "date": "2025-02-01",
         "rank": 570,
         "elo": 999.87
       },
       {
+        "date": "2025-02-01",
+        "rank": 572,
+        "elo": 999.87
+      },
+      {
         "date": "2025-03-01",
-        "rank": 574,
+        "rank": 576,
         "elo": 999.87
       },
       {
@@ -204,8 +206,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1474,
-        "elo": 964.08
+        "rank": 883,
+        "elo": 980.45
       }
     ],
     "bw": [
@@ -404,9 +406,31 @@
         "rank": 217,
         "elo": 963.73
       }
+    ],
+    "fw": [
+      {
+        "date": "2026-06-01",
+        "rank": 83,
+        "elo": 1015.74
+      }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "01c9e4013afce141",
+      "opponent_name": "Michael Aswell Jr.",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 964.08,
+      "p4p_after": 980.45,
+      "p4p_delta": 16.37,
+      "div_before": 1000.0,
+      "div_after": 1015.74,
+      "div_delta": 15.74
+    },
     {
       "date": "2025-05-03",
       "weight_class": "bw",

@@ -1,0 +1,46 @@
+{
+  "id": "b9124c308671e303",
+  "name": "Otari Tanzilovi",
+  "slug": "otari-tanzilovi",
+  "last_fight_date": "2026-06-20",
+  "active_current_mode": true,
+  "divisions": [
+    "fw"
+  ],
+  "division_names": {
+    "fw": "Featherweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-06-01",
+        "rank": 1014,
+        "elo": 976.0
+      }
+    ],
+    "fw": [
+      {
+        "date": "2026-06-01",
+        "rank": 194,
+        "elo": 976.0
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "70fc8214822b5a85",
+      "opponent_name": "Shane Collins",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 976.0,
+      "p4p_delta": -24.0,
+      "div_before": 1000.0,
+      "div_after": 976.0,
+      "div_delta": -24.0
+    }
+  ]
+}

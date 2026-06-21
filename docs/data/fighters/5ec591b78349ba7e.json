@@ -2,7 +2,7 @@
   "id": "5ec591b78349ba7e",
   "name": "Christian Rodriguez",
   "slug": "christian-rodriguez",
-  "last_fight_date": "2025-08-09",
+  "last_fight_date": "2026-06-20",
   "active_current_mode": true,
   "divisions": [
     "bw",
@@ -226,89 +226,89 @@
       },
       {
         "date": "2025-08-01",
-        "rank": 994,
+        "rank": 995,
         "elo": 975.5
       },
       {
         "date": "2025-09-01",
-        "rank": 1004,
+        "rank": 1005,
         "elo": 975.5
       },
       {
         "date": "2025-10-01",
-        "rank": 1008,
+        "rank": 1009,
         "elo": 975.5
       },
       {
         "date": "2025-11-01",
-        "rank": 1014,
+        "rank": 1015,
         "elo": 975.5
       },
       {
         "date": "2025-12-01",
-        "rank": 1020,
+        "rank": 1021,
         "elo": 975.5
       },
       {
         "date": "2026-01-01",
-        "rank": 1028,
+        "rank": 1029,
         "elo": 975.5
       },
       {
         "date": "2026-02-01",
-        "rank": 1026,
+        "rank": 1027,
         "elo": 975.5
       },
       {
         "date": "2026-03-01",
-        "rank": 1031,
-        "elo": 975.5
-      },
-      {
-        "date": "2026-04-01",
         "rank": 1032,
         "elo": 975.5
       },
       {
+        "date": "2026-04-01",
+        "rank": 1033,
+        "elo": 975.5
+      },
+      {
         "date": "2026-05-01",
-        "rank": 1030,
+        "rank": 1031,
         "elo": 975.5
       },
       {
         "date": "2026-06-01",
-        "rank": 1028,
-        "elo": 975.5
+        "rank": 630,
+        "elo": 997.14
       }
     ],
     "bw": [
       {
         "date": "2022-10-01",
-        "rank": 43,
+        "rank": 46,
         "elo": 1020.8
       },
       {
         "date": "2022-11-01",
-        "rank": 44,
+        "rank": 47,
         "elo": 1020.8
       },
       {
         "date": "2022-12-01",
-        "rank": 44,
+        "rank": 47,
         "elo": 1020.8
       },
       {
         "date": "2023-01-01",
-        "rank": 43,
+        "rank": 46,
         "elo": 1020.8
       },
       {
         "date": "2023-02-01",
-        "rank": 43,
+        "rank": 47,
         "elo": 1020.8
       },
       {
         "date": "2023-03-01",
-        "rank": 45,
+        "rank": 49,
         "elo": 1020.8
       },
       {
@@ -600,17 +600,17 @@
       },
       {
         "date": "2023-08-01",
-        "rank": 136,
+        "rank": 137,
         "elo": 978.82
       },
       {
         "date": "2023-09-01",
-        "rank": 138,
+        "rank": 139,
         "elo": 978.82
       },
       {
         "date": "2023-10-01",
-        "rank": 139,
+        "rank": 140,
         "elo": 978.82
       },
       {
@@ -770,12 +770,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 355,
-        "elo": 936.39
+        "rank": 290,
+        "elo": 960.55
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "41cc71cbf210e0fe",
+      "opponent_name": "Hyder Amil",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 975.5,
+      "p4p_after": 997.14,
+      "p4p_delta": 21.64,
+      "div_before": 936.39,
+      "div_after": 960.55,
+      "div_delta": 24.16
+    },
     {
       "date": "2025-08-09",
       "weight_class": "fw",

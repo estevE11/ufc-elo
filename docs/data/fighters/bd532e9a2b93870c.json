@@ -2,7 +2,7 @@
   "id": "bd532e9a2b93870c",
   "name": "Melissa Mullins",
   "slug": "melissa-mullins",
-  "last_fight_date": "2025-06-21",
+  "last_fight_date": "2026-06-20",
   "active_current_mode": true,
   "divisions": [
     "wbw"
@@ -174,8 +174,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 860,
-        "elo": 981.82
+        "rank": 1646,
+        "elo": 955.67
       }
     ],
     "wbw": [
@@ -341,12 +341,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 36,
-        "elo": 981.91
+        "rank": 70,
+        "elo": 955.75
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "eff9074bc066f0f2",
+      "opponent_name": "Bia Mesquita",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 981.82,
+      "p4p_after": 955.67,
+      "p4p_delta": -26.15,
+      "div_before": 981.91,
+      "div_after": 955.75,
+      "div_delta": -26.16
+    },
     {
       "date": "2025-06-21",
       "weight_class": "wbw",

@@ -2,7 +2,7 @@
   "id": "a52bc1e62cf0b7c6",
   "name": "Melsik Baghdasaryan",
   "slug": "melsik-baghdasaryan",
-  "last_fight_date": "2025-02-22",
+  "last_fight_date": "2026-06-20",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -14,22 +14,22 @@
     "p4p": [
       {
         "date": "2021-07-01",
-        "rank": 310,
+        "rank": 327,
         "elo": 1020.8
       },
       {
         "date": "2021-08-01",
-        "rank": 309,
+        "rank": 332,
         "elo": 1020.8
       },
       {
         "date": "2021-09-01",
-        "rank": 316,
+        "rank": 331,
         "elo": 1020.8
       },
       {
         "date": "2021-10-01",
-        "rank": 318,
+        "rank": 336,
         "elo": 1020.8
       },
       {
@@ -49,37 +49,37 @@
       },
       {
         "date": "2022-02-01",
-        "rank": 217,
-        "elo": 1035.84
-      },
-      {
-        "date": "2022-03-01",
-        "rank": 220,
-        "elo": 1035.84
-      },
-      {
-        "date": "2022-04-01",
-        "rank": 218,
-        "elo": 1035.84
-      },
-      {
-        "date": "2022-05-01",
-        "rank": 217,
-        "elo": 1035.84
-      },
-      {
-        "date": "2022-06-01",
         "rank": 219,
         "elo": 1035.84
       },
       {
-        "date": "2022-07-01",
+        "date": "2022-03-01",
+        "rank": 221,
+        "elo": 1035.84
+      },
+      {
+        "date": "2022-04-01",
         "rank": 220,
         "elo": 1035.84
       },
       {
+        "date": "2022-05-01",
+        "rank": 218,
+        "elo": 1035.84
+      },
+      {
+        "date": "2022-06-01",
+        "rank": 220,
+        "elo": 1035.84
+      },
+      {
+        "date": "2022-07-01",
+        "rank": 221,
+        "elo": 1035.84
+      },
+      {
         "date": "2022-08-01",
-        "rank": 223,
+        "rank": 224,
         "elo": 1035.84
       },
       {
@@ -309,29 +309,29 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 717,
-        "elo": 989.79
+        "rank": 1556,
+        "elo": 959.51
       }
     ],
     "fw": [
       {
         "date": "2021-07-01",
-        "rank": 36,
+        "rank": 37,
         "elo": 1020.8
       },
       {
         "date": "2021-08-01",
-        "rank": 35,
+        "rank": 38,
         "elo": 1020.8
       },
       {
         "date": "2021-09-01",
-        "rank": 35,
+        "rank": 38,
         "elo": 1020.8
       },
       {
         "date": "2021-10-01",
-        "rank": 37,
+        "rank": 40,
         "elo": 1020.8
       },
       {
@@ -611,12 +611,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 130,
-        "elo": 988.4
+        "rank": 299,
+        "elo": 958.24
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "d436f5d55156a521",
+      "opponent_name": "Murtazali Magomedov",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 989.79,
+      "p4p_after": 959.51,
+      "p4p_delta": -30.28,
+      "div_before": 988.4,
+      "div_after": 958.24,
+      "div_delta": -30.16
+    },
     {
       "date": "2025-02-22",
       "weight_class": "fw",

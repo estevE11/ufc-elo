@@ -1,0 +1,46 @@
+{
+  "id": "70fc8214822b5a85",
+  "name": "Shane Collins",
+  "slug": "shane-collins",
+  "last_fight_date": "2026-06-20",
+  "active_current_mode": true,
+  "divisions": [
+    "fw"
+  ],
+  "division_names": {
+    "fw": "Featherweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-06-01",
+        "rank": 441,
+        "elo": 1016.0
+      }
+    ],
+    "fw": [
+      {
+        "date": "2026-06-01",
+        "rank": 82,
+        "elo": 1016.0
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "b9124c308671e303",
+      "opponent_name": "Otari Tanzilovi",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1016.0,
+      "p4p_delta": 16.0,
+      "div_before": 1000.0,
+      "div_after": 1016.0,
+      "div_delta": 16.0
+    }
+  ]
+}

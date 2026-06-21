@@ -2,7 +2,7 @@
   "id": "34b96d52db1d26e6",
   "name": "Kevin Borjas",
   "slug": "kevin-borjas",
-  "last_fight_date": "2026-02-28",
+  "last_fight_date": "2026-06-20",
   "active_current_mode": true,
   "divisions": [
     "flw"
@@ -94,12 +94,12 @@
       },
       {
         "date": "2025-03-01",
-        "rank": 1396,
+        "rank": 1397,
         "elo": 964.85
       },
       {
         "date": "2025-04-01",
-        "rank": 1390,
+        "rank": 1391,
         "elo": 964.85
       },
       {
@@ -109,7 +109,7 @@
       },
       {
         "date": "2025-06-01",
-        "rank": 1398,
+        "rank": 1399,
         "elo": 964.85
       },
       {
@@ -149,17 +149,17 @@
       },
       {
         "date": "2026-02-01",
-        "rank": 2456,
+        "rank": 2457,
         "elo": 913.37
       },
       {
         "date": "2026-03-01",
-        "rank": 2468,
+        "rank": 2469,
         "elo": 913.37
       },
       {
         "date": "2026-04-01",
-        "rank": 2479,
+        "rank": 2480,
         "elo": 913.37
       },
       {
@@ -169,8 +169,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 2491,
-        "elo": 913.37
+        "rank": 2195,
+        "elo": 935.69
       }
     ],
     "flw": [
@@ -331,12 +331,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 154,
-        "elo": 916.33
+        "rank": 135,
+        "elo": 938.53
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "b1f21ce050035d58",
+      "opponent_name": "Andre Lima",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 913.37,
+      "p4p_after": 935.69,
+      "p4p_delta": 22.32,
+      "div_before": 916.33,
+      "div_after": 938.53,
+      "div_delta": 22.2
+    },
     {
       "date": "2026-02-28",
       "weight_class": "flw",

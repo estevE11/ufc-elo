@@ -2,7 +2,7 @@
   "id": "b4b496ec2197ee3e",
   "name": "Navajo Stirling",
   "slug": "navajo-stirling",
-  "last_fight_date": "2026-03-28",
+  "last_fight_date": "2026-06-20",
   "active_current_mode": true,
   "divisions": [
     "lhw"
@@ -104,8 +104,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 136,
-        "elo": 1061.68
+        "rank": 105,
+        "elo": 1076.84
       }
     ],
     "lhw": [
@@ -201,12 +201,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 14,
-        "elo": 1061.83
+        "rank": 9,
+        "elo": 1077.16
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "cd13728ae1151f46",
+      "opponent_name": "Ion Cutelaba",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1061.68,
+      "p4p_after": 1076.84,
+      "p4p_delta": 15.16,
+      "div_before": 1061.83,
+      "div_after": 1077.16,
+      "div_delta": 15.33
+    },
     {
       "date": "2026-03-28",
       "weight_class": "lhw",

@@ -2,7 +2,7 @@
   "id": "5078e1dacf9d25f4",
   "name": "Luana Santos",
   "slug": "luana-santos",
-  "last_fight_date": "2025-12-13",
+  "last_fight_date": "2026-06-20",
   "active_current_mode": true,
   "divisions": [
     "wbw",
@@ -186,8 +186,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 150,
-        "elo": 1058.43
+        "rank": 115,
+        "elo": 1071.87
       }
     ],
     "wbw": [
@@ -343,8 +343,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 6,
-        "elo": 1051.32
+        "rank": 3,
+        "elo": 1065.69
       }
     ],
     "wflw": [
@@ -526,6 +526,21 @@
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "351c4ec637380ad5",
+      "opponent_name": "Karol Rosa",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1058.43,
+      "p4p_after": 1071.87,
+      "p4p_delta": 13.44,
+      "div_before": 1051.32,
+      "div_after": 1065.69,
+      "div_delta": 14.37
+    },
     {
       "date": "2025-12-13",
       "weight_class": "wbw",

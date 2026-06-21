@@ -2,7 +2,7 @@
   "id": "253076a23d03dcd0",
   "name": "Allan Nascimento",
   "slug": "allan-nascimento",
-  "last_fight_date": "2025-11-01",
+  "last_fight_date": "2026-06-20",
   "active_current_mode": true,
   "divisions": [
     "catch",
@@ -296,49 +296,49 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 172,
-        "elo": 1052.48
+        "rank": 288,
+        "elo": 1032.24
       }
     ],
     "catch": [
       {
         "date": "2025-11-01",
-        "rank": 33,
+        "rank": 38,
         "elo": 1020.8
       },
       {
         "date": "2025-12-01",
-        "rank": 33,
+        "rank": 38,
         "elo": 1020.8
       },
       {
         "date": "2026-01-01",
-        "rank": 33,
+        "rank": 38,
         "elo": 1020.8
       },
       {
         "date": "2026-02-01",
-        "rank": 33,
+        "rank": 38,
         "elo": 1020.8
       },
       {
         "date": "2026-03-01",
-        "rank": 33,
+        "rank": 38,
         "elo": 1020.8
       },
       {
         "date": "2026-04-01",
-        "rank": 33,
+        "rank": 38,
         "elo": 1020.8
       },
       {
         "date": "2026-05-01",
-        "rank": 33,
+        "rank": 38,
         "elo": 1020.8
       },
       {
         "date": "2026-06-01",
-        "rank": 26,
+        "rank": 39,
         "elo": 1020.8
       }
     ],
@@ -625,12 +625,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 17,
-        "elo": 1037.7
+        "rank": 26,
+        "elo": 1018.26
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "0be6776db31d98ec",
+      "opponent_name": "Mitch Raposo",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 1052.48,
+      "p4p_after": 1032.24,
+      "p4p_delta": -20.24,
+      "div_before": 1037.7,
+      "div_after": 1018.26,
+      "div_delta": -19.44
+    },
     {
       "date": "2025-11-01",
       "weight_class": "catch",

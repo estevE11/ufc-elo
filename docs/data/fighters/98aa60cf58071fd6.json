@@ -2,7 +2,7 @@
   "id": "98aa60cf58071fd6",
   "name": "Kyoji Horiguchi",
   "slug": "kyoji-horiguchi",
-  "last_fight_date": "2026-02-07",
+  "last_fight_date": "2026-06-20",
   "active_current_mode": true,
   "divisions": [
     "bw",
@@ -776,8 +776,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 45,
-        "elo": 1110.43
+        "rank": 106,
+        "elo": 1076.49
       }
     ],
     "bw": [
@@ -2275,12 +2275,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 4,
-        "elo": 1101.49
+        "rank": 9,
+        "elo": 1068.22
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "5d1b7e3dd9e11074",
+      "opponent_name": "Manel Kape",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1110.43,
+      "p4p_after": 1076.49,
+      "p4p_delta": -33.94,
+      "div_before": 1101.49,
+      "div_after": 1068.22,
+      "div_delta": -33.27
+    },
     {
       "date": "2026-02-07",
       "weight_class": "flw",

@@ -2,7 +2,7 @@
   "id": "01c9e4013afce141",
   "name": "Michael Aswell Jr.",
   "slug": "michael-aswell-jr",
-  "last_fight_date": "2026-03-21",
+  "last_fight_date": "2026-06-20",
   "active_current_mode": true,
   "divisions": [
     "fw",
@@ -66,7 +66,7 @@
       },
       {
         "date": "2026-03-01",
-        "rank": 1098,
+        "rank": 1099,
         "elo": 972.14
       },
       {
@@ -76,13 +76,13 @@
       },
       {
         "date": "2026-05-01",
-        "rank": 1097,
+        "rank": 1098,
         "elo": 972.14
       },
       {
         "date": "2026-06-01",
-        "rank": 1095,
-        "elo": 972.14
+        "rank": 1845,
+        "elo": 947.58
       }
     ],
     "fw": [
@@ -128,8 +128,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 113,
-        "elo": 994.44
+        "rank": 218,
+        "elo": 970.82
       }
     ],
     "lw": [
@@ -206,6 +206,21 @@
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "96924b0019b3aff1",
+      "opponent_name": "Gaston Bolanos",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 972.14,
+      "p4p_after": 947.58,
+      "p4p_delta": -24.56,
+      "div_before": 994.44,
+      "div_after": 970.82,
+      "div_delta": -23.62
+    },
     {
       "date": "2026-03-21",
       "weight_class": "fw",

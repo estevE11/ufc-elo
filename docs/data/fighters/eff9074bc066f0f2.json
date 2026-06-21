@@ -2,7 +2,7 @@
   "id": "eff9074bc066f0f2",
   "name": "Bia Mesquita",
   "slug": "bia-mesquita",
-  "last_fight_date": "2026-03-14",
+  "last_fight_date": "2026-06-20",
   "active_current_mode": true,
   "divisions": [
     "wbw"
@@ -54,8 +54,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 243,
-        "elo": 1038.58
+        "rank": 156,
+        "elo": 1056.02
       }
     ],
     "wbw": [
@@ -101,12 +101,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 9,
-        "elo": 1038.53
+        "rank": 6,
+        "elo": 1055.97
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "bd532e9a2b93870c",
+      "opponent_name": "Melissa Mullins",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1038.58,
+      "p4p_after": 1056.02,
+      "p4p_delta": 17.44,
+      "div_before": 1038.53,
+      "div_after": 1055.97,
+      "div_delta": 17.44
+    },
     {
       "date": "2026-03-14",
       "weight_class": "wbw",

@@ -2,7 +2,7 @@
   "id": "5d1b7e3dd9e11074",
   "name": "Manel Kape",
   "slug": "manel-kape",
-  "last_fight_date": "2025-12-13",
+  "last_fight_date": "2026-06-20",
   "active_current_mode": true,
   "divisions": [
     "flw"
@@ -334,8 +334,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 97,
-        "elo": 1079.81
+        "rank": 51,
+        "elo": 1102.44
       }
     ],
     "flw": [
@@ -661,12 +661,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 7,
-        "elo": 1078.43
+        "rank": 4,
+        "elo": 1100.6
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "98aa60cf58071fd6",
+      "opponent_name": "Kyoji Horiguchi",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1079.81,
+      "p4p_after": 1102.44,
+      "p4p_delta": 22.63,
+      "div_before": 1078.43,
+      "div_after": 1100.6,
+      "div_delta": 22.17
+    },
     {
       "date": "2025-12-13",
       "weight_class": "flw",

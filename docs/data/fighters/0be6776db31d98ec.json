@@ -2,7 +2,7 @@
   "id": "0be6776db31d98ec",
   "name": "Mitch Raposo",
   "slug": "mitch-raposo",
-  "last_fight_date": "2025-10-25",
+  "last_fight_date": "2026-06-20",
   "active_current_mode": true,
   "divisions": [
     "flw"
@@ -134,8 +134,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 882,
-        "elo": 980.41
+        "rank": 666,
+        "elo": 993.9
       }
     ],
     "flw": [
@@ -261,12 +261,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 58,
-        "elo": 982.72
+        "rank": 46,
+        "elo": 995.68
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-20",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "253076a23d03dcd0",
+      "opponent_name": "Allan Nascimento",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 980.41,
+      "p4p_after": 993.9,
+      "p4p_delta": 13.49,
+      "div_before": 982.72,
+      "div_after": 995.68,
+      "div_delta": 12.96
+    },
     {
       "date": "2025-10-25",
       "weight_class": "flw",
