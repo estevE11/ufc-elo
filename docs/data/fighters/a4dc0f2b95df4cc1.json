@@ -2,7 +2,7 @@
   "id": "a4dc0f2b95df4cc1",
   "name": "Bekzat Almakhan",
   "slug": "bekzat-almakhan",
-  "last_fight_date": "2025-11-22",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "bw"
@@ -19,12 +19,12 @@
       },
       {
         "date": "2024-04-01",
-        "rank": 818,
+        "rank": 819,
         "elo": 981.22
       },
       {
         "date": "2024-05-01",
-        "rank": 818,
+        "rank": 819,
         "elo": 981.22
       },
       {
@@ -149,8 +149,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 929,
-        "elo": 977.9
+        "rank": 1627,
+        "elo": 956.47
       }
     ],
     "bw": [
@@ -291,12 +291,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 149,
-        "elo": 976.35
+        "rank": 235,
+        "elo": 956.08
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "ffd3224638c01b57",
+      "opponent_name": "Jean Matsumoto",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 977.9,
+      "p4p_after": 956.47,
+      "p4p_delta": -21.43,
+      "div_before": 976.35,
+      "div_after": 956.08,
+      "div_delta": -20.27
+    },
     {
       "date": "2025-11-22",
       "weight_class": "bw",

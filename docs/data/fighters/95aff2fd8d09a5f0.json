@@ -2,7 +2,7 @@
   "id": "95aff2fd8d09a5f0",
   "name": "Abdul Rakhman Yakhyaev",
   "slug": "abdul-rakhman-yakhyaev",
-  "last_fight_date": "2026-04-04",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "lhw"
@@ -34,7 +34,7 @@
       },
       {
         "date": "2026-03-01",
-        "rank": 437,
+        "rank": 438,
         "elo": 1015.97
       },
       {
@@ -49,8 +49,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 291,
-        "elo": 1032.01
+        "rank": 189,
+        "elo": 1049.05
       }
     ],
     "lhw": [
@@ -91,12 +91,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 28,
-        "elo": 1032.11
+        "rank": 20,
+        "elo": 1049.28
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "6add18754930182b",
+      "opponent_name": "Julius Walker",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1032.01,
+      "p4p_after": 1049.05,
+      "p4p_delta": 17.04,
+      "div_before": 1032.11,
+      "div_after": 1049.28,
+      "div_delta": 17.17
+    },
     {
       "date": "2026-04-04",
       "weight_class": "lhw",

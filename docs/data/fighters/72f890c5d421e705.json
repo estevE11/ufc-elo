@@ -2,7 +2,7 @@
   "id": "72f890c5d421e705",
   "name": "Matheus Camilo",
   "slug": "matheus-camilo",
-  "last_fight_date": "2025-11-15",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -79,39 +79,39 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 896,
-        "elo": 979.51
+        "rank": 551,
+        "elo": 1003.98
       }
     ],
     "lw": [
       {
         "date": "2025-05-01",
-        "rank": 300,
+        "rank": 319,
         "elo": 968.8
       },
       {
         "date": "2025-06-01",
-        "rank": 301,
+        "rank": 320,
         "elo": 968.8
       },
       {
         "date": "2025-07-01",
-        "rank": 302,
+        "rank": 321,
         "elo": 968.8
       },
       {
         "date": "2025-08-01",
-        "rank": 302,
+        "rank": 321,
         "elo": 968.8
       },
       {
         "date": "2025-09-01",
-        "rank": 301,
+        "rank": 320,
         "elo": 968.8
       },
       {
         "date": "2025-10-01",
-        "rank": 301,
+        "rank": 320,
         "elo": 968.8
       },
       {
@@ -141,22 +141,37 @@
       },
       {
         "date": "2026-04-01",
-        "rank": 197,
+        "rank": 198,
         "elo": 982.77
       },
       {
         "date": "2026-05-01",
-        "rank": 198,
+        "rank": 199,
         "elo": 982.77
       },
       {
         "date": "2026-06-01",
-        "rank": 198,
-        "elo": 982.77
+        "rank": 129,
+        "elo": 1007.14
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "ff62013d2fce6d13",
+      "opponent_name": "Nazim Sadykhov",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 979.51,
+      "p4p_after": 1003.98,
+      "p4p_delta": 24.47,
+      "div_before": 982.77,
+      "div_after": 1007.14,
+      "div_delta": 24.37
+    },
     {
       "date": "2025-11-15",
       "weight_class": "lw",

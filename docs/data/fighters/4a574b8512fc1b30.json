@@ -2,7 +2,7 @@
   "id": "4a574b8512fc1b30",
   "name": "Javier Reyes",
   "slug": "javier-reyes",
-  "last_fight_date": "2026-02-28",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -34,8 +34,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 390,
-        "elo": 1019.76
+        "rank": 804,
+        "elo": 985.19
       }
     ],
     "fw": [
@@ -61,12 +61,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 64,
-        "elo": 1019.06
+        "rank": 146,
+        "elo": 984.38
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "7facc9c45d792985",
+      "opponent_name": "Kaan Ofli",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1019.76,
+      "p4p_after": 985.19,
+      "p4p_delta": -34.57,
+      "div_before": 1019.06,
+      "div_after": 984.38,
+      "div_delta": -34.68
+    },
     {
       "date": "2026-02-28",
       "weight_class": "fw",

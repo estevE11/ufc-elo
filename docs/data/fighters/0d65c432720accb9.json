@@ -2,7 +2,7 @@
   "id": "0d65c432720accb9",
   "name": "Michal Oleksiejczuk",
   "slug": "michal-oleksiejczuk",
-  "last_fight_date": "2026-02-07",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "lhw",
@@ -386,32 +386,32 @@
       },
       {
         "date": "2025-04-01",
-        "rank": 908,
-        "elo": 977.23
-      },
-      {
-        "date": "2025-05-01",
-        "rank": 908,
-        "elo": 977.23
-      },
-      {
-        "date": "2025-06-01",
         "rank": 909,
         "elo": 977.23
       },
       {
+        "date": "2025-05-01",
+        "rank": 909,
+        "elo": 977.23
+      },
+      {
+        "date": "2025-06-01",
+        "rank": 910,
+        "elo": 977.23
+      },
+      {
         "date": "2025-07-01",
-        "rank": 903,
+        "rank": 904,
         "elo": 977.23
       },
       {
         "date": "2025-08-01",
-        "rank": 613,
+        "rank": 614,
         "elo": 996.85
       },
       {
         "date": "2025-09-01",
-        "rank": 617,
+        "rank": 618,
         "elo": 996.85
       },
       {
@@ -421,17 +421,17 @@
       },
       {
         "date": "2025-11-01",
-        "rank": 615,
+        "rank": 616,
         "elo": 996.85
       },
       {
         "date": "2025-12-01",
-        "rank": 617,
+        "rank": 618,
         "elo": 996.85
       },
       {
         "date": "2026-01-01",
-        "rank": 616,
+        "rank": 617,
         "elo": 996.85
       },
       {
@@ -456,8 +456,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 501,
-        "elo": 1009.54
+        "rank": 935,
+        "elo": 977.56
       }
     ],
     "lhw": [
@@ -1140,12 +1140,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 116,
-        "elo": 1004.79
+        "rank": 219,
+        "elo": 972.99
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "36b8f265bcd1b7a4",
+      "opponent_name": "Abus Magomedov",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1009.54,
+      "p4p_after": 977.56,
+      "p4p_delta": -31.98,
+      "div_before": 1004.79,
+      "div_after": 972.99,
+      "div_delta": -31.8
+    },
     {
       "date": "2026-02-07",
       "weight_class": "mw",

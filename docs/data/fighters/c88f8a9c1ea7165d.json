@@ -1,0 +1,46 @@
+{
+  "id": "c88f8a9c1ea7165d",
+  "name": "Farman Hasanov",
+  "slug": "farman-hasanov",
+  "last_fight_date": "2026-06-27",
+  "active_current_mode": true,
+  "divisions": [
+    "ww"
+  ],
+  "division_names": {
+    "ww": "Welterweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-06-01",
+        "rank": 453,
+        "elo": 1014.57
+      }
+    ],
+    "ww": [
+      {
+        "date": "2026-06-01",
+        "rank": 93,
+        "elo": 1016.0
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "64b12fe31be7560c",
+      "opponent_name": "Eric Nolan",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1000.0,
+      "p4p_after": 1014.57,
+      "p4p_delta": 14.57,
+      "div_before": 1000.0,
+      "div_after": 1016.0,
+      "div_delta": 16.0
+    }
+  ]
+}

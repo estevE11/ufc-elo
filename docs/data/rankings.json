@@ -542,21 +542,21 @@
       },
       {
         "rank": 8,
+        "fighter_id": "8d3273573b85be09",
+        "name": "Asu Almabayev",
+        "elo": 1075.97
+      },
+      {
+        "rank": 9,
         "fighter_id": "80eacd4da0617c57",
         "name": "Joseph Benavidez",
         "elo": 1069.68
       },
       {
-        "rank": 9,
+        "rank": 10,
         "fighter_id": "98aa60cf58071fd6",
         "name": "Kyoji Horiguchi",
         "elo": 1068.22
-      },
-      {
-        "rank": 10,
-        "fighter_id": "aa72b0f831d0bfe5",
-        "name": "Deiveson Figueiredo",
-        "elo": 1060.13
       }
     ],
     "wsw": [
@@ -990,9 +990,9 @@
       },
       {
         "rank": 10,
-        "fighter_id": "327d5f279895110d",
-        "name": "Roman Dolidze",
-        "elo": 1044.06
+        "fighter_id": "95aff2fd8d09a5f0",
+        "name": "Abdul Rakhman Yakhyaev",
+        "elo": 1049.28
       }
     ],
     "mw": [
@@ -1046,15 +1046,15 @@
       },
       {
         "rank": 9,
-        "fighter_id": "093e1f5bb73850be",
-        "name": "Anthony Hernandez",
-        "elo": 1078.79
+        "fighter_id": "49d2a08964c5eb11",
+        "name": "Nursulton Ruziboev",
+        "elo": 1085.62
       },
       {
         "rank": 10,
-        "fighter_id": "e1147d3d2dabe1ce",
-        "name": "Robert Whittaker",
-        "elo": 1077.84
+        "fighter_id": "093e1f5bb73850be",
+        "name": "Anthony Hernandez",
+        "elo": 1078.79
       }
     ],
     "ww": [
@@ -1344,21 +1344,21 @@
       },
       {
         "rank": 7,
+        "fighter_id": "8d3273573b85be09",
+        "name": "Asu Almabayev",
+        "elo": 1075.97
+      },
+      {
+        "rank": 8,
         "fighter_id": "98aa60cf58071fd6",
         "name": "Kyoji Horiguchi",
         "elo": 1068.22
       },
       {
-        "rank": 8,
+        "rank": 9,
         "fighter_id": "aa72b0f831d0bfe5",
         "name": "Deiveson Figueiredo",
         "elo": 1060.13
-      },
-      {
-        "rank": 9,
-        "fighter_id": "8d3273573b85be09",
-        "name": "Asu Almabayev",
-        "elo": 1058.4
       },
       {
         "rank": 10,

@@ -2,7 +2,7 @@
   "id": "2e7878927067fdca",
   "name": "Manuel Torres",
   "slug": "manuel-torres",
-  "last_fight_date": "2025-12-06",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -79,12 +79,12 @@
       },
       {
         "date": "2023-06-01",
-        "rank": 231,
+        "rank": 232,
         "elo": 1034.81
       },
       {
         "date": "2023-07-01",
-        "rank": 239,
+        "rank": 240,
         "elo": 1034.81
       },
       {
@@ -259,8 +259,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 128,
-        "elo": 1064.85
+        "rank": 313,
+        "elo": 1027.39
       }
     ],
     "lw": [
@@ -511,12 +511,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 29,
-        "elo": 1064.82
+        "rank": 62,
+        "elo": 1027.18
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "c814b4c899793af6",
+      "opponent_name": "Rafael Fiziev",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1064.85,
+      "p4p_after": 1027.39,
+      "p4p_delta": -37.46,
+      "div_before": 1064.82,
+      "div_after": 1027.18,
+      "div_delta": -37.64
+    },
     {
       "date": "2025-12-06",
       "weight_class": "lw",

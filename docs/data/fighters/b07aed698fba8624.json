@@ -2,7 +2,7 @@
   "id": "b07aed698fba8624",
   "name": "Ikram Aliskerov",
   "slug": "ikram-aliskerov",
-  "last_fight_date": "2025-10-25",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -199,8 +199,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 167,
-        "elo": 1053.17
+        "rank": 125,
+        "elo": 1067.51
       }
     ],
     "mw": [
@@ -231,42 +231,42 @@
       },
       {
         "date": "2023-10-01",
-        "rank": 23,
-        "elo": 1041.44
-      },
-      {
-        "date": "2023-11-01",
-        "rank": 23,
-        "elo": 1041.44
-      },
-      {
-        "date": "2023-12-01",
-        "rank": 23,
-        "elo": 1041.44
-      },
-      {
-        "date": "2024-01-01",
-        "rank": 23,
-        "elo": 1041.44
-      },
-      {
-        "date": "2024-02-01",
         "rank": 24,
         "elo": 1041.44
       },
       {
-        "date": "2024-03-01",
+        "date": "2023-11-01",
+        "rank": 24,
+        "elo": 1041.44
+      },
+      {
+        "date": "2023-12-01",
+        "rank": 24,
+        "elo": 1041.44
+      },
+      {
+        "date": "2024-01-01",
+        "rank": 24,
+        "elo": 1041.44
+      },
+      {
+        "date": "2024-02-01",
         "rank": 25,
         "elo": 1041.44
       },
       {
-        "date": "2024-04-01",
+        "date": "2024-03-01",
         "rank": 26,
         "elo": 1041.44
       },
       {
+        "date": "2024-04-01",
+        "rank": 27,
+        "elo": 1041.44
+      },
+      {
         "date": "2024-05-01",
-        "rank": 26,
+        "rank": 27,
         "elo": 1041.44
       },
       {
@@ -321,12 +321,12 @@
       },
       {
         "date": "2025-04-01",
-        "rank": 31,
+        "rank": 32,
         "elo": 1038.76
       },
       {
         "date": "2025-05-01",
-        "rank": 31,
+        "rank": 32,
         "elo": 1038.76
       },
       {
@@ -391,12 +391,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 22,
-        "elo": 1055.04
+        "rank": 18,
+        "elo": 1069.28
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "1e719d4b676dc19a",
+      "opponent_name": "Brunno Ferreira",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1053.17,
+      "p4p_after": 1067.51,
+      "p4p_delta": 14.34,
+      "div_before": 1055.04,
+      "div_after": 1069.28,
+      "div_delta": 14.24
+    },
     {
       "date": "2025-10-25",
       "weight_class": "mw",

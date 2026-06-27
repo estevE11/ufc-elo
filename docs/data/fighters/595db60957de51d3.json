@@ -2,7 +2,7 @@
   "id": "595db60957de51d3",
   "name": "Michel Pereira",
   "slug": "michel-pereira",
-  "last_fight_date": "2026-02-21",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "mw",
@@ -81,12 +81,12 @@
       },
       {
         "date": "2020-06-01",
-        "rank": 517,
+        "rank": 518,
         "elo": 994.96
       },
       {
         "date": "2020-07-01",
-        "rank": 522,
+        "rank": 523,
         "elo": 994.96
       },
       {
@@ -441,8 +441,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 339,
-        "elo": 1023.85
+        "rank": 573,
+        "elo": 1001.59
       }
     ],
     "mw": [
@@ -608,8 +608,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 173,
-        "elo": 980.31
+        "rank": 333,
+        "elo": 960.96
       }
     ],
     "ww": [
@@ -1046,6 +1046,21 @@
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "06734ca9d88dec3a",
+      "opponent_name": "Shara Magomedov",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1023.85,
+      "p4p_after": 1001.59,
+      "p4p_delta": -22.26,
+      "div_before": 980.31,
+      "div_after": 960.96,
+      "div_delta": -19.35
+    },
     {
       "date": "2026-02-21",
       "weight_class": "mw",

@@ -2,7 +2,7 @@
   "id": "7facc9c45d792985",
   "name": "Kaan Ofli",
   "slug": "kaan-ofli",
-  "last_fight_date": "2026-01-31",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -14,32 +14,32 @@
     "p4p": [
       {
         "date": "2024-08-01",
-        "rank": 1222,
+        "rank": 1247,
         "elo": 968.8
       },
       {
         "date": "2024-09-01",
-        "rank": 1193,
+        "rank": 1244,
         "elo": 968.8
       },
       {
         "date": "2024-10-01",
-        "rank": 1194,
+        "rank": 1244,
         "elo": 968.8
       },
       {
         "date": "2024-11-01",
-        "rank": 1203,
+        "rank": 1254,
         "elo": 968.8
       },
       {
         "date": "2024-12-01",
-        "rank": 1203,
+        "rank": 1252,
         "elo": 968.8
       },
       {
         "date": "2025-01-01",
-        "rank": 1209,
+        "rank": 1259,
         "elo": 968.8
       },
       {
@@ -124,39 +124,39 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 855,
-        "elo": 982.07
+        "rank": 536,
+        "elo": 1005.12
       }
     ],
     "fw": [
       {
         "date": "2024-08-01",
-        "rank": 210,
+        "rank": 217,
         "elo": 968.8
       },
       {
         "date": "2024-09-01",
-        "rank": 200,
+        "rank": 220,
         "elo": 968.8
       },
       {
         "date": "2024-10-01",
-        "rank": 203,
+        "rank": 222,
         "elo": 968.8
       },
       {
         "date": "2024-11-01",
-        "rank": 201,
+        "rank": 221,
         "elo": 968.8
       },
       {
         "date": "2024-12-01",
-        "rank": 213,
+        "rank": 221,
         "elo": 968.8
       },
       {
         "date": "2025-01-01",
-        "rank": 203,
+        "rank": 223,
         "elo": 968.8
       },
       {
@@ -241,12 +241,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 159,
-        "elo": 980.12
+        "rank": 99,
+        "elo": 1003.24
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "4a574b8512fc1b30",
+      "opponent_name": "Javier Reyes",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 982.07,
+      "p4p_after": 1005.12,
+      "p4p_delta": 23.05,
+      "div_before": 980.12,
+      "div_after": 1003.24,
+      "div_delta": 23.12
+    },
     {
       "date": "2026-01-31",
       "weight_class": "fw",

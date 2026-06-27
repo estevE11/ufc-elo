@@ -2,7 +2,7 @@
   "id": "8d3273573b85be09",
   "name": "Asu Almabayev",
   "slug": "asu-almabayev",
-  "last_fight_date": "2025-11-22",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "flw"
@@ -184,8 +184,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 138,
-        "elo": 1061.22
+        "rank": 102,
+        "elo": 1078.04
       }
     ],
     "flw": [
@@ -361,12 +361,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 11,
-        "elo": 1058.4
+        "rank": 8,
+        "elo": 1075.97
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "814e5233e2acf2ee",
+      "opponent_name": "Charles Johnson",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1061.22,
+      "p4p_after": 1078.04,
+      "p4p_delta": 16.82,
+      "div_before": 1058.4,
+      "div_after": 1075.97,
+      "div_delta": 17.57
+    },
     {
       "date": "2025-11-22",
       "weight_class": "flw",

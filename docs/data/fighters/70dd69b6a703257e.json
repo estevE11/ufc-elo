@@ -2,7 +2,7 @@
   "id": "70dd69b6a703257e",
   "name": "Daniil Donchenko",
   "slug": "daniil-donchenko",
-  "last_fight_date": "2026-02-07",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "ww"
@@ -14,27 +14,27 @@
     "p4p": [
       {
         "date": "2025-09-01",
-        "rank": 363,
+        "rank": 385,
         "elo": 1020.8
       },
       {
         "date": "2025-10-01",
-        "rank": 365,
+        "rank": 382,
         "elo": 1020.8
       },
       {
         "date": "2025-11-01",
-        "rank": 366,
+        "rank": 379,
         "elo": 1020.8
       },
       {
         "date": "2025-12-01",
-        "rank": 362,
+        "rank": 374,
         "elo": 1020.8
       },
       {
         "date": "2026-01-01",
-        "rank": 362,
+        "rank": 375,
         "elo": 1020.8
       },
       {
@@ -59,19 +59,19 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 280,
-        "elo": 1034.43
+        "rank": 170,
+        "elo": 1053.17
       }
     ],
     "ww": [
       {
         "date": "2025-09-01",
-        "rank": 67,
+        "rank": 69,
         "elo": 1020.8
       },
       {
         "date": "2025-10-01",
-        "rank": 67,
+        "rank": 69,
         "elo": 1020.8
       },
       {
@@ -111,12 +111,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 47,
-        "elo": 1035.61
+        "rank": 29,
+        "elo": 1054.28
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "feef5f8f5629e5e7",
+      "opponent_name": "Theodor Berggren",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1034.43,
+      "p4p_after": 1053.17,
+      "p4p_delta": 18.74,
+      "div_before": 1035.61,
+      "div_after": 1054.28,
+      "div_delta": 18.67
+    },
     {
       "date": "2026-02-07",
       "weight_class": "ww",

@@ -2,7 +2,7 @@
   "id": "814e5233e2acf2ee",
   "name": "Charles Johnson",
   "slug": "charles-johnson",
-  "last_fight_date": "2026-03-14",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "catch",
@@ -46,7 +46,7 @@
       },
       {
         "date": "2023-01-01",
-        "rank": 436,
+        "rank": 437,
         "elo": 1009.84
       },
       {
@@ -181,17 +181,17 @@
       },
       {
         "date": "2025-04-01",
-        "rank": 631,
+        "rank": 632,
         "elo": 995.82
       },
       {
         "date": "2025-05-01",
-        "rank": 627,
+        "rank": 628,
         "elo": 995.82
       },
       {
         "date": "2025-06-01",
-        "rank": 626,
+        "rank": 627,
         "elo": 995.82
       },
       {
@@ -251,54 +251,54 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 663,
-        "elo": 993.89
+        "rank": 1318,
+        "elo": 968.66
       }
     ],
     "catch": [
       {
         "date": "2023-02-01",
-        "rank": 51,
-        "elo": 983.2
-      },
-      {
-        "date": "2023-03-01",
         "rank": 52,
         "elo": 983.2
       },
       {
+        "date": "2023-03-01",
+        "rank": 53,
+        "elo": 983.2
+      },
+      {
         "date": "2023-04-01",
-        "rank": 54,
+        "rank": 55,
         "elo": 983.2
       },
       {
         "date": "2023-05-01",
-        "rank": 56,
-        "elo": 983.2
-      },
-      {
-        "date": "2023-06-01",
-        "rank": 56,
-        "elo": 983.2
-      },
-      {
-        "date": "2023-07-01",
         "rank": 57,
         "elo": 983.2
       },
       {
-        "date": "2023-08-01",
+        "date": "2023-06-01",
+        "rank": 57,
+        "elo": 983.2
+      },
+      {
+        "date": "2023-07-01",
         "rank": 58,
         "elo": 983.2
       },
       {
-        "date": "2023-09-01",
+        "date": "2023-08-01",
         "rank": 59,
         "elo": 983.2
       },
       {
+        "date": "2023-09-01",
+        "rank": 60,
+        "elo": 983.2
+      },
+      {
         "date": "2023-10-01",
-        "rank": 59,
+        "rank": 60,
         "elo": 983.2
       },
       {
@@ -398,12 +398,12 @@
       },
       {
         "date": "2025-06-01",
-        "rank": 68,
+        "rank": 69,
         "elo": 983.2
       },
       {
         "date": "2025-07-01",
-        "rank": 68,
+        "rank": 69,
         "elo": 983.2
       },
       {
@@ -700,12 +700,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 39,
-        "elo": 1004.1
+        "rank": 63,
+        "elo": 977.74
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "8d3273573b85be09",
+      "opponent_name": "Asu Almabayev",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 993.89,
+      "p4p_after": 968.66,
+      "p4p_delta": -25.23,
+      "div_before": 1004.1,
+      "div_after": 977.74,
+      "div_delta": -26.36
+    },
     {
       "date": "2026-03-14",
       "weight_class": "flw",

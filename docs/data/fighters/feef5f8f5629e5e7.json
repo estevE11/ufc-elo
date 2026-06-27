@@ -1,0 +1,46 @@
+{
+  "id": "feef5f8f5629e5e7",
+  "name": "Theodor Berggren",
+  "slug": "theodor-berggren",
+  "last_fight_date": "2026-06-27",
+  "active_current_mode": true,
+  "divisions": [
+    "ww"
+  ],
+  "division_names": {
+    "ww": "Welterweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-06-01",
+        "rank": 1107,
+        "elo": 971.88
+      }
+    ],
+    "ww": [
+      {
+        "date": "2026-06-01",
+        "rank": 287,
+        "elo": 971.99
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "70dd69b6a703257e",
+      "opponent_name": "Daniil Donchenko",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 971.88,
+      "p4p_delta": -28.12,
+      "div_before": 1000.0,
+      "div_after": 971.99,
+      "div_delta": -28.01
+    }
+  ]
+}

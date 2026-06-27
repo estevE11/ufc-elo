@@ -2,7 +2,7 @@
   "id": "c814b4c899793af6",
   "name": "Rafael Fiziev",
   "slug": "rafael-fiziev",
-  "last_fight_date": "2026-01-31",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -314,7 +314,7 @@
       },
       {
         "date": "2024-04-01",
-        "rank": 281,
+        "rank": 282,
         "elo": 1029.0
       },
       {
@@ -324,12 +324,12 @@
       },
       {
         "date": "2024-06-01",
-        "rank": 284,
+        "rank": 285,
         "elo": 1029.0
       },
       {
         "date": "2024-07-01",
-        "rank": 283,
+        "rank": 284,
         "elo": 1029.0
       },
       {
@@ -389,7 +389,7 @@
       },
       {
         "date": "2025-07-01",
-        "rank": 325,
+        "rank": 326,
         "elo": 1026.29
       },
       {
@@ -444,8 +444,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 658,
-        "elo": 994.21
+        "rank": 400,
+        "elo": 1019.18
       }
     ],
     "lw": [
@@ -881,12 +881,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 157,
-        "elo": 992.07
+        "rank": 96,
+        "elo": 1017.17
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "2e7878927067fdca",
+      "opponent_name": "Manuel Torres",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 994.21,
+      "p4p_after": 1019.18,
+      "p4p_delta": 24.97,
+      "div_before": 992.07,
+      "div_after": 1017.17,
+      "div_delta": 25.1
+    },
     {
       "date": "2026-01-31",
       "weight_class": "lw",

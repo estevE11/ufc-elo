@@ -2,7 +2,7 @@
   "id": "1e719d4b676dc19a",
   "name": "Brunno Ferreira",
   "slug": "brunno-ferreira",
-  "last_fight_date": "2026-03-07",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -219,8 +219,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 422,
-        "elo": 1016.9
+        "rank": 649,
+        "elo": 995.4
       }
     ],
     "mw": [
@@ -431,12 +431,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 87,
-        "elo": 1016.71
+        "rank": 135,
+        "elo": 995.35
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "b07aed698fba8624",
+      "opponent_name": "Ikram Aliskerov",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1016.9,
+      "p4p_after": 995.4,
+      "p4p_delta": -21.5,
+      "div_before": 1016.71,
+      "div_after": 995.35,
+      "div_delta": -21.36
+    },
     {
       "date": "2026-03-07",
       "weight_class": "mw",

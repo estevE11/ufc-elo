@@ -2,7 +2,7 @@
   "id": "ffd3224638c01b57",
   "name": "Jean Matsumoto",
   "slug": "jean-matsumoto",
-  "last_fight_date": "2026-02-07",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "bw",
@@ -146,8 +146,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 444,
-        "elo": 1015.25
+        "rank": 300,
+        "elo": 1029.54
       }
     ],
     "bw": [
@@ -283,8 +283,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 41,
-        "elo": 1030.75
+        "rank": 27,
+        "elo": 1044.26
       }
     ],
     "catch": [
@@ -376,6 +376,21 @@
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "a4dc0f2b95df4cc1",
+      "opponent_name": "Bekzat Almakhan",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1015.25,
+      "p4p_after": 1029.54,
+      "p4p_delta": 14.29,
+      "div_before": 1030.75,
+      "div_after": 1044.26,
+      "div_delta": 13.51
+    },
     {
       "date": "2026-02-07",
       "weight_class": "bw",

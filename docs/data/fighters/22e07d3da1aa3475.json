@@ -2,7 +2,7 @@
   "id": "22e07d3da1aa3475",
   "name": "Andrey Pulyaev",
   "slug": "andrey-pulyaev",
-  "last_fight_date": "2026-01-24",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -89,8 +89,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 946,
-        "elo": 976.87
+        "rank": 1738,
+        "elo": 952.03
       }
     ],
     "mw": [
@@ -171,12 +171,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 184,
-        "elo": 976.89
+        "rank": 356,
+        "elo": 953.88
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "49d2a08964c5eb11",
+      "opponent_name": "Nursulton Ruziboev",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 976.87,
+      "p4p_after": 952.03,
+      "p4p_delta": -24.84,
+      "div_before": 976.89,
+      "div_after": 953.88,
+      "div_delta": -23.01
+    },
     {
       "date": "2026-01-24",
       "weight_class": "mw",

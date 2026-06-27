@@ -2,7 +2,7 @@
   "id": "6add18754930182b",
   "name": "Julius Walker",
   "slug": "julius-walker",
-  "last_fight_date": "2026-02-07",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "lhw"
@@ -79,23 +79,23 @@
       },
       {
         "date": "2026-03-01",
-        "rank": 1317,
+        "rank": 1318,
         "elo": 968.47
       },
       {
         "date": "2026-04-01",
-        "rank": 1323,
+        "rank": 1324,
         "elo": 968.47
       },
       {
         "date": "2026-05-01",
-        "rank": 1324,
+        "rank": 1325,
         "elo": 968.47
       },
       {
         "date": "2026-06-01",
-        "rank": 1324,
-        "elo": 968.47
+        "rank": 1981,
+        "elo": 942.91
       }
     ],
     "lhw": [
@@ -181,12 +181,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 142,
-        "elo": 970.88
+        "rank": 238,
+        "elo": 945.12
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "95aff2fd8d09a5f0",
+      "opponent_name": "Abdul Rakhman Yakhyaev",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 968.47,
+      "p4p_after": 942.91,
+      "p4p_delta": -25.56,
+      "div_before": 970.88,
+      "div_after": 945.12,
+      "div_delta": -25.76
+    },
     {
       "date": "2026-02-07",
       "weight_class": "lhw",

@@ -2,7 +2,7 @@
   "id": "49d2a08964c5eb11",
   "name": "Nursulton Ruziboev",
   "slug": "nursulton-ruziboev",
-  "last_fight_date": "2025-05-17",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "mw",
@@ -191,8 +191,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 190,
-        "elo": 1048.64
+        "rank": 132,
+        "elo": 1065.2
       }
     ],
     "mw": [
@@ -238,57 +238,57 @@
       },
       {
         "date": "2024-03-01",
-        "rank": 24,
+        "rank": 25,
         "elo": 1041.44
       },
       {
         "date": "2024-04-01",
-        "rank": 25,
+        "rank": 26,
         "elo": 1041.44
       },
       {
         "date": "2024-05-01",
-        "rank": 25,
+        "rank": 26,
         "elo": 1041.44
       },
       {
         "date": "2024-06-01",
-        "rank": 26,
+        "rank": 27,
         "elo": 1041.44
       },
       {
         "date": "2024-07-01",
-        "rank": 26,
+        "rank": 27,
         "elo": 1041.44
       },
       {
         "date": "2024-08-01",
-        "rank": 26,
+        "rank": 27,
         "elo": 1041.44
       },
       {
         "date": "2024-09-01",
-        "rank": 26,
+        "rank": 27,
         "elo": 1041.44
       },
       {
         "date": "2024-10-01",
-        "rank": 24,
+        "rank": 25,
         "elo": 1041.44
       },
       {
         "date": "2024-11-01",
-        "rank": 24,
+        "rank": 25,
         "elo": 1041.44
       },
       {
         "date": "2024-12-01",
-        "rank": 24,
+        "rank": 25,
         "elo": 1041.44
       },
       {
         "date": "2025-01-01",
-        "rank": 25,
+        "rank": 26,
         "elo": 1041.44
       },
       {
@@ -373,8 +373,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 16,
-        "elo": 1070.28
+        "rank": 11,
+        "elo": 1085.62
       }
     ],
     "ww": [
@@ -505,12 +505,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 218,
+        "rank": 221,
         "elo": 980.33
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "22e07d3da1aa3475",
+      "opponent_name": "Andrey Pulyaev",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1048.64,
+      "p4p_after": 1065.2,
+      "p4p_delta": 16.56,
+      "div_before": 1070.28,
+      "div_after": 1085.62,
+      "div_delta": 15.34
+    },
     {
       "date": "2025-05-17",
       "weight_class": "mw",

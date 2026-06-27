@@ -2,7 +2,7 @@
   "id": "06734ca9d88dec3a",
   "name": "Shara Magomedov",
   "slug": "shara-magomedov",
-  "last_fight_date": "2025-07-26",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -174,8 +174,8 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 187,
-        "elo": 1049.15
+        "rank": 135,
+        "elo": 1063.98
       }
     ],
     "mw": [
@@ -341,12 +341,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 26,
-        "elo": 1048.45
+        "rank": 22,
+        "elo": 1061.35
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "595db60957de51d3",
+      "opponent_name": "Michel Pereira",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1049.15,
+      "p4p_after": 1063.98,
+      "p4p_delta": 14.83,
+      "div_before": 1048.45,
+      "div_after": 1061.35,
+      "div_delta": 12.9
+    },
     {
       "date": "2025-07-26",
       "weight_class": "mw",

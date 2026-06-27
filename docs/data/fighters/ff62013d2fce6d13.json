@@ -2,7 +2,7 @@
   "id": "ff62013d2fce6d13",
   "name": "Nazim Sadykhov",
   "slug": "nazim-sadykhov",
-  "last_fight_date": "2025-12-06",
+  "last_fight_date": "2026-06-27",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -89,7 +89,7 @@
       },
       {
         "date": "2024-05-01",
-        "rank": 215,
+        "rank": 216,
         "elo": 1038.18
       },
       {
@@ -214,14 +214,14 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 228,
-        "elo": 1041.58
+        "rank": 542,
+        "elo": 1004.87
       }
     ],
     "lw": [
       {
         "date": "2023-02-01",
-        "rank": 74,
+        "rank": 82,
         "elo": 1020.8
       },
       {
@@ -236,12 +236,12 @@
       },
       {
         "date": "2023-05-01",
-        "rank": 68,
+        "rank": 83,
         "elo": 1020.8
       },
       {
         "date": "2023-06-01",
-        "rank": 77,
+        "rank": 85,
         "elo": 1020.8
       },
       {
@@ -421,12 +421,27 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 43,
-        "elo": 1042.95
+        "rank": 130,
+        "elo": 1006.39
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-06-27",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "72f890c5d421e705",
+      "opponent_name": "Matheus Camilo",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1041.58,
+      "p4p_after": 1004.87,
+      "p4p_delta": -36.71,
+      "div_before": 1042.95,
+      "div_after": 1006.39,
+      "div_delta": -36.56
+    },
     {
       "date": "2025-12-06",
       "weight_class": "lw",
