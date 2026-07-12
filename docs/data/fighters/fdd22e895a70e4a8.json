@@ -2,7 +2,7 @@
   "id": "fdd22e895a70e4a8",
   "name": "Damian Pinas",
   "slug": "damian-pinas",
-  "last_fight_date": "2026-02-28",
+  "last_fight_date": "2026-07-11",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -14,59 +14,84 @@
     "p4p": [
       {
         "date": "2026-02-01",
-        "rank": 357,
+        "rank": 379,
         "elo": 1020.8
       },
       {
         "date": "2026-03-01",
-        "rank": 368,
+        "rank": 379,
         "elo": 1020.8
       },
       {
         "date": "2026-04-01",
-        "rank": 360,
+        "rank": 381,
         "elo": 1020.8
       },
       {
         "date": "2026-05-01",
-        "rank": 373,
+        "rank": 387,
         "elo": 1020.8
       },
       {
         "date": "2026-06-01",
-        "rank": 373,
+        "rank": 389,
         "elo": 1020.8
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 232,
+        "elo": 1040.8
       }
     ],
     "mw": [
       {
         "date": "2026-02-01",
-        "rank": 58,
+        "rank": 71,
         "elo": 1020.8
       },
       {
         "date": "2026-03-01",
-        "rank": 56,
+        "rank": 69,
         "elo": 1020.8
       },
       {
         "date": "2026-04-01",
-        "rank": 57,
+        "rank": 70,
         "elo": 1020.8
       },
       {
         "date": "2026-05-01",
-        "rank": 58,
+        "rank": 72,
         "elo": 1020.8
       },
       {
         "date": "2026-06-01",
-        "rank": 58,
+        "rank": 72,
         "elo": 1020.8
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 34,
+        "elo": 1040.94
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "64d47ef881a437a4",
+      "opponent_name": "Cesar Almeida",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1020.8,
+      "p4p_after": 1040.8,
+      "p4p_delta": 20.0,
+      "div_before": 1020.8,
+      "div_after": 1040.94,
+      "div_delta": 20.14
+    },
     {
       "date": "2026-02-28",
       "weight_class": "mw",

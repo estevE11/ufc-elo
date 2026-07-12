@@ -2,7 +2,7 @@
   "id": "7826923b47f8d72a",
   "name": "Paddy Pimblett",
   "slug": "paddy-pimblett",
-  "last_fight_date": "2026-01-24",
+  "last_fight_date": "2026-07-11",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -301,6 +301,11 @@
         "date": "2026-06-01",
         "rank": 81,
         "elo": 1087.33
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 46,
+        "elo": 1108.72
       }
     ],
     "lw": [
@@ -593,10 +598,30 @@
         "date": "2026-06-01",
         "rank": 13,
         "elo": 1087.49
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 5,
+        "elo": 1109.67
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "c2299ec916bc7c56",
+      "opponent_name": "Benoit Saint Denis",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1087.33,
+      "p4p_after": 1108.72,
+      "p4p_delta": 21.39,
+      "div_before": 1087.49,
+      "div_after": 1109.67,
+      "div_delta": 22.18
+    },
     {
       "date": "2026-01-24",
       "weight_class": "lw",

@@ -2,7 +2,7 @@
   "id": "e463ce0a2ca474f4",
   "name": "Ryan Gandra",
   "slug": "ryan-gandra",
-  "last_fight_date": "2026-02-28",
+  "last_fight_date": "2026-07-11",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -34,8 +34,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 440,
+        "rank": 443,
         "elo": 1015.56
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 278,
+        "elo": 1034.7
       }
     ],
     "mw": [
@@ -63,10 +68,30 @@
         "date": "2026-06-01",
         "rank": 96,
         "elo": 1015.57
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 41,
+        "elo": 1033.48
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "23dec7c47cb418f8",
+      "opponent_name": "Zach Reese",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1015.56,
+      "p4p_after": 1034.7,
+      "p4p_delta": 19.14,
+      "div_before": 1015.57,
+      "div_after": 1033.48,
+      "div_delta": 17.91
+    },
     {
       "date": "2026-02-28",
       "weight_class": "mw",

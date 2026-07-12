@@ -2,13 +2,15 @@
   "id": "e1147d3d2dabe1ce",
   "name": "Robert Whittaker",
   "slug": "robert-whittaker",
-  "last_fight_date": "2025-07-26",
+  "last_fight_date": "2026-07-11",
   "active_current_mode": true,
   "divisions": [
+    "lhw",
     "mw",
     "ww"
   ],
   "division_names": {
+    "lhw": "Light Heavyweight",
     "mw": "Middleweight",
     "ww": "Welterweight"
   },
@@ -16,27 +18,27 @@
     "p4p": [
       {
         "date": "2012-12-01",
-        "rank": 207,
+        "rank": 208,
         "elo": 1016.0
       },
       {
         "date": "2013-01-01",
-        "rank": 206,
+        "rank": 207,
         "elo": 1016.0
       },
       {
         "date": "2013-02-01",
-        "rank": 211,
-        "elo": 1016.0
-      },
-      {
-        "date": "2013-03-01",
         "rank": 212,
         "elo": 1016.0
       },
       {
+        "date": "2013-03-01",
+        "rank": 213,
+        "elo": 1016.0
+      },
+      {
         "date": "2013-04-01",
-        "rank": 209,
+        "rank": 221,
         "elo": 1016.0
       },
       {
@@ -828,6 +830,18 @@
         "date": "2026-06-01",
         "rank": 89,
         "elo": 1084.63
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 56,
+        "elo": 1100.34
+      }
+    ],
+    "lhw": [
+      {
+        "date": "2026-07-01",
+        "rank": 38,
+        "elo": 1019.92
       }
     ],
     "mw": [
@@ -1528,34 +1542,39 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 12,
+        "rank": 13,
+        "elo": 1077.84
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 13,
         "elo": 1077.84
       }
     ],
     "ww": [
       {
         "date": "2012-12-01",
-        "rank": 41,
+        "rank": 43,
         "elo": 1016.0
       },
       {
         "date": "2013-01-01",
-        "rank": 41,
+        "rank": 43,
         "elo": 1016.0
       },
       {
         "date": "2013-02-01",
-        "rank": 42,
+        "rank": 48,
         "elo": 1016.0
       },
       {
         "date": "2013-03-01",
-        "rank": 42,
+        "rank": 49,
         "elo": 1016.0
       },
       {
         "date": "2013-04-01",
-        "rank": 44,
+        "rank": 49,
         "elo": 1016.0
       },
       {
@@ -2345,12 +2364,32 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 116,
+        "rank": 119,
+        "elo": 1004.18
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 119,
         "elo": 1004.18
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "1091d4d957141094",
+      "opponent_name": "Nikita Krylov",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1084.63,
+      "p4p_after": 1100.34,
+      "p4p_delta": 15.71,
+      "div_before": 1000.0,
+      "div_after": 1019.92,
+      "div_delta": 19.92
+    },
     {
       "date": "2025-07-26",
       "weight_class": "mw",

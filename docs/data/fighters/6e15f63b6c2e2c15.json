@@ -2,7 +2,7 @@
   "id": "6e15f63b6c2e2c15",
   "name": "Brandon Royval",
   "slug": "brandon-royval",
-  "last_fight_date": "2025-12-13",
+  "last_fight_date": "2026-07-11",
   "active_current_mode": true,
   "divisions": [
     "flw"
@@ -189,37 +189,37 @@
       },
       {
         "date": "2023-04-01",
-        "rank": 227,
+        "rank": 228,
         "elo": 1035.03
       },
       {
         "date": "2023-05-01",
-        "rank": 226,
-        "elo": 1035.03
-      },
-      {
-        "date": "2023-06-01",
         "rank": 227,
         "elo": 1035.03
       },
       {
-        "date": "2023-07-01",
-        "rank": 235,
+        "date": "2023-06-01",
+        "rank": 228,
         "elo": 1035.03
       },
       {
-        "date": "2023-08-01",
+        "date": "2023-07-01",
         "rank": 236,
         "elo": 1035.03
       },
       {
+        "date": "2023-08-01",
+        "rank": 237,
+        "elo": 1035.03
+      },
+      {
         "date": "2023-09-01",
-        "rank": 239,
+        "rank": 240,
         "elo": 1035.03
       },
       {
         "date": "2023-10-01",
-        "rank": 239,
+        "rank": 240,
         "elo": 1035.03
       },
       {
@@ -379,8 +379,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 705,
+        "rank": 710,
         "elo": 990.9
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 474,
+        "elo": 1013.09
       }
     ],
     "flw": [
@@ -753,10 +758,30 @@
         "date": "2026-06-01",
         "rank": 51,
         "elo": 989.34
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 35,
+        "elo": 1011.68
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "bb2c3c3a466224af",
+      "opponent_name": "Lone'er Kavanagh",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 990.9,
+      "p4p_after": 1013.09,
+      "p4p_delta": 22.19,
+      "div_before": 989.34,
+      "div_after": 1011.68,
+      "div_delta": 22.34
+    },
     {
       "date": "2025-12-13",
       "weight_class": "flw",

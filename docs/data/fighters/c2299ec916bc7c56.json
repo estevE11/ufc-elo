@@ -2,7 +2,7 @@
   "id": "c2299ec916bc7c56",
   "name": "Benoit Saint Denis",
   "slug": "benoit-saint-denis",
-  "last_fight_date": "2026-01-31",
+  "last_fight_date": "2026-07-11",
   "active_current_mode": true,
   "divisions": [
     "lw",
@@ -241,7 +241,7 @@
       },
       {
         "date": "2025-07-01",
-        "rank": 255,
+        "rank": 256,
         "elo": 1036.28
       },
       {
@@ -298,22 +298,27 @@
         "date": "2026-06-01",
         "rank": 60,
         "elo": 1097.24
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 131,
+        "elo": 1065.15
       }
     ],
     "lw": [
       {
         "date": "2022-06-01",
-        "rank": 68,
+        "rank": 78,
         "elo": 1020.8
       },
       {
         "date": "2022-07-01",
-        "rank": 67,
+        "rank": 79,
         "elo": 1020.8
       },
       {
         "date": "2022-08-01",
-        "rank": 69,
+        "rank": 80,
         "elo": 1020.8
       },
       {
@@ -545,6 +550,11 @@
         "date": "2026-06-01",
         "rank": 5,
         "elo": 1110.56
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 17,
+        "elo": 1077.29
       }
     ],
     "ww": [
@@ -735,17 +745,17 @@
       },
       {
         "date": "2024-11-01",
-        "rank": 210,
+        "rank": 211,
         "elo": 980.05
       },
       {
         "date": "2024-12-01",
-        "rank": 209,
+        "rank": 210,
         "elo": 980.05
       },
       {
         "date": "2025-01-01",
-        "rank": 209,
+        "rank": 210,
         "elo": 980.05
       },
       {
@@ -830,12 +840,32 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 219,
+        "rank": 222,
+        "elo": 980.05
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 222,
         "elo": 980.05
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "7826923b47f8d72a",
+      "opponent_name": "Paddy Pimblett",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1097.24,
+      "p4p_after": 1065.15,
+      "p4p_delta": -32.09,
+      "div_before": 1110.56,
+      "div_after": 1077.29,
+      "div_delta": -33.27
+    },
     {
       "date": "2026-01-31",
       "weight_class": "lw",

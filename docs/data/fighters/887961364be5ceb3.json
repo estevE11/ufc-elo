@@ -2,7 +2,7 @@
   "id": "887961364be5ceb3",
   "name": "King Green",
   "slug": "king-green",
-  "last_fight_date": "2026-05-09",
+  "last_fight_date": "2026-07-11",
   "active_current_mode": true,
   "divisions": [
     "catch",
@@ -816,8 +816,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 566,
+        "rank": 570,
         "elo": 1001.72
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 351,
+        "elo": 1022.43
       }
     ],
     "catch": [
@@ -1083,6 +1088,11 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 73,
+        "elo": 983.43
+      },
+      {
+        "date": "2026-07-01",
         "rank": 73,
         "elo": 983.43
       }
@@ -1890,12 +1900,32 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 145,
+        "rank": 147,
         "elo": 1000.05
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 72,
+        "elo": 1020.85
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "809bd1a871491508",
+      "opponent_name": "Terrance McKinney",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1001.72,
+      "p4p_after": 1022.43,
+      "p4p_delta": 20.71,
+      "div_before": 1000.05,
+      "div_after": 1020.85,
+      "div_delta": 20.8
+    },
     {
       "date": "2026-05-09",
       "weight_class": "lw",

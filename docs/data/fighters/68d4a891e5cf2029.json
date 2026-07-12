@@ -2,7 +2,7 @@
   "id": "68d4a891e5cf2029",
   "name": "Tracy Cortez",
   "slug": "tracy-cortez",
-  "last_fight_date": "2025-11-15",
+  "last_fight_date": "2026-07-11",
   "active_current_mode": true,
   "divisions": [
     "wbw",
@@ -411,8 +411,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 290,
+        "rank": 288,
         "elo": 1032.15
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 519,
+        "elo": 1007.8
       }
     ],
     "wbw": [
@@ -815,6 +820,11 @@
         "date": "2026-06-01",
         "rank": 13,
         "elo": 1030.18
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 13,
+        "elo": 1030.18
       }
     ],
     "wflw": [
@@ -1132,10 +1142,30 @@
         "date": "2026-06-01",
         "rank": 30,
         "elo": 1005.75
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 44,
+        "elo": 982.19
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "2997e7fe3c9d3d4a",
+      "opponent_name": "Wang Cong",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1032.15,
+      "p4p_after": 1007.8,
+      "p4p_delta": -24.35,
+      "div_before": 1005.75,
+      "div_after": 982.19,
+      "div_delta": -23.56
+    },
     {
       "date": "2025-11-15",
       "weight_class": "wflw",

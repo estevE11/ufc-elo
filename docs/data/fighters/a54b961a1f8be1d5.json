@@ -1,0 +1,46 @@
+{
+  "id": "a54b961a1f8be1d5",
+  "name": "John Garza",
+  "slug": "john-garza",
+  "last_fight_date": "2026-07-11",
+  "active_current_mode": true,
+  "divisions": [
+    "bw"
+  ],
+  "division_names": {
+    "bw": "Bantamweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-07-01",
+        "rank": 853,
+        "elo": 982.23
+      }
+    ],
+    "bw": [
+      {
+        "date": "2026-07-01",
+        "rank": 135,
+        "elo": 981.24
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "a09ed60aa67a3f67",
+      "opponent_name": "Farid Basharat",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 982.23,
+      "p4p_delta": -17.77,
+      "div_before": 1000.0,
+      "div_after": 981.24,
+      "div_delta": -18.76
+    }
+  ]
+}

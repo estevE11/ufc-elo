@@ -2,7 +2,7 @@
   "id": "bc711b6dd95c1af6",
   "name": "Mario Bautista",
   "slug": "mario-bautista",
-  "last_fight_date": "2026-02-07",
+  "last_fight_date": "2026-07-11",
   "active_current_mode": true,
   "divisions": [
     "bw"
@@ -219,7 +219,7 @@
       },
       {
         "date": "2022-06-01",
-        "rank": 552,
+        "rank": 553,
         "elo": 997.11
       },
       {
@@ -229,7 +229,7 @@
       },
       {
         "date": "2022-08-01",
-        "rank": 549,
+        "rank": 550,
         "elo": 997.11
       },
       {
@@ -461,6 +461,11 @@
         "date": "2026-06-01",
         "rank": 82,
         "elo": 1087.15
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 51,
+        "elo": 1103.09
       }
     ],
     "bw": [
@@ -913,10 +918,30 @@
         "date": "2026-06-01",
         "rank": 7,
         "elo": 1083.21
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 6,
+        "elo": 1097.88
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "65f09bacd3957381",
+      "opponent_name": "Cory Sandhagen",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1087.15,
+      "p4p_after": 1103.09,
+      "p4p_delta": 15.94,
+      "div_before": 1083.21,
+      "div_after": 1097.88,
+      "div_delta": 14.67
+    },
     {
       "date": "2026-02-07",
       "weight_class": "bw",

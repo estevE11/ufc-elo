@@ -2,7 +2,7 @@
   "id": "2997e7fe3c9d3d4a",
   "name": "Wang Cong",
   "slug": "wang-cong",
-  "last_fight_date": "2026-02-07",
+  "last_fight_date": "2026-07-11",
   "active_current_mode": true,
   "divisions": [
     "catch",
@@ -126,34 +126,44 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 316,
+        "rank": 315,
         "elo": 1027.1
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 218,
+        "elo": 1043.34
       }
     ],
     "catch": [
       {
         "date": "2026-02-01",
-        "rank": 55,
+        "rank": 60,
         "elo": 1016.0
       },
       {
         "date": "2026-03-01",
-        "rank": 55,
+        "rank": 60,
         "elo": 1016.0
       },
       {
         "date": "2026-04-01",
-        "rank": 55,
+        "rank": 60,
         "elo": 1016.0
       },
       {
         "date": "2026-05-01",
-        "rank": 59,
+        "rank": 60,
         "elo": 1016.0
       },
       {
         "date": "2026-06-01",
-        "rank": 60,
+        "rank": 61,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 61,
         "elo": 1016.0
       }
     ],
@@ -272,10 +282,30 @@
         "date": "2026-06-01",
         "rank": 22,
         "elo": 1012.14
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 13,
+        "elo": 1027.84
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "68d4a891e5cf2029",
+      "opponent_name": "Tracy Cortez",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1027.1,
+      "p4p_after": 1043.34,
+      "p4p_delta": 16.24,
+      "div_before": 1012.14,
+      "div_after": 1027.84,
+      "div_delta": 15.7
+    },
     {
       "date": "2026-02-07",
       "weight_class": "catch",

@@ -2,8 +2,8 @@
   "id": "f4c49976c75c5ab2",
   "name": "Conor McGregor",
   "slug": "conor-mcgregor",
-  "last_fight_date": "2021-07-10",
-  "active_current_mode": false,
+  "last_fight_date": "2026-07-11",
+  "active_current_mode": true,
   "divisions": [
     "fw",
     "lw",
@@ -783,7 +783,7 @@
       },
       {
         "date": "2026-01-01",
-        "rank": 187,
+        "rank": 188,
         "elo": 1048.03
       },
       {
@@ -793,7 +793,7 @@
       },
       {
         "date": "2026-03-01",
-        "rank": 189,
+        "rank": 190,
         "elo": 1048.03
       },
       {
@@ -808,8 +808,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 196,
+        "rank": 197,
         "elo": 1048.03
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 320,
+        "elo": 1026.23
       }
     ],
     "fw": [
@@ -1607,6 +1612,11 @@
         "date": "2026-06-01",
         "rank": 4,
         "elo": 1138.7
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 4,
+        "elo": 1138.7
       }
     ],
     "lw": [
@@ -2187,6 +2197,11 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 384,
+        "elo": 960.94
+      },
+      {
+        "date": "2026-07-01",
         "rank": 384,
         "elo": 960.94
       }
@@ -2809,12 +2824,32 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 114,
+        "rank": 117,
         "elo": 1004.55
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 278,
+        "elo": 972.94
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "150ff4cc642270b9",
+      "opponent_name": "Max Holloway",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1048.03,
+      "p4p_after": 1026.23,
+      "p4p_delta": -21.8,
+      "div_before": 1004.55,
+      "div_after": 972.94,
+      "div_delta": -31.61
+    },
     {
       "date": "2021-07-10",
       "weight_class": "lw",

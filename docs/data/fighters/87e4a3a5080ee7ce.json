@@ -2,7 +2,7 @@
   "id": "87e4a3a5080ee7ce",
   "name": "Elisha Ellison",
   "slug": "elisha-ellison",
-  "last_fight_date": "2025-09-27",
+  "last_fight_date": "2026-07-11",
   "active_current_mode": true,
   "divisions": [
     "hw"
@@ -14,109 +14,134 @@
     "p4p": [
       {
         "date": "2025-09-01",
-        "rank": 1174,
+        "rank": 1278,
         "elo": 968.8
       },
       {
         "date": "2025-10-01",
-        "rank": 1191,
+        "rank": 1284,
         "elo": 968.8
       },
       {
         "date": "2025-11-01",
-        "rank": 1183,
+        "rank": 1288,
         "elo": 968.8
       },
       {
         "date": "2025-12-01",
-        "rank": 1199,
+        "rank": 1293,
         "elo": 968.8
       },
       {
         "date": "2026-01-01",
-        "rank": 1194,
+        "rank": 1300,
         "elo": 968.8
       },
       {
         "date": "2026-02-01",
-        "rank": 1204,
+        "rank": 1299,
         "elo": 968.8
       },
       {
         "date": "2026-03-01",
-        "rank": 1246,
+        "rank": 1306,
         "elo": 968.8
       },
       {
         "date": "2026-04-01",
-        "rank": 1218,
+        "rank": 1312,
         "elo": 968.8
       },
       {
         "date": "2026-05-01",
-        "rank": 1252,
+        "rank": 1313,
         "elo": 968.8
       },
       {
         "date": "2026-06-01",
-        "rank": 1252,
+        "rank": 1315,
         "elo": 968.8
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2066,
+        "elo": 940.39
       }
     ],
     "hw": [
       {
         "date": "2025-09-01",
-        "rank": 163,
+        "rank": 192,
         "elo": 968.8
       },
       {
         "date": "2025-10-01",
-        "rank": 163,
+        "rank": 192,
         "elo": 968.8
       },
       {
         "date": "2025-11-01",
-        "rank": 167,
+        "rank": 196,
         "elo": 968.8
       },
       {
         "date": "2025-12-01",
-        "rank": 170,
+        "rank": 199,
         "elo": 968.8
       },
       {
         "date": "2026-01-01",
-        "rank": 170,
+        "rank": 199,
         "elo": 968.8
       },
       {
         "date": "2026-02-01",
-        "rank": 170,
+        "rank": 199,
         "elo": 968.8
       },
       {
         "date": "2026-03-01",
-        "rank": 171,
+        "rank": 200,
         "elo": 968.8
       },
       {
         "date": "2026-04-01",
-        "rank": 171,
+        "rank": 200,
         "elo": 968.8
       },
       {
         "date": "2026-05-01",
-        "rank": 171,
+        "rank": 200,
         "elo": 968.8
       },
       {
         "date": "2026-06-01",
-        "rank": 172,
+        "rank": 201,
         "elo": 968.8
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 258,
+        "elo": 940.39
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "f7e856a73c96048e",
+      "opponent_name": "Gable Steveson",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 968.8,
+      "p4p_after": 940.39,
+      "p4p_delta": -28.41,
+      "div_before": 968.8,
+      "div_after": 940.39,
+      "div_delta": -28.41
+    },
     {
       "date": "2025-09-27",
       "weight_class": "hw",

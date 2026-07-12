@@ -2,7 +2,7 @@
   "id": "23dec7c47cb418f8",
   "name": "Zach Reese",
   "slug": "zach-reese",
-  "last_fight_date": "2026-02-21",
+  "last_fight_date": "2026-07-11",
   "active_current_mode": true,
   "divisions": [
     "catch",
@@ -166,49 +166,59 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 752,
+        "rank": 755,
         "elo": 987.75
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1566,
+        "elo": 959.05
       }
     ],
     "catch": [
       {
         "date": "2025-11-01",
-        "rank": 25,
+        "rank": 37,
         "elo": 1020.8
       },
       {
         "date": "2025-12-01",
-        "rank": 25,
+        "rank": 37,
         "elo": 1020.8
       },
       {
         "date": "2026-01-01",
-        "rank": 25,
+        "rank": 37,
         "elo": 1020.8
       },
       {
         "date": "2026-02-01",
-        "rank": 25,
+        "rank": 37,
         "elo": 1020.8
       },
       {
         "date": "2026-03-01",
-        "rank": 25,
+        "rank": 37,
         "elo": 1020.8
       },
       {
         "date": "2026-04-01",
-        "rank": 25,
+        "rank": 37,
         "elo": 1020.8
       },
       {
         "date": "2026-05-01",
-        "rank": 26,
+        "rank": 37,
         "elo": 1020.8
       },
       {
         "date": "2026-06-01",
-        "rank": 31,
+        "rank": 37,
+        "elo": 1020.8
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 37,
         "elo": 1020.8
       }
     ],
@@ -365,12 +375,32 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 311,
+        "rank": 309,
         "elo": 966.97
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 394,
+        "elo": 940.11
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "e463ce0a2ca474f4",
+      "opponent_name": "Ryan Gandra",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 987.75,
+      "p4p_after": 959.05,
+      "p4p_delta": -28.7,
+      "div_before": 966.97,
+      "div_after": 940.11,
+      "div_delta": -26.86
+    },
     {
       "date": "2026-02-21",
       "weight_class": "mw",

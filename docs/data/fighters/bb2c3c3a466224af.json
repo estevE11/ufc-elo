@@ -2,7 +2,7 @@
   "id": "bb2c3c3a466224af",
   "name": "Lone'er Kavanagh",
   "slug": "lone-er-kavanagh",
-  "last_fight_date": "2026-02-28",
+  "last_fight_date": "2026-07-11",
   "active_current_mode": true,
   "divisions": [
     "flw"
@@ -14,22 +14,22 @@
     "p4p": [
       {
         "date": "2024-11-01",
-        "rank": 417,
+        "rank": 420,
         "elo": 1016.0
       },
       {
         "date": "2024-12-01",
-        "rank": 414,
+        "rank": 416,
         "elo": 1016.0
       },
       {
         "date": "2025-01-01",
-        "rank": 419,
+        "rank": 422,
         "elo": 1016.0
       },
       {
         "date": "2025-02-01",
-        "rank": 426,
+        "rank": 428,
         "elo": 1016.0
       },
       {
@@ -109,8 +109,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 460,
+        "rank": 463,
         "elo": 1014.08
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 876,
+        "elo": 980.8
       }
     ],
     "flw": [
@@ -213,10 +218,30 @@
         "date": "2026-06-01",
         "rank": 29,
         "elo": 1015.18
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 59,
+        "elo": 981.67
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "6e15f63b6c2e2c15",
+      "opponent_name": "Brandon Royval",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1014.08,
+      "p4p_after": 980.8,
+      "p4p_delta": -33.28,
+      "div_before": 1015.18,
+      "div_after": 981.67,
+      "div_delta": -33.51
+    },
     {
       "date": "2026-02-28",
       "weight_class": "flw",

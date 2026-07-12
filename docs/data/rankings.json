@@ -1,5 +1,5 @@
 {
-  "reference_date": "2026-06-01",
+  "reference_date": "2026-07-01",
   "historical": {
     "p4p": [
       {
@@ -40,15 +40,15 @@
       },
       {
         "rank": 7,
-        "fighter_id": "07225ba28ae309b6",
-        "name": "Charles Oliveira",
-        "elo": 1164.44
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "elo": 1170.6
       },
       {
         "rank": 8,
-        "fighter_id": "150ff4cc642270b9",
-        "name": "Max Holloway",
-        "elo": 1156.06
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "elo": 1164.44
       },
       {
         "rank": 9,
@@ -338,9 +338,9 @@
       },
       {
         "rank": 5,
-        "fighter_id": "c2299ec916bc7c56",
-        "name": "Benoit Saint Denis",
-        "elo": 1110.56
+        "fighter_id": "7826923b47f8d72a",
+        "name": "Paddy Pimblett",
+        "elo": 1109.67
       },
       {
         "rank": 6,
@@ -468,21 +468,21 @@
       },
       {
         "rank": 6,
+        "fighter_id": "bc711b6dd95c1af6",
+        "name": "Mario Bautista",
+        "elo": 1097.88
+      },
+      {
+        "rank": 7,
         "fighter_id": "2b6fc1c02736833d",
         "name": "Umar Nurmagomedov",
         "elo": 1093.98
       },
       {
-        "rank": 7,
-        "fighter_id": "bc711b6dd95c1af6",
-        "name": "Mario Bautista",
-        "elo": 1083.21
-      },
-      {
         "rank": 8,
         "fighter_id": "a09ed60aa67a3f67",
         "name": "Farid Basharat",
-        "elo": 1077.08
+        "elo": 1089.59
       },
       {
         "rank": 9,
@@ -824,15 +824,15 @@
       },
       {
         "rank": 3,
-        "fighter_id": "07225ba28ae309b6",
-        "name": "Charles Oliveira",
-        "elo": 1164.44
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "elo": 1170.6
       },
       {
         "rank": 4,
-        "fighter_id": "150ff4cc642270b9",
-        "name": "Max Holloway",
-        "elo": 1156.06
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "elo": 1164.44
       },
       {
         "rank": 5,
@@ -1140,9 +1140,9 @@
       },
       {
         "rank": 4,
-        "fighter_id": "c2299ec916bc7c56",
-        "name": "Benoit Saint Denis",
-        "elo": 1110.56
+        "fighter_id": "7826923b47f8d72a",
+        "name": "Paddy Pimblett",
+        "elo": 1109.67
       },
       {
         "rank": 5,
@@ -1158,21 +1158,21 @@
       },
       {
         "rank": 7,
-        "fighter_id": "7826923b47f8d72a",
-        "name": "Paddy Pimblett",
-        "elo": 1087.49
-      },
-      {
-        "rank": 8,
         "fighter_id": "58bbef3770bb2dfc",
         "name": "Joel Alvarez",
         "elo": 1083.88
       },
       {
-        "rank": 9,
+        "rank": 8,
         "fighter_id": "72db2a14ffa73ece",
         "name": "Mateusz Gamrot",
         "elo": 1077.83
+      },
+      {
+        "rank": 9,
+        "fighter_id": "c2299ec916bc7c56",
+        "name": "Benoit Saint Denis",
+        "elo": 1077.29
       },
       {
         "rank": 10,
@@ -1202,45 +1202,45 @@
       },
       {
         "rank": 4,
+        "fighter_id": "f4c49976c75c5ab2",
+        "name": "Conor McGregor",
+        "elo": 1138.7
+      },
+      {
+        "rank": 5,
         "fighter_id": "76e2870ffafbe38f",
         "name": "Movsar Evloev",
         "elo": 1132.68
       },
       {
-        "rank": 5,
+        "rank": 6,
         "fighter_id": "396fe87b84ac2e1c",
         "name": "Lerone Murphy",
         "elo": 1113.87
       },
       {
-        "rank": 6,
+        "rank": 7,
         "fighter_id": "040a74bb0a465c54",
         "name": "Arnold Allen",
         "elo": 1093.18
       },
       {
-        "rank": 7,
+        "rank": 8,
         "fighter_id": "b8bbdeff718dbb7d",
         "name": "Pat Sabatini",
         "elo": 1084.93
       },
       {
-        "rank": 8,
+        "rank": 9,
         "fighter_id": "20bccc9bb4ceb23e",
         "name": "Melquizael Costa",
         "elo": 1083.27
       },
       {
-        "rank": 9,
+        "rank": 10,
         "fighter_id": "f166e93d04a8c274",
         "name": "Diego Lopes",
         "elo": 1075.33
-      },
-      {
-        "rank": 10,
-        "fighter_id": "239d8e5359022f3b",
-        "name": "Kevin Vallejos",
-        "elo": 1071.19
       }
     ],
     "bw": [
@@ -1270,21 +1270,21 @@
       },
       {
         "rank": 5,
+        "fighter_id": "bc711b6dd95c1af6",
+        "name": "Mario Bautista",
+        "elo": 1097.88
+      },
+      {
+        "rank": 6,
         "fighter_id": "2b6fc1c02736833d",
         "name": "Umar Nurmagomedov",
         "elo": 1093.98
       },
       {
-        "rank": 6,
-        "fighter_id": "bc711b6dd95c1af6",
-        "name": "Mario Bautista",
-        "elo": 1083.21
-      },
-      {
         "rank": 7,
         "fighter_id": "a09ed60aa67a3f67",
         "name": "Farid Basharat",
-        "elo": 1077.08
+        "elo": 1089.59
       },
       {
         "rank": 8,

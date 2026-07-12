@@ -2,7 +2,7 @@
   "id": "eee0ef3e2b14816b",
   "name": "Kai Kamaka III",
   "slug": "kai-kamaka-iii",
-  "last_fight_date": "2026-04-04",
+  "last_fight_date": "2026-07-11",
   "active_current_mode": true,
   "divisions": [
     "fw",
@@ -16,7 +16,7 @@
     "p4p": [
       {
         "date": "2020-08-01",
-        "rank": 351,
+        "rank": 363,
         "elo": 1016.0
       },
       {
@@ -26,7 +26,7 @@
       },
       {
         "date": "2020-10-01",
-        "rank": 361,
+        "rank": 366,
         "elo": 1016.0
       },
       {
@@ -366,24 +366,29 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1031,
+        "rank": 1032,
         "elo": 975.42
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1797,
+        "elo": 949.55
       }
     ],
     "fw": [
       {
         "date": "2020-08-01",
-        "rank": 49,
+        "rank": 56,
         "elo": 1016.0
       },
       {
         "date": "2020-09-01",
-        "rank": 50,
+        "rank": 57,
         "elo": 1016.0
       },
       {
         "date": "2020-10-01",
-        "rank": 50,
+        "rank": 57,
         "elo": 1016.0
       },
       {
@@ -723,8 +728,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 266,
+        "rank": 269,
         "elo": 966.21
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 348,
+        "elo": 941.22
       }
     ],
     "lw": [
@@ -742,10 +752,30 @@
         "date": "2026-06-01",
         "rank": 118,
         "elo": 1011.2
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 119,
+        "elo": 1011.2
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "b1de86d835638319",
+      "opponent_name": "Luke Riley",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 975.42,
+      "p4p_after": 949.55,
+      "p4p_delta": -25.87,
+      "div_before": 966.21,
+      "div_after": 941.22,
+      "div_delta": -24.99
+    },
     {
       "date": "2026-04-04",
       "weight_class": "lw",

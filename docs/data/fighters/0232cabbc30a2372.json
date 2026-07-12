@@ -2,7 +2,7 @@
   "id": "0232cabbc30a2372",
   "name": "Adrian Yanez",
   "slug": "adrian-yanez",
-  "last_fight_date": "2024-12-14",
+  "last_fight_date": "2026-07-11",
   "active_current_mode": true,
   "divisions": [
     "bw"
@@ -14,12 +14,12 @@
     "p4p": [
       {
         "date": "2020-10-01",
-        "rank": 300,
+        "rank": 310,
         "elo": 1020.8
       },
       {
         "date": "2020-11-01",
-        "rank": 300,
+        "rank": 310,
         "elo": 1020.8
       },
       {
@@ -34,7 +34,7 @@
       },
       {
         "date": "2021-02-01",
-        "rank": 321,
+        "rank": 326,
         "elo": 1020.8
       },
       {
@@ -356,22 +356,27 @@
         "date": "2026-06-01",
         "rank": 352,
         "elo": 1021.98
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 231,
+        "elo": 1041.02
       }
     ],
     "bw": [
       {
         "date": "2020-10-01",
-        "rank": 35,
+        "rank": 41,
         "elo": 1020.8
       },
       {
         "date": "2020-11-01",
-        "rank": 35,
+        "rank": 40,
         "elo": 1020.8
       },
       {
         "date": "2020-12-01",
-        "rank": 35,
+        "rank": 40,
         "elo": 1020.8
       },
       {
@@ -703,10 +708,30 @@
         "date": "2026-06-01",
         "rank": 50,
         "elo": 1024.56
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 27,
+        "elo": 1044.05
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-11",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "d8c7c61b176e3994",
+      "opponent_name": "Cody Garbrandt",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1021.98,
+      "p4p_after": 1041.02,
+      "p4p_delta": 19.04,
+      "div_before": 1024.56,
+      "div_after": 1044.05,
+      "div_delta": 19.49
+    },
     {
       "date": "2024-12-14",
       "weight_class": "bw",
