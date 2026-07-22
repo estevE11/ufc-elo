@@ -2,7 +2,7 @@
   "id": "d3f89fa685bd8420",
   "name": "Austin Bashi",
   "slug": "austin-bashi",
-  "last_fight_date": "2025-08-02",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -99,8 +99,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 611,
+        "rank": 615,
         "elo": 998.54
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 950,
+        "elo": 976.63
       }
     ],
     "fw": [
@@ -191,12 +196,32 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 109,
+        "rank": 113,
         "elo": 995.28
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 208,
+        "elo": 973.46
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "7d6ceff6747f2de2",
+      "opponent_name": "Jose Delgado",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 998.54,
+      "p4p_after": 976.63,
+      "p4p_delta": -21.91,
+      "div_before": 995.28,
+      "div_after": 973.46,
+      "div_delta": -21.82
+    },
     {
       "date": "2025-08-02",
       "weight_class": "fw",

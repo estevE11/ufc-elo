@@ -1,0 +1,46 @@
+{
+  "id": "9ac4e43ed56429ed",
+  "name": "Levi Rodrigues Jr.",
+  "slug": "levi-rodrigues-jr",
+  "last_fight_date": "2026-07-18",
+  "active_current_mode": true,
+  "divisions": [
+    "lhw"
+  ],
+  "division_names": {
+    "lhw": "Light Heavyweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-07-01",
+        "rank": 1387,
+        "elo": 966.89
+      }
+    ],
+    "lhw": [
+      {
+        "date": "2026-07-01",
+        "rank": 166,
+        "elo": 968.8
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "e564146b9cf6dbef",
+      "opponent_name": "Felipe Franco",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 966.89,
+      "p4p_delta": -33.11,
+      "div_before": 1000.0,
+      "div_after": 968.8,
+      "div_delta": -31.2
+    }
+  ]
+}

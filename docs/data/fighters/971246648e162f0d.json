@@ -2,7 +2,7 @@
   "id": "971246648e162f0d",
   "name": "Chase Hooper",
   "slug": "chase-hooper",
-  "last_fight_date": "2026-03-28",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "fw",
@@ -101,37 +101,37 @@
       },
       {
         "date": "2021-11-01",
-        "rank": 1220,
-        "elo": 966.84
-      },
-      {
-        "date": "2021-12-01",
-        "rank": 1215,
-        "elo": 966.84
-      },
-      {
-        "date": "2022-01-01",
         "rank": 1221,
         "elo": 966.84
       },
       {
+        "date": "2021-12-01",
+        "rank": 1216,
+        "elo": 966.84
+      },
+      {
+        "date": "2022-01-01",
+        "rank": 1222,
+        "elo": 966.84
+      },
+      {
         "date": "2022-02-01",
-        "rank": 1227,
+        "rank": 1228,
         "elo": 966.84
       },
       {
         "date": "2022-03-01",
-        "rank": 1225,
+        "rank": 1226,
         "elo": 966.84
       },
       {
         "date": "2022-04-01",
-        "rank": 1227,
+        "rank": 1228,
         "elo": 966.84
       },
       {
         "date": "2022-05-01",
-        "rank": 641,
+        "rank": 643,
         "elo": 988.83
       },
       {
@@ -156,7 +156,7 @@
       },
       {
         "date": "2022-10-01",
-        "rank": 1438,
+        "rank": 1439,
         "elo": 957.4
       },
       {
@@ -176,7 +176,7 @@
       },
       {
         "date": "2023-02-01",
-        "rank": 1457,
+        "rank": 1458,
         "elo": 957.4
       },
       {
@@ -376,8 +376,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1022,
+        "rank": 1024,
         "elo": 975.59
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 660,
+        "elo": 994.31
       }
     ],
     "fw": [
@@ -743,7 +748,12 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 292,
+        "rank": 296,
+        "elo": 959.15
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 297,
         "elo": 959.15
       }
     ],
@@ -937,10 +947,30 @@
         "date": "2026-06-01",
         "rank": 120,
         "elo": 1009.87
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 64,
+        "elo": 1026.61
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "e99eb0ef25885de5",
+      "opponent_name": "Mitch Ramirez",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 975.59,
+      "p4p_after": 994.31,
+      "p4p_delta": 18.72,
+      "div_before": 1009.87,
+      "div_after": 1026.61,
+      "div_delta": 16.74
+    },
     {
       "date": "2026-03-28",
       "weight_class": "lw",

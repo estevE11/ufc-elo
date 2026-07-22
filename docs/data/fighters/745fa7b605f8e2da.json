@@ -2,7 +2,7 @@
   "id": "745fa7b605f8e2da",
   "name": "Fatima Kline",
   "slug": "fatima-kline",
-  "last_fight_date": "2025-11-15",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "wflw",
@@ -131,8 +131,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 293,
+        "rank": 290,
         "elo": 1031.78
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 202,
+        "elo": 1046.97
       }
     ],
     "wflw": [
@@ -255,6 +260,11 @@
         "date": "2026-06-01",
         "rank": 49,
         "elo": 976.04
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 49,
+        "elo": 976.04
       }
     ],
     "wsw": [
@@ -347,10 +357,30 @@
         "date": "2026-06-01",
         "rank": 7,
         "elo": 1050.64
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 6,
+        "elo": 1065.93
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "d25240135aee03e5",
+      "opponent_name": "Tabatha Ricci",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1031.78,
+      "p4p_after": 1046.97,
+      "p4p_delta": 15.19,
+      "div_before": 1050.64,
+      "div_after": 1065.93,
+      "div_delta": 15.29
+    },
     {
       "date": "2025-11-15",
       "weight_class": "wsw",

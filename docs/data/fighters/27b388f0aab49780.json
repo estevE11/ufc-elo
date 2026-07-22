@@ -2,7 +2,7 @@
   "id": "27b388f0aab49780",
   "name": "Dione Barbosa",
   "slug": "dione-barbosa",
-  "last_fight_date": "2026-04-04",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "wflw"
@@ -19,7 +19,7 @@
       },
       {
         "date": "2024-06-01",
-        "rank": 415,
+        "rank": 420,
         "elo": 1016.0
       },
       {
@@ -139,19 +139,24 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 581,
+        "rank": 585,
         "elo": 1000.76
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 360,
+        "elo": 1021.52
       }
     ],
     "wflw": [
       {
         "date": "2024-05-01",
-        "rank": 17,
+        "rank": 19,
         "elo": 1016.0
       },
       {
         "date": "2024-06-01",
-        "rank": 17,
+        "rank": 19,
         "elo": 1016.0
       },
       {
@@ -273,10 +278,30 @@
         "date": "2026-06-01",
         "rank": 32,
         "elo": 1002.7
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 14,
+        "elo": 1023.34
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "40a7ec5d1ad6ffa8",
+      "opponent_name": "Anna Melisano",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1000.76,
+      "p4p_after": 1021.52,
+      "p4p_delta": 20.76,
+      "div_before": 1002.7,
+      "div_after": 1023.34,
+      "div_delta": 20.64
+    },
     {
       "date": "2026-04-04",
       "weight_class": "wflw",

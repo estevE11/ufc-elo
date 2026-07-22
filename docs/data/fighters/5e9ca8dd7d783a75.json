@@ -2,7 +2,7 @@
   "id": "5e9ca8dd7d783a75",
   "name": "Alden Coria",
   "slug": "alden-coria",
-  "last_fight_date": "2026-02-21",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "flw"
@@ -59,8 +59,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 287,
+        "rank": 284,
         "elo": 1032.79
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 219,
+        "elo": 1043.58
       }
     ],
     "flw": [
@@ -111,12 +116,32 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 21,
+        "rank": 19,
         "elo": 1032.64
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 16,
+        "elo": 1043.44
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "2bd98ab77a8daa75",
+      "opponent_name": "Stewart Nicoll",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1032.79,
+      "p4p_after": 1043.58,
+      "p4p_delta": 10.79,
+      "div_before": 1032.64,
+      "div_after": 1043.44,
+      "div_delta": 10.8
+    },
     {
       "date": "2026-02-21",
       "weight_class": "flw",

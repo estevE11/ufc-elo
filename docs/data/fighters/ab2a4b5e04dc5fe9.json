@@ -2,7 +2,7 @@
   "id": "ab2a4b5e04dc5fe9",
   "name": "Alvin Hines",
   "slug": "alvin-hines",
-  "last_fight_date": "2025-06-28",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "hw"
@@ -74,8 +74,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 965,
+        "rank": 968,
         "elo": 976.04
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1868,
+        "elo": 946.99
       }
     ],
     "hw": [
@@ -143,10 +148,30 @@
         "date": "2026-06-01",
         "rank": 131,
         "elo": 976.05
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 246,
+        "elo": 946.99
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "e03187ec8b5b6abc",
+      "opponent_name": "RJ Harris",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 976.04,
+      "p4p_after": 946.99,
+      "p4p_delta": -29.05,
+      "div_before": 976.05,
+      "div_after": 946.99,
+      "div_delta": -29.06
+    },
     {
       "date": "2025-06-28",
       "weight_class": "hw",

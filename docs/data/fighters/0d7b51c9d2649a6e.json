@@ -2,7 +2,7 @@
   "id": "0d7b51c9d2649a6e",
   "name": "Dricus Du Plessis",
   "slug": "dricus-du-plessis",
-  "last_fight_date": "2025-08-16",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -14,7 +14,7 @@
     "p4p": [
       {
         "date": "2020-10-01",
-        "rank": 324,
+        "rank": 325,
         "elo": 1018.94
       },
       {
@@ -24,7 +24,7 @@
       },
       {
         "date": "2020-12-01",
-        "rank": 330,
+        "rank": 331,
         "elo": 1018.94
       },
       {
@@ -356,6 +356,11 @@
         "date": "2026-06-01",
         "rank": 21,
         "elo": 1136.78
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 10,
+        "elo": 1153.57
       }
     ],
     "mw": [
@@ -703,10 +708,30 @@
         "date": "2026-06-01",
         "rank": 2,
         "elo": 1129.45
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2,
+        "elo": 1140.51
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "f1b2aa7853d1ed6e",
+      "opponent_name": "Kamaru Usman",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1136.78,
+      "p4p_after": 1153.57,
+      "p4p_delta": 16.79,
+      "div_before": 1129.45,
+      "div_after": 1140.51,
+      "div_delta": 11.06
+    },
     {
       "date": "2025-08-16",
       "weight_class": "mw",
@@ -715,9 +740,9 @@
       "opponent_name": "Khamzat Chimaev",
       "result": "ud",
       "outcome": "L",
-      "p4p_before": 1161.57,
+      "p4p_before": 1161.58,
       "p4p_after": 1136.78,
-      "p4p_delta": -24.79,
+      "p4p_delta": -24.8,
       "div_before": 1159.14,
       "div_after": 1129.45,
       "div_delta": -29.69
@@ -731,8 +756,8 @@
       "result": "ud",
       "outcome": "W",
       "p4p_before": 1147.96,
-      "p4p_after": 1161.57,
-      "p4p_delta": 13.61,
+      "p4p_after": 1161.58,
+      "p4p_delta": 13.62,
       "div_before": 1146.53,
       "div_after": 1159.14,
       "div_delta": 12.61

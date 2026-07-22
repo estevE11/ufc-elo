@@ -2,7 +2,7 @@
   "id": "d25240135aee03e5",
   "name": "Tabatha Ricci",
   "slug": "tabatha-ricci",
-  "last_fight_date": "2026-04-04",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "wflw",
@@ -16,22 +16,22 @@
     "p4p": [
       {
         "date": "2021-06-01",
-        "rank": 990,
+        "rank": 992,
         "elo": 970.67
       },
       {
         "date": "2021-07-01",
-        "rank": 988,
+        "rank": 990,
         "elo": 970.67
       },
       {
         "date": "2021-08-01",
-        "rank": 993,
+        "rank": 995,
         "elo": 970.67
       },
       {
         "date": "2021-09-01",
-        "rank": 995,
+        "rank": 997,
         "elo": 970.67
       },
       {
@@ -46,27 +46,27 @@
       },
       {
         "date": "2021-12-01",
-        "rank": 643,
+        "rank": 644,
         "elo": 988.01
       },
       {
         "date": "2022-01-01",
-        "rank": 647,
+        "rank": 648,
         "elo": 988.01
       },
       {
         "date": "2022-02-01",
-        "rank": 645,
+        "rank": 646,
         "elo": 988.01
       },
       {
         "date": "2022-03-01",
-        "rank": 643,
+        "rank": 644,
         "elo": 988.01
       },
       {
         "date": "2022-04-01",
-        "rank": 650,
+        "rank": 651,
         "elo": 988.01
       },
       {
@@ -96,7 +96,7 @@
       },
       {
         "date": "2022-10-01",
-        "rank": 487,
+        "rank": 488,
         "elo": 1003.95
       },
       {
@@ -116,7 +116,7 @@
       },
       {
         "date": "2023-02-01",
-        "rank": 496,
+        "rank": 497,
         "elo": 1003.95
       },
       {
@@ -316,8 +316,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 459,
+        "rank": 462,
         "elo": 1014.11
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 702,
+        "elo": 991.33
       }
     ],
     "wflw": [
@@ -625,27 +630,32 @@
         "date": "2026-06-01",
         "rank": 63,
         "elo": 970.67
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 63,
+        "elo": 970.67
       }
     ],
     "wsw": [
       {
         "date": "2021-10-01",
-        "rank": 19,
+        "rank": 20,
         "elo": 1016.0
       },
       {
         "date": "2021-11-01",
-        "rank": 20,
+        "rank": 21,
         "elo": 1016.0
       },
       {
         "date": "2021-12-01",
-        "rank": 20,
+        "rank": 21,
         "elo": 1016.0
       },
       {
         "date": "2022-01-01",
-        "rank": 21,
+        "rank": 22,
         "elo": 1016.0
       },
       {
@@ -912,10 +922,30 @@
         "date": "2026-06-01",
         "rank": 13,
         "elo": 1035.18
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 26,
+        "elo": 1012.25
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "745fa7b605f8e2da",
+      "opponent_name": "Fatima Kline",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1014.11,
+      "p4p_after": 991.33,
+      "p4p_delta": -22.78,
+      "div_before": 1035.18,
+      "div_after": 1012.25,
+      "div_delta": -22.93
+    },
     {
       "date": "2026-04-04",
       "weight_class": "wsw",

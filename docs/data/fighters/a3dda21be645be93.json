@@ -2,7 +2,7 @@
   "id": "a3dda21be645be93",
   "name": "Jean-Paul Lebosnoyani",
   "slug": "jean-paul-lebosnoyani",
-  "last_fight_date": "2026-02-21",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "ww"
@@ -34,8 +34,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 492,
+        "rank": 495,
         "elo": 1010.9
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 314,
+        "elo": 1027.96
       }
     ],
     "ww": [
@@ -61,12 +66,32 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 105,
+        "rank": 108,
         "elo": 1010.9
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 58,
+        "elo": 1027.96
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "4a07b1988477502c",
+      "opponent_name": "Seokhyeon Ko",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1010.9,
+      "p4p_after": 1027.96,
+      "p4p_delta": 17.06,
+      "div_before": 1010.9,
+      "div_after": 1027.96,
+      "div_delta": 17.06
+    },
     {
       "date": "2026-02-21",
       "weight_class": "ww",

@@ -58,9 +58,9 @@
       },
       {
         "rank": 10,
-        "fighter_id": "f1b2aa7853d1ed6e",
-        "name": "Kamaru Usman",
-        "elo": 1153.98
+        "fighter_id": "0d7b51c9d2649a6e",
+        "name": "Dricus Du Plessis",
+        "elo": 1153.57
       }
     ],
     "hw": [
@@ -198,7 +198,7 @@
         "rank": 2,
         "fighter_id": "0d7b51c9d2649a6e",
         "name": "Dricus Du Plessis",
-        "elo": 1129.45
+        "elo": 1140.51
       },
       {
         "rank": 3,
@@ -238,15 +238,15 @@
       },
       {
         "rank": 9,
-        "fighter_id": "0d8011111be000b2",
-        "name": "Sean Strickland",
-        "elo": 1089.04
+        "fighter_id": "a93f94c923c3a9cb",
+        "name": "Christian Leroy Duncan",
+        "elo": 1089.42
       },
       {
         "rank": 10,
-        "fighter_id": "2f815ed5f8278ba6",
-        "name": "Ateba Gautier",
-        "elo": 1085.91
+        "fighter_id": "0d8011111be000b2",
+        "name": "Sean Strickland",
+        "elo": 1089.04
       }
     ],
     "ww": [
@@ -592,15 +592,15 @@
       },
       {
         "rank": 6,
-        "fighter_id": "545092d13c67aa49",
-        "name": "Alexia Thainara",
-        "elo": 1051.67
+        "fighter_id": "745fa7b605f8e2da",
+        "name": "Fatima Kline",
+        "elo": 1065.93
       },
       {
         "rank": 7,
-        "fighter_id": "745fa7b605f8e2da",
-        "name": "Fatima Kline",
-        "elo": 1050.64
+        "fighter_id": "545092d13c67aa49",
+        "name": "Alexia Thainara",
+        "elo": 1051.67
       },
       {
         "rank": 8,
@@ -836,9 +836,9 @@
       },
       {
         "rank": 5,
-        "fighter_id": "f1b2aa7853d1ed6e",
-        "name": "Kamaru Usman",
-        "elo": 1153.98
+        "fighter_id": "0d7b51c9d2649a6e",
+        "name": "Dricus Du Plessis",
+        "elo": 1153.57
       },
       {
         "rank": 6,
@@ -1006,7 +1006,7 @@
         "rank": 2,
         "fighter_id": "0d7b51c9d2649a6e",
         "name": "Dricus Du Plessis",
-        "elo": 1129.45
+        "elo": 1140.51
       },
       {
         "rank": 3,
@@ -1034,27 +1034,27 @@
       },
       {
         "rank": 7,
+        "fighter_id": "a93f94c923c3a9cb",
+        "name": "Christian Leroy Duncan",
+        "elo": 1089.42
+      },
+      {
+        "rank": 8,
         "fighter_id": "0d8011111be000b2",
         "name": "Sean Strickland",
         "elo": 1089.04
       },
       {
-        "rank": 8,
+        "rank": 9,
         "fighter_id": "2f815ed5f8278ba6",
         "name": "Ateba Gautier",
         "elo": 1085.91
       },
       {
-        "rank": 9,
+        "rank": 10,
         "fighter_id": "49d2a08964c5eb11",
         "name": "Nursulton Ruziboev",
         "elo": 1085.62
-      },
-      {
-        "rank": 10,
-        "fighter_id": "093e1f5bb73850be",
-        "name": "Anthony Hernandez",
-        "elo": 1078.79
       }
     ],
     "ww": [
@@ -1400,15 +1400,15 @@
       },
       {
         "rank": 6,
-        "fighter_id": "545092d13c67aa49",
-        "name": "Alexia Thainara",
-        "elo": 1051.67
+        "fighter_id": "745fa7b605f8e2da",
+        "name": "Fatima Kline",
+        "elo": 1065.93
       },
       {
         "rank": 7,
-        "fighter_id": "745fa7b605f8e2da",
-        "name": "Fatima Kline",
-        "elo": 1050.64
+        "fighter_id": "545092d13c67aa49",
+        "name": "Alexia Thainara",
+        "elo": 1051.67
       },
       {
         "rank": 8,

@@ -1,0 +1,46 @@
+{
+  "id": "df619b9a86ce0a9a",
+  "name": "Damien Anderson",
+  "slug": "damien-anderson",
+  "last_fight_date": "2026-07-18",
+  "active_current_mode": true,
+  "divisions": [
+    "fw"
+  ],
+  "division_names": {
+    "fw": "Featherweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-07-01",
+        "rank": 1014,
+        "elo": 976.0
+      }
+    ],
+    "fw": [
+      {
+        "date": "2026-07-01",
+        "rank": 195,
+        "elo": 976.0
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "b852ad2b35354fcb",
+      "opponent_name": "Ezra Elliott",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 976.0,
+      "p4p_delta": -24.0,
+      "div_before": 1000.0,
+      "div_after": 976.0,
+      "div_delta": -24.0
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "id": "13a0275fa13c4d26",
   "name": "Jared Cannonier",
   "slug": "jared-cannonier",
-  "last_fight_date": "2025-08-16",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "hw",
@@ -18,7 +18,7 @@
     "p4p": [
       {
         "date": "2015-01-01",
-        "rank": 863,
+        "rank": 864,
         "elo": 968.28
       },
       {
@@ -168,27 +168,27 @@
       },
       {
         "date": "2017-07-01",
-        "rank": 347,
+        "rank": 348,
         "elo": 1009.42
       },
       {
         "date": "2017-08-01",
-        "rank": 348,
+        "rank": 349,
         "elo": 1009.42
       },
       {
         "date": "2017-09-01",
-        "rank": 348,
+        "rank": 349,
         "elo": 1009.42
       },
       {
         "date": "2017-10-01",
-        "rank": 350,
+        "rank": 351,
         "elo": 1009.42
       },
       {
         "date": "2017-11-01",
-        "rank": 354,
+        "rank": 355,
         "elo": 1009.42
       },
       {
@@ -703,8 +703,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 469,
+        "rank": 472,
         "elo": 1013.21
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 670,
+        "elo": 993.57
       }
     ],
     "hw": [
@@ -1397,6 +1402,11 @@
         "date": "2026-06-01",
         "rank": 97,
         "elo": 990.97
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 99,
+        "elo": 990.97
       }
     ],
     "lhw": [
@@ -1972,6 +1982,11 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 191,
+        "elo": 962.56
+      },
+      {
+        "date": "2026-07-01",
         "rank": 193,
         "elo": 962.56
       }
@@ -2436,10 +2451,30 @@
         "date": "2026-06-01",
         "rank": 39,
         "elo": 1034.29
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 97,
+        "elo": 1013.11
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "a93f94c923c3a9cb",
+      "opponent_name": "Christian Leroy Duncan",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1013.21,
+      "p4p_after": 993.57,
+      "p4p_delta": -19.64,
+      "div_before": 1034.29,
+      "div_after": 1013.11,
+      "div_delta": -21.18
+    },
     {
       "date": "2025-08-16",
       "weight_class": "mw",

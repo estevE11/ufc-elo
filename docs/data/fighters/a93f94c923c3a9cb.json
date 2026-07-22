@@ -2,7 +2,7 @@
   "id": "a93f94c923c3a9cb",
   "name": "Christian Leroy Duncan",
   "slug": "christian-leroy-duncan",
-  "last_fight_date": "2026-03-21",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -94,7 +94,7 @@
       },
       {
         "date": "2024-07-01",
-        "rank": 500,
+        "rank": 501,
         "elo": 1006.81
       },
       {
@@ -211,6 +211,11 @@
         "date": "2026-06-01",
         "rank": 104,
         "elo": 1077.01
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 77,
+        "elo": 1090.11
       }
     ],
     "mw": [
@@ -411,12 +416,32 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 14,
+        "rank": 15,
         "elo": 1075.3
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 9,
+        "elo": 1089.42
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "13a0275fa13c4d26",
+      "opponent_name": "Jared Cannonier",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1077.01,
+      "p4p_after": 1090.11,
+      "p4p_delta": 13.1,
+      "div_before": 1075.3,
+      "div_after": 1089.42,
+      "div_delta": 14.12
+    },
     {
       "date": "2026-03-21",
       "weight_class": "mw",

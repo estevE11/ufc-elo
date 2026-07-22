@@ -2,7 +2,7 @@
   "id": "e99eb0ef25885de5",
   "name": "Mitch Ramirez",
   "slug": "mitch-ramirez",
-  "last_fight_date": "2025-07-12",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -149,8 +149,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 2033,
+        "rank": 2042,
         "elo": 940.84
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2515,
+        "elo": 912.75
       }
     ],
     "lw": [
@@ -293,10 +298,30 @@
         "date": "2026-06-01",
         "rank": 486,
         "elo": 941.19
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 554,
+        "elo": 916.07
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "971246648e162f0d",
+      "opponent_name": "Chase Hooper",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 940.84,
+      "p4p_after": 912.75,
+      "p4p_delta": -28.09,
+      "div_before": 941.19,
+      "div_after": 916.07,
+      "div_delta": -25.12
+    },
     {
       "date": "2025-07-12",
       "weight_class": "lw",

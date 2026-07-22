@@ -2,7 +2,7 @@
   "id": "2bd98ab77a8daa75",
   "name": "Stewart Nicoll",
   "slug": "stewart-nicoll",
-  "last_fight_date": "2026-04-04",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "flw"
@@ -124,8 +124,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 2470,
+        "rank": 2479,
         "elo": 915.51
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2601,
+        "elo": 899.32
       }
     ],
     "flw": [
@@ -243,10 +248,30 @@
         "date": "2026-06-01",
         "rank": 155,
         "elo": 915.44
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 158,
+        "elo": 899.25
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "5e9ca8dd7d783a75",
+      "opponent_name": "Alden Coria",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 915.51,
+      "p4p_after": 899.32,
+      "p4p_delta": -16.19,
+      "div_before": 915.44,
+      "div_after": 899.25,
+      "div_delta": -16.19
+    },
     {
       "date": "2026-04-04",
       "weight_class": "flw",

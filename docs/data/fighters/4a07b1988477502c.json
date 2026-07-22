@@ -2,7 +2,7 @@
   "id": "4a07b1988477502c",
   "name": "Seokhyeon Ko",
   "slug": "seokhyeon-ko",
-  "last_fight_date": "2025-11-01",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "ww"
@@ -74,8 +74,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 281,
+        "rank": 278,
         "elo": 1034.04
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 517,
+        "elo": 1008.45
       }
     ],
     "ww": [
@@ -143,10 +148,30 @@
         "date": "2026-06-01",
         "rank": 51,
         "elo": 1034.09
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 112,
+        "elo": 1008.49
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "a3dda21be645be93",
+      "opponent_name": "Jean-Paul Lebosnoyani",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1034.04,
+      "p4p_after": 1008.45,
+      "p4p_delta": -25.59,
+      "div_before": 1034.09,
+      "div_after": 1008.49,
+      "div_delta": -25.6
+    },
     {
       "date": "2025-11-01",
       "weight_class": "ww",

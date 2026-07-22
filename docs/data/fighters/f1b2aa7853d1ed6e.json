@@ -2,7 +2,7 @@
   "id": "f1b2aa7853d1ed6e",
   "name": "Kamaru Usman",
   "slug": "kamaru-usman",
-  "last_fight_date": "2025-06-14",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "mw",
@@ -16,27 +16,27 @@
     "p4p": [
       {
         "date": "2015-07-01",
-        "rank": 223,
+        "rank": 242,
         "elo": 1020.8
       },
       {
         "date": "2015-08-01",
-        "rank": 224,
+        "rank": 239,
         "elo": 1020.8
       },
       {
         "date": "2015-09-01",
-        "rank": 225,
+        "rank": 239,
         "elo": 1020.8
       },
       {
         "date": "2015-10-01",
-        "rank": 221,
+        "rank": 235,
         "elo": 1020.8
       },
       {
         "date": "2015-11-01",
-        "rank": 224,
+        "rank": 239,
         "elo": 1020.8
       },
       {
@@ -673,6 +673,11 @@
         "date": "2026-06-01",
         "rank": 10,
         "elo": 1153.98
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 23,
+        "elo": 1128.8
       }
     ],
     "mw": [
@@ -838,8 +843,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 80,
+        "rank": 81,
         "elo": 1018.55
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 118,
+        "elo": 1001.96
       }
     ],
     "ww": [
@@ -855,12 +865,12 @@
       },
       {
         "date": "2015-09-01",
-        "rank": 47,
+        "rank": 53,
         "elo": 1020.8
       },
       {
         "date": "2015-10-01",
-        "rank": 45,
+        "rank": 52,
         "elo": 1020.8
       },
       {
@@ -1502,10 +1512,30 @@
         "date": "2026-06-01",
         "rank": 2,
         "elo": 1167.46
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2,
+        "elo": 1167.46
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "0d7b51c9d2649a6e",
+      "opponent_name": "Dricus Du Plessis",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1153.98,
+      "p4p_after": 1128.8,
+      "p4p_delta": -25.18,
+      "div_before": 1018.55,
+      "div_after": 1001.96,
+      "div_delta": -16.59
+    },
     {
       "date": "2025-06-14",
       "weight_class": "ww",

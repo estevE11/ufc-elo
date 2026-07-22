@@ -2,7 +2,7 @@
   "id": "7d6ceff6747f2de2",
   "name": "Jose Delgado",
   "slug": "jose-delgado",
-  "last_fight_date": "2026-03-14",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -94,8 +94,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 308,
+        "rank": 306,
         "elo": 1028.95
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 220,
+        "elo": 1043.55
       }
     ],
     "fw": [
@@ -183,10 +188,30 @@
         "date": "2026-06-01",
         "rank": 45,
         "elo": 1026.9
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 28,
+        "elo": 1041.45
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "d3f89fa685bd8420",
+      "opponent_name": "Austin Bashi",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1028.95,
+      "p4p_after": 1043.55,
+      "p4p_delta": 14.6,
+      "div_before": 1026.9,
+      "div_after": 1041.45,
+      "div_delta": 14.55
+    },
     {
       "date": "2026-03-14",
       "weight_class": "fw",

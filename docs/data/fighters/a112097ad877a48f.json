@@ -2,7 +2,7 @@
   "id": "a112097ad877a48f",
   "name": "Alberto Montes",
   "slug": "alberto-montes",
-  "last_fight_date": "2026-03-07",
+  "last_fight_date": "2026-07-18",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -29,34 +29,59 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 415,
+        "rank": 418,
         "elo": 1017.34
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 791,
+        "elo": 986.28
       }
     ],
     "fw": [
       {
         "date": "2026-03-01",
-        "rank": 48,
+        "rank": 53,
         "elo": 1020.8
       },
       {
         "date": "2026-04-01",
-        "rank": 50,
+        "rank": 54,
         "elo": 1020.8
       },
       {
         "date": "2026-05-01",
-        "rank": 51,
+        "rank": 55,
         "elo": 1020.8
       },
       {
         "date": "2026-06-01",
-        "rank": 51,
+        "rank": 55,
         "elo": 1020.8
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 129,
+        "elo": 989.43
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-18",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "6b0a6def604de298",
+      "opponent_name": "Tommy McMillen",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1017.34,
+      "p4p_after": 986.28,
+      "p4p_delta": -31.06,
+      "div_before": 1020.8,
+      "div_after": 989.43,
+      "div_delta": -31.37
+    },
     {
       "date": "2026-03-07",
       "weight_class": "fw",
