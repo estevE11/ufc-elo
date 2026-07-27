@@ -140,15 +140,15 @@
       },
       {
         "rank": 3,
-        "fighter_id": "d967f0128c323de6",
-        "name": "Daniel Cormier",
-        "elo": 1117.57
+        "fighter_id": "d802174b0c0c1f4e",
+        "name": "Magomed Ankalaev",
+        "elo": 1128.23
       },
       {
         "rank": 4,
-        "fighter_id": "d802174b0c0c1f4e",
-        "name": "Magomed Ankalaev",
-        "elo": 1111.09
+        "fighter_id": "d967f0128c323de6",
+        "name": "Daniel Cormier",
+        "elo": 1117.57
       },
       {
         "rank": 5,
@@ -922,15 +922,15 @@
       },
       {
         "rank": 9,
-        "fighter_id": "d0fd0d9ee560dae7",
-        "name": "Brando Pericic",
-        "elo": 1057.09
+        "fighter_id": "f5779a2303ed76ec",
+        "name": "Valter Walker",
+        "elo": 1067.06
       },
       {
         "rank": 10,
-        "fighter_id": "8eb046f83e82bf26",
-        "name": "Martin Buday",
-        "elo": 1054.92
+        "fighter_id": "d0fd0d9ee560dae7",
+        "name": "Brando Pericic",
+        "elo": 1057.09
       }
     ],
     "lhw": [
@@ -950,7 +950,7 @@
         "rank": 3,
         "fighter_id": "d802174b0c0c1f4e",
         "name": "Magomed Ankalaev",
-        "elo": 1111.09
+        "elo": 1128.23
       },
       {
         "rank": 4,
@@ -966,33 +966,33 @@
       },
       {
         "rank": 6,
-        "fighter_id": "e4277e87a789d687",
-        "name": "Dustin Jacoby",
-        "elo": 1066.99
-      },
-      {
-        "rank": 7,
         "fighter_id": "e90a2f22417af68e",
         "name": "Azamat Murzakanov",
         "elo": 1064.08
       },
       {
-        "rank": 8,
+        "rank": 7,
         "fighter_id": "1c23ec2f1b71be40",
         "name": "Iwo Baraniewski",
         "elo": 1054.86
       },
       {
-        "rank": 9,
-        "fighter_id": "ef5dcb10d2bd4b0f",
-        "name": "Bogdan Guskov",
-        "elo": 1049.36
-      },
-      {
-        "rank": 10,
+        "rank": 8,
         "fighter_id": "95aff2fd8d09a5f0",
         "name": "Abdul Rakhman Yakhyaev",
         "elo": 1049.28
+      },
+      {
+        "rank": 9,
+        "fighter_id": "327d5f279895110d",
+        "name": "Roman Dolidze",
+        "elo": 1044.06
+      },
+      {
+        "rank": 10,
+        "fighter_id": "009341ed974bad72",
+        "name": "Jiri Prochazka",
+        "elo": 1041.21
       }
     ],
     "mw": [
@@ -1362,9 +1362,9 @@
       },
       {
         "rank": 10,
-        "fighter_id": "83455a9d17f57dae",
-        "name": "Rafael Estevam",
-        "elo": 1045.86
+        "fighter_id": "7d0a1968b38ca439",
+        "name": "Ramazan Temirov",
+        "elo": 1053.85
       }
     ],
     "wsw": [

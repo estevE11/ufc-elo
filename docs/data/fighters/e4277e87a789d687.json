@@ -2,7 +2,7 @@
   "id": "e4277e87a789d687",
   "name": "Dustin Jacoby",
   "slug": "dustin-jacoby",
-  "last_fight_date": "2026-02-07",
+  "last_fight_date": "2026-07-25",
   "active_current_mode": true,
   "divisions": [
     "lhw",
@@ -16,17 +16,17 @@
     "p4p": [
       {
         "date": "2011-10-01",
-        "rank": 376,
+        "rank": 392,
         "elo": 976.0
       },
       {
         "date": "2011-11-01",
-        "rank": 371,
+        "rank": 390,
         "elo": 976.0
       },
       {
         "date": "2011-12-01",
-        "rank": 382,
+        "rank": 399,
         "elo": 976.0
       },
       {
@@ -591,7 +591,7 @@
       },
       {
         "date": "2021-05-01",
-        "rank": 682,
+        "rank": 683,
         "elo": 985.03
       },
       {
@@ -896,8 +896,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 215,
+        "rank": 216,
         "elo": 1043.93
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 517,
+        "elo": 1008.8
       }
     ],
     "lhw": [
@@ -1243,24 +1248,29 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 11,
+        "rank": 12,
         "elo": 1066.99
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 27,
+        "elo": 1029.85
       }
     ],
     "mw": [
       {
         "date": "2011-10-01",
-        "rank": 91,
+        "rank": 101,
         "elo": 976.0
       },
       {
         "date": "2011-11-01",
-        "rank": 90,
+        "rank": 100,
         "elo": 976.0
       },
       {
         "date": "2011-12-01",
-        "rank": 90,
+        "rank": 100,
         "elo": 976.0
       },
       {
@@ -2132,10 +2142,30 @@
         "date": "2026-06-01",
         "rank": 382,
         "elo": 944.52
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 381,
+        "elo": 944.52
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-25",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "b01a5e0dcd9f231d",
+      "opponent_name": "Muhammad Saidov",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1043.93,
+      "p4p_after": 1008.8,
+      "p4p_delta": -35.13,
+      "div_before": 1066.99,
+      "div_after": 1029.85,
+      "div_delta": -37.14
+    },
     {
       "date": "2026-02-07",
       "weight_class": "lhw",

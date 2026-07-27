@@ -2,7 +2,7 @@
   "id": "ef5dcb10d2bd4b0f",
   "name": "Bogdan Guskov",
   "slug": "bogdan-guskov",
-  "last_fight_date": "2025-07-26",
+  "last_fight_date": "2026-07-25",
   "active_current_mode": true,
   "divisions": [
     "lhw"
@@ -179,8 +179,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 201,
+        "rank": 202,
         "elo": 1046.89
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 355,
+        "elo": 1021.98
       }
     ],
     "lhw": [
@@ -353,10 +358,30 @@
         "date": "2026-06-01",
         "rank": 19,
         "elo": 1049.36
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 32,
+        "elo": 1023.65
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-25",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "d802174b0c0c1f4e",
+      "opponent_name": "Magomed Ankalaev",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1046.89,
+      "p4p_after": 1021.98,
+      "p4p_delta": -24.91,
+      "div_before": 1049.36,
+      "div_after": 1023.65,
+      "div_delta": -25.71
+    },
     {
       "date": "2025-07-26",
       "weight_class": "lhw",

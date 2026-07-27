@@ -2,7 +2,7 @@
   "id": "ca28cdf526d6b6e9",
   "name": "Nurullo Aliev",
   "slug": "nurullo-aliev",
-  "last_fight_date": "2025-11-22",
+  "last_fight_date": "2026-07-25",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -94,7 +94,7 @@
       },
       {
         "date": "2024-06-01",
-        "rank": 460,
+        "rank": 461,
         "elo": 1011.65
       },
       {
@@ -109,7 +109,7 @@
       },
       {
         "date": "2024-09-01",
-        "rank": 454,
+        "rank": 455,
         "elo": 1011.65
       },
       {
@@ -119,12 +119,12 @@
       },
       {
         "date": "2024-11-01",
-        "rank": 459,
+        "rank": 460,
         "elo": 1011.65
       },
       {
         "date": "2024-12-01",
-        "rank": 457,
+        "rank": 458,
         "elo": 1011.65
       },
       {
@@ -214,8 +214,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 224,
+        "rank": 225,
         "elo": 1042.16
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 156,
+        "elo": 1057.97
       }
     ],
     "lw": [
@@ -421,12 +426,32 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 46,
+        "rank": 44,
         "elo": 1041.96
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 32,
+        "elo": 1057.76
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-25",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "fb3e61720be4690c",
+      "opponent_name": "Mike Davis",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1042.16,
+      "p4p_after": 1057.97,
+      "p4p_delta": 15.81,
+      "div_before": 1041.96,
+      "div_after": 1057.76,
+      "div_delta": 15.8
+    },
     {
       "date": "2025-11-22",
       "weight_class": "lw",

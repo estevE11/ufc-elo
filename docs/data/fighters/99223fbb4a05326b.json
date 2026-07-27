@@ -1,0 +1,46 @@
+{
+  "id": "99223fbb4a05326b",
+  "name": "Damian Rzepecki",
+  "slug": "damian-rzepecki",
+  "last_fight_date": "2026-07-25",
+  "active_current_mode": true,
+  "divisions": [
+    "lw"
+  ],
+  "division_names": {
+    "lw": "Lightweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-07-01",
+        "rank": 1018,
+        "elo": 976.0
+      }
+    ],
+    "lw": [
+      {
+        "date": "2026-07-01",
+        "rank": 251,
+        "elo": 976.0
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-07-25",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "04ff3a711504d6b3",
+      "opponent_name": "Magomed Zaynukov",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 976.0,
+      "p4p_delta": -24.0,
+      "div_before": 1000.0,
+      "div_after": 976.0,
+      "div_delta": -24.0
+    }
+  ]
+}

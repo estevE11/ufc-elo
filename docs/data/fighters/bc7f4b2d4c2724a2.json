@@ -2,7 +2,7 @@
   "id": "bc7f4b2d4c2724a2",
   "name": "Tyrell Fortune",
   "slug": "tyrell-fortune",
-  "last_fight_date": "2026-03-28",
+  "last_fight_date": "2026-07-25",
   "active_current_mode": true,
   "divisions": [
     "hw"
@@ -29,8 +29,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 439,
+        "rank": 442,
         "elo": 1015.97
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 826,
+        "elo": 983.98
       }
     ],
     "hw": [
@@ -53,10 +58,30 @@
         "date": "2026-06-01",
         "rank": 64,
         "elo": 1015.98
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 115,
+        "elo": 983.88
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-25",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "739fd4fbb5d862f4",
+      "opponent_name": "Rizvan Kuniev",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1015.97,
+      "p4p_after": 983.98,
+      "p4p_delta": -31.99,
+      "div_before": 1015.98,
+      "div_after": 983.88,
+      "div_delta": -32.1
+    },
     {
       "date": "2026-03-28",
       "weight_class": "hw",

@@ -2,7 +2,7 @@
   "id": "de26d906f2874dd4",
   "name": "Saygid Izagakhmaev",
   "slug": "saygid-izagakhmaev",
-  "last_fight_date": "2025-11-22",
+  "last_fight_date": "2026-07-25",
   "active_current_mode": true,
   "divisions": [
     "ww"
@@ -49,8 +49,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 828,
+        "rank": 832,
         "elo": 983.28
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1553,
+        "elo": 960.43
       }
     ],
     "ww": [
@@ -91,12 +96,32 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 205,
+        "rank": 208,
         "elo": 983.17
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 391,
+        "elo": 960.34
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-25",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "f7adc1fd115f8fdd",
+      "opponent_name": "Abubakar Vagaev",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 983.28,
+      "p4p_after": 960.43,
+      "p4p_delta": -22.85,
+      "div_before": 983.17,
+      "div_after": 960.34,
+      "div_delta": -22.83
+    },
     {
       "date": "2025-11-22",
       "weight_class": "ww",

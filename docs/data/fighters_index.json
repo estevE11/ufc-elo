@@ -40,6 +40,11 @@
     "slug": "aaron-wilkinson"
   },
   {
+    "id": "0e6bc8d1d6c0ad90",
+    "name": "Abdul Hussein",
+    "slug": "abdul-hussein"
+  },
+  {
     "id": "95aff2fd8d09a5f0",
     "name": "Abdul Rakhman Yakhyaev",
     "slug": "abdul-rakhman-yakhyaev"
@@ -78,6 +83,11 @@
     "id": "029e1293e609fd74",
     "name": "Abubakar Nurmagomedov",
     "slug": "abubakar-nurmagomedov"
+  },
+  {
+    "id": "f7adc1fd115f8fdd",
+    "name": "Abubakar Vagaev",
+    "slug": "abubakar-vagaev"
   },
   {
     "id": "36b8f265bcd1b7a4",
@@ -2823,6 +2833,11 @@
     "id": "fdd22e895a70e4a8",
     "name": "Damian Pinas",
     "slug": "damian-pinas"
+  },
+  {
+    "id": "99223fbb4a05326b",
+    "name": "Damian Rzepecki",
+    "slug": "damian-rzepecki"
   },
   {
     "id": "42a7e90605df3c8a",
@@ -8250,6 +8265,16 @@
     "slug": "magomed-mustafaev"
   },
   {
+    "id": "bc5a51159ec2fdf2",
+    "name": "Magomed Tuchalov",
+    "slug": "magomed-tuchalov"
+  },
+  {
+    "id": "04ff3a711504d6b3",
+    "name": "Magomed Zaynukov",
+    "slug": "magomed-zaynukov"
+  },
+  {
     "id": "8c1ca54b5089d199",
     "name": "Maheshate",
     "slug": "maheshate"
@@ -9498,6 +9523,11 @@
     "id": "8d11d9c13e2ccdf7",
     "name": "Muhammad Naimov",
     "slug": "muhammad-naimov"
+  },
+  {
+    "id": "b01a5e0dcd9f231d",
+    "name": "Muhammad Saidov",
+    "slug": "muhammad-saidov"
   },
   {
     "id": "a54660deb6a8489c",

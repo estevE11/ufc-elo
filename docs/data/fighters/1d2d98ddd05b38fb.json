@@ -2,7 +2,7 @@
   "id": "1d2d98ddd05b38fb",
   "name": "Axel Sola",
   "slug": "axel-sola",
-  "last_fight_date": "2026-03-21",
+  "last_fight_date": "2026-07-25",
   "active_current_mode": true,
   "divisions": [
     "lw",
@@ -61,8 +61,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 685,
+        "rank": 690,
         "elo": 992.26
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 501,
+        "elo": 1010.82
       }
     ],
     "lw": [
@@ -85,6 +90,11 @@
         "date": "2026-06-01",
         "rank": 229,
         "elo": 976.35
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 155,
+        "elo": 995.95
       }
     ],
     "ww": [
@@ -135,12 +145,32 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 83,
+        "rank": 85,
+        "elo": 1017.31
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 86,
         "elo": 1017.31
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-25",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "eb393afdbe3293d5",
+      "opponent_name": "Ismael Bonfim",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 992.26,
+      "p4p_after": 1010.82,
+      "p4p_delta": 18.56,
+      "div_before": 976.35,
+      "div_after": 995.95,
+      "div_delta": 19.6
+    },
     {
       "date": "2026-03-21",
       "weight_class": "lw",

@@ -2,7 +2,7 @@
   "id": "7d0a1968b38ca439",
   "name": "Ramazan Temirov",
   "slug": "ramazan-temirov",
-  "last_fight_date": "2025-03-01",
+  "last_fight_date": "2026-07-25",
   "active_current_mode": true,
   "divisions": [
     "flw"
@@ -114,8 +114,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 271,
+        "rank": 269,
         "elo": 1035.06
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 165,
+        "elo": 1054.17
       }
     ],
     "flw": [
@@ -221,12 +226,32 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 19,
+        "rank": 17,
         "elo": 1035.72
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 12,
+        "elo": 1053.85
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-25",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "32ab52e5de93092d",
+      "opponent_name": "Steve Erceg",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1035.06,
+      "p4p_after": 1054.17,
+      "p4p_delta": 19.11,
+      "div_before": 1035.72,
+      "div_after": 1053.85,
+      "div_delta": 18.13
+    },
     {
       "date": "2025-03-01",
       "weight_class": "flw",

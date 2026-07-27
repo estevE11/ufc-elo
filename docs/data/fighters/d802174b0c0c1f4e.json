@@ -2,7 +2,7 @@
   "id": "d802174b0c0c1f4e",
   "name": "Magomed Ankalaev",
   "slug": "magomed-ankalaev",
-  "last_fight_date": "2025-10-04",
+  "last_fight_date": "2026-07-25",
   "active_current_mode": true,
   "divisions": [
     "lhw"
@@ -511,6 +511,11 @@
         "date": "2026-06-01",
         "rank": 36,
         "elo": 1117.82
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 21,
+        "elo": 1134.43
       }
     ],
     "lhw": [
@@ -571,12 +576,12 @@
       },
       {
         "date": "2019-02-01",
-        "rank": 56,
+        "rank": 57,
         "elo": 1002.75
       },
       {
         "date": "2019-03-01",
-        "rank": 55,
+        "rank": 56,
         "elo": 1002.75
       },
       {
@@ -1013,10 +1018,30 @@
         "date": "2026-06-01",
         "rank": 4,
         "elo": 1111.09
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 3,
+        "elo": 1128.23
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-25",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "ef5dcb10d2bd4b0f",
+      "opponent_name": "Bogdan Guskov",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1117.82,
+      "p4p_after": 1134.43,
+      "p4p_delta": 16.61,
+      "div_before": 1111.09,
+      "div_after": 1128.23,
+      "div_delta": 17.14
+    },
     {
       "date": "2025-10-04",
       "weight_class": "lhw",

@@ -2,7 +2,7 @@
   "id": "fb3e61720be4690c",
   "name": "Mike Davis",
   "slug": "mike-davis",
-  "last_fight_date": "2025-07-12",
+  "last_fight_date": "2026-07-25",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -444,8 +444,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 248,
+        "rank": 246,
         "elo": 1037.91
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 467,
+        "elo": 1014.2
       }
     ],
     "lw": [
@@ -881,12 +886,32 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 52,
+        "rank": 50,
         "elo": 1037.62
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 117,
+        "elo": 1013.92
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-25",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "ca28cdf526d6b6e9",
+      "opponent_name": "Nurullo Aliev",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1037.91,
+      "p4p_after": 1014.2,
+      "p4p_delta": -23.71,
+      "div_before": 1037.62,
+      "div_after": 1013.92,
+      "div_delta": -23.7
+    },
     {
       "date": "2025-07-12",
       "weight_class": "lw",

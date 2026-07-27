@@ -2,7 +2,7 @@
   "id": "700a674c042b7a96",
   "name": "Cody Gibson",
   "slug": "cody-gibson",
-  "last_fight_date": "2025-10-18",
+  "last_fight_date": "2026-07-25",
   "active_current_mode": true,
   "divisions": [
     "bw"
@@ -14,37 +14,37 @@
     "p4p": [
       {
         "date": "2014-02-01",
-        "rank": 538,
+        "rank": 555,
         "elo": 976.0
       },
       {
         "date": "2014-03-01",
-        "rank": 532,
+        "rank": 561,
         "elo": 976.0
       },
       {
         "date": "2014-04-01",
-        "rank": 558,
+        "rank": 577,
         "elo": 976.0
       },
       {
         "date": "2014-05-01",
-        "rank": 556,
+        "rank": 586,
         "elo": 976.0
       },
       {
         "date": "2014-06-01",
-        "rank": 347,
+        "rank": 348,
         "elo": 998.75
       },
       {
         "date": "2014-07-01",
-        "rank": 354,
+        "rank": 355,
         "elo": 998.75
       },
       {
         "date": "2014-08-01",
-        "rank": 363,
+        "rank": 364,
         "elo": 998.75
       },
       {
@@ -754,24 +754,29 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 2649,
+        "rank": 2658,
         "elo": 886.57
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2704,
+        "elo": 865.21
       }
     ],
     "bw": [
       {
         "date": "2014-02-01",
-        "rank": 46,
+        "rank": 47,
         "elo": 976.0
       },
       {
         "date": "2014-03-01",
-        "rank": 46,
+        "rank": 47,
         "elo": 976.0
       },
       {
         "date": "2014-04-01",
-        "rank": 48,
+        "rank": 49,
         "elo": 976.0
       },
       {
@@ -1503,10 +1508,30 @@
         "date": "2026-06-01",
         "rank": 329,
         "elo": 894.44
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 335,
+        "elo": 872.44
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-25",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "0e6bc8d1d6c0ad90",
+      "opponent_name": "Abdul Hussein",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 886.57,
+      "p4p_after": 865.21,
+      "p4p_delta": -21.36,
+      "div_before": 894.44,
+      "div_after": 872.44,
+      "div_delta": -22.0
+    },
     {
       "date": "2025-10-18",
       "weight_class": "bw",

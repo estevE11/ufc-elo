@@ -2,7 +2,7 @@
   "id": "32ab52e5de93092d",
   "name": "Steve Erceg",
   "slug": "steve-erceg",
-  "last_fight_date": "2026-05-02",
+  "last_fight_date": "2026-07-25",
   "active_current_mode": true,
   "divisions": [
     "bw",
@@ -196,44 +196,49 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 522,
+        "rank": 524,
         "elo": 1006.7
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 930,
+        "elo": 978.04
       }
     ],
     "bw": [
       {
         "date": "2025-08-01",
-        "rank": 65,
+        "rank": 67,
         "elo": 1016.0
       },
       {
         "date": "2025-09-01",
-        "rank": 66,
+        "rank": 68,
         "elo": 1016.0
       },
       {
         "date": "2025-10-01",
-        "rank": 65,
+        "rank": 67,
         "elo": 1016.0
       },
       {
         "date": "2025-11-01",
-        "rank": 64,
+        "rank": 65,
         "elo": 1016.0
       },
       {
         "date": "2025-12-01",
-        "rank": 64,
+        "rank": 65,
         "elo": 1016.0
       },
       {
         "date": "2026-01-01",
-        "rank": 63,
+        "rank": 64,
         "elo": 1016.0
       },
       {
         "date": "2026-02-01",
-        "rank": 63,
+        "rank": 64,
         "elo": 1016.0
       },
       {
@@ -248,11 +253,16 @@
       },
       {
         "date": "2026-05-01",
-        "rank": 65,
+        "rank": 66,
         "elo": 1016.0
       },
       {
         "date": "2026-06-01",
+        "rank": 64,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-07-01",
         "rank": 64,
         "elo": 1016.0
       }
@@ -442,10 +452,30 @@
         "date": "2026-06-01",
         "rank": 49,
         "elo": 990.88
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 97,
+        "elo": 963.68
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-25",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "7d0a1968b38ca439",
+      "opponent_name": "Ramazan Temirov",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1006.7,
+      "p4p_after": 978.04,
+      "p4p_delta": -28.66,
+      "div_before": 990.88,
+      "div_after": 963.68,
+      "div_delta": -27.2
+    },
     {
       "date": "2026-05-02",
       "weight_class": "flw",

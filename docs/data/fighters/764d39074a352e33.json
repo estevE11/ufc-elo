@@ -2,7 +2,7 @@
   "id": "764d39074a352e33",
   "name": "Thomas Petersen",
   "slug": "thomas-petersen",
-  "last_fight_date": "2026-04-04",
+  "last_fight_date": "2026-07-25",
   "active_current_mode": true,
   "divisions": [
     "hw"
@@ -154,8 +154,13 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1473,
+        "rank": 1474,
         "elo": 964.12
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2063,
+        "elo": 940.49
       }
     ],
     "hw": [
@@ -303,10 +308,30 @@
         "date": "2026-06-01",
         "rank": 215,
         "elo": 964.95
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 256,
+        "elo": 941.35
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-25",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "f5779a2303ed76ec",
+      "opponent_name": "Valter Walker",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 964.12,
+      "p4p_after": 940.49,
+      "p4p_delta": -23.63,
+      "div_before": 964.95,
+      "div_after": 941.35,
+      "div_delta": -23.6
+    },
     {
       "date": "2026-04-04",
       "weight_class": "hw",

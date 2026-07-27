@@ -2,7 +2,7 @@
   "id": "49edd0d90f60fb7d",
   "name": "Brendson Ribeiro",
   "slug": "brendson-ribeiro",
-  "last_fight_date": "2026-04-04",
+  "last_fight_date": "2026-07-25",
   "active_current_mode": true,
   "divisions": [
     "lhw"
@@ -14,22 +14,22 @@
     "p4p": [
       {
         "date": "2024-02-01",
-        "rank": 1213,
+        "rank": 1223,
         "elo": 968.8
       },
       {
         "date": "2024-03-01",
-        "rank": 1233,
-        "elo": 968.8
-      },
-      {
-        "date": "2024-04-01",
         "rank": 1238,
         "elo": 968.8
       },
       {
+        "date": "2024-04-01",
+        "rank": 1242,
+        "elo": 968.8
+      },
+      {
         "date": "2024-05-01",
-        "rank": 1233,
+        "rank": 1239,
         "elo": 968.8
       },
       {
@@ -59,22 +59,22 @@
       },
       {
         "date": "2024-11-01",
-        "rank": 1435,
+        "rank": 1436,
         "elo": 962.53
       },
       {
         "date": "2024-12-01",
-        "rank": 1433,
+        "rank": 1434,
         "elo": 962.53
       },
       {
         "date": "2025-01-01",
-        "rank": 1437,
+        "rank": 1438,
         "elo": 962.53
       },
       {
         "date": "2025-02-01",
-        "rank": 1442,
+        "rank": 1443,
         "elo": 962.53
       },
       {
@@ -154,29 +154,34 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 2522,
+        "rank": 2531,
         "elo": 910.96
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2642,
+        "elo": 892.98
       }
     ],
     "lhw": [
       {
         "date": "2024-02-01",
-        "rank": 151,
+        "rank": 154,
         "elo": 968.8
       },
       {
         "date": "2024-03-01",
-        "rank": 152,
+        "rank": 155,
         "elo": 968.8
       },
       {
         "date": "2024-04-01",
-        "rank": 152,
+        "rank": 155,
         "elo": 968.8
       },
       {
         "date": "2024-05-01",
-        "rank": 153,
+        "rank": 157,
         "elo": 968.8
       },
       {
@@ -303,10 +308,30 @@
         "date": "2026-06-01",
         "rank": 280,
         "elo": 912.25
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 292,
+        "elo": 894.18
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-07-25",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "bc5a51159ec2fdf2",
+      "opponent_name": "Magomed Tuchalov",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 910.96,
+      "p4p_after": 892.98,
+      "p4p_delta": -17.98,
+      "div_before": 912.25,
+      "div_after": 894.18,
+      "div_delta": -18.07
+    },
     {
       "date": "2026-04-04",
       "weight_class": "lhw",
