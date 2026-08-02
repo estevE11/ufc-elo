@@ -2,7 +2,7 @@
   "id": "c9cf753cfdf77fc2",
   "name": "Marcin Tybura",
   "slug": "marcin-tybura",
-  "last_fight_date": "2026-03-28",
+  "last_fight_date": "2026-08-01",
   "active_current_mode": true,
   "divisions": [
     "hw"
@@ -224,7 +224,7 @@
       },
       {
         "date": "2019-10-01",
-        "rank": 1540,
+        "rank": 1541,
         "elo": 944.29
       },
       {
@@ -234,17 +234,17 @@
       },
       {
         "date": "2019-12-01",
-        "rank": 1547,
+        "rank": 1548,
         "elo": 944.29
       },
       {
         "date": "2020-01-01",
-        "rank": 1547,
+        "rank": 1548,
         "elo": 944.29
       },
       {
         "date": "2020-02-01",
-        "rank": 1547,
+        "rank": 1548,
         "elo": 944.29
       },
       {
@@ -269,17 +269,17 @@
       },
       {
         "date": "2020-07-01",
-        "rank": 1242,
+        "rank": 1243,
         "elo": 962.84
       },
       {
         "date": "2020-08-01",
-        "rank": 1260,
+        "rank": 1261,
         "elo": 962.84
       },
       {
         "date": "2020-09-01",
-        "rank": 1264,
+        "rank": 1265,
         "elo": 962.84
       },
       {
@@ -624,8 +624,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1030,
+        "rank": 1031,
         "elo": 975.43
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1036,
+        "elo": 975.43
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1751,
+        "elo": 952.23
       }
     ],
     "hw": [
@@ -1243,10 +1253,35 @@
         "date": "2026-06-01",
         "rank": 138,
         "elo": 975.52
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 139,
+        "elo": 975.52
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 237,
+        "elo": 953.21
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-01",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "333b9e5c723ac873",
+      "opponent_name": "Aleksandar Rakic",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 975.43,
+      "p4p_after": 952.23,
+      "p4p_delta": -23.2,
+      "div_before": 975.52,
+      "div_after": 953.21,
+      "div_delta": -22.31
+    },
     {
       "date": "2026-03-28",
       "weight_class": "hw",
@@ -1300,9 +1335,9 @@
       "opponent_name": "Jhonata Diniz",
       "result": "ko/tko",
       "outcome": "W",
-      "p4p_before": 991.98,
+      "p4p_before": 991.97,
       "p4p_after": 1015.38,
-      "p4p_delta": 23.4,
+      "p4p_delta": 23.41,
       "div_before": 992.09,
       "div_after": 1015.49,
       "div_delta": 23.4
@@ -1316,8 +1351,8 @@
       "result": "sub",
       "outcome": "L",
       "p4p_before": 1022.26,
-      "p4p_after": 991.98,
-      "p4p_delta": -30.28,
+      "p4p_after": 991.97,
+      "p4p_delta": -30.29,
       "div_before": 1022.51,
       "div_after": 992.09,
       "div_delta": -30.42

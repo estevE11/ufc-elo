@@ -2,12 +2,14 @@
   "id": "333b9e5c723ac873",
   "name": "Aleksandar Rakic",
   "slug": "aleksandar-rakic",
-  "last_fight_date": "2025-10-25",
+  "last_fight_date": "2026-08-01",
   "active_current_mode": true,
   "divisions": [
+    "hw",
     "lhw"
   ],
   "division_names": {
+    "hw": "Heavyweight",
     "lhw": "Light Heavyweight"
   },
   "rank_history": {
@@ -414,7 +416,7 @@
       },
       {
         "date": "2024-05-01",
-        "rank": 278,
+        "rank": 279,
         "elo": 1029.0
       },
       {
@@ -429,12 +431,12 @@
       },
       {
         "date": "2024-08-01",
-        "rank": 282,
+        "rank": 283,
         "elo": 1029.0
       },
       {
         "date": "2024-09-01",
-        "rank": 287,
+        "rank": 288,
         "elo": 1029.0
       },
       {
@@ -539,8 +541,25 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 772,
+        "rank": 775,
         "elo": 987.0
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 774,
+        "elo": 987.0
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 572,
+        "elo": 1002.47
+      }
+    ],
+    "hw": [
+      {
+        "date": "2026-08-01",
+        "rank": 69,
+        "elo": 1014.87
       }
     ],
     "lhw": [
@@ -1073,10 +1092,35 @@
         "date": "2026-06-01",
         "rank": 92,
         "elo": 984.69
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 95,
+        "elo": 984.69
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 95,
+        "elo": 984.69
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-01",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "c9cf753cfdf77fc2",
+      "opponent_name": "Marcin Tybura",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 987.0,
+      "p4p_after": 1002.47,
+      "p4p_delta": 15.47,
+      "div_before": 1000.0,
+      "div_after": 1014.87,
+      "div_delta": 14.87
+    },
     {
       "date": "2025-10-25",
       "weight_class": "lhw",

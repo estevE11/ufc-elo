@@ -2,7 +2,7 @@
   "id": "b4b496ec2197ee3e",
   "name": "Navajo Stirling",
   "slug": "navajo-stirling",
-  "last_fight_date": "2026-06-20",
+  "last_fight_date": "2026-08-01",
   "active_current_mode": true,
   "divisions": [
     "lhw"
@@ -104,8 +104,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 105,
+        "rank": 106,
         "elo": 1076.84
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 104,
+        "elo": 1076.84
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 66,
+        "elo": 1095.33
       }
     ],
     "lhw": [
@@ -203,10 +213,35 @@
         "date": "2026-06-01",
         "rank": 9,
         "elo": 1077.16
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 9,
+        "elo": 1077.16
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 6,
+        "elo": 1094.93
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-01",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "99df7d0a2a08a8a8",
+      "opponent_name": "Jan Blachowicz",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1076.84,
+      "p4p_after": 1095.33,
+      "p4p_delta": 18.49,
+      "div_before": 1077.16,
+      "div_after": 1094.93,
+      "div_delta": 17.77
+    },
     {
       "date": "2026-06-20",
       "weight_class": "lhw",

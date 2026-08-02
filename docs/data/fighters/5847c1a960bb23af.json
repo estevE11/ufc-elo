@@ -1,0 +1,46 @@
+{
+  "id": "5847c1a960bb23af",
+  "name": "Marina Spasic",
+  "slug": "marina-spasic",
+  "last_fight_date": "2026-08-01",
+  "active_current_mode": true,
+  "divisions": [
+    "wsw"
+  ],
+  "division_names": {
+    "wsw": "Women's Strawweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-08-01",
+        "rank": 1170,
+        "elo": 970.27
+      }
+    ],
+    "wsw": [
+      {
+        "date": "2026-08-01",
+        "rank": 60,
+        "elo": 970.4
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-08-01",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "1b35af4d1529adf6",
+      "opponent_name": "Stephanie Luciano",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 970.27,
+      "p4p_delta": -29.73,
+      "div_before": 1000.0,
+      "div_after": 970.4,
+      "div_delta": -29.6
+    }
+  ]
+}

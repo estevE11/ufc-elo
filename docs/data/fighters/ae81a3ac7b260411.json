@@ -2,7 +2,7 @@
   "id": "ae81a3ac7b260411",
   "name": "Tofiq Musayev",
   "slug": "tofiq-musayev",
-  "last_fight_date": "2026-03-28",
+  "last_fight_date": "2026-08-01",
   "active_current_mode": true,
   "divisions": [
     "catch",
@@ -76,8 +76,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 716,
+        "rank": 721,
         "elo": 989.97
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 721,
+        "elo": 989.97
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 471,
+        "elo": 1014.05
       }
     ],
     "catch": [
@@ -145,6 +155,16 @@
         "date": "2026-06-01",
         "rank": 145,
         "elo": 967.29
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 145,
+        "elo": 967.29
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 145,
+        "elo": 967.29
       }
     ],
     "lw": [
@@ -165,12 +185,37 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 94,
+        "elo": 1017.54
+      },
+      {
+        "date": "2026-07-01",
         "rank": 95,
         "elo": 1017.54
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 44,
+        "elo": 1041.51
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-01",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "5b86d491d63890c5",
+      "opponent_name": "Ludovit Klein",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 989.97,
+      "p4p_after": 1014.05,
+      "p4p_delta": 24.08,
+      "div_before": 1017.54,
+      "div_after": 1041.51,
+      "div_delta": 23.97
+    },
     {
       "date": "2026-03-28",
       "weight_class": "lw",

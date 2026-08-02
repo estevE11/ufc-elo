@@ -1,5 +1,5 @@
 {
-  "reference_date": "2026-07-01",
+  "reference_date": "2026-08-01",
   "historical": {
     "p4p": [
       {
@@ -158,27 +158,27 @@
       },
       {
         "rank": 6,
+        "fighter_id": "b4b496ec2197ee3e",
+        "name": "Navajo Stirling",
+        "elo": 1094.93
+      },
+      {
+        "rank": 7,
         "fighter_id": "fcaae0385b514f11",
         "name": "Frank Shamrock",
         "elo": 1092.38
       },
       {
-        "rank": 7,
+        "rank": 8,
         "fighter_id": "c0ab242c40decc55",
         "name": "Ryan Bader",
         "elo": 1090.35
       },
       {
-        "rank": 8,
+        "rank": 9,
         "fighter_id": "7ff97850e8c32bda",
         "name": "Glover Teixeira",
         "elo": 1078.52
-      },
-      {
-        "rank": 9,
-        "fighter_id": "b4b496ec2197ee3e",
-        "name": "Navajo Stirling",
-        "elo": 1077.16
       },
       {
         "rank": 10,
@@ -886,51 +886,51 @@
       },
       {
         "rank": 3,
-        "fighter_id": "399afbabc02376b5",
-        "name": "Tom Aspinall",
-        "elo": 1125.91
-      },
-      {
-        "rank": 4,
         "fighter_id": "279566840aa55bf2",
         "name": "Alexander Volkov",
         "elo": 1117.27
       },
       {
-        "rank": 5,
+        "rank": 4,
         "fighter_id": "d28dee5c705991df",
         "name": "Stipe Miocic",
         "elo": 1096.03
       },
       {
-        "rank": 6,
+        "rank": 5,
         "fighter_id": "f14cf73e51b29254",
         "name": "Sergei Pavlovich",
         "elo": 1091.32
       },
       {
-        "rank": 7,
+        "rank": 6,
         "fighter_id": "fc08099550072fe4",
         "name": "Waldo Cortes Acosta",
         "elo": 1080.68
       },
       {
-        "rank": 8,
+        "rank": 7,
         "fighter_id": "955da1675ad58a50",
         "name": "Josh Hokit",
         "elo": 1076.67
       },
       {
-        "rank": 9,
+        "rank": 8,
         "fighter_id": "f5779a2303ed76ec",
         "name": "Valter Walker",
         "elo": 1067.06
       },
       {
-        "rank": 10,
+        "rank": 9,
         "fighter_id": "d0fd0d9ee560dae7",
         "name": "Brando Pericic",
         "elo": 1057.09
+      },
+      {
+        "rank": 10,
+        "fighter_id": "8eb046f83e82bf26",
+        "name": "Martin Buday",
+        "elo": 1054.92
       }
     ],
     "lhw": [
@@ -962,7 +962,7 @@
         "rank": 5,
         "fighter_id": "b4b496ec2197ee3e",
         "name": "Navajo Stirling",
-        "elo": 1077.16
+        "elo": 1094.93
       },
       {
         "rank": 6,
@@ -1314,57 +1314,57 @@
       },
       {
         "rank": 2,
-        "fighter_id": "75353550928a7921",
-        "name": "Muhammad Mokaev",
-        "elo": 1109.69
-      },
-      {
-        "rank": 3,
         "fighter_id": "5d1b7e3dd9e11074",
         "name": "Manel Kape",
         "elo": 1100.6
       },
       {
-        "rank": 4,
+        "rank": 3,
         "fighter_id": "a0f0004aadf10b71",
         "name": "Alexandre Pantoja",
         "elo": 1097.1
       },
       {
-        "rank": 5,
+        "rank": 4,
         "fighter_id": "056c493bbd76a918",
         "name": "Henry Cejudo",
         "elo": 1080.8
       },
       {
-        "rank": 6,
+        "rank": 5,
         "fighter_id": "4461d7e47375a895",
         "name": "Tatsuro Taira",
         "elo": 1076.23
       },
       {
-        "rank": 7,
+        "rank": 6,
         "fighter_id": "8d3273573b85be09",
         "name": "Asu Almabayev",
         "elo": 1075.97
       },
       {
-        "rank": 8,
+        "rank": 7,
         "fighter_id": "98aa60cf58071fd6",
         "name": "Kyoji Horiguchi",
         "elo": 1068.22
       },
       {
-        "rank": 9,
+        "rank": 8,
         "fighter_id": "aa72b0f831d0bfe5",
         "name": "Deiveson Figueiredo",
         "elo": 1060.13
       },
       {
-        "rank": 10,
+        "rank": 9,
         "fighter_id": "7d0a1968b38ca439",
         "name": "Ramazan Temirov",
         "elo": 1053.85
+      },
+      {
+        "rank": 10,
+        "fighter_id": "83455a9d17f57dae",
+        "name": "Rafael Estevam",
+        "elo": 1045.86
       }
     ],
     "wsw": [

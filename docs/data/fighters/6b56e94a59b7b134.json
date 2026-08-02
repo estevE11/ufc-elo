@@ -2,7 +2,7 @@
   "id": "6b56e94a59b7b134",
   "name": "Oban Elliott",
   "slug": "oban-elliott",
-  "last_fight_date": "2026-01-31",
+  "last_fight_date": "2026-08-01",
   "active_current_mode": true,
   "divisions": [
     "ww"
@@ -149,39 +149,49 @@
       },
       {
         "date": "2026-05-01",
-        "rank": 725,
+        "rank": 726,
         "elo": 989.57
       },
       {
         "date": "2026-06-01",
-        "rank": 727,
+        "rank": 730,
         "elo": 989.57
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 730,
+        "elo": 989.57
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1581,
+        "elo": 959.31
       }
     ],
     "ww": [
       {
         "date": "2024-02-01",
-        "rank": 86,
+        "rank": 89,
         "elo": 1016.0
       },
       {
         "date": "2024-03-01",
-        "rank": 86,
+        "rank": 89,
         "elo": 1016.0
       },
       {
         "date": "2024-04-01",
-        "rank": 88,
+        "rank": 89,
         "elo": 1016.0
       },
       {
         "date": "2024-05-01",
-        "rank": 86,
+        "rank": 87,
         "elo": 1016.0
       },
       {
         "date": "2024-06-01",
-        "rank": 84,
+        "rank": 85,
         "elo": 1016.0
       },
       {
@@ -301,12 +311,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 150,
+        "rank": 153,
         "elo": 990.63
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 154,
+        "elo": 990.63
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 392,
+        "elo": 960.27
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-01",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "037cfd34a27d59e9",
+      "opponent_name": "Michael Oliveira",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 989.57,
+      "p4p_after": 959.31,
+      "p4p_delta": -30.26,
+      "div_before": 990.63,
+      "div_after": 960.27,
+      "div_delta": -30.36
+    },
     {
       "date": "2026-01-31",
       "weight_class": "ww",

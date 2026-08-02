@@ -2,7 +2,7 @@
   "id": "fb37795db81f93f3",
   "name": "Bogdan Grad",
   "slug": "bogdan-grad",
-  "last_fight_date": "2025-11-22",
+  "last_fight_date": "2026-08-01",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -94,8 +94,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1469,
+        "rank": 1470,
         "elo": 964.23
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1477,
+        "elo": 964.23
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 853,
+        "elo": 982.7
       }
     ],
     "fw": [
@@ -181,12 +191,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 278,
+        "rank": 281,
         "elo": 963.26
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 282,
+        "elo": 963.26
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 154,
+        "elo": 982.81
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-01",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "c4d039123e62f6a9",
+      "opponent_name": "Dennis Buzukja",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 964.23,
+      "p4p_after": 982.7,
+      "p4p_delta": 18.47,
+      "div_before": 963.26,
+      "div_after": 982.81,
+      "div_delta": 19.55
+    },
     {
       "date": "2025-11-22",
       "weight_class": "fw",

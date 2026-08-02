@@ -2,7 +2,7 @@
   "id": "866fd7b1a6c90e7f",
   "name": "Dusko Todorovic",
   "slug": "dusko-todorovic",
-  "last_fight_date": "2025-09-13",
+  "last_fight_date": "2026-08-01",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -19,7 +19,7 @@
       },
       {
         "date": "2020-11-01",
-        "rank": 325,
+        "rank": 326,
         "elo": 1018.94
       },
       {
@@ -114,12 +114,12 @@
       },
       {
         "date": "2022-06-01",
-        "rank": 1505,
+        "rank": 1506,
         "elo": 953.25
       },
       {
         "date": "2022-07-01",
-        "rank": 1503,
+        "rank": 1504,
         "elo": 953.25
       },
       {
@@ -354,49 +354,59 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 2400,
+        "rank": 2409,
         "elo": 921.67
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2421,
+        "elo": 921.67
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2650,
+        "elo": 893.29
       }
     ],
     "mw": [
       {
         "date": "2020-10-01",
-        "rank": 60,
+        "rank": 63,
         "elo": 1020.8
       },
       {
         "date": "2020-11-01",
-        "rank": 60,
+        "rank": 63,
         "elo": 1020.8
       },
       {
         "date": "2020-12-01",
-        "rank": 60,
+        "rank": 63,
         "elo": 1020.8
       },
       {
         "date": "2021-01-01",
-        "rank": 131,
+        "rank": 134,
         "elo": 987.73
       },
       {
         "date": "2021-02-01",
-        "rank": 131,
+        "rank": 134,
         "elo": 987.73
       },
       {
         "date": "2021-03-01",
-        "rank": 131,
+        "rank": 134,
         "elo": 987.73
       },
       {
         "date": "2021-04-01",
-        "rank": 131,
+        "rank": 132,
         "elo": 987.73
       },
       {
         "date": "2021-05-01",
-        "rank": 132,
+        "rank": 134,
         "elo": 987.73
       },
       {
@@ -703,10 +713,35 @@
         "date": "2026-06-01",
         "rank": 433,
         "elo": 924.14
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 433,
+        "elo": 924.14
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 456,
+        "elo": 895.54
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-01",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "0cd0456d6029cec2",
+      "opponent_name": "Robert Valentin",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 921.67,
+      "p4p_after": 893.29,
+      "p4p_delta": -28.38,
+      "div_before": 924.14,
+      "div_after": 895.54,
+      "div_delta": -28.6
+    },
     {
       "date": "2025-09-13",
       "weight_class": "mw",

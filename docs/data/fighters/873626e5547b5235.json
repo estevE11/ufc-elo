@@ -2,7 +2,7 @@
   "id": "873626e5547b5235",
   "name": "Kyle Prepolec",
   "slug": "kyle-prepolec",
-  "last_fight_date": "2025-10-18",
+  "last_fight_date": "2026-08-01",
   "active_current_mode": true,
   "divisions": [
     "lw",
@@ -441,8 +441,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 2603,
+        "rank": 2612,
         "elo": 896.13
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2623,
+        "elo": 896.13
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2708,
+        "elo": 871.19
       }
     ],
     "lw": [
@@ -855,6 +865,16 @@
         "date": "2026-06-01",
         "rank": 554,
         "elo": 917.15
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 555,
+        "elo": 917.15
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 576,
+        "elo": 889.57
       }
     ],
     "ww": [
@@ -1285,12 +1305,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 269,
+        "rank": 273,
+        "elo": 973.74
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 272,
+        "elo": 973.74
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 272,
         "elo": 973.74
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-01",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "849c5d9979df5357",
+      "opponent_name": "Mateusz Rebecki",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 896.13,
+      "p4p_after": 871.19,
+      "p4p_delta": -24.94,
+      "div_before": 917.15,
+      "div_after": 889.57,
+      "div_delta": -27.58
+    },
     {
       "date": "2025-10-18",
       "weight_class": "lw",

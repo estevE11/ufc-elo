@@ -2,7 +2,7 @@
   "id": "1b35af4d1529adf6",
   "name": "Stephanie Luciano",
   "slug": "stephanie-luciano",
-  "last_fight_date": "2025-10-18",
+  "last_fight_date": "2026-08-01",
   "active_current_mode": true,
   "divisions": [
     "wsw"
@@ -124,8 +124,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 430,
+        "rank": 432,
         "elo": 1016.43
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 435,
+        "elo": 1016.43
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 263,
+        "elo": 1036.24
       }
     ],
     "wsw": [
@@ -243,10 +253,35 @@
         "date": "2026-06-01",
         "rank": 23,
         "elo": 1017.87
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 22,
+        "elo": 1017.87
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 13,
+        "elo": 1037.6
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-01",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "5847c1a960bb23af",
+      "opponent_name": "Marina Spasic",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1016.43,
+      "p4p_after": 1036.24,
+      "p4p_delta": 19.81,
+      "div_before": 1017.87,
+      "div_after": 1037.6,
+      "div_delta": 19.73
+    },
     {
       "date": "2025-10-18",
       "weight_class": "wsw",
