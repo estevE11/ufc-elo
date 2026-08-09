@@ -2,7 +2,7 @@
   "id": "aa0c573da7119292",
   "name": "Juliana Miller",
   "slug": "juliana-miller",
-  "last_fight_date": "2026-02-21",
+  "last_fight_date": "2026-08-08",
   "active_current_mode": true,
   "divisions": [
     "wflw"
@@ -14,37 +14,37 @@
     "p4p": [
       {
         "date": "2022-08-01",
-        "rank": 328,
+        "rank": 343,
         "elo": 1020.8
       },
       {
         "date": "2022-09-01",
-        "rank": 326,
+        "rank": 344,
         "elo": 1020.8
       },
       {
         "date": "2022-10-01",
-        "rank": 329,
+        "rank": 347,
         "elo": 1020.8
       },
       {
         "date": "2022-11-01",
-        "rank": 327,
+        "rank": 345,
         "elo": 1020.8
       },
       {
         "date": "2022-12-01",
-        "rank": 331,
+        "rank": 347,
         "elo": 1020.8
       },
       {
         "date": "2023-01-01",
-        "rank": 328,
+        "rank": 346,
         "elo": 1020.8
       },
       {
         "date": "2023-02-01",
-        "rank": 331,
+        "rank": 346,
         "elo": 1020.8
       },
       {
@@ -244,8 +244,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1640,
+        "rank": 1643,
         "elo": 955.86
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1652,
+        "elo": 955.86
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1059,
+        "elo": 974.59
       }
     ],
     "wflw": [
@@ -483,10 +493,35 @@
         "date": "2026-06-01",
         "rank": 83,
         "elo": 958.36
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 84,
+        "elo": 958.36
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 45,
+        "elo": 981.64
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-08",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "4948e412fa6ab67d",
+      "opponent_name": "Ravena Oliveira",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 955.86,
+      "p4p_after": 974.59,
+      "p4p_delta": 18.73,
+      "div_before": 958.36,
+      "div_after": 981.64,
+      "div_delta": 23.28
+    },
     {
       "date": "2026-02-21",
       "weight_class": "wflw",

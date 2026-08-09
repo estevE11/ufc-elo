@@ -2,7 +2,7 @@
   "id": "17734443a833cdf7",
   "name": "Quillan Salkilld",
   "slug": "quillan-salkilld",
-  "last_fight_date": "2026-05-02",
+  "last_fight_date": "2026-08-08",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -14,12 +14,12 @@
     "p4p": [
       {
         "date": "2025-02-01",
-        "rank": 381,
+        "rank": 382,
         "elo": 1019.63
       },
       {
         "date": "2025-03-01",
-        "rank": 382,
+        "rank": 383,
         "elo": 1019.63
       },
       {
@@ -44,12 +44,12 @@
       },
       {
         "date": "2025-08-01",
-        "rank": 263,
+        "rank": 264,
         "elo": 1035.25
       },
       {
         "date": "2025-09-01",
-        "rank": 265,
+        "rank": 266,
         "elo": 1035.25
       },
       {
@@ -96,6 +96,16 @@
         "date": "2026-06-01",
         "rank": 67,
         "elo": 1092.12
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 69,
+        "elo": 1092.12
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 44,
+        "elo": 1111.98
       }
     ],
     "lw": [
@@ -183,10 +193,35 @@
         "date": "2026-06-01",
         "rank": 8,
         "elo": 1092.49
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 8,
+        "elo": 1092.49
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 5,
+        "elo": 1112.41
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-08",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "72db2a14ffa73ece",
+      "opponent_name": "Mateusz Gamrot",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1092.12,
+      "p4p_after": 1111.98,
+      "p4p_delta": 19.86,
+      "div_before": 1092.49,
+      "div_after": 1112.41,
+      "div_delta": 19.92
+    },
     {
       "date": "2026-05-02",
       "weight_class": "lw",

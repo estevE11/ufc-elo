@@ -2,7 +2,7 @@
   "id": "fa07345cc9db5cc9",
   "name": "Billy Ray Goff",
   "slug": "billy-ray-goff",
-  "last_fight_date": "2025-05-31",
+  "last_fight_date": "2026-08-08",
   "active_current_mode": true,
   "divisions": [
     "ww"
@@ -186,6 +186,16 @@
         "date": "2026-06-01",
         "rank": 1517,
         "elo": 961.8
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1524,
+        "elo": 961.8
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2226,
+        "elo": 935.57
       }
     ],
     "ww": [
@@ -361,12 +371,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 374,
+        "rank": 381,
         "elo": 961.92
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 382,
+        "elo": 961.92
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 513,
+        "elo": 935.69
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-08",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "0859524157a19045",
+      "opponent_name": "Ty Miller",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 961.8,
+      "p4p_after": 935.57,
+      "p4p_delta": -26.23,
+      "div_before": 961.92,
+      "div_after": 935.69,
+      "div_delta": -26.23
+    },
     {
       "date": "2025-05-31",
       "weight_class": "ww",

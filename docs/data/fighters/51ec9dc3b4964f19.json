@@ -2,13 +2,15 @@
   "id": "51ec9dc3b4964f19",
   "name": "Gianni Vazquez",
   "slug": "gianni-vazquez",
-  "last_fight_date": "2026-02-07",
+  "last_fight_date": "2026-08-08",
   "active_current_mode": true,
   "divisions": [
-    "bw"
+    "bw",
+    "fw"
   ],
   "division_names": {
-    "bw": "Bantamweight"
+    "bw": "Bantamweight",
+    "fw": "Featherweight"
   },
   "rank_history": {
     "p4p": [
@@ -34,8 +36,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1034,
+        "rank": 1035,
         "elo": 975.18
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1039,
+        "elo": 975.18
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1961,
+        "elo": 944.46
       }
     ],
     "bw": [
@@ -61,12 +73,44 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 159,
+        "elo": 975.12
+      },
+      {
+        "date": "2026-07-01",
         "rank": 160,
         "elo": 975.12
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 162,
+        "elo": 975.12
+      }
+    ],
+    "fw": [
+      {
+        "date": "2026-08-01",
+        "rank": 263,
+        "elo": 966.79
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-08",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "46e0d677f91bacc0",
+      "opponent_name": "Miles Johns",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 975.18,
+      "p4p_after": 944.46,
+      "p4p_delta": -30.72,
+      "div_before": 1000.0,
+      "div_after": 966.79,
+      "div_delta": -33.21
+    },
     {
       "date": "2026-02-07",
       "weight_class": "bw",

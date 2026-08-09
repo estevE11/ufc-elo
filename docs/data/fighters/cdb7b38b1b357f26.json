@@ -2,7 +2,7 @@
   "id": "cdb7b38b1b357f26",
   "name": "Louie Sutherland",
   "slug": "louie-sutherland",
-  "last_fight_date": "2026-05-02",
+  "last_fight_date": "2026-08-08",
   "active_current_mode": true,
   "divisions": [
     "hw"
@@ -56,6 +56,16 @@
         "date": "2026-06-01",
         "rank": 1553,
         "elo": 959.66
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1561,
+        "elo": 959.66
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2285,
+        "elo": 932.06
       }
     ],
     "hw": [
@@ -96,17 +106,42 @@
       },
       {
         "date": "2026-05-01",
-        "rank": 222,
+        "rank": 223,
         "elo": 959.75
       },
       {
         "date": "2026-06-01",
+        "rank": 224,
+        "elo": 959.75
+      },
+      {
+        "date": "2026-07-01",
         "rank": 223,
         "elo": 959.75
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 285,
+        "elo": 932.15
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-08",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "1f8cd7634e8286ff",
+      "opponent_name": "Jose Montanha",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 959.66,
+      "p4p_after": 932.06,
+      "p4p_delta": -27.6,
+      "div_before": 959.75,
+      "div_after": 932.15,
+      "div_delta": -27.6
+    },
     {
       "date": "2026-05-02",
       "weight_class": "hw",

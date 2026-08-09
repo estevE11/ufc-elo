@@ -2,14 +2,16 @@
   "id": "4948e412fa6ab67d",
   "name": "Ravena Oliveira",
   "slug": "ravena-oliveira",
-  "last_fight_date": "2026-03-21",
+  "last_fight_date": "2026-08-08",
   "active_current_mode": true,
   "divisions": [
     "wbw",
+    "wflw",
     "wsw"
   ],
   "division_names": {
     "wbw": "Women's Bantamweight",
+    "wflw": "Women's Flyweight",
     "wsw": "Women's Strawweight"
   },
   "rank_history": {
@@ -176,8 +178,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 2407,
+        "rank": 2416,
         "elo": 921.2
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2428,
+        "elo": 921.2
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2654,
+        "elo": 893.1
       }
     ],
     "wbw": [
@@ -343,8 +355,25 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 42,
+        "elo": 977.21
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 42,
+        "elo": 977.21
+      },
+      {
+        "date": "2026-08-01",
         "rank": 43,
         "elo": 977.21
+      }
+    ],
+    "wflw": [
+      {
+        "date": "2026-08-01",
+        "rank": 78,
+        "elo": 965.08
       }
     ],
     "wsw": [
@@ -392,10 +421,35 @@
         "date": "2026-06-01",
         "rank": 98,
         "elo": 940.14
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 98,
+        "elo": 940.14
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 101,
+        "elo": 940.14
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-08",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "aa0c573da7119292",
+      "opponent_name": "Juliana Miller",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 921.2,
+      "p4p_after": 893.1,
+      "p4p_delta": -28.1,
+      "div_before": 1000.0,
+      "div_after": 965.08,
+      "div_delta": -34.92
+    },
     {
       "date": "2026-03-21",
       "weight_class": "wsw",

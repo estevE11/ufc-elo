@@ -1,0 +1,46 @@
+{
+  "id": "651d209fa8c8cd83",
+  "name": "Gigi Canuto",
+  "slug": "gigi-canuto",
+  "last_fight_date": "2026-08-08",
+  "active_current_mode": true,
+  "divisions": [
+    "wsw"
+  ],
+  "division_names": {
+    "wsw": "Women's Strawweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-08-01",
+        "rank": 1026,
+        "elo": 976.0
+      }
+    ],
+    "wsw": [
+      {
+        "date": "2026-08-01",
+        "rank": 56,
+        "elo": 976.0
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-08-08",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "77ba5b2939c4018b",
+      "opponent_name": "Carol Foro",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 976.0,
+      "p4p_delta": -24.0,
+      "div_before": 1000.0,
+      "div_after": 976.0,
+      "div_delta": -24.0
+    }
+  ]
+}

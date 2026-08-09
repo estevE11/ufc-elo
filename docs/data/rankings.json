@@ -338,27 +338,27 @@
       },
       {
         "rank": 5,
+        "fighter_id": "17734443a833cdf7",
+        "name": "Quillan Salkilld",
+        "elo": 1112.41
+      },
+      {
+        "rank": 6,
         "fighter_id": "7826923b47f8d72a",
         "name": "Paddy Pimblett",
         "elo": 1109.67
       },
       {
-        "rank": 6,
+        "rank": 7,
         "fighter_id": "9e8f6c728eb01124",
         "name": "Justin Gaethje",
         "elo": 1100.95
       },
       {
-        "rank": 7,
+        "rank": 8,
         "fighter_id": "a26198ba5093147e",
         "name": "TJ Grant",
         "elo": 1095.23
-      },
-      {
-        "rank": 8,
-        "fighter_id": "17734443a833cdf7",
-        "name": "Quillan Salkilld",
-        "elo": 1092.49
       },
       {
         "rank": 9,
@@ -600,7 +600,7 @@
         "rank": 7,
         "fighter_id": "545092d13c67aa49",
         "name": "Alexia Thainara",
-        "elo": 1051.67
+        "elo": 1065.4
       },
       {
         "rank": 8,
@@ -1140,21 +1140,21 @@
       },
       {
         "rank": 4,
+        "fighter_id": "17734443a833cdf7",
+        "name": "Quillan Salkilld",
+        "elo": 1112.41
+      },
+      {
+        "rank": 5,
         "fighter_id": "7826923b47f8d72a",
         "name": "Paddy Pimblett",
         "elo": 1109.67
       },
       {
-        "rank": 5,
+        "rank": 6,
         "fighter_id": "9e8f6c728eb01124",
         "name": "Justin Gaethje",
         "elo": 1100.95
-      },
-      {
-        "rank": 6,
-        "fighter_id": "17734443a833cdf7",
-        "name": "Quillan Salkilld",
-        "elo": 1092.49
       },
       {
         "rank": 7,
@@ -1164,21 +1164,21 @@
       },
       {
         "rank": 8,
-        "fighter_id": "72db2a14ffa73ece",
-        "name": "Mateusz Gamrot",
-        "elo": 1077.83
-      },
-      {
-        "rank": 9,
         "fighter_id": "c2299ec916bc7c56",
         "name": "Benoit Saint Denis",
         "elo": 1077.29
       },
       {
-        "rank": 10,
+        "rank": 9,
         "fighter_id": "b6452706b373eea1",
         "name": "Renato Moicano",
         "elo": 1076.48
+      },
+      {
+        "rank": 10,
+        "fighter_id": "99bd51917728c25d",
+        "name": "Grant Dawson",
+        "elo": 1070.75
       }
     ],
     "fw": [
@@ -1408,7 +1408,7 @@
         "rank": 7,
         "fighter_id": "545092d13c67aa49",
         "name": "Alexia Thainara",
-        "elo": 1051.67
+        "elo": 1065.4
       },
       {
         "rank": 8,

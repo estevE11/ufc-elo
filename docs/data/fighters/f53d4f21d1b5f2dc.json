@@ -2,7 +2,7 @@
   "id": "f53d4f21d1b5f2dc",
   "name": "Diego Ferreira",
   "slug": "diego-ferreira",
-  "last_fight_date": "2025-09-13",
+  "last_fight_date": "2026-08-08",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -499,7 +499,7 @@
       },
       {
         "date": "2022-07-01",
-        "rank": 497,
+        "rank": 498,
         "elo": 1001.42
       },
       {
@@ -509,12 +509,12 @@
       },
       {
         "date": "2022-09-01",
-        "rank": 505,
+        "rank": 506,
         "elo": 1001.42
       },
       {
         "date": "2022-10-01",
-        "rank": 505,
+        "rank": 506,
         "elo": 1001.42
       },
       {
@@ -534,7 +534,7 @@
       },
       {
         "date": "2023-02-01",
-        "rank": 515,
+        "rank": 516,
         "elo": 1001.42
       },
       {
@@ -559,7 +559,7 @@
       },
       {
         "date": "2023-07-01",
-        "rank": 386,
+        "rank": 387,
         "elo": 1017.32
       },
       {
@@ -734,8 +734,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 773,
+        "rank": 776,
         "elo": 986.92
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 775,
+        "elo": 986.92
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 595,
+        "elo": 1001.26
       }
     ],
     "lw": [
@@ -1461,12 +1471,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 161,
+        "rank": 162,
         "elo": 990.33
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 163,
+        "elo": 990.33
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 133,
+        "elo": 1006.78
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-08",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "aa171d55d4b5208f",
+      "opponent_name": "Billy Quarantillo",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 986.92,
+      "p4p_after": 1001.26,
+      "p4p_delta": 14.34,
+      "div_before": 990.33,
+      "div_after": 1006.78,
+      "div_delta": 16.45
+    },
     {
       "date": "2025-09-13",
       "weight_class": "lw",

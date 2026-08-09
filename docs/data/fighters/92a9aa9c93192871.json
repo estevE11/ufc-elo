@@ -2,7 +2,7 @@
   "id": "92a9aa9c93192871",
   "name": "Darren Elkins",
   "slug": "darren-elkins",
-  "last_fight_date": "2025-04-12",
+  "last_fight_date": "2026-08-08",
   "active_current_mode": true,
   "divisions": [
     "fw",
@@ -991,8 +991,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 757,
+        "rank": 760,
         "elo": 987.68
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 759,
+        "elo": 987.68
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1600,
+        "elo": 958.6
       }
     ],
     "fw": [
@@ -1688,52 +1698,52 @@
       },
       {
         "date": "2022-12-01",
-        "rank": 94,
+        "rank": 95,
         "elo": 994.29
       },
       {
         "date": "2023-01-01",
-        "rank": 96,
+        "rank": 97,
         "elo": 994.29
       },
       {
         "date": "2023-02-01",
-        "rank": 99,
+        "rank": 100,
         "elo": 994.29
       },
       {
         "date": "2023-03-01",
-        "rank": 100,
+        "rank": 101,
         "elo": 994.29
       },
       {
         "date": "2023-04-01",
-        "rank": 101,
+        "rank": 102,
         "elo": 994.29
       },
       {
         "date": "2023-05-01",
-        "rank": 101,
+        "rank": 102,
         "elo": 994.29
       },
       {
         "date": "2023-06-01",
-        "rank": 99,
+        "rank": 100,
         "elo": 994.29
       },
       {
         "date": "2023-07-01",
-        "rank": 99,
+        "rank": 100,
         "elo": 994.29
       },
       {
         "date": "2023-08-01",
-        "rank": 99,
+        "rank": 100,
         "elo": 994.29
       },
       {
         "date": "2023-09-01",
-        "rank": 100,
+        "rank": 101,
         "elo": 994.29
       },
       {
@@ -1898,8 +1908,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 132,
+        "rank": 133,
         "elo": 987.24
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 133,
+        "elo": 987.24
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 301,
+        "elo": 958.22
       }
     ],
     "lw": [
@@ -2880,12 +2900,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 171,
+        "rank": 172,
+        "elo": 987.11
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 173,
+        "elo": 987.11
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 174,
         "elo": 987.11
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-08",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "70380ccdc81915b8",
+      "opponent_name": "Yadier del Valle",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 987.68,
+      "p4p_after": 958.6,
+      "p4p_delta": -29.08,
+      "div_before": 987.24,
+      "div_after": 958.22,
+      "div_delta": -29.02
+    },
     {
       "date": "2025-04-12",
       "weight_class": "fw",

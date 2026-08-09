@@ -2,7 +2,7 @@
   "id": "72db2a14ffa73ece",
   "name": "Mateusz Gamrot",
   "slug": "mateusz-gamrot",
-  "last_fight_date": "2026-04-11",
+  "last_fight_date": "2026-08-08",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -14,7 +14,7 @@
     "p4p": [
       {
         "date": "2020-10-01",
-        "rank": 689,
+        "rank": 696,
         "elo": 983.2
       },
       {
@@ -34,12 +34,12 @@
       },
       {
         "date": "2021-02-01",
-        "rank": 710,
+        "rank": 711,
         "elo": 983.2
       },
       {
         "date": "2021-03-01",
-        "rank": 703,
+        "rank": 710,
         "elo": 983.2
       },
       {
@@ -59,22 +59,22 @@
       },
       {
         "date": "2021-07-01",
-        "rank": 296,
+        "rank": 297,
         "elo": 1022.0
       },
       {
         "date": "2021-08-01",
-        "rank": 300,
+        "rank": 301,
         "elo": 1022.0
       },
       {
         "date": "2021-09-01",
-        "rank": 300,
+        "rank": 301,
         "elo": 1022.0
       },
       {
         "date": "2021-10-01",
-        "rank": 305,
+        "rank": 306,
         "elo": 1022.0
       },
       {
@@ -354,39 +354,49 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 108,
+        "elo": 1076.31
+      },
+      {
+        "date": "2026-07-01",
         "rank": 106,
         "elo": 1076.31
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 207,
+        "elo": 1046.53
       }
     ],
     "lw": [
       {
         "date": "2020-10-01",
-        "rank": 157,
+        "rank": 161,
         "elo": 983.2
       },
       {
         "date": "2020-11-01",
-        "rank": 157,
+        "rank": 161,
         "elo": 983.2
       },
       {
         "date": "2020-12-01",
-        "rank": 162,
+        "rank": 163,
         "elo": 983.2
       },
       {
         "date": "2021-01-01",
-        "rank": 158,
+        "rank": 162,
         "elo": 983.2
       },
       {
         "date": "2021-02-01",
-        "rank": 158,
+        "rank": 162,
         "elo": 983.2
       },
       {
         "date": "2021-03-01",
-        "rank": 159,
+        "rank": 163,
         "elo": 983.2
       },
       {
@@ -703,10 +713,35 @@
         "date": "2026-06-01",
         "rank": 17,
         "elo": 1077.83
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 16,
+        "elo": 1077.83
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 39,
+        "elo": 1047.95
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-08",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "17734443a833cdf7",
+      "opponent_name": "Quillan Salkilld",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1076.31,
+      "p4p_after": 1046.53,
+      "p4p_delta": -29.78,
+      "div_before": 1077.83,
+      "div_after": 1047.95,
+      "div_delta": -29.88
+    },
     {
       "date": "2026-04-11",
       "weight_class": "lw",

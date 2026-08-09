@@ -2,7 +2,7 @@
   "id": "46e0d677f91bacc0",
   "name": "Miles Johns",
   "slug": "miles-johns",
-  "last_fight_date": "2025-11-08",
+  "last_fight_date": "2026-08-08",
   "active_current_mode": true,
   "divisions": [
     "bw",
@@ -286,12 +286,12 @@
       },
       {
         "date": "2024-03-01",
-        "rank": 219,
+        "rank": 220,
         "elo": 1038.18
       },
       {
         "date": "2024-04-01",
-        "rank": 217,
+        "rank": 218,
         "elo": 1038.18
       },
       {
@@ -421,8 +421,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 880,
+        "rank": 883,
         "elo": 980.47
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 885,
+        "elo": 980.47
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 599,
+        "elo": 1000.95
       }
     ],
     "bw": [
@@ -835,6 +845,16 @@
         "date": "2026-06-01",
         "rank": 85,
         "elo": 1005.64
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 86,
+        "elo": 1005.64
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 87,
+        "elo": 1005.64
       }
     ],
     "fw": [
@@ -930,12 +950,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 167,
+        "rank": 168,
         "elo": 977.58
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 168,
+        "elo": 977.58
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 105,
+        "elo": 999.72
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-08",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "51ec9dc3b4964f19",
+      "opponent_name": "Gianni Vazquez",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 980.47,
+      "p4p_after": 1000.95,
+      "p4p_delta": 20.48,
+      "div_before": 977.58,
+      "div_after": 999.72,
+      "div_delta": 22.14
+    },
     {
       "date": "2025-11-08",
       "weight_class": "bw",

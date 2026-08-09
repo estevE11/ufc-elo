@@ -2,7 +2,7 @@
   "id": "e56cee1ad697db04",
   "name": "Steven Asplund",
   "slug": "steven-asplund",
-  "last_fight_date": "2026-03-14",
+  "last_fight_date": "2026-08-08",
   "active_current_mode": true,
   "divisions": [
     "hw"
@@ -44,8 +44,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 645,
+        "rank": 651,
         "elo": 995.12
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 651,
+        "elo": 995.12
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 505,
+        "elo": 1011.03
       }
     ],
     "hw": [
@@ -83,10 +93,35 @@
         "date": "2026-06-01",
         "rank": 91,
         "elo": 995.74
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 92,
+        "elo": 995.74
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 74,
+        "elo": 1011.62
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-08",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "ba15006c804a8de0",
+      "opponent_name": "Guilherme Pat",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 995.12,
+      "p4p_after": 1011.03,
+      "p4p_delta": 15.91,
+      "div_before": 995.74,
+      "div_after": 1011.62,
+      "div_delta": 15.88
+    },
     {
       "date": "2026-03-14",
       "weight_class": "hw",

@@ -2,7 +2,7 @@
   "id": "545092d13c67aa49",
   "name": "Alexia Thainara",
   "slug": "alexia-thainara",
-  "last_fight_date": "2026-03-28",
+  "last_fight_date": "2026-08-08",
   "active_current_mode": true,
   "divisions": [
     "wsw"
@@ -89,8 +89,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 194,
+        "rank": 195,
         "elo": 1048.24
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 198,
+        "elo": 1048.24
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 142,
+        "elo": 1061.51
       }
     ],
     "wsw": [
@@ -173,10 +183,35 @@
         "date": "2026-06-01",
         "rank": 6,
         "elo": 1051.67
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 7,
+        "elo": 1051.67
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 7,
+        "elo": 1065.4
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-08",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "3df5493bb279226f",
+      "opponent_name": "Amanda Lemos",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1048.24,
+      "p4p_after": 1061.51,
+      "p4p_delta": 13.27,
+      "div_before": 1051.67,
+      "div_after": 1065.4,
+      "div_delta": 13.73
+    },
     {
       "date": "2026-03-28",
       "weight_class": "wsw",

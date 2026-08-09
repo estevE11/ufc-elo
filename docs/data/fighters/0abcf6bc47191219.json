@@ -2,7 +2,7 @@
   "id": "0abcf6bc47191219",
   "name": "Bruno Lopes",
   "slug": "bruno-lopes",
-  "last_fight_date": "2026-03-28",
+  "last_fight_date": "2026-08-08",
   "active_current_mode": true,
   "divisions": [
     "lhw"
@@ -84,23 +84,33 @@
       },
       {
         "date": "2026-03-01",
-        "rank": 1569,
+        "rank": 1570,
         "elo": 958.3
       },
       {
         "date": "2026-04-01",
-        "rank": 1579,
+        "rank": 1580,
         "elo": 958.3
       },
       {
         "date": "2026-05-01",
-        "rank": 1586,
+        "rank": 1587,
         "elo": 958.3
       },
       {
         "date": "2026-06-01",
-        "rank": 1584,
+        "rank": 1586,
         "elo": 958.3
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1595,
+        "elo": 958.3
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2359,
+        "elo": 926.74
       }
     ],
     "lhw": [
@@ -191,12 +201,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 199,
+        "rank": 197,
         "elo": 960.44
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 201,
+        "elo": 960.44
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 272,
+        "elo": 928.87
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-08",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "709fadb644ee3f51",
+      "opponent_name": "Diyar Nurgozhay",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 958.3,
+      "p4p_after": 926.74,
+      "p4p_delta": -31.56,
+      "div_before": 960.44,
+      "div_after": 928.87,
+      "div_delta": -31.57
+    },
     {
       "date": "2026-03-28",
       "weight_class": "lhw",
