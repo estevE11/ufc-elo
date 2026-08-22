@@ -365,13 +365,24 @@ a:hover {
 }
 
 @media (max-width: 560px) {
+  .controls {
+    justify-content: center;
+  }
+
   .mode-toggle {
-    width: 100%;
+    width: auto;
+    max-width: 100%;
+    margin-inline: auto;
   }
 
   .mode-option {
     font-size: 0.75rem;
     padding-inline: 0.35rem;
+  }
+
+  .search-box,
+  .search-box input {
+    width: 100%;
   }
 
   .division-grid {
