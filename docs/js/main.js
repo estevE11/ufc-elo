@@ -26,10 +26,12 @@ async function init() {
 function renderRankings() {
   const modeData = rankings[currentMode];
 
-  document.getElementById("mode-subtitle").textContent =
-    currentMode === "current"
-      ? `Active fighters only (fought within ${meta.inactivity_years_current_mode} years)`
-      : "All fighters (historical, no inactivity filter)";
+  const modeSubtitles = {
+    current: `Active fighters only (fought within ${meta.inactivity_years_current_mode} years)`,
+    historical: "All fighters at their latest Elo (no inactivity filter)",
+    peak: "All fighters ranked by the highest Elo they ever reached",
+  };
+  document.getElementById("mode-subtitle").textContent = modeSubtitles[currentMode];
 
   const grid = document.getElementById("division-grid");
   grid.innerHTML = meta.divisions
@@ -63,6 +65,7 @@ function setupModeSwitch() {
 
   function update() {
     toggle.classList.toggle("is-historical", currentMode === "historical");
+    toggle.classList.toggle("is-peak", currentMode === "peak");
     options.forEach((btn) => {
       const active = btn.dataset.mode === currentMode;
       btn.classList.toggle("active", active);

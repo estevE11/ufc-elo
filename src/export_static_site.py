@@ -185,18 +185,18 @@ def active_fighter_ids(
 
 
 def build_rankings(
-    snapshots: pd.DataFrame,
-    reference_date: pd.Timestamp,
+    rating_rows: pd.DataFrame,
     active_ids: set[str] | None,
     top_n: int = TOP_N,
 ) -> dict[str, list[dict[str, Any]]]:
-    latest = snapshots[snapshots["date"] == reference_date].copy()
     if active_ids is not None:
-        latest = latest[latest["fighter_id"].isin(active_ids)]
+        rating_rows = rating_rows[rating_rows["fighter_id"].isin(active_ids)]
 
     rankings: dict[str, list[dict[str, Any]]] = {}
     for code in RANKING_DIVISION_CODES:
-        division_rows = latest[latest["weight_class"] == code].nlargest(top_n, "elo_score")
+        division_rows = rating_rows[rating_rows["weight_class"] == code].nlargest(
+            top_n, "elo_score"
+        )
         entries: list[dict[str, Any]] = []
         for rank, row in enumerate(division_rows.itertuples(index=False), start=1):
             entries.append(
@@ -209,6 +209,14 @@ def build_rankings(
             )
         rankings[code] = entries
     return rankings
+
+
+def peak_rating_rows(snapshots: pd.DataFrame) -> pd.DataFrame:
+    """Return each fighter's highest recorded Elo in every ranking division."""
+    peak_indices = snapshots.groupby(
+        ["weight_class", "fighter_id"], sort=False
+    )["elo_score"].idxmax()
+    return snapshots.loc[peak_indices].copy()
 
 
 def fighter_fight_list(
@@ -408,6 +416,7 @@ def export_site(
         recorder.process_fight(fight)
 
     reference_date = snapshots["date"].max()
+    latest_ratings = snapshots[snapshots["date"] == reference_date].copy()
     rank_table = compute_rank_table(snapshots)
     active_ids = active_fighter_ids(recorder.last_fight_dates, reference_date)
 
@@ -429,8 +438,9 @@ def export_site(
 
     rankings = {
         "reference_date": reference_date.strftime("%Y-%m-%d"),
-        "historical": build_rankings(snapshots, reference_date, active_ids=None),
-        "current": build_rankings(snapshots, reference_date, active_ids=active_ids),
+        "historical": build_rankings(latest_ratings, active_ids=None),
+        "current": build_rankings(latest_ratings, active_ids=active_ids),
+        "peak": build_rankings(peak_rating_rows(snapshots), active_ids=None),
     }
     (data_output / "rankings.json").write_text(json.dumps(rankings, indent=2), encoding="utf-8")
 

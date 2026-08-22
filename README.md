@@ -102,7 +102,7 @@ This recomputes Elo snapshots and exports JSON into `docs/data/` for the static 
 
 The site includes:
 
-- **Main page** — top 10 per weight class and P4P, with a toggle between *Current* mode (fighters inactive 2+ years excluded) and *Historical* mode (all fighters kept)
+- **Main page** — top 10 per weight class and P4P, with modes for *Current* ratings (fighters inactive 2+ years excluded), *Historical* ratings (all fighters kept), and *Peak performance* (each fighter's highest-ever Elo)
 - **Fighter profiles** — P4P/division rank chart over time, full fight history with Elo changes
 
 Preview locally with any static server (ES modules require HTTP):

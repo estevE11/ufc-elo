@@ -141,7 +141,7 @@ a:hover {
 .mode-toggle {
   position: relative;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
   background: var(--surface-2);
   border: 1px solid var(--border);
   border-radius: 999px;
@@ -154,7 +154,7 @@ a:hover {
   position: absolute;
   top: 4px;
   left: 4px;
-  width: calc(50% - 4px);
+  width: calc((100% - 8px) / 3);
   height: calc(100% - 8px);
   background: linear-gradient(180deg, var(--accent-2), var(--accent));
   border-radius: 999px;
@@ -165,6 +165,10 @@ a:hover {
 
 .mode-toggle.is-historical .mode-toggle-thumb {
   transform: translateX(100%);
+}
+
+.mode-toggle.is-peak .mode-toggle-thumb {
+  transform: translateX(200%);
 }
 
 .mode-option {
@@ -361,6 +365,15 @@ a:hover {
 }
 
 @media (max-width: 560px) {
+  .mode-toggle {
+    width: 100%;
+  }
+
+  .mode-option {
+    font-size: 0.75rem;
+    padding-inline: 0.35rem;
+  }
+
   .division-grid {
     grid-template-columns: 1fr;
   }
