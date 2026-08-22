@@ -1,4 +1,4 @@
-import { fetchJSON, fighterPageUrl } from "./common.js?v=2";
+import { fetchJSON, fighterPageUrl } from "./common.js?v=3";
 
 let meta = null;
 let rankings = null;
@@ -18,7 +18,7 @@ async function init() {
     document.getElementById("ref-date").textContent = rankings.reference_date;
   } catch (err) {
     document.getElementById("app").innerHTML =
-      `<div class="error">Failed to load rankings data. Run <code>python src/export_static_site.py</code> first.</div>`;
+      `<div class="error">Failed to load rankings data. Please refresh and try again.</div>`;
     console.error(err);
   }
 }

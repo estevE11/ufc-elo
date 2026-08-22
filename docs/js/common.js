@@ -1,13 +1,28 @@
 /** Shared helpers for the static site. */
 
 const DATA_BASE = "data";
+const JSON_FETCH_ATTEMPTS = 2;
+const JSON_RETRY_DELAY_MS = 750;
 
 export async function fetchJSON(path) {
-  const response = await fetch(`${DATA_BASE}/${path}`);
-  if (!response.ok) {
-    throw new Error(`Failed to load ${path}: ${response.status}`);
+  let lastError;
+
+  for (let attempt = 0; attempt < JSON_FETCH_ATTEMPTS; attempt += 1) {
+    try {
+      const response = await fetch(`${DATA_BASE}/${path}`, { cache: "no-cache" });
+      if (!response.ok) {
+        throw new Error(`Failed to load ${path}: ${response.status}`);
+      }
+      return await response.json();
+    } catch (error) {
+      lastError = error;
+      if (attempt + 1 < JSON_FETCH_ATTEMPTS) {
+        await new Promise((resolve) => setTimeout(resolve, JSON_RETRY_DELAY_MS));
+      }
+    }
   }
-  return response.json();
+
+  throw lastError;
 }
 
 export function getFighterIdFromURL() {
