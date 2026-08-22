@@ -2,7 +2,7 @@
   "id": "d6a8edb7410223a0",
   "name": "Rafael Tobias",
   "slug": "rafael-tobias",
-  "last_fight_date": "2026-03-07",
+  "last_fight_date": "2026-08-15",
   "active_current_mode": true,
   "divisions": [
     "lhw"
@@ -29,8 +29,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1118,
+        "rank": 1119,
         "elo": 971.58
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1124,
+        "elo": 971.58
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2002,
+        "elo": 942.93
       }
     ],
     "lhw": [
@@ -53,10 +63,35 @@
         "date": "2026-06-01",
         "rank": 141,
         "elo": 971.73
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 144,
+        "elo": 971.73
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 251,
+        "elo": 943.06
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-15",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "3df223aeaacecf3f",
+      "opponent_name": "Lucas Fernando",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 971.58,
+      "p4p_after": 942.93,
+      "p4p_delta": -28.65,
+      "div_before": 971.73,
+      "div_after": 943.06,
+      "div_delta": -28.67
+    },
     {
       "date": "2026-03-07",
       "weight_class": "lhw",

@@ -2,7 +2,7 @@
   "id": "d66a46de8d705353",
   "name": "Jeremiah Wells",
   "slug": "jeremiah-wells",
-  "last_fight_date": "2025-11-01",
+  "last_fight_date": "2026-08-15",
   "active_current_mode": true,
   "divisions": [
     "ww"
@@ -314,8 +314,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 310,
+        "rank": 308,
         "elo": 1028.84
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 308,
+        "elo": 1028.84
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 181,
+        "elo": 1052.3
       }
     ],
     "ww": [
@@ -623,10 +633,35 @@
         "date": "2026-06-01",
         "rank": 58,
         "elo": 1028.48
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 57,
+        "elo": 1028.48
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 32,
+        "elo": 1050.93
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-15",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "bf2c8e01b07d3eb1",
+      "opponent_name": "Myktybek Orolbai",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1028.84,
+      "p4p_after": 1052.3,
+      "p4p_delta": 23.46,
+      "div_before": 1028.48,
+      "div_after": 1050.93,
+      "div_delta": 22.45
+    },
     {
       "date": "2025-11-01",
       "weight_class": "ww",

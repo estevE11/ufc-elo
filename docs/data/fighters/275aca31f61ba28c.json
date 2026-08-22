@@ -2,7 +2,7 @@
   "id": "275aca31f61ba28c",
   "name": "Islam Makhachev",
   "slug": "islam-makhachev",
-  "last_fight_date": "2025-11-15",
+  "last_fight_date": "2026-08-15",
   "active_current_mode": true,
   "divisions": [
     "catch",
@@ -18,27 +18,27 @@
     "p4p": [
       {
         "date": "2015-05-01",
-        "rank": 231,
-        "elo": 1020.8
-      },
-      {
-        "date": "2015-06-01",
         "rank": 235,
         "elo": 1020.8
       },
       {
+        "date": "2015-06-01",
+        "rank": 239,
+        "elo": 1020.8
+      },
+      {
         "date": "2015-07-01",
-        "rank": 238,
+        "rank": 242,
         "elo": 1020.8
       },
       {
         "date": "2015-08-01",
-        "rank": 233,
+        "rank": 239,
         "elo": 1020.8
       },
       {
         "date": "2015-09-01",
-        "rank": 232,
+        "rank": 239,
         "elo": 1020.8
       },
       {
@@ -685,6 +685,16 @@
         "date": "2026-06-01",
         "rank": 2,
         "elo": 1252.21
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2,
+        "elo": 1252.21
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2,
+        "elo": 1262.74
       }
     ],
     "catch": [
@@ -952,32 +962,42 @@
         "date": "2026-06-01",
         "rank": 1,
         "elo": 1047.09
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1,
+        "elo": 1047.09
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1,
+        "elo": 1047.09
       }
     ],
     "lw": [
       {
         "date": "2015-05-01",
-        "rank": 56,
+        "rank": 62,
         "elo": 1020.8
       },
       {
         "date": "2015-06-01",
-        "rank": 56,
+        "rank": 61,
         "elo": 1020.8
       },
       {
         "date": "2015-07-01",
-        "rank": 56,
+        "rank": 61,
         "elo": 1020.8
       },
       {
         "date": "2015-08-01",
-        "rank": 55,
+        "rank": 61,
         "elo": 1020.8
       },
       {
         "date": "2015-09-01",
-        "rank": 56,
+        "rank": 62,
         "elo": 1020.8
       },
       {
@@ -1624,6 +1644,16 @@
         "date": "2026-06-01",
         "rank": 1,
         "elo": 1217.38
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1,
+        "elo": 1217.38
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1,
+        "elo": 1217.38
       }
     ],
     "ww": [
@@ -1666,10 +1696,35 @@
         "date": "2026-06-01",
         "rank": 7,
         "elo": 1113.48
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 7,
+        "elo": 1113.48
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 4,
+        "elo": 1130.15
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-15",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "442c9011034ae1fd",
+      "opponent_name": "Ian Machado Garry",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1252.21,
+      "p4p_after": 1262.74,
+      "p4p_delta": 10.53,
+      "div_before": 1113.48,
+      "div_after": 1130.15,
+      "div_delta": 16.67
+    },
     {
       "date": "2025-11-15",
       "weight_class": "ww",

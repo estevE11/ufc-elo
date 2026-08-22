@@ -2,7 +2,7 @@
   "id": "9508cc6184cb2450",
   "name": "Eric McConico",
   "slug": "eric-mcconico",
-  "last_fight_date": "2026-04-25",
+  "last_fight_date": "2026-08-15",
   "active_current_mode": true,
   "divisions": [
     "lhw",
@@ -96,8 +96,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1110,
+        "rank": 1111,
         "elo": 971.79
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1116,
+        "elo": 971.79
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1929,
+        "elo": 945.42
       }
     ],
     "lhw": [
@@ -154,6 +164,16 @@
       {
         "date": "2026-06-01",
         "rank": 63,
+        "elo": 1011.2
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 67,
+        "elo": 1011.2
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 67,
         "elo": 1011.2
       }
     ],
@@ -240,12 +260,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 327,
+        "rank": 325,
         "elo": 964.02
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 324,
+        "elo": 964.02
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 399,
+        "elo": 938.36
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-15",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "ad5cb64af10fc946",
+      "opponent_name": "Donte Johnson",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 971.79,
+      "p4p_after": 945.42,
+      "p4p_delta": -26.37,
+      "div_before": 964.02,
+      "div_after": 938.36,
+      "div_delta": -25.66
+    },
     {
       "date": "2026-04-25",
       "weight_class": "mw",

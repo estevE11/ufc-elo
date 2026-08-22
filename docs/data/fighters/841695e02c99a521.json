@@ -2,7 +2,7 @@
   "id": "841695e02c99a521",
   "name": "Mansur Abdul-Malik",
   "slug": "mansur-abdul-malik",
-  "last_fight_date": "2026-03-28",
+  "last_fight_date": "2026-08-15",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -109,8 +109,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 404,
+        "rank": 407,
         "elo": 1018.54
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 411,
+        "elo": 1018.54
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 959,
+        "elo": 976.91
       }
     ],
     "mw": [
@@ -211,12 +221,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 79,
+        "rank": 80,
         "elo": 1018.68
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 80,
+        "elo": 1018.68
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 180,
+        "elo": 977.25
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-15",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "71505842fb6455c3",
+      "opponent_name": "Dustin Stoltzfus",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1018.54,
+      "p4p_after": 976.91,
+      "p4p_delta": -41.63,
+      "div_before": 1018.68,
+      "div_after": 977.25,
+      "div_delta": -41.43
+    },
     {
       "date": "2026-03-28",
       "weight_class": "mw",

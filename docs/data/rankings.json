@@ -12,7 +12,7 @@
         "rank": 2,
         "fighter_id": "275aca31f61ba28c",
         "name": "Islam Makhachev",
-        "elo": 1252.21
+        "elo": 1262.74
       },
       {
         "rank": 3,
@@ -270,9 +270,9 @@
       },
       {
         "rank": 4,
-        "fighter_id": "442c9011034ae1fd",
-        "name": "Ian Machado Garry",
-        "elo": 1128.16
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "elo": 1130.15
       },
       {
         "rank": 5,
@@ -288,9 +288,9 @@
       },
       {
         "rank": 7,
-        "fighter_id": "275aca31f61ba28c",
-        "name": "Islam Makhachev",
-        "elo": 1113.48
+        "fighter_id": "442c9011034ae1fd",
+        "name": "Ian Machado Garry",
+        "elo": 1103.15
       },
       {
         "rank": 8,
@@ -574,21 +574,21 @@
       },
       {
         "rank": 3,
-        "fighter_id": "38c7f72747f4f712",
-        "name": "Gillian Robertson",
-        "elo": 1076.57
-      },
-      {
-        "rank": 4,
         "fighter_id": "47b63240018d5d86",
         "name": "Rose Namajunas",
         "elo": 1075.26
       },
       {
-        "rank": 5,
+        "rank": 4,
         "fighter_id": "7dda2cf308f24a02",
         "name": "Virna Jandiroba",
         "elo": 1067.62
+      },
+      {
+        "rank": 5,
+        "fighter_id": "7447e9f28508106a",
+        "name": "Mackenzie Dern",
+        "elo": 1067.03
       },
       {
         "rank": 6,
@@ -604,9 +604,9 @@
       },
       {
         "rank": 8,
-        "fighter_id": "7447e9f28508106a",
-        "name": "Mackenzie Dern",
-        "elo": 1049.8
+        "fighter_id": "38c7f72747f4f712",
+        "name": "Gillian Robertson",
+        "elo": 1050.72
       },
       {
         "rank": 9,
@@ -820,7 +820,7 @@
         "rank": 2,
         "fighter_id": "275aca31f61ba28c",
         "name": "Islam Makhachev",
-        "elo": 1252.21
+        "elo": 1262.74
       },
       {
         "rank": 3,
@@ -1072,9 +1072,9 @@
       },
       {
         "rank": 3,
-        "fighter_id": "442c9011034ae1fd",
-        "name": "Ian Machado Garry",
-        "elo": 1128.16
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "elo": 1130.15
       },
       {
         "rank": 4,
@@ -1090,9 +1090,9 @@
       },
       {
         "rank": 6,
-        "fighter_id": "275aca31f61ba28c",
-        "name": "Islam Makhachev",
-        "elo": 1113.48
+        "fighter_id": "442c9011034ae1fd",
+        "name": "Ian Machado Garry",
+        "elo": 1103.15
       },
       {
         "rank": 7,
@@ -1382,21 +1382,21 @@
       },
       {
         "rank": 3,
-        "fighter_id": "38c7f72747f4f712",
-        "name": "Gillian Robertson",
-        "elo": 1076.57
-      },
-      {
-        "rank": 4,
         "fighter_id": "47b63240018d5d86",
         "name": "Rose Namajunas",
         "elo": 1075.26
       },
       {
-        "rank": 5,
+        "rank": 4,
         "fighter_id": "7dda2cf308f24a02",
         "name": "Virna Jandiroba",
         "elo": 1067.62
+      },
+      {
+        "rank": 5,
+        "fighter_id": "7447e9f28508106a",
+        "name": "Mackenzie Dern",
+        "elo": 1067.03
       },
       {
         "rank": 6,
@@ -1412,9 +1412,9 @@
       },
       {
         "rank": 8,
-        "fighter_id": "7447e9f28508106a",
-        "name": "Mackenzie Dern",
-        "elo": 1049.8
+        "fighter_id": "38c7f72747f4f712",
+        "name": "Gillian Robertson",
+        "elo": 1050.72
       },
       {
         "rank": 9,

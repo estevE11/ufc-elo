@@ -2,7 +2,7 @@
   "id": "3d074044a33825e7",
   "name": "Ramiz Brahimaj",
   "slug": "ramiz-brahimaj",
-  "last_fight_date": "2026-02-21",
+  "last_fight_date": "2026-08-15",
   "active_current_mode": true,
   "divisions": [
     "ww"
@@ -349,8 +349,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 660,
+        "rank": 665,
         "elo": 994.08
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 666,
+        "elo": 994.08
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1490,
+        "elo": 964.26
       }
     ],
     "ww": [
@@ -691,12 +701,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 130,
+        "rank": 133,
         "elo": 998.78
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 134,
+        "elo": 998.78
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 346,
+        "elo": 968.32
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-15",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "84b3e7d38f2d2ec5",
+      "opponent_name": "Neil Magny",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 994.08,
+      "p4p_after": 964.26,
+      "p4p_delta": -29.82,
+      "div_before": 998.78,
+      "div_after": 968.32,
+      "div_delta": -30.46
+    },
     {
       "date": "2026-02-21",
       "weight_class": "ww",

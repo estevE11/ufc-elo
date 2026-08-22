@@ -2,7 +2,7 @@
   "id": "c68c68efaa5ca6ef",
   "name": "Chidi Njokuani",
   "slug": "chidi-njokuani",
-  "last_fight_date": "2026-02-21",
+  "last_fight_date": "2026-08-15",
   "active_current_mode": true,
   "divisions": [
     "mw",
@@ -276,8 +276,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1587,
+        "rank": 1588,
         "elo": 958.26
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1597,
+        "elo": 958.26
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 927,
+        "elo": 978.78
       }
     ],
     "mw": [
@@ -543,7 +553,17 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 336,
+        "rank": 335,
+        "elo": 960.56
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 334,
+        "elo": 960.56
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 335,
         "elo": 960.56
       }
     ],
@@ -685,12 +705,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 170,
+        "rank": 173,
         "elo": 987.76
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 173,
+        "elo": 987.76
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 124,
+        "elo": 1003.75
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-15",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "58bbef3770bb2dfc",
+      "opponent_name": "Joel Alvarez",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 958.26,
+      "p4p_after": 978.78,
+      "p4p_delta": 20.52,
+      "div_before": 987.76,
+      "div_after": 1003.75,
+      "div_delta": 15.99
+    },
     {
       "date": "2026-02-21",
       "weight_class": "ww",

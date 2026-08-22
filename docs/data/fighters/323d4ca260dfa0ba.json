@@ -2,7 +2,7 @@
   "id": "323d4ca260dfa0ba",
   "name": "Esteban Ribovics",
   "slug": "esteban-ribovics",
-  "last_fight_date": "2026-04-11",
+  "last_fight_date": "2026-08-15",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -14,22 +14,22 @@
     "p4p": [
       {
         "date": "2023-03-01",
-        "rank": 922,
+        "rank": 929,
         "elo": 976.0
       },
       {
         "date": "2023-04-01",
-        "rank": 925,
+        "rank": 932,
         "elo": 976.0
       },
       {
         "date": "2023-05-01",
-        "rank": 922,
+        "rank": 930,
         "elo": 976.0
       },
       {
         "date": "2023-06-01",
-        "rank": 919,
+        "rank": 926,
         "elo": 976.0
       },
       {
@@ -39,22 +39,22 @@
       },
       {
         "date": "2023-08-01",
-        "rank": 630,
+        "rank": 631,
         "elo": 992.28
       },
       {
         "date": "2023-09-01",
-        "rank": 634,
+        "rank": 635,
         "elo": 992.28
       },
       {
         "date": "2023-10-01",
-        "rank": 638,
+        "rank": 639,
         "elo": 992.28
       },
       {
         "date": "2023-11-01",
-        "rank": 641,
+        "rank": 642,
         "elo": 992.28
       },
       {
@@ -74,7 +74,7 @@
       },
       {
         "date": "2024-03-01",
-        "rank": 650,
+        "rank": 651,
         "elo": 992.28
       },
       {
@@ -209,29 +209,39 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 629,
+        "rank": 634,
         "elo": 996.96
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 634,
+        "elo": 996.96
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 457,
+        "elo": 1015.32
       }
     ],
     "lw": [
       {
         "date": "2023-03-01",
-        "rank": 227,
+        "rank": 232,
         "elo": 976.0
       },
       {
         "date": "2023-04-01",
-        "rank": 226,
+        "rank": 231,
         "elo": 976.0
       },
       {
         "date": "2023-05-01",
-        "rank": 227,
+        "rank": 231,
         "elo": 976.0
       },
       {
         "date": "2023-06-01",
-        "rank": 227,
+        "rank": 231,
         "elo": 976.0
       },
       {
@@ -411,12 +421,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 151,
+        "rank": 153,
         "elo": 996.96
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 153,
+        "elo": 996.96
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 116,
+        "elo": 1015.23
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-15",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "64a50dad704d1d49",
+      "opponent_name": "Edson Barboza",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 996.96,
+      "p4p_after": 1015.32,
+      "p4p_delta": 18.36,
+      "div_before": 996.96,
+      "div_after": 1015.23,
+      "div_delta": 18.27
+    },
     {
       "date": "2026-04-11",
       "weight_class": "lw",

@@ -1,0 +1,46 @@
+{
+  "id": "62f3039da2f92a8c",
+  "name": "Eduardo Chapolin",
+  "slug": "eduardo-chapolin",
+  "last_fight_date": "2026-08-15",
+  "active_current_mode": true,
+  "divisions": [
+    "catch"
+  ],
+  "division_names": {
+    "catch": "Catch"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-08-01",
+        "rank": 1448,
+        "elo": 965.99
+      }
+    ],
+    "catch": [
+      {
+        "date": "2026-08-01",
+        "rank": 146,
+        "elo": 967.29
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-08-15",
+      "weight_class": "catch",
+      "weight_class_name": "Catch",
+      "opponent_id": "814e5233e2acf2ee",
+      "opponent_name": "Charles Johnson",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 965.99,
+      "p4p_delta": -34.01,
+      "div_before": 1000.0,
+      "div_after": 967.29,
+      "div_delta": -32.71
+    }
+  ]
+}

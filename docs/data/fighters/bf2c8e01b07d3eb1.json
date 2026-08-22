@@ -2,7 +2,7 @@
   "id": "bf2c8e01b07d3eb1",
   "name": "Myktybek Orolbai",
   "slug": "myktybek-orolbai",
-  "last_fight_date": "2026-03-14",
+  "last_fight_date": "2026-08-15",
   "active_current_mode": true,
   "divisions": [
     "catch",
@@ -173,49 +173,59 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 112,
+        "elo": 1073.52
+      },
+      {
+        "date": "2026-07-01",
         "rank": 110,
         "elo": 1073.52
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 248,
+        "elo": 1038.33
       }
     ],
     "catch": [
       {
         "date": "2024-10-01",
-        "rank": 62,
+        "rank": 65,
         "elo": 983.2
       },
       {
         "date": "2024-11-01",
-        "rank": 63,
+        "rank": 66,
         "elo": 983.2
       },
       {
         "date": "2024-12-01",
-        "rank": 64,
+        "rank": 67,
         "elo": 983.2
       },
       {
         "date": "2025-01-01",
-        "rank": 64,
+        "rank": 67,
         "elo": 983.2
       },
       {
         "date": "2025-02-01",
-        "rank": 66,
+        "rank": 69,
         "elo": 983.2
       },
       {
         "date": "2025-03-01",
-        "rank": 66,
+        "rank": 69,
         "elo": 983.2
       },
       {
         "date": "2025-04-01",
-        "rank": 66,
+        "rank": 69,
         "elo": 983.2
       },
       {
         "date": "2025-05-01",
-        "rank": 66,
+        "rank": 69,
         "elo": 983.2
       },
       {
@@ -281,6 +291,16 @@
       {
         "date": "2026-06-01",
         "rank": 68,
+        "elo": 1005.0
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 68,
+        "elo": 1005.0
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 69,
         "elo": 1005.0
       }
     ],
@@ -412,7 +432,17 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 95,
+        "elo": 1017.43
+      },
+      {
+        "date": "2026-07-01",
         "rank": 96,
+        "elo": 1017.43
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 97,
         "elo": 1017.43
       }
     ],
@@ -544,12 +574,12 @@
       },
       {
         "date": "2025-12-01",
-        "rank": 36,
+        "rank": 37,
         "elo": 1041.6
       },
       {
         "date": "2026-01-01",
-        "rank": 36,
+        "rank": 37,
         "elo": 1041.6
       },
       {
@@ -576,10 +606,35 @@
         "date": "2026-06-01",
         "rank": 28,
         "elo": 1056.14
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 29,
+        "elo": 1056.14
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 68,
+        "elo": 1022.47
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-15",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "d66a46de8d705353",
+      "opponent_name": "Jeremiah Wells",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1073.52,
+      "p4p_after": 1038.33,
+      "p4p_delta": -35.19,
+      "div_before": 1056.14,
+      "div_after": 1022.47,
+      "div_delta": -33.67
+    },
     {
       "date": "2026-03-14",
       "weight_class": "ww",

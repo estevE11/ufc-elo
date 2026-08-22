@@ -2,7 +2,7 @@
   "id": "ec13c393d029297d",
   "name": "Kaue Fernandes",
   "slug": "kaue-fernandes",
-  "last_fight_date": "2025-09-06",
+  "last_fight_date": "2026-08-15",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -169,8 +169,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 264,
+        "rank": 262,
         "elo": 1035.52
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 268,
+        "elo": 1035.52
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 595,
+        "elo": 1001.29
       }
     ],
     "lw": [
@@ -331,12 +341,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 55,
+        "rank": 53,
         "elo": 1035.6
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 52,
+        "elo": 1035.6
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 146,
+        "elo": 1001.67
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-15",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "4d8fa64202cee4c1",
+      "opponent_name": "Jalin Turner",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1035.52,
+      "p4p_after": 1001.29,
+      "p4p_delta": -34.23,
+      "div_before": 1035.6,
+      "div_after": 1001.67,
+      "div_delta": -33.93
+    },
     {
       "date": "2025-09-06",
       "weight_class": "lw",

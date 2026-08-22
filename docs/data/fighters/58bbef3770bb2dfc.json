@@ -2,7 +2,7 @@
   "id": "58bbef3770bb2dfc",
   "name": "Joel Alvarez",
   "slug": "joel-alvarez",
-  "last_fight_date": "2026-05-09",
+  "last_fight_date": "2026-08-15",
   "active_current_mode": true,
   "divisions": [
     "lw",
@@ -16,12 +16,12 @@
     "p4p": [
       {
         "date": "2019-02-01",
-        "rank": 702,
+        "rank": 704,
         "elo": 977.1
       },
       {
         "date": "2019-03-01",
-        "rank": 707,
+        "rank": 709,
         "elo": 977.1
       },
       {
@@ -31,7 +31,7 @@
       },
       {
         "date": "2019-05-01",
-        "rank": 715,
+        "rank": 717,
         "elo": 977.1
       },
       {
@@ -91,7 +91,7 @@
       },
       {
         "date": "2020-05-01",
-        "rank": 474,
+        "rank": 475,
         "elo": 999.27
       },
       {
@@ -166,7 +166,7 @@
       },
       {
         "date": "2021-08-01",
-        "rank": 202,
+        "rank": 203,
         "elo": 1036.6
       },
       {
@@ -176,7 +176,7 @@
       },
       {
         "date": "2021-10-01",
-        "rank": 208,
+        "rank": 209,
         "elo": 1036.6
       },
       {
@@ -456,8 +456,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 145,
+        "rank": 148,
         "elo": 1059.13
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 149,
+        "elo": 1059.13
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 310,
+        "elo": 1028.35
       }
     ],
     "lw": [
@@ -905,6 +915,16 @@
         "date": "2026-06-01",
         "rank": 16,
         "elo": 1083.88
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 15,
+        "elo": 1083.88
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 15,
+        "elo": 1083.88
       }
     ],
     "ww": [
@@ -950,12 +970,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 175,
+        "rank": 178,
         "elo": 987.65
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 178,
+        "elo": 987.65
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 378,
+        "elo": 963.66
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-15",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "c68c68efaa5ca6ef",
+      "opponent_name": "Chidi Njokuani",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1059.13,
+      "p4p_after": 1028.35,
+      "p4p_delta": -30.78,
+      "div_before": 987.65,
+      "div_after": 963.66,
+      "div_delta": -23.99
+    },
     {
       "date": "2026-05-09",
       "weight_class": "ww",

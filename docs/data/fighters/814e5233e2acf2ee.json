@@ -2,7 +2,7 @@
   "id": "814e5233e2acf2ee",
   "name": "Charles Johnson",
   "slug": "charles-johnson",
-  "last_fight_date": "2026-06-27",
+  "last_fight_date": "2026-08-15",
   "active_current_mode": true,
   "divisions": [
     "catch",
@@ -253,6 +253,16 @@
         "date": "2026-06-01",
         "rank": 1318,
         "elo": 968.66
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1324,
+        "elo": 968.66
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 714,
+        "elo": 991.33
       }
     ],
     "catch": [
@@ -358,42 +368,42 @@
       },
       {
         "date": "2024-10-01",
-        "rank": 65,
+        "rank": 64,
         "elo": 983.2
       },
       {
         "date": "2024-11-01",
-        "rank": 66,
+        "rank": 65,
         "elo": 983.2
       },
       {
         "date": "2024-12-01",
-        "rank": 67,
+        "rank": 66,
         "elo": 983.2
       },
       {
         "date": "2025-01-01",
-        "rank": 67,
+        "rank": 66,
         "elo": 983.2
       },
       {
         "date": "2025-02-01",
-        "rank": 69,
+        "rank": 68,
         "elo": 983.2
       },
       {
         "date": "2025-03-01",
-        "rank": 69,
+        "rank": 68,
         "elo": 983.2
       },
       {
         "date": "2025-04-01",
-        "rank": 69,
+        "rank": 68,
         "elo": 983.2
       },
       {
         "date": "2025-05-01",
-        "rank": 69,
+        "rank": 68,
         "elo": 983.2
       },
       {
@@ -460,6 +470,16 @@
         "date": "2026-06-01",
         "rank": 77,
         "elo": 983.2
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 77,
+        "elo": 983.2
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 68,
+        "elo": 1005.0
       }
     ],
     "flw": [
@@ -702,10 +722,35 @@
         "date": "2026-06-01",
         "rank": 63,
         "elo": 977.74
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 62,
+        "elo": 977.74
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 62,
+        "elo": 977.74
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-15",
+      "weight_class": "catch",
+      "weight_class_name": "Catch",
+      "opponent_id": "62f3039da2f92a8c",
+      "opponent_name": "Eduardo Chapolin",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 968.66,
+      "p4p_after": 991.33,
+      "p4p_delta": 22.67,
+      "div_before": 983.2,
+      "div_after": 1005.0,
+      "div_delta": 21.8
+    },
     {
       "date": "2026-06-27",
       "weight_class": "flw",

@@ -2,7 +2,7 @@
   "id": "7447e9f28508106a",
   "name": "Mackenzie Dern",
   "slug": "mackenzie-dern",
-  "last_fight_date": "2025-10-25",
+  "last_fight_date": "2026-08-15",
   "active_current_mode": true,
   "divisions": [
     "wsw"
@@ -369,7 +369,7 @@
       },
       {
         "date": "2024-02-01",
-        "rank": 709,
+        "rank": 710,
         "elo": 988.09
       },
       {
@@ -379,17 +379,17 @@
       },
       {
         "date": "2024-04-01",
-        "rank": 718,
+        "rank": 719,
         "elo": 988.09
       },
       {
         "date": "2024-05-01",
-        "rank": 715,
+        "rank": 716,
         "elo": 988.09
       },
       {
         "date": "2024-06-01",
-        "rank": 710,
+        "rank": 711,
         "elo": 988.09
       },
       {
@@ -509,8 +509,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 210,
+        "rank": 211,
         "elo": 1044.94
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 214,
+        "elo": 1044.94
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 136,
+        "elo": 1062.49
       }
     ],
     "wsw": [
@@ -1013,10 +1023,35 @@
         "date": "2026-06-01",
         "rank": 8,
         "elo": 1049.8
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 8,
+        "elo": 1049.8
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 5,
+        "elo": 1067.03
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-15",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "38c7f72747f4f712",
+      "opponent_name": "Gillian Robertson",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1044.94,
+      "p4p_after": 1062.49,
+      "p4p_delta": 17.55,
+      "div_before": 1049.8,
+      "div_after": 1067.03,
+      "div_delta": 17.23
+    },
     {
       "date": "2025-10-25",
       "weight_class": "wsw",
