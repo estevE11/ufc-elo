@@ -9,7 +9,7 @@ async function init() {
   try {
     [meta, rankings, fightersIndex] = await Promise.all([
       fetchJSON("meta.json"),
-      fetchJSON("rankings.json"),
+      fetchJSON("rankings.json?v=4"),
       fetchJSON("fighters_index.json"),
     ]);
     renderRankings();
