@@ -2,7 +2,7 @@
   "id": "b1f21ce050035d58",
   "name": "Andre Lima",
   "slug": "andre-lima",
-  "last_fight_date": "2026-06-20",
+  "last_fight_date": "2026-08-29",
   "active_current_mode": true,
   "divisions": [
     "flw"
@@ -151,6 +151,16 @@
         "date": "2026-06-01",
         "rank": 331,
         "elo": 1024.83
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 332,
+        "elo": 1024.83
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 220,
+        "elo": 1044.15
       }
     ],
     "flw": [
@@ -293,10 +303,35 @@
         "date": "2026-06-01",
         "rank": 21,
         "elo": 1025.0
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 21,
+        "elo": 1025.0
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 16,
+        "elo": 1044.3
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-29",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "e1f8beeb6d2d871a",
+      "opponent_name": "Namsrai Batbayar",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1024.83,
+      "p4p_after": 1044.15,
+      "p4p_delta": 19.32,
+      "div_before": 1025.0,
+      "div_after": 1044.3,
+      "div_delta": 19.3
+    },
     {
       "date": "2026-06-20",
       "weight_class": "flw",

@@ -2,7 +2,7 @@
   "id": "b2a78df161bd67f9",
   "name": "Gauge Young",
   "slug": "gauge-young",
-  "last_fight_date": "2026-04-18",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -84,8 +84,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 597,
+        "rank": 601,
         "elo": 999.95
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 604,
+        "elo": 999.95
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1038,
+        "elo": 975.95
       }
     ],
     "lw": [
@@ -161,12 +171,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 142,
+        "rank": 144,
         "elo": 1000.31
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 146,
+        "elo": 1000.31
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 233,
+        "elo": 976.29
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "5be51426ff3c1929",
+      "opponent_name": "Stan Dorsainvil",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 999.95,
+      "p4p_after": 975.95,
+      "p4p_delta": -24.0,
+      "div_before": 1000.31,
+      "div_after": 976.29,
+      "div_delta": -24.02
+    },
     {
       "date": "2026-04-18",
       "weight_class": "lw",

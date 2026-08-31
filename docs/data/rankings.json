@@ -214,27 +214,27 @@
       },
       {
         "rank": 5,
+        "fighter_id": "d1c65d2cf2925ddd",
+        "name": "Gregory Rodrigues",
+        "elo": 1107.77
+      },
+      {
+        "rank": 6,
         "fighter_id": "4126a78111c0855a",
         "name": "Caio Borralho",
         "elo": 1101.5
       },
       {
-        "rank": 6,
+        "rank": 7,
         "fighter_id": "c1085e1701b13eca",
         "name": "Joe Pyfer",
         "elo": 1099.69
       },
       {
-        "rank": 7,
+        "rank": 8,
         "fighter_id": "232c582f29f8f65e",
         "name": "Gegard Mousasi",
         "elo": 1093.87
-      },
-      {
-        "rank": 8,
-        "fighter_id": "d1c65d2cf2925ddd",
-        "name": "Gregory Rodrigues",
-        "elo": 1092.39
       },
       {
         "rank": 9,
@@ -474,15 +474,15 @@
       },
       {
         "rank": 7,
-        "fighter_id": "2b6fc1c02736833d",
-        "name": "Umar Nurmagomedov",
-        "elo": 1093.98
-      },
-      {
-        "rank": 8,
         "fighter_id": "a09ed60aa67a3f67",
         "name": "Farid Basharat",
         "elo": 1089.59
+      },
+      {
+        "rank": 8,
+        "fighter_id": "efb96bf3e9ada36f",
+        "name": "Song Yadong",
+        "elo": 1085.48
       },
       {
         "rank": 9,
@@ -580,39 +580,39 @@
       },
       {
         "rank": 4,
+        "fighter_id": "cffb87059e645bd1",
+        "name": "Denise Gomes",
+        "elo": 1068.68
+      },
+      {
+        "rank": 5,
         "fighter_id": "7dda2cf308f24a02",
         "name": "Virna Jandiroba",
         "elo": 1067.62
       },
       {
-        "rank": 5,
+        "rank": 6,
         "fighter_id": "7447e9f28508106a",
         "name": "Mackenzie Dern",
         "elo": 1067.03
       },
       {
-        "rank": 6,
+        "rank": 7,
         "fighter_id": "745fa7b605f8e2da",
         "name": "Fatima Kline",
         "elo": 1065.93
       },
       {
-        "rank": 7,
+        "rank": 8,
         "fighter_id": "545092d13c67aa49",
         "name": "Alexia Thainara",
         "elo": 1065.4
       },
       {
-        "rank": 8,
+        "rank": 9,
         "fighter_id": "38c7f72747f4f712",
         "name": "Gillian Robertson",
         "elo": 1050.72
-      },
-      {
-        "rank": 9,
-        "fighter_id": "cffb87059e645bd1",
-        "name": "Denise Gomes",
-        "elo": 1049.21
       },
       {
         "rank": 10,
@@ -660,27 +660,27 @@
       },
       {
         "rank": 7,
+        "fighter_id": "f1ab6f37492c630a",
+        "name": "Carli Judice",
+        "elo": 1055.62
+      },
+      {
+        "rank": 8,
         "fighter_id": "a9e260472d321361",
         "name": "Jasmine Jasudavicius",
         "elo": 1053.74
       },
       {
-        "rank": 8,
+        "rank": 9,
         "fighter_id": "04835018f90b118c",
         "name": "Casey O'Neill",
         "elo": 1037.99
       },
       {
-        "rank": 9,
+        "rank": 10,
         "fighter_id": "f29a6350c69f4a33",
         "name": "Miranda Maverick",
         "elo": 1036.8
-      },
-      {
-        "rank": 10,
-        "fighter_id": "f1ab6f37492c630a",
-        "name": "Carli Judice",
-        "elo": 1036.38
       }
     ],
     "wbw": [
@@ -922,15 +922,15 @@
       },
       {
         "rank": 9,
-        "fighter_id": "d0fd0d9ee560dae7",
-        "name": "Brando Pericic",
-        "elo": 1057.09
+        "fighter_id": "71171fc96445bf65",
+        "name": "Vitor Petrino",
+        "elo": 1064.75
       },
       {
         "rank": 10,
-        "fighter_id": "8eb046f83e82bf26",
-        "name": "Martin Buday",
-        "elo": 1054.92
+        "fighter_id": "d0fd0d9ee560dae7",
+        "name": "Brando Pericic",
+        "elo": 1057.09
       }
     ],
     "lhw": [
@@ -984,15 +984,15 @@
       },
       {
         "rank": 9,
-        "fighter_id": "327d5f279895110d",
-        "name": "Roman Dolidze",
-        "elo": 1044.06
-      },
-      {
-        "rank": 10,
         "fighter_id": "009341ed974bad72",
         "name": "Jiri Prochazka",
         "elo": 1041.21
+      },
+      {
+        "rank": 10,
+        "fighter_id": "2e19380f34871c6a",
+        "name": "Dominick Reyes",
+        "elo": 1040.79
       }
     ],
     "mw": [
@@ -1016,21 +1016,21 @@
       },
       {
         "rank": 4,
+        "fighter_id": "d1c65d2cf2925ddd",
+        "name": "Gregory Rodrigues",
+        "elo": 1107.77
+      },
+      {
+        "rank": 5,
         "fighter_id": "4126a78111c0855a",
         "name": "Caio Borralho",
         "elo": 1101.5
       },
       {
-        "rank": 5,
+        "rank": 6,
         "fighter_id": "c1085e1701b13eca",
         "name": "Joe Pyfer",
         "elo": 1099.69
-      },
-      {
-        "rank": 6,
-        "fighter_id": "d1c65d2cf2925ddd",
-        "name": "Gregory Rodrigues",
-        "elo": 1092.39
       },
       {
         "rank": 7,
@@ -1164,21 +1164,21 @@
       },
       {
         "rank": 8,
+        "fighter_id": "06626b6287e1ae1e",
+        "name": "Chris Padilla",
+        "elo": 1082.86
+      },
+      {
+        "rank": 9,
         "fighter_id": "c2299ec916bc7c56",
         "name": "Benoit Saint Denis",
         "elo": 1077.29
       },
       {
-        "rank": 9,
+        "rank": 10,
         "fighter_id": "b6452706b373eea1",
         "name": "Renato Moicano",
         "elo": 1076.48
-      },
-      {
-        "rank": 10,
-        "fighter_id": "99bd51917728c25d",
-        "name": "Grant Dawson",
-        "elo": 1070.75
       }
     ],
     "fw": [
@@ -1276,15 +1276,15 @@
       },
       {
         "rank": 6,
-        "fighter_id": "2b6fc1c02736833d",
-        "name": "Umar Nurmagomedov",
-        "elo": 1093.98
-      },
-      {
-        "rank": 7,
         "fighter_id": "a09ed60aa67a3f67",
         "name": "Farid Basharat",
         "elo": 1089.59
+      },
+      {
+        "rank": 7,
+        "fighter_id": "efb96bf3e9ada36f",
+        "name": "Song Yadong",
+        "elo": 1085.48
       },
       {
         "rank": 8,
@@ -1300,9 +1300,9 @@
       },
       {
         "rank": 10,
-        "fighter_id": "efb96bf3e9ada36f",
-        "name": "Song Yadong",
-        "elo": 1062.82
+        "fighter_id": "6e743a33d56bdaa4",
+        "name": "Payton Talbott",
+        "elo": 1060.25
       }
     ],
     "flw": [
@@ -1388,39 +1388,39 @@
       },
       {
         "rank": 4,
+        "fighter_id": "cffb87059e645bd1",
+        "name": "Denise Gomes",
+        "elo": 1068.68
+      },
+      {
+        "rank": 5,
         "fighter_id": "7dda2cf308f24a02",
         "name": "Virna Jandiroba",
         "elo": 1067.62
       },
       {
-        "rank": 5,
+        "rank": 6,
         "fighter_id": "7447e9f28508106a",
         "name": "Mackenzie Dern",
         "elo": 1067.03
       },
       {
-        "rank": 6,
+        "rank": 7,
         "fighter_id": "745fa7b605f8e2da",
         "name": "Fatima Kline",
         "elo": 1065.93
       },
       {
-        "rank": 7,
+        "rank": 8,
         "fighter_id": "545092d13c67aa49",
         "name": "Alexia Thainara",
         "elo": 1065.4
       },
       {
-        "rank": 8,
+        "rank": 9,
         "fighter_id": "38c7f72747f4f712",
         "name": "Gillian Robertson",
         "elo": 1050.72
-      },
-      {
-        "rank": 9,
-        "fighter_id": "cffb87059e645bd1",
-        "name": "Denise Gomes",
-        "elo": 1049.21
       },
       {
         "rank": 10,
@@ -1468,27 +1468,27 @@
       },
       {
         "rank": 7,
+        "fighter_id": "f1ab6f37492c630a",
+        "name": "Carli Judice",
+        "elo": 1055.62
+      },
+      {
+        "rank": 8,
         "fighter_id": "a9e260472d321361",
         "name": "Jasmine Jasudavicius",
         "elo": 1053.74
       },
       {
-        "rank": 8,
+        "rank": 9,
         "fighter_id": "04835018f90b118c",
         "name": "Casey O'Neill",
         "elo": 1037.99
       },
       {
-        "rank": 9,
+        "rank": 10,
         "fighter_id": "f29a6350c69f4a33",
         "name": "Miranda Maverick",
         "elo": 1036.8
-      },
-      {
-        "rank": 10,
-        "fighter_id": "f1ab6f37492c630a",
-        "name": "Carli Judice",
-        "elo": 1036.38
       }
     ],
     "wbw": [

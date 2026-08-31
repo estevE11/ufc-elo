@@ -2,7 +2,7 @@
   "id": "cfbb3edab781dfd2",
   "name": "Shanelle Dyer",
   "slug": "shanelle-dyer",
-  "last_fight_date": "2026-03-21",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "wsw"
@@ -29,8 +29,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 412,
+        "rank": 415,
         "elo": 1017.69
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 419,
+        "elo": 1017.69
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 291,
+        "elo": 1032.65
       }
     ],
     "wsw": [
@@ -53,10 +63,35 @@
         "date": "2026-06-01",
         "rank": 21,
         "elo": 1018.92
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 20,
+        "elo": 1018.92
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 14,
+        "elo": 1035.12
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "ac7c765882f2c68c",
+      "opponent_name": "Elise Reed",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1017.69,
+      "p4p_after": 1032.65,
+      "p4p_delta": 14.96,
+      "div_before": 1018.92,
+      "div_after": 1035.12,
+      "div_delta": 16.2
+    },
     {
       "date": "2026-03-21",
       "weight_class": "wsw",

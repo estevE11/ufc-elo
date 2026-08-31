@@ -2,7 +2,7 @@
   "id": "7d420039bbfe7c1a",
   "name": "Aoriqileng",
   "slug": "aoriqileng",
-  "last_fight_date": "2026-05-30",
+  "last_fight_date": "2026-08-29",
   "active_current_mode": true,
   "divisions": [
     "bw",
@@ -16,37 +16,37 @@
     "p4p": [
       {
         "date": "2021-04-01",
-        "rank": 862,
+        "rank": 876,
         "elo": 976.0
       },
       {
         "date": "2021-05-01",
-        "rank": 856,
+        "rank": 877,
         "elo": 976.0
       },
       {
         "date": "2021-06-01",
-        "rank": 854,
+        "rank": 875,
         "elo": 976.0
       },
       {
         "date": "2021-07-01",
-        "rank": 854,
+        "rank": 873,
         "elo": 976.0
       },
       {
         "date": "2021-08-01",
-        "rank": 859,
+        "rank": 878,
         "elo": 976.0
       },
       {
         "date": "2021-09-01",
-        "rank": 859,
+        "rank": 878,
         "elo": 976.0
       },
       {
         "date": "2021-10-01",
-        "rank": 859,
+        "rank": 878,
         "elo": 976.0
       },
       {
@@ -326,8 +326,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1892,
+        "rank": 1900,
         "elo": 945.87
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1910,
+        "elo": 945.87
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2499,
+        "elo": 916.6
       }
     ],
     "bw": [
@@ -578,49 +588,59 @@
       },
       {
         "date": "2026-05-01",
-        "rank": 145,
+        "rank": 146,
         "elo": 977.1
       },
       {
         "date": "2026-06-01",
-        "rank": 145,
+        "rank": 146,
         "elo": 977.1
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 147,
+        "elo": 977.1
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 255,
+        "elo": 949.64
       }
     ],
     "flw": [
       {
         "date": "2021-04-01",
-        "rank": 45,
+        "rank": 47,
         "elo": 976.0
       },
       {
         "date": "2021-05-01",
-        "rank": 45,
+        "rank": 47,
         "elo": 976.0
       },
       {
         "date": "2021-06-01",
-        "rank": 45,
+        "rank": 47,
         "elo": 976.0
       },
       {
         "date": "2021-07-01",
-        "rank": 46,
+        "rank": 47,
         "elo": 976.0
       },
       {
         "date": "2021-08-01",
-        "rank": 46,
+        "rank": 47,
         "elo": 976.0
       },
       {
         "date": "2021-09-01",
-        "rank": 46,
+        "rank": 47,
         "elo": 976.0
       },
       {
         "date": "2021-10-01",
-        "rank": 47,
+        "rank": 48,
         "elo": 976.0
       },
       {
@@ -902,10 +922,35 @@
         "date": "2026-06-01",
         "rank": 111,
         "elo": 951.5
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 111,
+        "elo": 951.5
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 113,
+        "elo": 951.5
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-29",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "d33da8a3d82bdb62",
+      "opponent_name": "Kai Asakura",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 945.87,
+      "p4p_after": 916.6,
+      "p4p_delta": -29.27,
+      "div_before": 977.1,
+      "div_after": 949.64,
+      "div_delta": -27.46
+    },
     {
       "date": "2026-05-30",
       "weight_class": "bw",

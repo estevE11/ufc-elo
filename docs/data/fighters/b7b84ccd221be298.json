@@ -2,7 +2,7 @@
   "id": "b7b84ccd221be298",
   "name": "Nasrat Haqparast",
   "slug": "nasrat-haqparast",
-  "last_fight_date": "2025-10-25",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -534,8 +534,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 272,
+        "rank": 270,
         "elo": 1035.04
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 274,
+        "elo": 1035.04
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 543,
+        "elo": 1006.41
       }
     ],
     "lw": [
@@ -1061,12 +1071,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 57,
+        "rank": 55,
         "elo": 1034.14
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 54,
+        "elo": 1034.14
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 137,
+        "elo": 1005.6
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "06626b6287e1ae1e",
+      "opponent_name": "Chris Padilla",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1035.04,
+      "p4p_after": 1006.41,
+      "p4p_delta": -28.63,
+      "div_before": 1034.14,
+      "div_after": 1005.6,
+      "div_delta": -28.54
+    },
     {
       "date": "2025-10-25",
       "weight_class": "lw",

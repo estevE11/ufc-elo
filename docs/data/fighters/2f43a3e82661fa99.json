@@ -2,7 +2,7 @@
   "id": "2f43a3e82661fa99",
   "name": "Rei Tsuruya",
   "slug": "rei-tsuruya",
-  "last_fight_date": "2026-05-30",
+  "last_fight_date": "2026-08-29",
   "active_current_mode": true,
   "divisions": [
     "bw",
@@ -136,8 +136,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 499,
+        "rank": 502,
         "elo": 1009.77
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 508,
+        "elo": 1009.77
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 325,
+        "elo": 1026.21
       }
     ],
     "bw": [
@@ -148,7 +158,17 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 55,
+        "rank": 57,
+        "elo": 1020.8
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 57,
+        "elo": 1020.8
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 59,
         "elo": 1020.8
       }
     ],
@@ -277,10 +297,35 @@
         "date": "2026-06-01",
         "rank": 48,
         "elo": 992.15
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 49,
+        "elo": 992.15
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 38,
+        "elo": 1009.77
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-29",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "34b96d52db1d26e6",
+      "opponent_name": "Kevin Borjas",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1009.77,
+      "p4p_after": 1026.21,
+      "p4p_delta": 16.44,
+      "div_before": 992.15,
+      "div_after": 1009.77,
+      "div_delta": 17.62
+    },
     {
       "date": "2026-05-30",
       "weight_class": "bw",

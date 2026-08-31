@@ -2,7 +2,7 @@
   "id": "a1ad35b98a9136e5",
   "name": "Lawrence Lui",
   "slug": "lawrence-lui",
-  "last_fight_date": "2026-01-31",
+  "last_fight_date": "2026-08-29",
   "active_current_mode": true,
   "divisions": [
     "bw"
@@ -39,8 +39,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 488,
+        "rank": 491,
         "elo": 1011.2
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 497,
+        "elo": 1011.2
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 927,
+        "elo": 978.99
       }
     ],
     "bw": [
@@ -73,10 +83,35 @@
         "date": "2026-06-01",
         "rank": 76,
         "elo": 1011.2
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 77,
+        "elo": 1011.2
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 142,
+        "elo": 978.99
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-29",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "8e4902b4a8045070",
+      "opponent_name": "Hector Santiago",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1011.2,
+      "p4p_after": 978.99,
+      "p4p_delta": -32.21,
+      "div_before": 1011.2,
+      "div_after": 978.99,
+      "div_delta": -32.21
+    },
     {
       "date": "2026-01-31",
       "weight_class": "bw",

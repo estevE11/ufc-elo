@@ -2,7 +2,7 @@
   "id": "e00a3dee329a51f7",
   "name": "Jamall Emmers",
   "slug": "jamall-emmers",
-  "last_fight_date": "2025-11-08",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -44,7 +44,7 @@
       },
       {
         "date": "2020-09-01",
-        "rank": 477,
+        "rank": 478,
         "elo": 1000.43
       },
       {
@@ -84,7 +84,7 @@
       },
       {
         "date": "2021-05-01",
-        "rank": 493,
+        "rank": 494,
         "elo": 1000.43
       },
       {
@@ -94,7 +94,7 @@
       },
       {
         "date": "2021-07-01",
-        "rank": 491,
+        "rank": 492,
         "elo": 1000.43
       },
       {
@@ -389,8 +389,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 567,
+        "rank": 571,
         "elo": 1001.69
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 575,
+        "elo": 1001.69
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 342,
+        "elo": 1023.55
       }
     ],
     "fw": [
@@ -771,12 +781,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 95,
+        "rank": 98,
         "elo": 1003.49
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 98,
+        "elo": 1003.49
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 49,
+        "elo": 1025.17
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "640a0f838f057a81",
+      "opponent_name": "Lerryan Douglas",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1001.69,
+      "p4p_after": 1023.55,
+      "p4p_delta": 21.86,
+      "div_before": 1003.49,
+      "div_after": 1025.17,
+      "div_delta": 21.68
+    },
     {
       "date": "2025-11-08",
       "weight_class": "fw",

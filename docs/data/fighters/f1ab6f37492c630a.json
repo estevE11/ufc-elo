@@ -2,7 +2,7 @@
   "id": "f1ab6f37492c630a",
   "name": "Carli Judice",
   "slug": "carli-judice",
-  "last_fight_date": "2026-02-21",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "wflw"
@@ -134,8 +134,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 260,
+        "rank": 258,
         "elo": 1036.26
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 264,
+        "elo": 1036.26
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 165,
+        "elo": 1055.5
       }
     ],
     "wflw": [
@@ -263,10 +273,35 @@
         "date": "2026-06-01",
         "rank": 10,
         "elo": 1036.38
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 10,
+        "elo": 1036.38
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 7,
+        "elo": 1055.62
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "8061a3136026a673",
+      "opponent_name": "Jeisla Chaves",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1036.26,
+      "p4p_after": 1055.5,
+      "p4p_delta": 19.24,
+      "div_before": 1036.38,
+      "div_after": 1055.62,
+      "div_delta": 19.24
+    },
     {
       "date": "2026-02-21",
       "weight_class": "wflw",

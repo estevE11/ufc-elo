@@ -2,7 +2,7 @@
   "id": "e2f6b2769aaedd6c",
   "name": "Serghei Spivac",
   "slug": "serghei-spivac",
-  "last_fight_date": "2026-02-21",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "hw"
@@ -439,8 +439,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 402,
+        "rank": 405,
         "elo": 1018.64
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 409,
+        "elo": 1018.64
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 651,
+        "elo": 996.25
       }
     ],
     "hw": [
@@ -873,10 +883,35 @@
         "date": "2026-06-01",
         "rank": 65,
         "elo": 1015.71
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 67,
+        "elo": 1015.71
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 96,
+        "elo": 994.1
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "71171fc96445bf65",
+      "opponent_name": "Vitor Petrino",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1018.64,
+      "p4p_after": 996.25,
+      "p4p_delta": -22.39,
+      "div_before": 1015.71,
+      "div_after": 994.1,
+      "div_delta": -21.61
+    },
     {
       "date": "2026-02-21",
       "weight_class": "hw",

@@ -2,7 +2,7 @@
   "id": "e0664abaa023fd6f",
   "name": "Ding Meng",
   "slug": "ding-meng",
-  "last_fight_date": "2026-05-30",
+  "last_fight_date": "2026-08-29",
   "active_current_mode": true,
   "divisions": [
     "ww"
@@ -14,29 +14,64 @@
     "p4p": [
       {
         "date": "2026-05-01",
-        "rank": 833,
+        "rank": 837,
         "elo": 983.2
       },
       {
         "date": "2026-06-01",
-        "rank": 833,
+        "rank": 841,
         "elo": 983.2
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 841,
+        "elo": 983.2
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1573,
+        "elo": 960.36
       }
     ],
     "ww": [
       {
         "date": "2026-05-01",
-        "rank": 201,
+        "rank": 204,
         "elo": 983.2
       },
       {
         "date": "2026-06-01",
-        "rank": 201,
+        "rank": 207,
         "elo": 983.2
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 207,
+        "elo": 983.2
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 390,
+        "elo": 960.36
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-29",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "34d4cae19105eb68",
+      "opponent_name": "Cam Nelson",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 983.2,
+      "p4p_after": 960.36,
+      "p4p_delta": -22.84,
+      "div_before": 983.2,
+      "div_after": 960.36,
+      "div_delta": -22.84
+    },
     {
       "date": "2026-05-30",
       "weight_class": "ww",

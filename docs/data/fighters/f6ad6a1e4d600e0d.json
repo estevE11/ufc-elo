@@ -2,7 +2,7 @@
   "id": "f6ad6a1e4d600e0d",
   "name": "Mason Jones",
   "slug": "mason-jones",
-  "last_fight_date": "2026-03-21",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -29,7 +29,7 @@
       },
       {
         "date": "2021-04-01",
-        "rank": 886,
+        "rank": 887,
         "elo": 975.57
       },
       {
@@ -339,8 +339,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 395,
+        "rank": 397,
         "elo": 1019.34
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 401,
+        "elo": 1019.34
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 733,
+        "elo": 989.84
       }
     ],
     "lw": [
@@ -671,12 +681,37 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 72,
+        "elo": 1020.84
+      },
+      {
+        "date": "2026-07-01",
         "rank": 73,
         "elo": 1020.84
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 164,
+        "elo": 991.23
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "e2be0c1a9b886d92",
+      "opponent_name": "MarQuel Mederos",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1019.34,
+      "p4p_after": 989.84,
+      "p4p_delta": -29.5,
+      "div_before": 1020.84,
+      "div_after": 991.23,
+      "div_delta": -29.61
+    },
     {
       "date": "2026-03-21",
       "weight_class": "lw",

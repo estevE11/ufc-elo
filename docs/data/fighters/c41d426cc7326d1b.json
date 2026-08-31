@@ -2,7 +2,7 @@
   "id": "c41d426cc7326d1b",
   "name": "Yan Xiaonan",
   "slug": "yan-xiaonan",
-  "last_fight_date": "2025-04-12",
+  "last_fight_date": "2026-08-29",
   "active_current_mode": true,
   "divisions": [
     "wsw"
@@ -529,8 +529,18 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 329,
+        "elo": 1025.05
+      },
+      {
+        "date": "2026-07-01",
         "rank": 330,
         "elo": 1025.05
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 657,
+        "elo": 995.94
       }
     ],
     "wsw": [
@@ -1053,10 +1063,35 @@
         "date": "2026-06-01",
         "rank": 16,
         "elo": 1026.95
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 15,
+        "elo": 1026.95
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 38,
+        "elo": 997.75
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-29",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "cffb87059e645bd1",
+      "opponent_name": "Denise Gomes",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1025.05,
+      "p4p_after": 995.94,
+      "p4p_delta": -29.11,
+      "div_before": 1026.95,
+      "div_after": 997.75,
+      "div_delta": -29.2
+    },
     {
       "date": "2025-04-12",
       "weight_class": "wsw",

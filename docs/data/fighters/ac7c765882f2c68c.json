@@ -2,7 +2,7 @@
   "id": "ac7c765882f2c68c",
   "name": "Elise Reed",
   "slug": "elise-reed",
-  "last_fight_date": "2025-05-17",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "wflw",
@@ -116,7 +116,7 @@
       },
       {
         "date": "2023-03-01",
-        "rank": 1963,
+        "rank": 1965,
         "elo": 937.04
       },
       {
@@ -216,27 +216,27 @@
       },
       {
         "date": "2024-11-01",
-        "rank": 1921,
+        "rank": 1922,
         "elo": 941.93
       },
       {
         "date": "2024-12-01",
-        "rank": 1921,
+        "rank": 1922,
         "elo": 941.93
       },
       {
         "date": "2025-01-01",
-        "rank": 1924,
+        "rank": 1925,
         "elo": 941.93
       },
       {
         "date": "2025-02-01",
-        "rank": 1934,
+        "rank": 1935,
         "elo": 941.93
       },
       {
         "date": "2025-03-01",
-        "rank": 1939,
+        "rank": 1940,
         "elo": 941.93
       },
       {
@@ -311,8 +311,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 2449,
+        "rank": 2458,
         "elo": 917.32
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2470,
+        "elo": 917.32
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2651,
+        "elo": 894.89
       }
     ],
     "wflw": [
@@ -615,6 +625,16 @@
         "date": "2026-06-01",
         "rank": 59,
         "elo": 971.63
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 59,
+        "elo": 971.63
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 60,
+        "elo": 971.63
       }
     ],
     "wsw": [
@@ -877,10 +897,35 @@
         "date": "2026-06-01",
         "rank": 97,
         "elo": 940.85
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 97,
+        "elo": 940.85
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 114,
+        "elo": 916.55
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "cfbb3edab781dfd2",
+      "opponent_name": "Shanelle Dyer",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 917.32,
+      "p4p_after": 894.89,
+      "p4p_delta": -22.43,
+      "div_before": 940.85,
+      "div_after": 916.55,
+      "div_delta": -24.3
+    },
     {
       "date": "2025-05-17",
       "weight_class": "wsw",

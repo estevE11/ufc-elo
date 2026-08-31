@@ -2,7 +2,7 @@
   "id": "093e1f5bb73850be",
   "name": "Anthony Hernandez",
   "slug": "anthony-hernandez",
-  "last_fight_date": "2026-02-21",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -456,6 +456,16 @@
         "date": "2026-06-01",
         "rank": 86,
         "elo": 1085.22
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 86,
+        "elo": 1085.22
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 141,
+        "elo": 1061.55
       }
     ],
     "mw": [
@@ -901,12 +911,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 11,
+        "rank": 12,
         "elo": 1078.79
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 13,
+        "elo": 1078.79
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 23,
+        "elo": 1055.73
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "d1c65d2cf2925ddd",
+      "opponent_name": "Gregory Rodrigues",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1085.22,
+      "p4p_after": 1061.55,
+      "p4p_delta": -23.67,
+      "div_before": 1078.79,
+      "div_after": 1055.73,
+      "div_delta": -23.06
+    },
     {
       "date": "2026-02-21",
       "weight_class": "mw",

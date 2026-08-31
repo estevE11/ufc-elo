@@ -2,7 +2,7 @@
   "id": "2cdb479a0ef0ee1d",
   "name": "Xiong Jingnan",
   "slug": "xiong-jingnan",
-  "last_fight_date": "2026-05-30",
+  "last_fight_date": "2026-08-29",
   "active_current_mode": true,
   "divisions": [
     "wsw"
@@ -19,8 +19,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1171,
+        "rank": 1172,
         "elo": 969.86
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1177,
+        "elo": 969.86
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2170,
+        "elo": 938.05
       }
     ],
     "wsw": [
@@ -33,10 +43,35 @@
         "date": "2026-06-01",
         "rank": 63,
         "elo": 969.21
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 63,
+        "elo": 969.21
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 101,
+        "elo": 937.66
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-29",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "abb68e3c7ca128f2",
+      "opponent_name": "Julia Polastri",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 969.86,
+      "p4p_after": 938.05,
+      "p4p_delta": -31.81,
+      "div_before": 969.21,
+      "div_after": 937.66,
+      "div_delta": -31.55
+    },
     {
       "date": "2026-05-30",
       "weight_class": "wsw",

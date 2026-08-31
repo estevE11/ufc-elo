@@ -2,7 +2,7 @@
   "id": "6747ccd6d1acd266",
   "name": "Shamil Gaziev",
   "slug": "shamil-gaziev",
-  "last_fight_date": "2026-05-02",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "hw"
@@ -164,8 +164,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1132,
+        "rank": 1133,
         "elo": 970.93
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1138,
+        "elo": 970.93
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 700,
+        "elo": 992.49
       }
     ],
     "hw": [
@@ -323,10 +333,35 @@
         "date": "2026-06-01",
         "rank": 155,
         "elo": 970.92
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 156,
+        "elo": 970.92
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 98,
+        "elo": 993.57
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "8667caa0451d245b",
+      "opponent_name": "Kennedy Nzechukwu",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 970.93,
+      "p4p_after": 992.49,
+      "p4p_delta": 21.56,
+      "div_before": 970.92,
+      "div_after": 993.57,
+      "div_delta": 22.65
+    },
     {
       "date": "2026-05-02",
       "weight_class": "hw",

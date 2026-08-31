@@ -2,7 +2,7 @@
   "id": "b4443fae47e7eb9d",
   "name": "Wes Schultz",
   "slug": "wes-schultz",
-  "last_fight_date": "2026-05-02",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -14,17 +14,17 @@
     "p4p": [
       {
         "date": "2026-02-01",
-        "rank": 1184,
+        "rank": 1299,
         "elo": 968.8
       },
       {
         "date": "2026-03-01",
-        "rank": 1192,
+        "rank": 1306,
         "elo": 968.8
       },
       {
         "date": "2026-04-01",
-        "rank": 1201,
+        "rank": 1312,
         "elo": 968.8
       },
       {
@@ -34,24 +34,34 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 694,
+        "rank": 700,
         "elo": 991.46
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 700,
+        "elo": 991.46
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1634,
+        "elo": 957.4
       }
     ],
     "mw": [
       {
         "date": "2026-02-01",
-        "rank": 257,
+        "rank": 292,
         "elo": 968.8
       },
       {
         "date": "2026-03-01",
-        "rank": 258,
+        "rank": 293,
         "elo": 968.8
       },
       {
         "date": "2026-04-01",
-        "rank": 259,
+        "rank": 294,
         "elo": 968.8
       },
       {
@@ -61,12 +71,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 144,
+        "rank": 143,
         "elo": 991.46
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 142,
+        "elo": 991.46
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 335,
+        "elo": 959.92
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "3eeec2f53cebdf12",
+      "opponent_name": "Jackson McVey",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 991.46,
+      "p4p_after": 957.4,
+      "p4p_delta": -34.06,
+      "div_before": 991.46,
+      "div_after": 959.92,
+      "div_delta": -31.54
+    },
     {
       "date": "2026-05-02",
       "weight_class": "mw",

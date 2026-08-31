@@ -2,7 +2,7 @@
   "id": "d33da8a3d82bdb62",
   "name": "Kai Asakura",
   "slug": "kai-asakura",
-  "last_fight_date": "2026-05-30",
+  "last_fight_date": "2026-08-29",
   "active_current_mode": true,
   "divisions": [
     "bw",
@@ -106,8 +106,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1368,
+        "rank": 1370,
         "elo": 967.41
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1376,
+        "elo": 967.41
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 783,
+        "elo": 986.93
       }
     ],
     "bw": [
@@ -120,6 +130,16 @@
         "date": "2026-06-01",
         "rank": 58,
         "elo": 1018.94
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 58,
+        "elo": 1018.94
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 35,
+        "elo": 1037.25
       }
     ],
     "flw": [
@@ -217,10 +237,35 @@
         "date": "2026-06-01",
         "rank": 129,
         "elo": 941.64
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 129,
+        "elo": 941.64
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 132,
+        "elo": 941.64
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-29",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "7d420039bbfe7c1a",
+      "opponent_name": "Aoriqileng",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 967.41,
+      "p4p_after": 986.93,
+      "p4p_delta": 19.52,
+      "div_before": 1018.94,
+      "div_after": 1037.25,
+      "div_delta": 18.31
+    },
     {
       "date": "2026-05-30",
       "weight_class": "bw",

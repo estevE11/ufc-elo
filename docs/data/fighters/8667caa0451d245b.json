@@ -2,7 +2,7 @@
   "id": "8667caa0451d245b",
   "name": "Kennedy Nzechukwu",
   "slug": "kennedy-nzechukwu",
-  "last_fight_date": "2025-07-12",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "hw",
@@ -316,22 +316,22 @@
       },
       {
         "date": "2024-03-01",
-        "rank": 875,
+        "rank": 876,
         "elo": 977.49
       },
       {
         "date": "2024-04-01",
-        "rank": 878,
+        "rank": 879,
         "elo": 977.49
       },
       {
         "date": "2024-05-01",
-        "rank": 877,
+        "rank": 878,
         "elo": 977.49
       },
       {
         "date": "2024-06-01",
-        "rank": 877,
+        "rank": 878,
         "elo": 977.49
       },
       {
@@ -341,7 +341,7 @@
       },
       {
         "date": "2024-08-01",
-        "rank": 885,
+        "rank": 886,
         "elo": 977.49
       },
       {
@@ -451,8 +451,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 825,
+        "rank": 829,
         "elo": 983.48
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 830,
+        "elo": 983.48
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1779,
+        "elo": 951.15
       }
     ],
     "hw": [
@@ -560,6 +570,16 @@
         "date": "2026-06-01",
         "rank": 83,
         "elo": 1001.92
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 84,
+        "elo": 1001.92
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 208,
+        "elo": 967.94
       }
     ],
     "lhw": [
@@ -1002,10 +1022,35 @@
         "date": "2026-06-01",
         "rank": 98,
         "elo": 983.21
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 101,
+        "elo": 983.21
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 104,
+        "elo": 983.21
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "6747ccd6d1acd266",
+      "opponent_name": "Shamil Gaziev",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 983.48,
+      "p4p_after": 951.15,
+      "p4p_delta": -32.33,
+      "div_before": 1001.92,
+      "div_after": 967.94,
+      "div_delta": -33.98
+    },
     {
       "date": "2025-07-12",
       "weight_class": "hw",

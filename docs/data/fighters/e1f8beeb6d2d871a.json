@@ -1,0 +1,46 @@
+{
+  "id": "e1f8beeb6d2d871a",
+  "name": "Namsrai Batbayar",
+  "slug": "namsrai-batbayar",
+  "last_fight_date": "2026-08-29",
+  "active_current_mode": true,
+  "divisions": [
+    "flw"
+  ],
+  "division_names": {
+    "flw": "Flyweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-08-01",
+        "rank": 1153,
+        "elo": 971.03
+      }
+    ],
+    "flw": [
+      {
+        "date": "2026-08-01",
+        "rank": 80,
+        "elo": 971.04
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-08-29",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "b1f21ce050035d58",
+      "opponent_name": "Andre Lima",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 971.03,
+      "p4p_delta": -28.97,
+      "div_before": 1000.0,
+      "div_after": 971.04,
+      "div_delta": -28.96
+    }
+  ]
+}

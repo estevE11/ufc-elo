@@ -2,7 +2,7 @@
   "id": "c85bad793cd14e28",
   "name": "Marcio Barbosa",
   "slug": "marcio-barbosa",
-  "last_fight_date": "2026-04-18",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -24,8 +24,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 410,
+        "rank": 413,
         "elo": 1017.95
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 417,
+        "elo": 1017.95
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 255,
+        "elo": 1037.67
       }
     ],
     "fw": [
@@ -41,12 +51,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 63,
+        "rank": 64,
         "elo": 1019.07
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 64,
+        "elo": 1019.07
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 32,
+        "elo": 1038.73
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "d958ed9e5a08c849",
+      "opponent_name": "Ryan Kuse",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1017.95,
+      "p4p_after": 1037.67,
+      "p4p_delta": 19.72,
+      "div_before": 1019.07,
+      "div_after": 1038.73,
+      "div_delta": 19.66
+    },
     {
       "date": "2026-04-18",
       "weight_class": "fw",

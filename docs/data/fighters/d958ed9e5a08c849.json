@@ -1,0 +1,46 @@
+{
+  "id": "d958ed9e5a08c849",
+  "name": "Ryan Kuse",
+  "slug": "ryan-kuse",
+  "last_fight_date": "2026-08-22",
+  "active_current_mode": true,
+  "divisions": [
+    "fw"
+  ],
+  "division_names": {
+    "fw": "Featherweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-08-01",
+        "rank": 1177,
+        "elo": 970.41
+      }
+    ],
+    "fw": [
+      {
+        "date": "2026-08-01",
+        "rank": 225,
+        "elo": 970.51
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "c85bad793cd14e28",
+      "opponent_name": "Marcio Barbosa",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 970.41,
+      "p4p_delta": -29.59,
+      "div_before": 1000.0,
+      "div_after": 970.51,
+      "div_delta": -29.49
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "id": "3eeec2f53cebdf12",
   "name": "Jackson McVey",
   "slug": "jackson-mcvey",
-  "last_fight_date": "2026-04-25",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "catch",
@@ -71,49 +71,69 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1556,
+        "rank": 1557,
         "elo": 959.49
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1565,
+        "elo": 959.49
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 869,
+        "elo": 982.2
       }
     ],
     "catch": [
       {
         "date": "2025-11-01",
-        "rank": 129,
+        "rank": 134,
         "elo": 968.8
       },
       {
         "date": "2025-12-01",
-        "rank": 130,
+        "rank": 135,
         "elo": 968.8
       },
       {
         "date": "2026-01-01",
-        "rank": 130,
+        "rank": 135,
         "elo": 968.8
       },
       {
         "date": "2026-02-01",
-        "rank": 135,
+        "rank": 139,
         "elo": 968.8
       },
       {
         "date": "2026-03-01",
-        "rank": 135,
+        "rank": 139,
         "elo": 968.8
       },
       {
         "date": "2026-04-01",
-        "rank": 135,
+        "rank": 139,
         "elo": 968.8
       },
       {
         "date": "2026-05-01",
-        "rank": 137,
+        "rank": 141,
         "elo": 968.8
       },
       {
         "date": "2026-06-01",
-        "rank": 138,
+        "rank": 143,
+        "elo": 968.8
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 143,
+        "elo": 968.8
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 143,
         "elo": 968.8
       }
     ],
@@ -175,12 +195,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 156,
+        "rank": 155,
         "elo": 987.6
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 154,
+        "elo": 987.6
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 106,
+        "elo": 1008.63
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "b4443fae47e7eb9d",
+      "opponent_name": "Wes Schultz",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 959.49,
+      "p4p_after": 982.2,
+      "p4p_delta": 22.71,
+      "div_before": 987.6,
+      "div_after": 1008.63,
+      "div_delta": 21.03
+    },
     {
       "date": "2026-04-25",
       "weight_class": "mw",

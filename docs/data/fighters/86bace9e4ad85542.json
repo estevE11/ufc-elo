@@ -2,7 +2,7 @@
   "id": "86bace9e4ad85542",
   "name": "Xiao Long",
   "slug": "xiao-long",
-  "last_fight_date": "2026-03-07",
+  "last_fight_date": "2026-08-29",
   "active_current_mode": true,
   "divisions": [
     "bw"
@@ -14,22 +14,22 @@
     "p4p": [
       {
         "date": "2024-06-01",
-        "rank": 790,
+        "rank": 794,
         "elo": 983.2
       },
       {
         "date": "2024-07-01",
-        "rank": 786,
+        "rank": 788,
         "elo": 983.2
       },
       {
         "date": "2024-08-01",
-        "rank": 793,
+        "rank": 796,
         "elo": 983.2
       },
       {
         "date": "2024-09-01",
-        "rank": 789,
+        "rank": 790,
         "elo": 983.2
       },
       {
@@ -134,8 +134,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1612,
+        "rank": 1613,
         "elo": 957.19
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1622,
+        "elo": 957.19
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2329,
+        "elo": 929.82
       }
     ],
     "bw": [
@@ -146,7 +156,7 @@
       },
       {
         "date": "2024-07-01",
-        "rank": 113,
+        "rank": 114,
         "elo": 983.2
       },
       {
@@ -261,12 +271,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 232,
+        "rank": 231,
         "elo": 957.91
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 233,
+        "elo": 957.91
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 309,
+        "elo": 930.47
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-29",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "874cfc98877daecd",
+      "opponent_name": "Francesco Nuzzi",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 957.19,
+      "p4p_after": 929.82,
+      "p4p_delta": -27.37,
+      "div_before": 957.91,
+      "div_after": 930.47,
+      "div_delta": -27.44
+    },
     {
       "date": "2026-03-07",
       "weight_class": "bw",

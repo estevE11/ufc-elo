@@ -2,7 +2,7 @@
   "id": "71171fc96445bf65",
   "name": "Vitor Petrino",
   "slug": "vitor-petrino",
-  "last_fight_date": "2026-03-14",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "hw",
@@ -211,8 +211,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 225,
+        "rank": 226,
         "elo": 1041.92
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 230,
+        "elo": 1041.92
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 160,
+        "elo": 1056.85
       }
     ],
     "hw": [
@@ -275,27 +285,37 @@
         "date": "2026-06-01",
         "rank": 17,
         "elo": 1050.34
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 17,
+        "elo": 1050.34
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 13,
+        "elo": 1064.75
       }
     ],
     "lhw": [
       {
         "date": "2023-03-01",
-        "rank": 45,
-        "elo": 1016.0
-      },
-      {
-        "date": "2023-04-01",
-        "rank": 50,
-        "elo": 1016.0
-      },
-      {
-        "date": "2023-05-01",
         "rank": 53,
         "elo": 1016.0
       },
       {
+        "date": "2023-04-01",
+        "rank": 54,
+        "elo": 1016.0
+      },
+      {
+        "date": "2023-05-01",
+        "rank": 56,
+        "elo": 1016.0
+      },
+      {
         "date": "2023-06-01",
-        "rank": 52,
+        "rank": 55,
         "elo": 1016.0
       },
       {
@@ -477,10 +497,35 @@
         "date": "2026-06-01",
         "rank": 77,
         "elo": 994.28
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 81,
+        "elo": 994.28
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 84,
+        "elo": 994.28
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "e2f6b2769aaedd6c",
+      "opponent_name": "Serghei Spivac",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1041.92,
+      "p4p_after": 1056.85,
+      "p4p_delta": 14.93,
+      "div_before": 1050.34,
+      "div_after": 1064.75,
+      "div_delta": 14.41
+    },
     {
       "date": "2026-03-14",
       "weight_class": "hw",

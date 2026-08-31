@@ -2,7 +2,7 @@
   "id": "a9da3158dd2c2b5a",
   "name": "Jack Jenkins",
   "slug": "jack-jenkins",
-  "last_fight_date": "2025-09-27",
+  "last_fight_date": "2026-08-29",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -169,7 +169,7 @@
       },
       {
         "date": "2025-09-01",
-        "rank": 673,
+        "rank": 674,
         "elo": 991.83
       },
       {
@@ -189,7 +189,7 @@
       },
       {
         "date": "2026-01-01",
-        "rank": 674,
+        "rank": 675,
         "elo": 991.83
       },
       {
@@ -214,8 +214,18 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 690,
+        "rank": 695,
         "elo": 991.83
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 695,
+        "elo": 991.83
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 968,
+        "elo": 976.67
       }
     ],
     "fw": [
@@ -421,12 +431,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 126,
+        "rank": 128,
         "elo": 990.78
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 127,
+        "elo": 990.78
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 169,
+        "elo": 977.15
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-29",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "4682bc59d5f55145",
+      "opponent_name": "Sean Woodson",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 991.83,
+      "p4p_after": 976.67,
+      "p4p_delta": -15.16,
+      "div_before": 990.78,
+      "div_after": 977.15,
+      "div_delta": -13.63
+    },
     {
       "date": "2025-09-27",
       "weight_class": "fw",

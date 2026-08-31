@@ -2,12 +2,14 @@
   "id": "d549cefc7c54ab78",
   "name": "Reinier de Ridder",
   "slug": "reinier-de-ridder",
-  "last_fight_date": "2026-03-07",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
+    "lhw",
     "mw"
   ],
   "division_names": {
+    "lhw": "Light Heavyweight",
     "mw": "Middleweight"
   },
   "rank_history": {
@@ -111,6 +113,23 @@
         "date": "2026-06-01",
         "rank": 336,
         "elo": 1024.24
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 337,
+        "elo": 1024.24
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 216,
+        "elo": 1045.32
+      }
+    ],
+    "lhw": [
+      {
+        "date": "2026-08-01",
+        "rank": 31,
+        "elo": 1023.42
       }
     ],
     "mw": [
@@ -213,10 +232,35 @@
         "date": "2026-06-01",
         "rank": 46,
         "elo": 1025.87
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 47,
+        "elo": 1025.87
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 47,
+        "elo": 1025.87
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "327d5f279895110d",
+      "opponent_name": "Roman Dolidze",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1024.24,
+      "p4p_after": 1045.32,
+      "p4p_delta": 21.08,
+      "div_before": 1000.0,
+      "div_after": 1023.42,
+      "div_delta": 23.42
+    },
     {
       "date": "2026-03-07",
       "weight_class": "mw",

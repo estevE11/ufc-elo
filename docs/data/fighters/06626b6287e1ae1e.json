@@ -2,7 +2,7 @@
   "id": "06626b6287e1ae1e",
   "name": "Chris Padilla",
   "slug": "chris-padilla",
-  "last_fight_date": "2025-11-08",
+  "last_fight_date": "2026-08-22",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -14,27 +14,27 @@
     "p4p": [
       {
         "date": "2024-04-01",
-        "rank": 355,
+        "rank": 363,
         "elo": 1020.8
       },
       {
         "date": "2024-05-01",
-        "rank": 356,
+        "rank": 364,
         "elo": 1020.8
       },
       {
         "date": "2024-06-01",
-        "rank": 361,
+        "rank": 365,
         "elo": 1020.8
       },
       {
         "date": "2024-07-01",
-        "rank": 360,
+        "rank": 364,
         "elo": 1020.8
       },
       {
         "date": "2024-08-01",
-        "rank": 353,
+        "rank": 362,
         "elo": 1020.8
       },
       {
@@ -54,17 +54,17 @@
       },
       {
         "date": "2024-12-01",
-        "rank": 225,
+        "rank": 226,
         "elo": 1038.35
       },
       {
         "date": "2025-01-01",
-        "rank": 223,
+        "rank": 224,
         "elo": 1038.35
       },
       {
         "date": "2025-02-01",
-        "rank": 227,
+        "rank": 228,
         "elo": 1038.35
       },
       {
@@ -144,14 +144,24 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 131,
+        "rank": 136,
         "elo": 1063.75
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 136,
+        "elo": 1063.75
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 91,
+        "elo": 1082.84
       }
     ],
     "lw": [
       {
         "date": "2024-04-01",
-        "rank": 75,
+        "rank": 82,
         "elo": 1020.8
       },
       {
@@ -281,12 +291,37 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 31,
+        "rank": 30,
         "elo": 1063.84
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 30,
+        "elo": 1063.84
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 16,
+        "elo": 1082.86
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-08-22",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "b7b84ccd221be298",
+      "opponent_name": "Nasrat Haqparast",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1063.75,
+      "p4p_after": 1082.84,
+      "p4p_delta": 19.09,
+      "div_before": 1063.84,
+      "div_after": 1082.86,
+      "div_delta": 19.02
+    },
     {
       "date": "2025-11-08",
       "weight_class": "lw",
