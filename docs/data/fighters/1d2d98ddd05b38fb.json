@@ -2,7 +2,7 @@
   "id": "1d2d98ddd05b38fb",
   "name": "Axel Sola",
   "slug": "axel-sola",
-  "last_fight_date": "2026-07-25",
+  "last_fight_date": "2026-09-05",
   "active_current_mode": true,
   "divisions": [
     "lw",
@@ -68,6 +68,16 @@
         "date": "2026-07-01",
         "rank": 501,
         "elo": 1010.82
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 511,
+        "elo": 1010.82
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 283,
+        "elo": 1033.96
       }
     ],
     "lw": [
@@ -95,6 +105,16 @@
         "date": "2026-07-01",
         "rank": 155,
         "elo": 995.95
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 156,
+        "elo": 995.95
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 92,
+        "elo": 1020.01
       }
     ],
     "ww": [
@@ -152,10 +172,35 @@
         "date": "2026-07-01",
         "rank": 86,
         "elo": 1017.31
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 87,
+        "elo": 1017.31
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 87,
+        "elo": 1017.31
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-05",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "1e4f273069fb9e85",
+      "opponent_name": "Fares Ziam",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1010.82,
+      "p4p_after": 1033.96,
+      "p4p_delta": 23.14,
+      "div_before": 995.95,
+      "div_after": 1020.01,
+      "div_delta": 24.06
+    },
     {
       "date": "2026-07-25",
       "weight_class": "lw",

@@ -2,7 +2,7 @@
   "id": "193b9d1858bc4df3",
   "name": "Dan Hooker",
   "slug": "dan-hooker",
-  "last_fight_date": "2026-01-31",
+  "last_fight_date": "2026-09-05",
   "active_current_mode": true,
   "divisions": [
     "fw",
@@ -16,17 +16,17 @@
     "p4p": [
       {
         "date": "2014-06-01",
-        "rank": 209,
+        "rank": 220,
         "elo": 1020.8
       },
       {
         "date": "2014-07-01",
-        "rank": 212,
+        "rank": 224,
         "elo": 1020.8
       },
       {
         "date": "2014-08-01",
-        "rank": 216,
+        "rank": 228,
         "elo": 1020.8
       },
       {
@@ -286,12 +286,12 @@
       },
       {
         "date": "2018-12-01",
-        "rank": 213,
+        "rank": 214,
         "elo": 1030.57
       },
       {
         "date": "2019-01-01",
-        "rank": 211,
+        "rank": 212,
         "elo": 1030.57
       },
       {
@@ -306,7 +306,7 @@
       },
       {
         "date": "2019-04-01",
-        "rank": 210,
+        "rank": 211,
         "elo": 1030.57
       },
       {
@@ -736,24 +736,39 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 791,
+        "rank": 794,
         "elo": 985.98
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 794,
+        "elo": 985.98
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 804,
+        "elo": 985.98
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 1674,
+        "elo": 956.04
       }
     ],
     "fw": [
       {
         "date": "2014-06-01",
-        "rank": 18,
+        "rank": 20,
         "elo": 1020.8
       },
       {
         "date": "2014-07-01",
-        "rank": 19,
+        "rank": 21,
         "elo": 1020.8
       },
       {
         "date": "2014-08-01",
-        "rank": 19,
+        "rank": 21,
         "elo": 1020.8
       },
       {
@@ -1463,7 +1478,22 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 281,
+        "rank": 284,
+        "elo": 962.22
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 285,
+        "elo": 962.22
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 286,
+        "elo": 962.22
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 288,
         "elo": 962.22
       }
     ],
@@ -2012,10 +2042,40 @@
         "date": "2026-06-01",
         "rank": 122,
         "elo": 1009.14
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 124,
+        "elo": 1009.14
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 125,
+        "elo": 1009.14
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 230,
+        "elo": 977.12
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-05",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "b3cb9dfccff3be76",
+      "opponent_name": "Salahdine Parnasse",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 985.98,
+      "p4p_after": 956.04,
+      "p4p_delta": -29.94,
+      "div_before": 1009.14,
+      "div_after": 977.12,
+      "div_delta": -32.02
+    },
     {
       "date": "2026-01-31",
       "weight_class": "lw",

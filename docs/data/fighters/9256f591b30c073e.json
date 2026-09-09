@@ -2,7 +2,7 @@
   "id": "9256f591b30c073e",
   "name": "Felipe Lima",
   "slug": "felipe-lima",
-  "last_fight_date": "2025-06-28",
+  "last_fight_date": "2026-09-05",
   "active_current_mode": true,
   "divisions": [
     "bw",
@@ -86,7 +86,7 @@
       },
       {
         "date": "2025-08-01",
-        "rank": 418,
+        "rank": 419,
         "elo": 1016.61
       },
       {
@@ -136,8 +136,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 426,
+        "rank": 428,
         "elo": 1016.61
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 431,
+        "elo": 1016.61
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 436,
+        "elo": 1016.61
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 295,
+        "elo": 1031.54
       }
     ],
     "bw": [
@@ -204,6 +219,21 @@
       {
         "date": "2026-06-01",
         "rank": 141,
+        "elo": 978.18
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 142,
+        "elo": 978.18
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 145,
+        "elo": 978.18
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 145,
         "elo": 978.18
       }
     ],
@@ -332,10 +362,40 @@
         "date": "2026-06-01",
         "rank": 30,
         "elo": 1037.87
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 33,
+        "elo": 1037.87
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 34,
+        "elo": 1037.87
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 22,
+        "elo": 1051.96
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-05",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "5b03b61f9d90125e",
+      "opponent_name": "Morgan Charriere",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1016.61,
+      "p4p_after": 1031.54,
+      "p4p_delta": 14.93,
+      "div_before": 1037.87,
+      "div_after": 1051.96,
+      "div_delta": 14.09
+    },
     {
       "date": "2025-06-28",
       "weight_class": "bw",

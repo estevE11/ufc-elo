@@ -2,7 +2,7 @@
   "id": "476fe566d2df676e",
   "name": "Modestas Bukauskas",
   "slug": "modestas-bukauskas",
-  "last_fight_date": "2026-05-16",
+  "last_fight_date": "2026-09-05",
   "active_current_mode": true,
   "divisions": [
     "catch",
@@ -16,17 +16,17 @@
     "p4p": [
       {
         "date": "2020-07-01",
-        "rank": 294,
+        "rank": 302,
         "elo": 1020.8
       },
       {
         "date": "2020-08-01",
-        "rank": 304,
+        "rank": 305,
         "elo": 1020.8
       },
       {
         "date": "2020-09-01",
-        "rank": 305,
+        "rank": 306,
         "elo": 1020.8
       },
       {
@@ -371,8 +371,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 668,
+        "rank": 673,
         "elo": 993.5
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 675,
+        "elo": 993.5
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 687,
+        "elo": 993.5
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 484,
+        "elo": 1013.97
       }
     ],
     "catch": [
@@ -383,6 +398,21 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 67,
+        "elo": 1011.2
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 67,
+        "elo": 1011.2
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 67,
+        "elo": 1011.2
+      },
+      {
+        "date": "2026-09-01",
         "rank": 67,
         "elo": 1011.2
       }
@@ -430,32 +460,32 @@
       },
       {
         "date": "2021-03-01",
-        "rank": 122,
+        "rank": 123,
         "elo": 972.01
       },
       {
         "date": "2021-04-01",
-        "rank": 122,
+        "rank": 123,
         "elo": 972.01
       },
       {
         "date": "2021-05-01",
-        "rank": 122,
+        "rank": 123,
         "elo": 972.01
       },
       {
         "date": "2021-06-01",
-        "rank": 121,
+        "rank": 122,
         "elo": 972.01
       },
       {
         "date": "2021-07-01",
-        "rank": 121,
+        "rank": 122,
         "elo": 972.01
       },
       {
         "date": "2021-08-01",
-        "rank": 121,
+        "rank": 122,
         "elo": 972.01
       },
       {
@@ -700,22 +730,22 @@
       },
       {
         "date": "2025-09-01",
-        "rank": 34,
+        "rank": 35,
         "elo": 1020.8
       },
       {
         "date": "2025-10-01",
-        "rank": 33,
+        "rank": 34,
         "elo": 1020.8
       },
       {
         "date": "2025-11-01",
-        "rank": 32,
+        "rank": 33,
         "elo": 1020.8
       },
       {
         "date": "2025-12-01",
-        "rank": 32,
+        "rank": 33,
         "elo": 1020.8
       },
       {
@@ -747,10 +777,40 @@
         "date": "2026-06-01",
         "rank": 93,
         "elo": 984.27
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 96,
+        "elo": 984.27
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 99,
+        "elo": 984.27
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 72,
+        "elo": 1005.33
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-05",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "46e2011d92463b7e",
+      "opponent_name": "Oumar Sy",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 993.5,
+      "p4p_after": 1013.97,
+      "p4p_delta": 20.47,
+      "div_before": 984.27,
+      "div_after": 1005.33,
+      "div_delta": 21.06
+    },
     {
       "date": "2026-05-16",
       "weight_class": "catch",
@@ -759,9 +819,9 @@
       "opponent_name": "Christian Edwards",
       "result": "sd",
       "outcome": "W",
-      "p4p_before": 981.72,
+      "p4p_before": 981.71,
       "p4p_after": 993.5,
-      "p4p_delta": 11.78,
+      "p4p_delta": 11.79,
       "div_before": 1000.0,
       "div_after": 1011.2,
       "div_delta": 11.2
@@ -775,8 +835,8 @@
       "result": "ko/tko",
       "outcome": "L",
       "p4p_before": 1016.67,
-      "p4p_after": 981.72,
-      "p4p_delta": -34.95,
+      "p4p_after": 981.71,
+      "p4p_delta": -34.96,
       "div_before": 1020.8,
       "div_after": 984.27,
       "div_delta": -36.53

@@ -2,7 +2,7 @@
   "id": "33a86e839ad202d8",
   "name": "Luis Felipe Dias",
   "slug": "luis-felipe-dias",
-  "last_fight_date": "2026-05-30",
+  "last_fight_date": "2026-09-05",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -14,29 +14,74 @@
     "p4p": [
       {
         "date": "2026-05-01",
-        "rank": 385,
+        "rank": 387,
         "elo": 1020.8
       },
       {
         "date": "2026-06-01",
-        "rank": 385,
+        "rank": 389,
         "elo": 1020.8
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 392,
+        "elo": 1020.8
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 399,
+        "elo": 1020.8
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 769,
+        "elo": 987.73
       }
     ],
     "mw": [
       {
         "date": "2026-05-01",
-        "rank": 69,
+        "rank": 72,
         "elo": 1020.8
       },
       {
         "date": "2026-06-01",
-        "rank": 70,
+        "rank": 72,
         "elo": 1020.8
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 72,
+        "elo": 1020.8
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 71,
+        "elo": 1020.8
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 153,
+        "elo": 987.73
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-05",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "ec322adbabbfa6e7",
+      "opponent_name": "Matthieu Duclos",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1020.8,
+      "p4p_after": 987.73,
+      "p4p_delta": -33.07,
+      "div_before": 1020.8,
+      "div_after": 987.73,
+      "div_delta": -33.07
+    },
     {
       "date": "2026-05-30",
       "weight_class": "mw",

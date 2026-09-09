@@ -2,7 +2,7 @@
   "id": "49d2a08964c5eb11",
   "name": "Nursulton Ruziboev",
   "slug": "nursulton-ruziboev",
-  "last_fight_date": "2026-06-27",
+  "last_fight_date": "2026-09-05",
   "active_current_mode": true,
   "divisions": [
     "mw",
@@ -193,6 +193,21 @@
         "date": "2026-06-01",
         "rank": 132,
         "elo": 1065.2
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 131,
+        "elo": 1065.2
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 129,
+        "elo": 1065.2
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 238,
+        "elo": 1040.32
       }
     ],
     "mw": [
@@ -238,17 +253,17 @@
       },
       {
         "date": "2024-03-01",
-        "rank": 25,
+        "rank": 26,
         "elo": 1041.44
       },
       {
         "date": "2024-04-01",
-        "rank": 26,
+        "rank": 27,
         "elo": 1041.44
       },
       {
         "date": "2024-05-01",
-        "rank": 26,
+        "rank": 27,
         "elo": 1041.44
       },
       {
@@ -375,6 +390,21 @@
         "date": "2026-06-01",
         "rank": 11,
         "elo": 1085.62
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 12,
+        "elo": 1085.62
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 12,
+        "elo": 1085.62
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 21,
+        "elo": 1058.28
       }
     ],
     "ww": [
@@ -507,10 +537,40 @@
         "date": "2026-06-01",
         "rank": 221,
         "elo": 980.33
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 220,
+        "elo": 980.33
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 218,
+        "elo": 980.33
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 218,
+        "elo": 980.33
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-05",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "a67d071163962af8",
+      "opponent_name": "Michael Page",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1065.2,
+      "p4p_after": 1040.32,
+      "p4p_delta": -24.88,
+      "div_before": 1085.62,
+      "div_after": 1058.28,
+      "div_delta": -27.34
+    },
     {
       "date": "2026-06-27",
       "weight_class": "mw",

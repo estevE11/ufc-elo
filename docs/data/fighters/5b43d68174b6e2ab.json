@@ -2,7 +2,7 @@
   "id": "5b43d68174b6e2ab",
   "name": "Losene Keita",
   "slug": "losene-keita",
-  "last_fight_date": "2026-03-21",
+  "last_fight_date": "2026-09-05",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -29,8 +29,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 760,
+        "rank": 763,
         "elo": 987.66
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 762,
+        "elo": 987.66
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 771,
+        "elo": 987.66
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 519,
+        "elo": 1010.23
       }
     ],
     "fw": [
@@ -51,12 +66,42 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 136,
+        "rank": 137,
         "elo": 986.12
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 137,
+        "elo": 986.12
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 135,
+        "elo": 986.12
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 94,
+        "elo": 1007.78
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-05",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "8d11d9c13e2ccdf7",
+      "opponent_name": "Muhammad Naimov",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 987.66,
+      "p4p_after": 1010.23,
+      "p4p_delta": 22.57,
+      "div_before": 986.12,
+      "div_after": 1007.78,
+      "div_delta": 21.66
+    },
     {
       "date": "2026-03-21",
       "weight_class": "fw",

@@ -2,7 +2,7 @@
   "id": "39d309957c5c210d",
   "name": "Mario Pinto",
   "slug": "mario-pinto",
-  "last_fight_date": "2026-03-21",
+  "last_fight_date": "2026-09-05",
   "active_current_mode": true,
   "divisions": [
     "hw"
@@ -29,22 +29,22 @@
       },
       {
         "date": "2025-06-01",
-        "rank": 400,
-        "elo": 1018.23
-      },
-      {
-        "date": "2025-07-01",
-        "rank": 403,
-        "elo": 1018.23
-      },
-      {
-        "date": "2025-08-01",
         "rank": 401,
         "elo": 1018.23
       },
       {
-        "date": "2025-09-01",
+        "date": "2025-07-01",
         "rank": 404,
+        "elo": 1018.23
+      },
+      {
+        "date": "2025-08-01",
+        "rank": 402,
+        "elo": 1018.23
+      },
+      {
+        "date": "2025-09-01",
+        "rank": 405,
         "elo": 1018.23
       },
       {
@@ -89,8 +89,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 168,
+        "rank": 171,
         "elo": 1053.15
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 174,
+        "elo": 1053.15
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 177,
+        "elo": 1053.15
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 113,
+        "elo": 1070.81
       }
     ],
     "hw": [
@@ -173,10 +188,40 @@
         "date": "2026-06-01",
         "rank": 15,
         "elo": 1053.15
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 16,
+        "elo": 1053.15
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 17,
+        "elo": 1053.15
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 11,
+        "elo": 1071.36
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-05",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "a67f5afa8d6a1b80",
+      "opponent_name": "Ryan Spann",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1053.15,
+      "p4p_after": 1070.81,
+      "p4p_delta": 17.66,
+      "div_before": 1053.15,
+      "div_after": 1071.36,
+      "div_delta": 18.21
+    },
     {
       "date": "2026-03-21",
       "weight_class": "hw",

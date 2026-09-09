@@ -1,0 +1,46 @@
+{
+  "id": "22e3458965d5d08a",
+  "name": "Michael Aljarouj",
+  "slug": "michael-aljarouj",
+  "last_fight_date": "2026-09-05",
+  "active_current_mode": true,
+  "divisions": [
+    "flw"
+  ],
+  "division_names": {
+    "flw": "Flyweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-09-01",
+        "rank": 1037,
+        "elo": 976.0
+      }
+    ],
+    "flw": [
+      {
+        "date": "2026-09-01",
+        "rank": 70,
+        "elo": 976.0
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-09-05",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "9911989cf48b195d",
+      "opponent_name": "Fabia Sintes",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 976.0,
+      "p4p_delta": -24.0,
+      "div_before": 1000.0,
+      "div_after": 976.0,
+      "div_delta": -24.0
+    }
+  ]
+}

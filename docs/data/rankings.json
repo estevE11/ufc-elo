@@ -1,5 +1,5 @@
 {
-  "reference_date": "2026-08-01",
+  "reference_date": "2026-09-01",
   "historical": {
     "p4p": [
       {
@@ -916,21 +916,21 @@
       },
       {
         "rank": 8,
+        "fighter_id": "39d309957c5c210d",
+        "name": "Mario Pinto",
+        "elo": 1071.36
+      },
+      {
+        "rank": 9,
         "fighter_id": "f5779a2303ed76ec",
         "name": "Valter Walker",
         "elo": 1067.06
       },
       {
-        "rank": 9,
+        "rank": 10,
         "fighter_id": "71171fc96445bf65",
         "name": "Vitor Petrino",
         "elo": 1064.75
-      },
-      {
-        "rank": 10,
-        "fighter_id": "d0fd0d9ee560dae7",
-        "name": "Brando Pericic",
-        "elo": 1057.09
       }
     ],
     "lhw": [
@@ -1052,9 +1052,9 @@
       },
       {
         "rank": 10,
-        "fighter_id": "49d2a08964c5eb11",
-        "name": "Nursulton Ruziboev",
-        "elo": 1085.62
+        "fighter_id": "e1147d3d2dabe1ce",
+        "name": "Robert Whittaker",
+        "elo": 1077.84
       }
     ],
     "ww": [

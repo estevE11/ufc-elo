@@ -2,7 +2,7 @@
   "id": "70dd69b6a703257e",
   "name": "Daniil Donchenko",
   "slug": "daniil-donchenko",
-  "last_fight_date": "2026-06-27",
+  "last_fight_date": "2026-09-05",
   "active_current_mode": true,
   "divisions": [
     "ww"
@@ -61,6 +61,21 @@
         "date": "2026-06-01",
         "rank": 170,
         "elo": 1053.17
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 173,
+        "elo": 1053.17
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 176,
+        "elo": 1053.17
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 125,
+        "elo": 1067.01
       }
     ],
     "ww": [
@@ -113,10 +128,40 @@
         "date": "2026-06-01",
         "rank": 29,
         "elo": 1054.28
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 30,
+        "elo": 1054.28
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 30,
+        "elo": 1054.28
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 18,
+        "elo": 1070.73
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-05",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "64facb6cc564262d",
+      "opponent_name": "Punahele Soriano",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1053.17,
+      "p4p_after": 1067.01,
+      "p4p_delta": 13.84,
+      "div_before": 1054.28,
+      "div_after": 1070.73,
+      "div_delta": 16.45
+    },
     {
       "date": "2026-06-27",
       "weight_class": "ww",

@@ -1,0 +1,46 @@
+{
+  "id": "8b1b051038354655",
+  "name": "Sofia Montenegro",
+  "slug": "sofia-montenegro",
+  "last_fight_date": "2026-09-05",
+  "active_current_mode": true,
+  "divisions": [
+    "wsw"
+  ],
+  "division_names": {
+    "wsw": "Women's Strawweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-09-01",
+        "rank": 1350,
+        "elo": 968.8
+      }
+    ],
+    "wsw": [
+      {
+        "date": "2026-09-01",
+        "rank": 71,
+        "elo": 968.8
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-09-05",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "3138df4d117ebc12",
+      "opponent_name": "Delphine Benouaich",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 968.8,
+      "p4p_delta": -31.2,
+      "div_before": 1000.0,
+      "div_after": 968.8,
+      "div_delta": -31.2
+    }
+  ]
+}

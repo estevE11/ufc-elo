@@ -2,7 +2,7 @@
   "id": "9f5e3c20ce40b344",
   "name": "Klaudia Sygula",
   "slug": "klaudia-sygula",
-  "last_fight_date": "2026-02-07",
+  "last_fight_date": "2026-09-05",
   "active_current_mode": true,
   "divisions": [
     "wbw"
@@ -109,8 +109,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 624,
+        "rank": 628,
         "elo": 997.34
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 628,
+        "elo": 997.34
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 640,
+        "elo": 997.34
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 1124,
+        "elo": 972.11
       }
     ],
     "wbw": [
@@ -211,12 +226,42 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 30,
+        "elo": 1000.33
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 30,
+        "elo": 1000.33
+      },
+      {
+        "date": "2026-08-01",
         "rank": 31,
         "elo": 1000.33
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 49,
+        "elo": 974.88
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-05",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "f2b3f4ef3f780168",
+      "opponent_name": "Nora Cornolle",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 997.34,
+      "p4p_after": 972.11,
+      "p4p_delta": -25.23,
+      "div_before": 1000.33,
+      "div_after": 974.88,
+      "div_delta": -25.45
+    },
     {
       "date": "2026-02-07",
       "weight_class": "wbw",

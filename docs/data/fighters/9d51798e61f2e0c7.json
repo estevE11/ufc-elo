@@ -2,7 +2,7 @@
   "id": "9d51798e61f2e0c7",
   "name": "Kurtis Campbell",
   "slug": "kurtis-campbell",
-  "last_fight_date": "2026-03-21",
+  "last_fight_date": "2026-09-05",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -29,8 +29,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1317,
+        "rank": 1320,
         "elo": 968.57
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1326,
+        "elo": 968.57
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1348,
+        "elo": 968.57
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 749,
+        "elo": 988.97
       }
     ],
     "fw": [
@@ -51,12 +66,42 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 247,
+        "rank": 250,
         "elo": 968.57
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 252,
+        "elo": 968.57
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 253,
+        "elo": 968.57
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 123,
+        "elo": 991.25
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-05",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "0bc697c5936a2d0a",
+      "opponent_name": "Trevor Peek",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 968.57,
+      "p4p_after": 988.97,
+      "p4p_delta": 20.4,
+      "div_before": 968.57,
+      "div_after": 991.25,
+      "div_delta": 22.68
+    },
     {
       "date": "2026-03-21",
       "weight_class": "fw",

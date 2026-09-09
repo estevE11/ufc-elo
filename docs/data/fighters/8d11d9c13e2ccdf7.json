@@ -2,7 +2,7 @@
   "id": "8d11d9c13e2ccdf7",
   "name": "Muhammad Naimov",
   "slug": "muhammad-naimov",
-  "last_fight_date": "2025-12-06",
+  "last_fight_date": "2026-09-05",
   "active_current_mode": true,
   "divisions": [
     "fw",
@@ -26,12 +26,12 @@
       },
       {
         "date": "2023-08-01",
-        "rank": 356,
+        "rank": 357,
         "elo": 1020.58
       },
       {
         "date": "2023-09-01",
-        "rank": 360,
+        "rank": 361,
         "elo": 1020.58
       },
       {
@@ -196,8 +196,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 417,
+        "rank": 420,
         "elo": 1017.24
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 423,
+        "elo": 1017.24
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 428,
+        "elo": 1017.24
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 842,
+        "elo": 983.39
       }
     ],
     "fw": [
@@ -363,8 +378,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 100,
+        "rank": 104,
         "elo": 1000.55
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 104,
+        "elo": 1000.55
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 103,
+        "elo": 1000.55
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 258,
+        "elo": 968.06
       }
     ],
     "lw": [
@@ -550,12 +580,42 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 89,
+        "elo": 1020.57
+      },
+      {
+        "date": "2026-07-01",
         "rank": 90,
+        "elo": 1020.57
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 91,
+        "elo": 1020.57
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 91,
         "elo": 1020.57
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-05",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "5b43d68174b6e2ab",
+      "opponent_name": "Losene Keita",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1017.24,
+      "p4p_after": 983.39,
+      "p4p_delta": -33.85,
+      "div_before": 1000.55,
+      "div_after": 968.06,
+      "div_delta": -32.49
+    },
     {
       "date": "2025-12-06",
       "weight_class": "fw",
