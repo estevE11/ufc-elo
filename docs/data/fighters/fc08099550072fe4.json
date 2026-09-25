@@ -2,7 +2,7 @@
   "id": "fc08099550072fe4",
   "name": "Waldo Cortes Acosta",
   "slug": "waldo-cortes-acosta",
-  "last_fight_date": "2026-05-09",
+  "last_fight_date": "2026-09-12",
   "active_current_mode": true,
   "divisions": [
     "hw"
@@ -94,7 +94,7 @@
       },
       {
         "date": "2024-02-01",
-        "rank": 307,
+        "rank": 308,
         "elo": 1025.16
       },
       {
@@ -234,8 +234,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 99,
+        "rank": 98,
         "elo": 1079.49
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 97,
+        "elo": 1079.49
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 98,
+        "elo": 1079.49
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 177,
+        "elo": 1053.54
       }
     ],
     "hw": [
@@ -463,10 +478,40 @@
         "date": "2026-06-01",
         "rank": 9,
         "elo": 1080.68
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 9,
+        "elo": 1080.68
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 9,
+        "elo": 1080.68
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 18,
+        "elo": 1054.53
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-12",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "fa6796c55d6c5440",
+      "opponent_name": "Curtis Blaydes",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1079.49,
+      "p4p_after": 1053.54,
+      "p4p_delta": -25.95,
+      "div_before": 1080.68,
+      "div_after": 1054.53,
+      "div_delta": -26.15
+    },
     {
       "date": "2026-05-09",
       "weight_class": "hw",

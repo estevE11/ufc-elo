@@ -2,7 +2,7 @@
   "id": "7d6ceff6747f2de2",
   "name": "Jose Delgado",
   "slug": "jose-delgado",
-  "last_fight_date": "2026-07-18",
+  "last_fight_date": "2026-09-12",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -99,8 +99,18 @@
       },
       {
         "date": "2026-07-01",
-        "rank": 220,
+        "rank": 221,
         "elo": 1043.55
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 224,
+        "elo": 1043.55
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 459,
+        "elo": 1015.37
       }
     ],
     "fw": [
@@ -193,10 +203,35 @@
         "date": "2026-07-01",
         "rank": 28,
         "elo": 1041.45
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 28,
+        "elo": 1041.45
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 87,
+        "elo": 1012.28
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-12",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "52ef95b5860fb28c",
+      "opponent_name": "Jean Silva",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 1043.55,
+      "p4p_after": 1015.37,
+      "p4p_delta": -28.18,
+      "div_before": 1041.45,
+      "div_after": 1012.28,
+      "div_delta": -29.17
+    },
     {
       "date": "2026-07-18",
       "weight_class": "fw",

@@ -2,7 +2,7 @@
   "id": "04835018f90b118c",
   "name": "Casey O'Neill",
   "slug": "casey-o-neill",
-  "last_fight_date": "2026-03-28",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "wflw"
@@ -54,12 +54,12 @@
       },
       {
         "date": "2021-10-01",
-        "rank": 112,
+        "rank": 113,
         "elo": 1057.29
       },
       {
         "date": "2021-11-01",
-        "rank": 113,
+        "rank": 114,
         "elo": 1057.29
       },
       {
@@ -224,17 +224,17 @@
       },
       {
         "date": "2024-08-01",
-        "rank": 430,
-        "elo": 1014.52
-      },
-      {
-        "date": "2024-09-01",
         "rank": 431,
         "elo": 1014.52
       },
       {
+        "date": "2024-09-01",
+        "rank": 432,
+        "elo": 1014.52
+      },
+      {
         "date": "2024-10-01",
-        "rank": 429,
+        "rank": 430,
         "elo": 1014.52
       },
       {
@@ -244,12 +244,12 @@
       },
       {
         "date": "2024-12-01",
-        "rank": 435,
+        "rank": 436,
         "elo": 1014.52
       },
       {
         "date": "2025-01-01",
-        "rank": 441,
+        "rank": 442,
         "elo": 1014.52
       },
       {
@@ -334,8 +334,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 279,
+        "rank": 277,
         "elo": 1034.45
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 282,
+        "elo": 1034.45
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 283,
+        "elo": 1034.45
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 178,
+        "elo": 1053.46
       }
     ],
     "wflw": [
@@ -663,10 +678,40 @@
         "date": "2026-06-01",
         "rank": 8,
         "elo": 1037.99
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 8,
+        "elo": 1037.99
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 9,
+        "elo": 1037.99
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 7,
+        "elo": 1058.48
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "de594b35c45c2e9a",
+      "opponent_name": "Eduarda Moura",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1034.45,
+      "p4p_after": 1053.46,
+      "p4p_delta": 19.01,
+      "div_before": 1037.99,
+      "div_after": 1058.48,
+      "div_delta": 20.49
+    },
     {
       "date": "2026-03-28",
       "weight_class": "wflw",

@@ -2,13 +2,15 @@
   "id": "9f5609dba6584ab2",
   "name": "Regina Tarin",
   "slug": "regina-tarin",
-  "last_fight_date": "2026-02-28",
+  "last_fight_date": "2026-09-12",
   "active_current_mode": true,
   "divisions": [
-    "catch"
+    "catch",
+    "wflw"
   ],
   "division_names": {
-    "catch": "Catch"
+    "catch": "Catch",
+    "wflw": "Women's Flyweight"
   },
   "rank_history": {
     "p4p": [
@@ -34,39 +36,91 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 442,
+        "rank": 445,
         "elo": 1015.45
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 449,
+        "elo": 1015.45
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 457,
+        "elo": 1015.45
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 291,
+        "elo": 1031.66
       }
     ],
     "catch": [
       {
         "date": "2026-02-01",
-        "rank": 49,
+        "rank": 60,
         "elo": 1016.0
       },
       {
         "date": "2026-03-01",
-        "rank": 49,
+        "rank": 60,
         "elo": 1016.0
       },
       {
         "date": "2026-04-01",
-        "rank": 49,
+        "rank": 60,
         "elo": 1016.0
       },
       {
         "date": "2026-05-01",
-        "rank": 49,
+        "rank": 60,
         "elo": 1016.0
       },
       {
         "date": "2026-06-01",
-        "rank": 40,
+        "rank": 61,
         "elo": 1016.0
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 61,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 61,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 61,
+        "elo": 1016.0
+      }
+    ],
+    "wflw": [
+      {
+        "date": "2026-09-01",
+        "rank": 15,
+        "elo": 1016.65
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-12",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "6fd953151d981979",
+      "opponent_name": "JJ Aldrich",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1015.45,
+      "p4p_after": 1031.66,
+      "p4p_delta": 16.21,
+      "div_before": 1000.0,
+      "div_after": 1016.65,
+      "div_delta": 16.65
+    },
     {
       "date": "2026-02-28",
       "weight_class": "catch",

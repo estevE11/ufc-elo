@@ -2,7 +2,7 @@
   "id": "312f7d7b2b2f7de4",
   "name": "Djorden Santos",
   "slug": "djorden-santos",
-  "last_fight_date": "2026-05-09",
+  "last_fight_date": "2026-09-12",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -14,37 +14,37 @@
     "p4p": [
       {
         "date": "2025-03-01",
-        "rank": 1027,
+        "rank": 1028,
         "elo": 973.98
       },
       {
         "date": "2025-04-01",
-        "rank": 1022,
+        "rank": 1023,
         "elo": 973.98
       },
       {
         "date": "2025-05-01",
-        "rank": 1023,
+        "rank": 1024,
         "elo": 973.98
       },
       {
         "date": "2025-06-01",
-        "rank": 1025,
+        "rank": 1026,
         "elo": 973.98
       },
       {
         "date": "2025-07-01",
-        "rank": 1021,
+        "rank": 1022,
         "elo": 973.98
       },
       {
         "date": "2025-08-01",
-        "rank": 1023,
+        "rank": 1024,
         "elo": 973.98
       },
       {
         "date": "2025-09-01",
-        "rank": 1032,
+        "rank": 1033,
         "elo": 973.98
       },
       {
@@ -89,44 +89,59 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1471,
+        "rank": 1472,
         "elo": 964.17
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1479,
+        "elo": 964.17
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1499,
+        "elo": 964.17
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 2108,
+        "elo": 940.17
       }
     ],
     "mw": [
       {
         "date": "2025-03-01",
-        "rank": 200,
+        "rank": 206,
         "elo": 976.0
       },
       {
         "date": "2025-04-01",
-        "rank": 198,
+        "rank": 204,
         "elo": 976.0
       },
       {
         "date": "2025-05-01",
-        "rank": 199,
+        "rank": 205,
         "elo": 976.0
       },
       {
         "date": "2025-06-01",
-        "rank": 199,
+        "rank": 205,
         "elo": 976.0
       },
       {
         "date": "2025-07-01",
-        "rank": 199,
+        "rank": 205,
         "elo": 976.0
       },
       {
         "date": "2025-08-01",
-        "rank": 200,
+        "rank": 206,
         "elo": 976.0
       },
       {
         "date": "2025-09-01",
-        "rank": 201,
+        "rank": 207,
         "elo": 976.0
       },
       {
@@ -171,12 +186,42 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 320,
+        "rank": 318,
         "elo": 965.98
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 317,
+        "elo": 965.98
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 318,
+        "elo": 965.98
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 391,
+        "elo": 941.82
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-12",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "7674b836ce0698a0",
+      "opponent_name": "Yousri Belgaroui",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 964.17,
+      "p4p_after": 940.17,
+      "p4p_delta": -24.0,
+      "div_before": 965.98,
+      "div_after": 941.82,
+      "div_delta": -24.16
+    },
     {
       "date": "2026-05-09",
       "weight_class": "mw",

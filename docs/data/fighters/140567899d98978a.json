@@ -2,7 +2,7 @@
   "id": "140567899d98978a",
   "name": "Robelis Despaigne",
   "slug": "robelis-despaigne",
-  "last_fight_date": "2024-10-19",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "hw"
@@ -84,32 +84,32 @@
       },
       {
         "date": "2025-05-01",
-        "rank": 1386,
+        "rank": 1387,
         "elo": 965.29
       },
       {
         "date": "2025-06-01",
-        "rank": 1391,
-        "elo": 965.29
-      },
-      {
-        "date": "2025-07-01",
         "rank": 1392,
         "elo": 965.29
       },
       {
+        "date": "2025-07-01",
+        "rank": 1393,
+        "elo": 965.29
+      },
+      {
         "date": "2025-08-01",
-        "rank": 1397,
+        "rank": 1398,
         "elo": 965.29
       },
       {
         "date": "2025-09-01",
-        "rank": 1406,
+        "rank": 1407,
         "elo": 965.29
       },
       {
         "date": "2025-10-01",
-        "rank": 1413,
+        "rank": 1414,
         "elo": 965.29
       },
       {
@@ -149,8 +149,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1446,
+        "rank": 1448,
         "elo": 965.29
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1455,
+        "elo": 965.29
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1475,
+        "elo": 965.29
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 1078,
+        "elo": 974.35
       }
     ],
     "hw": [
@@ -293,10 +308,40 @@
         "date": "2026-06-01",
         "rank": 213,
         "elo": 965.42
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 213,
+        "elo": 965.42
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 218,
+        "elo": 965.42
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 144,
+        "elo": 974.46
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "c62fbc117d57b943",
+      "opponent_name": "Tai Tuivasa",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 965.29,
+      "p4p_after": 974.35,
+      "p4p_delta": 9.06,
+      "div_before": 965.42,
+      "div_after": 974.46,
+      "div_delta": 9.04
+    },
     {
       "date": "2024-10-19",
       "weight_class": "hw",

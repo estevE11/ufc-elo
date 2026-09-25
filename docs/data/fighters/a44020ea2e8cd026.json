@@ -2,7 +2,7 @@
   "id": "a44020ea2e8cd026",
   "name": "JooSang Yoo",
   "slug": "joosang-yoo",
-  "last_fight_date": "2025-10-04",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "catch",
@@ -76,8 +76,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 747,
+        "rank": 750,
         "elo": 988.0
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 750,
+        "elo": 988.0
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 760,
+        "elo": 988.0
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 1218,
+        "elo": 969.25
       }
     ],
     "catch": [
@@ -123,6 +138,21 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 109,
+        "elo": 970.67
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 109,
+        "elo": 970.67
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 109,
+        "elo": 970.67
+      },
+      {
+        "date": "2026-09-01",
         "rank": 109,
         "elo": 970.67
       }
@@ -190,12 +220,42 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 60,
+        "rank": 61,
         "elo": 1019.71
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 61,
+        "elo": 1019.71
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 64,
+        "elo": 1019.71
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 104,
+        "elo": 1000.56
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "01c9e4013afce141",
+      "opponent_name": "Michael Aswell Jr.",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 988.0,
+      "p4p_after": 969.25,
+      "p4p_delta": -18.75,
+      "div_before": 1019.71,
+      "div_after": 1000.56,
+      "div_delta": -19.15
+    },
     {
       "date": "2025-10-04",
       "weight_class": "catch",

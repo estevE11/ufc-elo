@@ -2,7 +2,7 @@
   "id": "1c23ec2f1b71be40",
   "name": "Iwo Baraniewski",
   "slug": "iwo-baraniewski",
-  "last_fight_date": "2026-06-06",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "lhw"
@@ -44,8 +44,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 197,
+        "rank": 198,
         "elo": 1047.74
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 200,
+        "elo": 1047.74
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 203,
+        "elo": 1047.74
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 307,
+        "elo": 1029.41
       }
     ],
     "lhw": [
@@ -83,10 +98,40 @@
         "date": "2026-06-01",
         "rank": 17,
         "elo": 1054.86
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 16,
+        "elo": 1054.86
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 16,
+        "elo": 1054.86
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 24,
+        "elo": 1036.39
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "a495f599e787614f",
+      "opponent_name": "Alonzo Menifield",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 1047.74,
+      "p4p_after": 1029.41,
+      "p4p_delta": -18.33,
+      "div_before": 1054.86,
+      "div_after": 1036.39,
+      "div_delta": -18.47
+    },
     {
       "date": "2026-06-06",
       "weight_class": "lhw",

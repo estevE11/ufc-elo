@@ -2,7 +2,7 @@
   "id": "447f9858ae78f921",
   "name": "Muslim Salikhov",
   "slug": "muslim-salikhov",
-  "last_fight_date": "2025-11-08",
+  "last_fight_date": "2026-09-12",
   "active_current_mode": true,
   "divisions": [
     "ww"
@@ -14,27 +14,27 @@
     "p4p": [
       {
         "date": "2017-11-01",
-        "rank": 968,
+        "rank": 969,
         "elo": 967.71
       },
       {
         "date": "2017-12-01",
-        "rank": 980,
+        "rank": 981,
         "elo": 967.71
       },
       {
         "date": "2018-01-01",
-        "rank": 980,
+        "rank": 981,
         "elo": 967.71
       },
       {
         "date": "2018-02-01",
-        "rank": 984,
+        "rank": 985,
         "elo": 967.71
       },
       {
         "date": "2018-03-01",
-        "rank": 990,
+        "rank": 991,
         "elo": 967.71
       },
       {
@@ -429,7 +429,7 @@
       },
       {
         "date": "2024-10-01",
-        "rank": 531,
+        "rank": 532,
         "elo": 1003.17
       },
       {
@@ -494,43 +494,58 @@
       },
       {
         "date": "2025-11-01",
-        "rank": 509,
+        "rank": 510,
         "elo": 1006.63
       },
       {
         "date": "2025-12-01",
-        "rank": 511,
+        "rank": 512,
         "elo": 1006.63
       },
       {
         "date": "2026-01-01",
-        "rank": 509,
+        "rank": 510,
         "elo": 1006.63
       },
       {
         "date": "2026-02-01",
-        "rank": 516,
+        "rank": 517,
         "elo": 1006.63
       },
       {
         "date": "2026-03-01",
-        "rank": 521,
+        "rank": 522,
         "elo": 1006.63
       },
       {
         "date": "2026-04-01",
-        "rank": 519,
+        "rank": 520,
         "elo": 1006.63
       },
       {
         "date": "2026-05-01",
-        "rank": 524,
+        "rank": 525,
         "elo": 1006.63
       },
       {
         "date": "2026-06-01",
-        "rank": 523,
+        "rank": 526,
         "elo": 1006.63
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 532,
+        "elo": 1006.63
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 541,
+        "elo": 1006.63
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 853,
+        "elo": 983.02
       }
     ],
     "ww": [
@@ -1051,12 +1066,42 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 119,
+        "rank": 122,
         "elo": 1003.44
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 123,
+        "elo": 1003.44
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 126,
+        "elo": 1003.44
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 221,
+        "elo": 979.2
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-12",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "e4a47b07044ddd72",
+      "opponent_name": "Ignacio Bahamondes",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1006.63,
+      "p4p_after": 983.02,
+      "p4p_delta": -23.61,
+      "div_before": 1003.44,
+      "div_after": 979.2,
+      "div_delta": -24.24
+    },
     {
       "date": "2025-11-08",
       "weight_class": "ww",

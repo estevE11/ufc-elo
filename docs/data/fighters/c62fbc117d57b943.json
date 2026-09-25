@@ -2,7 +2,7 @@
   "id": "c62fbc117d57b943",
   "name": "Tai Tuivasa",
   "slug": "tai-tuivasa",
-  "last_fight_date": "2026-05-02",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "hw"
@@ -214,22 +214,22 @@
       },
       {
         "date": "2021-03-01",
-        "rank": 449,
+        "rank": 450,
         "elo": 1005.59
       },
       {
         "date": "2021-04-01",
-        "rank": 449,
+        "rank": 450,
         "elo": 1005.59
       },
       {
         "date": "2021-05-01",
-        "rank": 446,
+        "rank": 447,
         "elo": 1005.59
       },
       {
         "date": "2021-06-01",
-        "rank": 452,
+        "rank": 453,
         "elo": 1005.59
       },
       {
@@ -529,8 +529,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 2595,
+        "rank": 2604,
         "elo": 898.09
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2615,
+        "elo": 898.09
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2638,
+        "elo": 898.09
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 2711,
+        "elo": 884.5
       }
     ],
     "hw": [
@@ -1053,10 +1068,40 @@
         "date": "2026-06-01",
         "rank": 311,
         "elo": 897.8
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 313,
+        "elo": 897.8
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 319,
+        "elo": 897.8
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 320,
+        "elo": 884.23
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "140567899d98978a",
+      "opponent_name": "Robelis Despaigne",
+      "result": "sd",
+      "outcome": "L",
+      "p4p_before": 898.09,
+      "p4p_after": 884.5,
+      "p4p_delta": -13.59,
+      "div_before": 897.8,
+      "div_after": 884.23,
+      "div_delta": -13.57
+    },
     {
       "date": "2026-05-02",
       "weight_class": "hw",

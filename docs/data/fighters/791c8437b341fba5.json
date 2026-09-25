@@ -2,7 +2,7 @@
   "id": "791c8437b341fba5",
   "name": "Joanderson Brito",
   "slug": "joanderson-brito",
-  "last_fight_date": "2026-06-06",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -24,7 +24,7 @@
       },
       {
         "date": "2022-03-01",
-        "rank": 926,
+        "rank": 927,
         "elo": 973.99
       },
       {
@@ -229,22 +229,22 @@
       },
       {
         "date": "2025-08-01",
-        "rank": 261,
-        "elo": 1035.32
-      },
-      {
-        "date": "2025-09-01",
-        "rank": 263,
-        "elo": 1035.32
-      },
-      {
-        "date": "2025-10-01",
         "rank": 262,
         "elo": 1035.32
       },
       {
-        "date": "2025-11-01",
+        "date": "2025-09-01",
+        "rank": 264,
+        "elo": 1035.32
+      },
+      {
+        "date": "2025-10-01",
         "rank": 263,
+        "elo": 1035.32
+      },
+      {
+        "date": "2025-11-01",
+        "rank": 264,
         "elo": 1035.32
       },
       {
@@ -279,8 +279,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 119,
+        "rank": 122,
         "elo": 1068.42
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 120,
+        "elo": 1068.42
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 117,
+        "elo": 1068.42
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 84,
+        "elo": 1085.69
       }
     ],
     "fw": [
@@ -553,10 +568,40 @@
         "date": "2026-06-01",
         "rank": 15,
         "elo": 1068.17
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 15,
+        "elo": 1068.17
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 15,
+        "elo": 1068.17
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 9,
+        "elo": 1085.42
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "9560ff14eb3129f7",
+      "opponent_name": "Giga Chikadze",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1068.42,
+      "p4p_after": 1085.69,
+      "p4p_delta": 17.27,
+      "div_before": 1068.17,
+      "div_after": 1085.42,
+      "div_delta": 17.25
+    },
     {
       "date": "2026-06-06",
       "weight_class": "fw",

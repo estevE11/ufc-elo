@@ -2,7 +2,7 @@
   "id": "34ff304266360297",
   "name": "Manon Fiorot",
   "slug": "manon-fiorot",
-  "last_fight_date": "2025-10-18",
+  "last_fight_date": "2026-09-12",
   "active_current_mode": true,
   "divisions": [
     "wflw"
@@ -14,47 +14,47 @@
     "p4p": [
       {
         "date": "2021-01-01",
-        "rank": 315,
+        "rank": 324,
         "elo": 1020.8
       },
       {
         "date": "2021-02-01",
-        "rank": 325,
+        "rank": 326,
         "elo": 1020.8
       },
       {
         "date": "2021-03-01",
-        "rank": 317,
+        "rank": 324,
         "elo": 1020.8
       },
       {
         "date": "2021-04-01",
-        "rank": 318,
+        "rank": 325,
         "elo": 1020.8
       },
       {
         "date": "2021-05-01",
-        "rank": 315,
+        "rank": 322,
         "elo": 1020.8
       },
       {
         "date": "2021-06-01",
-        "rank": 172,
+        "rank": 173,
         "elo": 1040.36
       },
       {
         "date": "2021-07-01",
-        "rank": 177,
-        "elo": 1040.36
-      },
-      {
-        "date": "2021-08-01",
         "rank": 178,
         "elo": 1040.36
       },
       {
-        "date": "2021-09-01",
+        "date": "2021-08-01",
         "rank": 179,
+        "elo": 1040.36
+      },
+      {
+        "date": "2021-09-01",
+        "rank": 180,
         "elo": 1040.36
       },
       {
@@ -339,8 +339,23 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 43,
+        "elo": 1112.22
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 43,
+        "elo": 1112.22
+      },
+      {
+        "date": "2026-08-01",
         "rank": 42,
         "elo": 1112.22
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 88,
+        "elo": 1084.09
       }
     ],
     "wflw": [
@@ -673,10 +688,40 @@
         "date": "2026-06-01",
         "rank": 4,
         "elo": 1108.22
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 4,
+        "elo": 1108.22
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 4,
+        "elo": 1108.22
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 5,
+        "elo": 1081.56
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-12",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "e8b731feff72294b",
+      "opponent_name": "Alexa Grasso",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1112.22,
+      "p4p_after": 1084.09,
+      "p4p_delta": -28.13,
+      "div_before": 1108.22,
+      "div_after": 1081.56,
+      "div_delta": -26.66
+    },
     {
       "date": "2025-10-18",
       "weight_class": "wflw",

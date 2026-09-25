@@ -2,7 +2,7 @@
   "id": "17e97649403ba428",
   "name": "Joshua Van",
   "slug": "joshua-van",
-  "last_fight_date": "2026-05-09",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "flw"
@@ -84,7 +84,7 @@
       },
       {
         "date": "2024-08-01",
-        "rank": 499,
+        "rank": 500,
         "elo": 1006.81
       },
       {
@@ -196,6 +196,21 @@
         "date": "2026-06-01",
         "rank": 23,
         "elo": 1129.4
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 23,
+        "elo": 1129.4
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 23,
+        "elo": 1129.4
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 18,
+        "elo": 1143.94
       }
     ],
     "flw": [
@@ -383,10 +398,40 @@
         "date": "2026-06-01",
         "rank": 2,
         "elo": 1129.48
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2,
+        "elo": 1129.48
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2,
+        "elo": 1129.48
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 2,
+        "elo": 1143.99
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "a0f0004aadf10b71",
+      "opponent_name": "Alexandre Pantoja",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1129.4,
+      "p4p_after": 1143.94,
+      "p4p_delta": 14.54,
+      "div_before": 1129.48,
+      "div_after": 1143.99,
+      "div_delta": 14.51
+    },
     {
       "date": "2026-05-09",
       "weight_class": "flw",

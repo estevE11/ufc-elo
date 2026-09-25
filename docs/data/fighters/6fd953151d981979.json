@@ -2,7 +2,7 @@
   "id": "6fd953151d981979",
   "name": "JJ Aldrich",
   "slug": "jj-aldrich",
-  "last_fight_date": "2026-04-18",
+  "last_fight_date": "2026-09-12",
   "active_current_mode": true,
   "divisions": [
     "wflw",
@@ -586,44 +586,59 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 389,
+        "rank": 392,
         "elo": 1020.0
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 395,
+        "elo": 1020.0
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 403,
+        "elo": 1020.0
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 660,
+        "elo": 995.69
       }
     ],
     "wflw": [
       {
         "date": "2019-03-01",
-        "rank": 39,
+        "rank": 40,
         "elo": 968.8
       },
       {
         "date": "2019-04-01",
-        "rank": 38,
+        "rank": 40,
         "elo": 968.8
       },
       {
         "date": "2019-05-01",
-        "rank": 39,
+        "rank": 41,
         "elo": 968.8
       },
       {
         "date": "2019-06-01",
-        "rank": 38,
+        "rank": 40,
         "elo": 968.8
       },
       {
         "date": "2019-07-01",
-        "rank": 39,
+        "rank": 41,
         "elo": 968.8
       },
       {
         "date": "2019-08-01",
-        "rank": 42,
+        "rank": 44,
         "elo": 968.8
       },
       {
         "date": "2019-09-01",
-        "rank": 42,
+        "rank": 44,
         "elo": 968.8
       },
       {
@@ -1030,6 +1045,21 @@
         "date": "2026-06-01",
         "rank": 20,
         "elo": 1014.21
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 22,
+        "elo": 1014.21
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 22,
+        "elo": 1014.21
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 38,
+        "elo": 989.23
       }
     ],
     "wsw": [
@@ -1607,10 +1637,40 @@
         "date": "2026-06-01",
         "rank": 17,
         "elo": 1025.37
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 16,
+        "elo": 1025.37
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 17,
+        "elo": 1025.37
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 17,
+        "elo": 1025.37
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-12",
+      "weight_class": "wflw",
+      "weight_class_name": "Women's Flyweight",
+      "opponent_id": "9f5609dba6584ab2",
+      "opponent_name": "Regina Tarin",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1020.0,
+      "p4p_after": 995.69,
+      "p4p_delta": -24.31,
+      "div_before": 1014.21,
+      "div_after": 989.23,
+      "div_delta": -24.98
+    },
     {
       "date": "2026-04-18",
       "weight_class": "wflw",

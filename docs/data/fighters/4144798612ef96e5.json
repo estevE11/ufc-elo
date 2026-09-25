@@ -2,7 +2,7 @@
   "id": "4144798612ef96e5",
   "name": "Edmen Shahbazyan",
   "slug": "edmen-shahbazyan",
-  "last_fight_date": "2026-06-06",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -469,8 +469,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 595,
+        "rank": 599,
         "elo": 999.97
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 602,
+        "elo": 999.97
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 615,
+        "elo": 999.97
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 455,
+        "elo": 1015.76
       }
     ],
     "mw": [
@@ -821,32 +836,32 @@
       },
       {
         "date": "2024-08-01",
-        "rank": 320,
+        "rank": 321,
         "elo": 959.07
       },
       {
         "date": "2024-09-01",
-        "rank": 319,
+        "rank": 320,
         "elo": 959.07
       },
       {
         "date": "2024-10-01",
-        "rank": 319,
+        "rank": 320,
         "elo": 959.07
       },
       {
         "date": "2024-11-01",
-        "rank": 319,
+        "rank": 320,
         "elo": 959.07
       },
       {
         "date": "2024-12-01",
-        "rank": 319,
+        "rank": 320,
         "elo": 959.07
       },
       {
         "date": "2025-01-01",
-        "rank": 319,
+        "rank": 320,
         "elo": 959.07
       },
       {
@@ -933,10 +948,40 @@
         "date": "2026-06-01",
         "rank": 121,
         "elo": 1001.5
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 120,
+        "elo": 1001.5
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 119,
+        "elo": 1001.5
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 84,
+        "elo": 1017.22
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "1e719d4b676dc19a",
+      "opponent_name": "Brunno Ferreira",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 999.97,
+      "p4p_after": 1015.76,
+      "p4p_delta": 15.79,
+      "div_before": 1001.5,
+      "div_after": 1017.22,
+      "div_delta": 15.72
+    },
     {
       "date": "2026-06-06",
       "weight_class": "mw",

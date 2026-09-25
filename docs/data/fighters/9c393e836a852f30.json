@@ -2,7 +2,7 @@
   "id": "9c393e836a852f30",
   "name": "Mauricio Ruffy",
   "slug": "mauricio-ruffy",
-  "last_fight_date": "2026-06-14",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "catch",
@@ -141,109 +141,139 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 162,
+        "rank": 165,
         "elo": 1053.8
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 168,
+        "elo": 1053.8
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 171,
+        "elo": 1053.8
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 308,
+        "elo": 1029.38
       }
     ],
     "catch": [
       {
         "date": "2024-11-01",
-        "rank": 46,
+        "rank": 54,
         "elo": 1016.0
       },
       {
         "date": "2024-12-01",
-        "rank": 47,
+        "rank": 55,
         "elo": 1016.0
       },
       {
         "date": "2025-01-01",
-        "rank": 47,
+        "rank": 55,
         "elo": 1016.0
       },
       {
         "date": "2025-02-01",
-        "rank": 48,
+        "rank": 56,
         "elo": 1016.0
       },
       {
         "date": "2025-03-01",
-        "rank": 48,
+        "rank": 56,
         "elo": 1016.0
       },
       {
         "date": "2025-04-01",
-        "rank": 48,
+        "rank": 56,
         "elo": 1016.0
       },
       {
         "date": "2025-05-01",
-        "rank": 48,
+        "rank": 56,
         "elo": 1016.0
       },
       {
         "date": "2025-06-01",
-        "rank": 48,
+        "rank": 56,
         "elo": 1016.0
       },
       {
         "date": "2025-07-01",
-        "rank": 48,
+        "rank": 56,
         "elo": 1016.0
       },
       {
         "date": "2025-08-01",
-        "rank": 37,
+        "rank": 56,
         "elo": 1016.0
       },
       {
         "date": "2025-09-01",
-        "rank": 37,
+        "rank": 56,
         "elo": 1016.0
       },
       {
         "date": "2025-10-01",
-        "rank": 37,
+        "rank": 56,
         "elo": 1016.0
       },
       {
         "date": "2025-11-01",
-        "rank": 39,
+        "rank": 58,
         "elo": 1016.0
       },
       {
         "date": "2025-12-01",
-        "rank": 39,
+        "rank": 58,
         "elo": 1016.0
       },
       {
         "date": "2026-01-01",
-        "rank": 39,
+        "rank": 58,
         "elo": 1016.0
       },
       {
         "date": "2026-02-01",
-        "rank": 45,
+        "rank": 59,
         "elo": 1016.0
       },
       {
         "date": "2026-03-01",
-        "rank": 45,
+        "rank": 59,
         "elo": 1016.0
       },
       {
         "date": "2026-04-01",
-        "rank": 45,
+        "rank": 59,
         "elo": 1016.0
       },
       {
         "date": "2026-05-01",
-        "rank": 50,
+        "rank": 59,
         "elo": 1016.0
       },
       {
         "date": "2026-06-01",
-        "rank": 52,
+        "rank": 60,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 60,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 60,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 60,
         "elo": 1016.0
       }
     ],
@@ -375,12 +405,42 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 40,
+        "elo": 1045.5
+      },
+      {
+        "date": "2026-07-01",
         "rank": 41,
         "elo": 1045.5
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 41,
+        "elo": 1045.5
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 69,
+        "elo": 1021.98
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "eae48ff31db420c2",
+      "opponent_name": "Arman Tsarukyan",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1053.8,
+      "p4p_after": 1029.38,
+      "p4p_delta": -24.42,
+      "div_before": 1045.5,
+      "div_after": 1021.98,
+      "div_delta": -23.52
+    },
     {
       "date": "2026-06-14",
       "weight_class": "lw",

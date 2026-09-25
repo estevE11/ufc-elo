@@ -2,7 +2,7 @@
   "id": "1e719d4b676dc19a",
   "name": "Brunno Ferreira",
   "slug": "brunno-ferreira",
-  "last_fight_date": "2026-06-27",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -221,6 +221,21 @@
         "date": "2026-06-01",
         "rank": 649,
         "elo": 995.4
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 649,
+        "elo": 995.4
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 663,
+        "elo": 995.4
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 1142,
+        "elo": 971.71
       }
     ],
     "mw": [
@@ -433,10 +448,40 @@
         "date": "2026-06-01",
         "rank": 135,
         "elo": 995.35
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 134,
+        "elo": 995.35
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 133,
+        "elo": 995.35
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 229,
+        "elo": 971.78
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "4144798612ef96e5",
+      "opponent_name": "Edmen Shahbazyan",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 995.4,
+      "p4p_after": 971.71,
+      "p4p_delta": -23.69,
+      "div_before": 995.35,
+      "div_after": 971.78,
+      "div_delta": -23.57
+    },
     {
       "date": "2026-06-27",
       "weight_class": "mw",

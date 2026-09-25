@@ -2,7 +2,7 @@
   "id": "7674b836ce0698a0",
   "name": "Yousri Belgaroui",
   "slug": "yousri-belgaroui",
-  "last_fight_date": "2026-03-28",
+  "last_fight_date": "2026-09-12",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -54,8 +54,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 207,
+        "rank": 208,
         "elo": 1045.82
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 210,
+        "elo": 1045.82
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 213,
+        "elo": 1045.82
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 142,
+        "elo": 1061.82
       }
     ],
     "mw": [
@@ -103,10 +118,40 @@
         "date": "2026-06-01",
         "rank": 27,
         "elo": 1045.83
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 27,
+        "elo": 1045.83
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 27,
+        "elo": 1045.83
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 20,
+        "elo": 1061.93
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-12",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "312f7d7b2b2f7de4",
+      "opponent_name": "Djorden Santos",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1045.82,
+      "p4p_after": 1061.82,
+      "p4p_delta": 16.0,
+      "div_before": 1045.83,
+      "div_after": 1061.93,
+      "div_delta": 16.1
+    },
     {
       "date": "2026-03-28",
       "weight_class": "mw",

@@ -114,15 +114,15 @@
       },
       {
         "rank": 9,
-        "fighter_id": "fc08099550072fe4",
-        "name": "Waldo Cortes Acosta",
-        "elo": 1080.68
-      },
-      {
-        "rank": 10,
         "fighter_id": "955da1675ad58a50",
         "name": "Josh Hokit",
         "elo": 1076.67
+      },
+      {
+        "rank": 10,
+        "fighter_id": "39d309957c5c210d",
+        "name": "Mario Pinto",
+        "elo": 1071.36
       }
     ],
     "lhw": [
@@ -334,7 +334,7 @@
         "rank": 4,
         "fighter_id": "eae48ff31db420c2",
         "name": "Arman Tsarukyan",
-        "elo": 1132.84
+        "elo": 1148.52
       },
       {
         "rank": 5,
@@ -424,15 +424,15 @@
       },
       {
         "rank": 9,
-        "fighter_id": "b8bbdeff718dbb7d",
-        "name": "Pat Sabatini",
-        "elo": 1084.93
+        "fighter_id": "791c8437b341fba5",
+        "name": "Joanderson Brito",
+        "elo": 1085.42
       },
       {
         "rank": 10,
-        "fighter_id": "20bccc9bb4ceb23e",
-        "name": "Melquizael Costa",
-        "elo": 1083.27
+        "fighter_id": "b8bbdeff718dbb7d",
+        "name": "Pat Sabatini",
+        "elo": 1084.93
       }
     ],
     "bw": [
@@ -508,7 +508,7 @@
         "rank": 2,
         "fighter_id": "17e97649403ba428",
         "name": "Joshua Van",
-        "elo": 1129.48
+        "elo": 1143.99
       },
       {
         "rank": 3,
@@ -524,27 +524,27 @@
       },
       {
         "rank": 5,
-        "fighter_id": "a0f0004aadf10b71",
-        "name": "Alexandre Pantoja",
-        "elo": 1097.1
-      },
-      {
-        "rank": 6,
         "fighter_id": "056c493bbd76a918",
         "name": "Henry Cejudo",
         "elo": 1080.8
       },
       {
-        "rank": 7,
+        "rank": 6,
         "fighter_id": "4461d7e47375a895",
         "name": "Tatsuro Taira",
         "elo": 1076.23
       },
       {
-        "rank": 8,
+        "rank": 7,
         "fighter_id": "8d3273573b85be09",
         "name": "Asu Almabayev",
         "elo": 1075.97
+      },
+      {
+        "rank": 8,
+        "fighter_id": "a0f0004aadf10b71",
+        "name": "Alexandre Pantoja",
+        "elo": 1075.33
       },
       {
         "rank": 9,
@@ -642,39 +642,39 @@
       },
       {
         "rank": 4,
-        "fighter_id": "34ff304266360297",
-        "name": "Manon Fiorot",
-        "elo": 1108.22
+        "fighter_id": "e8b731feff72294b",
+        "name": "Alexa Grasso",
+        "elo": 1087.31
       },
       {
         "rank": 5,
+        "fighter_id": "34ff304266360297",
+        "name": "Manon Fiorot",
+        "elo": 1081.56
+      },
+      {
+        "rank": 6,
         "fighter_id": "6a740daf1b279661",
         "name": "Maycee Barber",
         "elo": 1075.77
       },
       {
-        "rank": 6,
-        "fighter_id": "e8b731feff72294b",
-        "name": "Alexa Grasso",
-        "elo": 1069.54
+        "rank": 7,
+        "fighter_id": "04835018f90b118c",
+        "name": "Casey O'Neill",
+        "elo": 1058.48
       },
       {
-        "rank": 7,
+        "rank": 8,
         "fighter_id": "f1ab6f37492c630a",
         "name": "Carli Judice",
         "elo": 1055.62
       },
       {
-        "rank": 8,
+        "rank": 9,
         "fighter_id": "a9e260472d321361",
         "name": "Jasmine Jasudavicius",
         "elo": 1053.74
-      },
-      {
-        "rank": 9,
-        "fighter_id": "04835018f90b118c",
-        "name": "Casey O'Neill",
-        "elo": 1037.99
       },
       {
         "rank": 10,
@@ -854,21 +854,21 @@
       },
       {
         "rank": 8,
+        "fighter_id": "eae48ff31db420c2",
+        "name": "Arman Tsarukyan",
+        "elo": 1146.85
+      },
+      {
+        "rank": 9,
         "fighter_id": "767755fd74662dbf",
         "name": "Khamzat Chimaev",
         "elo": 1146.59
       },
       {
-        "rank": 9,
+        "rank": 10,
         "fighter_id": "76e2870ffafbe38f",
         "name": "Movsar Evloev",
         "elo": 1146.0
-      },
-      {
-        "rank": 10,
-        "fighter_id": "9014c02eff8b3d62",
-        "name": "Carlos Ulberg",
-        "elo": 1144.58
       }
     ],
     "hw": [
@@ -904,27 +904,27 @@
       },
       {
         "rank": 6,
-        "fighter_id": "fc08099550072fe4",
-        "name": "Waldo Cortes Acosta",
-        "elo": 1080.68
-      },
-      {
-        "rank": 7,
         "fighter_id": "955da1675ad58a50",
         "name": "Josh Hokit",
         "elo": 1076.67
       },
       {
-        "rank": 8,
+        "rank": 7,
         "fighter_id": "39d309957c5c210d",
         "name": "Mario Pinto",
         "elo": 1071.36
       },
       {
-        "rank": 9,
+        "rank": 8,
         "fighter_id": "f5779a2303ed76ec",
         "name": "Valter Walker",
         "elo": 1067.06
+      },
+      {
+        "rank": 9,
+        "fighter_id": "fa6796c55d6c5440",
+        "name": "Curtis Blaydes",
+        "elo": 1066.81
       },
       {
         "rank": 10,
@@ -972,27 +972,27 @@
       },
       {
         "rank": 7,
-        "fighter_id": "1c23ec2f1b71be40",
-        "name": "Iwo Baraniewski",
-        "elo": 1054.86
-      },
-      {
-        "rank": 8,
         "fighter_id": "95aff2fd8d09a5f0",
         "name": "Abdul Rakhman Yakhyaev",
         "elo": 1049.28
       },
       {
-        "rank": 9,
+        "rank": 8,
         "fighter_id": "009341ed974bad72",
         "name": "Jiri Prochazka",
         "elo": 1041.21
       },
       {
-        "rank": 10,
+        "rank": 9,
         "fighter_id": "2e19380f34871c6a",
         "name": "Dominick Reyes",
         "elo": 1040.79
+      },
+      {
+        "rank": 10,
+        "fighter_id": "1c23ec2f1b71be40",
+        "name": "Iwo Baraniewski",
+        "elo": 1036.39
       }
     ],
     "mw": [
@@ -1136,7 +1136,7 @@
         "rank": 3,
         "fighter_id": "eae48ff31db420c2",
         "name": "Arman Tsarukyan",
-        "elo": 1132.84
+        "elo": 1148.52
       },
       {
         "rank": 4,
@@ -1226,21 +1226,21 @@
       },
       {
         "rank": 8,
+        "fighter_id": "791c8437b341fba5",
+        "name": "Joanderson Brito",
+        "elo": 1085.42
+      },
+      {
+        "rank": 9,
         "fighter_id": "b8bbdeff718dbb7d",
         "name": "Pat Sabatini",
         "elo": 1084.93
       },
       {
-        "rank": 9,
-        "fighter_id": "20bccc9bb4ceb23e",
-        "name": "Melquizael Costa",
-        "elo": 1083.27
-      },
-      {
         "rank": 10,
-        "fighter_id": "f166e93d04a8c274",
-        "name": "Diego Lopes",
-        "elo": 1075.33
+        "fighter_id": "52ef95b5860fb28c",
+        "name": "Jean Silva",
+        "elo": 1083.52
       }
     ],
     "bw": [
@@ -1300,9 +1300,9 @@
       },
       {
         "rank": 10,
-        "fighter_id": "6e743a33d56bdaa4",
-        "name": "Payton Talbott",
-        "elo": 1060.25
+        "fighter_id": "9a97acbfd5a08bfa",
+        "name": "David Martinez",
+        "elo": 1064.9
       }
     ],
     "flw": [
@@ -1310,7 +1310,7 @@
         "rank": 1,
         "fighter_id": "17e97649403ba428",
         "name": "Joshua Van",
-        "elo": 1129.48
+        "elo": 1143.99
       },
       {
         "rank": 2,
@@ -1320,27 +1320,27 @@
       },
       {
         "rank": 3,
-        "fighter_id": "a0f0004aadf10b71",
-        "name": "Alexandre Pantoja",
-        "elo": 1097.1
-      },
-      {
-        "rank": 4,
         "fighter_id": "056c493bbd76a918",
         "name": "Henry Cejudo",
         "elo": 1080.8
       },
       {
-        "rank": 5,
+        "rank": 4,
         "fighter_id": "4461d7e47375a895",
         "name": "Tatsuro Taira",
         "elo": 1076.23
       },
       {
-        "rank": 6,
+        "rank": 5,
         "fighter_id": "8d3273573b85be09",
         "name": "Asu Almabayev",
         "elo": 1075.97
+      },
+      {
+        "rank": 6,
+        "fighter_id": "a0f0004aadf10b71",
+        "name": "Alexandre Pantoja",
+        "elo": 1075.33
       },
       {
         "rank": 7,
@@ -1450,39 +1450,39 @@
       },
       {
         "rank": 4,
-        "fighter_id": "34ff304266360297",
-        "name": "Manon Fiorot",
-        "elo": 1108.22
+        "fighter_id": "e8b731feff72294b",
+        "name": "Alexa Grasso",
+        "elo": 1087.31
       },
       {
         "rank": 5,
+        "fighter_id": "34ff304266360297",
+        "name": "Manon Fiorot",
+        "elo": 1081.56
+      },
+      {
+        "rank": 6,
         "fighter_id": "6a740daf1b279661",
         "name": "Maycee Barber",
         "elo": 1075.77
       },
       {
-        "rank": 6,
-        "fighter_id": "e8b731feff72294b",
-        "name": "Alexa Grasso",
-        "elo": 1069.54
+        "rank": 7,
+        "fighter_id": "04835018f90b118c",
+        "name": "Casey O'Neill",
+        "elo": 1058.48
       },
       {
-        "rank": 7,
+        "rank": 8,
         "fighter_id": "f1ab6f37492c630a",
         "name": "Carli Judice",
         "elo": 1055.62
       },
       {
-        "rank": 8,
+        "rank": 9,
         "fighter_id": "a9e260472d321361",
         "name": "Jasmine Jasudavicius",
         "elo": 1053.74
-      },
-      {
-        "rank": 9,
-        "fighter_id": "04835018f90b118c",
-        "name": "Casey O'Neill",
-        "elo": 1037.99
       },
       {
         "rank": 10,
@@ -1966,27 +1966,27 @@
       },
       {
         "rank": 7,
+        "fighter_id": "eae48ff31db420c2",
+        "name": "Arman Tsarukyan",
+        "elo": 1148.52
+      },
+      {
+        "rank": 8,
         "fighter_id": "08af939f41b5a57b",
         "name": "Beneil Dariush",
         "elo": 1143.87
       },
       {
-        "rank": 8,
+        "rank": 9,
         "fighter_id": "6a2f7c151031653d",
         "name": "Rafael Dos Anjos",
         "elo": 1140.84
       },
       {
-        "rank": 9,
+        "rank": 10,
         "fighter_id": "f2688492b9a525a3",
         "name": "Frankie Edgar",
         "elo": 1134.67
-      },
-      {
-        "rank": 10,
-        "fighter_id": "029eaff01e6bb8f0",
-        "name": "Dustin Poirier",
-        "elo": 1133.86
       }
     ],
     "fw": [
@@ -2122,21 +2122,21 @@
       },
       {
         "rank": 2,
+        "fighter_id": "17e97649403ba428",
+        "name": "Joshua Van",
+        "elo": 1143.99
+      },
+      {
+        "rank": 3,
         "fighter_id": "80eacd4da0617c57",
         "name": "Joseph Benavidez",
         "elo": 1135.8
       },
       {
-        "rank": 3,
+        "rank": 4,
         "fighter_id": "a0f0004aadf10b71",
         "name": "Alexandre Pantoja",
         "elo": 1132.53
-      },
-      {
-        "rank": 4,
-        "fighter_id": "17e97649403ba428",
-        "name": "Joshua Van",
-        "elo": 1129.48
       },
       {
         "rank": 5,

@@ -2,7 +2,7 @@
   "id": "e132d47bd9efbbe0",
   "name": "Rafa Garcia",
   "slug": "rafa-garcia",
-  "last_fight_date": "2026-04-25",
+  "last_fight_date": "2026-09-12",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -254,7 +254,7 @@
       },
       {
         "date": "2025-03-01",
-        "rank": 624,
+        "rank": 625,
         "elo": 995.82
       },
       {
@@ -274,7 +274,7 @@
       },
       {
         "date": "2025-07-01",
-        "rank": 619,
+        "rank": 620,
         "elo": 995.82
       },
       {
@@ -329,8 +329,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 284,
+        "rank": 281,
         "elo": 1033.31
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 285,
+        "elo": 1033.31
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 287,
+        "elo": 1033.31
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 549,
+        "elo": 1005.16
       }
     ],
     "lw": [
@@ -436,7 +451,7 @@
       },
       {
         "date": "2022-11-01",
-        "rank": 250,
+        "rank": 251,
         "elo": 970.95
       },
       {
@@ -651,12 +666,42 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 58,
+        "rank": 56,
         "elo": 1033.74
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 55,
+        "elo": 1033.74
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 55,
+        "elo": 1033.74
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 138,
+        "elo": 1005.6
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-12",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "a13d755965a4ec9f",
+      "opponent_name": "Rongzhu",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1033.31,
+      "p4p_after": 1005.16,
+      "p4p_delta": -28.15,
+      "div_before": 1033.74,
+      "div_after": 1005.6,
+      "div_delta": -28.14
+    },
     {
       "date": "2026-04-25",
       "weight_class": "lw",

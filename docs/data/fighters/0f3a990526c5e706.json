@@ -2,7 +2,7 @@
   "id": "0f3a990526c5e706",
   "name": "Sean Sharaf",
   "slug": "sean-sharaf",
-  "last_fight_date": "2025-12-13",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "hw"
@@ -114,8 +114,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 2209,
+        "rank": 2218,
         "elo": 935.0
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2229,
+        "elo": 935.0
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2250,
+        "elo": 935.0
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 1567,
+        "elo": 960.73
       }
     ],
     "hw": [
@@ -223,10 +238,40 @@
         "date": "2026-06-01",
         "rank": 274,
         "elo": 935.15
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 276,
+        "elo": 935.15
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 281,
+        "elo": 935.15
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 226,
+        "elo": 960.87
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "f7e856a73c96048e",
+      "opponent_name": "Gable Steveson",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 935.0,
+      "p4p_after": 960.73,
+      "p4p_delta": 25.73,
+      "div_before": 935.15,
+      "div_after": 960.87,
+      "div_delta": 25.72
+    },
     {
       "date": "2025-12-13",
       "weight_class": "hw",

@@ -2,7 +2,7 @@
   "id": "6eedb757f13b9978",
   "name": "Marwan Rahiki",
   "slug": "marwan-rahiki",
-  "last_fight_date": "2026-05-02",
+  "last_fight_date": "2026-09-12",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -29,19 +29,34 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 241,
+        "rank": 240,
         "elo": 1038.68
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 247,
+        "elo": 1038.68
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 249,
+        "elo": 1038.68
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 470,
+        "elo": 1014.75
       }
     ],
     "fw": [
       {
         "date": "2026-03-01",
-        "rank": 49,
+        "rank": 53,
         "elo": 1020.8
       },
       {
         "date": "2026-04-01",
-        "rank": 49,
+        "rank": 54,
         "elo": 1020.8
       },
       {
@@ -53,10 +68,40 @@
         "date": "2026-06-01",
         "rank": 27,
         "elo": 1040.36
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 29,
+        "elo": 1040.36
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 29,
+        "elo": 1040.36
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 71,
+        "elo": 1016.32
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-12",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "6b0a6def604de298",
+      "opponent_name": "Tommy McMillen",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1038.68,
+      "p4p_after": 1014.75,
+      "p4p_delta": -23.93,
+      "div_before": 1040.36,
+      "div_after": 1016.32,
+      "div_delta": -24.04
+    },
     {
       "date": "2026-05-02",
       "weight_class": "fw",

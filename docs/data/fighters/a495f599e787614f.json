@@ -2,7 +2,7 @@
   "id": "a495f599e787614f",
   "name": "Alonzo Menifield",
   "slug": "alonzo-menifield",
-  "last_fight_date": "2026-05-30",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "lhw"
@@ -14,27 +14,27 @@
     "p4p": [
       {
         "date": "2019-01-01",
-        "rank": 275,
+        "rank": 292,
         "elo": 1020.8
       },
       {
         "date": "2019-02-01",
-        "rank": 272,
+        "rank": 292,
         "elo": 1020.8
       },
       {
         "date": "2019-03-01",
-        "rank": 281,
+        "rank": 294,
         "elo": 1020.8
       },
       {
         "date": "2019-04-01",
-        "rank": 286,
+        "rank": 299,
         "elo": 1020.8
       },
       {
         "date": "2019-05-01",
-        "rank": 286,
+        "rank": 299,
         "elo": 1020.8
       },
       {
@@ -349,32 +349,32 @@
       },
       {
         "date": "2024-08-01",
-        "rank": 560,
+        "rank": 561,
         "elo": 1000.7
       },
       {
         "date": "2024-09-01",
-        "rank": 560,
+        "rank": 561,
         "elo": 1000.7
       },
       {
         "date": "2024-10-01",
-        "rank": 560,
+        "rank": 561,
         "elo": 1000.7
       },
       {
         "date": "2024-11-01",
-        "rank": 564,
+        "rank": 565,
         "elo": 1000.7
       },
       {
         "date": "2024-12-01",
-        "rank": 563,
+        "rank": 564,
         "elo": 1000.7
       },
       {
         "date": "2025-01-01",
-        "rank": 556,
+        "rank": 557,
         "elo": 1000.7
       },
       {
@@ -459,8 +459,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 433,
+        "rank": 435,
         "elo": 1016.09
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 438,
+        "elo": 1016.09
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 443,
+        "elo": 1016.09
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 315,
+        "elo": 1028.3
       }
     ],
     "lhw": [
@@ -471,12 +486,12 @@
       },
       {
         "date": "2019-02-01",
-        "rank": 27,
+        "rank": 28,
         "elo": 1020.8
       },
       {
         "date": "2019-03-01",
-        "rank": 26,
+        "rank": 27,
         "elo": 1020.8
       },
       {
@@ -486,7 +501,7 @@
       },
       {
         "date": "2019-05-01",
-        "rank": 29,
+        "rank": 30,
         "elo": 1020.8
       },
       {
@@ -913,10 +928,40 @@
         "date": "2026-06-01",
         "rank": 37,
         "elo": 1020.26
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 39,
+        "elo": 1020.26
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 38,
+        "elo": 1020.26
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 26,
+        "elo": 1032.57
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "1c23ec2f1b71be40",
+      "opponent_name": "Iwo Baraniewski",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 1016.09,
+      "p4p_after": 1028.3,
+      "p4p_delta": 12.21,
+      "div_before": 1020.26,
+      "div_after": 1032.57,
+      "div_delta": 12.31
+    },
     {
       "date": "2026-05-30",
       "weight_class": "lhw",

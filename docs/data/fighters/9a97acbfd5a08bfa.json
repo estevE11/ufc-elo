@@ -2,7 +2,7 @@
   "id": "9a97acbfd5a08bfa",
   "name": "David Martinez",
   "slug": "david-martinez",
-  "last_fight_date": "2026-02-28",
+  "last_fight_date": "2026-09-12",
   "active_current_mode": true,
   "divisions": [
     "bw"
@@ -89,8 +89,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 179,
+        "rank": 181,
         "elo": 1051.65
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 185,
+        "elo": 1051.65
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 190,
+        "elo": 1051.65
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 136,
+        "elo": 1063.55
       }
     ],
     "bw": [
@@ -173,10 +188,40 @@
         "date": "2026-06-01",
         "rank": 24,
         "elo": 1051.24
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 23,
+        "elo": 1051.24
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 23,
+        "elo": 1051.24
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 11,
+        "elo": 1064.9
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-12",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "82a5152216251682",
+      "opponent_name": "Dan Ige",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1051.65,
+      "p4p_after": 1063.55,
+      "p4p_delta": 11.9,
+      "div_before": 1051.24,
+      "div_after": 1064.9,
+      "div_delta": 13.66
+    },
     {
       "date": "2026-02-28",
       "weight_class": "bw",

@@ -2,15 +2,17 @@
   "id": "e4a47b07044ddd72",
   "name": "Ignacio Bahamondes",
   "slug": "ignacio-bahamondes",
-  "last_fight_date": "2026-03-28",
+  "last_fight_date": "2026-09-12",
   "active_current_mode": true,
   "divisions": [
     "catch",
-    "lw"
+    "lw",
+    "ww"
   ],
   "division_names": {
     "catch": "Catch",
-    "lw": "Lightweight"
+    "lw": "Lightweight",
+    "ww": "Welterweight"
   },
   "rank_history": {
     "p4p": [
@@ -326,204 +328,234 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 477,
+        "rank": 480,
         "elo": 1012.26
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 485,
+        "elo": 1012.26
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 496,
+        "elo": 1012.26
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 319,
+        "elo": 1028.0
       }
     ],
     "catch": [
       {
         "date": "2023-04-01",
-        "rank": 37,
+        "rank": 48,
         "elo": 1016.0
       },
       {
         "date": "2023-05-01",
-        "rank": 37,
+        "rank": 49,
         "elo": 1016.0
       },
       {
         "date": "2023-06-01",
-        "rank": 37,
+        "rank": 49,
         "elo": 1016.0
       },
       {
         "date": "2023-07-01",
-        "rank": 37,
+        "rank": 50,
         "elo": 1016.0
       },
       {
         "date": "2023-08-01",
-        "rank": 37,
+        "rank": 51,
         "elo": 1016.0
       },
       {
         "date": "2023-09-01",
-        "rank": 37,
+        "rank": 52,
         "elo": 1016.0
       },
       {
         "date": "2023-10-01",
-        "rank": 37,
+        "rank": 52,
         "elo": 1016.0
       },
       {
         "date": "2023-11-01",
-        "rank": 38,
+        "rank": 53,
         "elo": 1016.0
       },
       {
         "date": "2023-12-01",
-        "rank": 38,
+        "rank": 53,
         "elo": 1016.0
       },
       {
         "date": "2024-01-01",
-        "rank": 38,
+        "rank": 53,
         "elo": 1016.0
       },
       {
         "date": "2024-02-01",
-        "rank": 38,
+        "rank": 53,
         "elo": 1016.0
       },
       {
         "date": "2024-03-01",
-        "rank": 38,
+        "rank": 53,
         "elo": 1016.0
       },
       {
         "date": "2024-04-01",
-        "rank": 38,
+        "rank": 53,
         "elo": 1016.0
       },
       {
         "date": "2024-05-01",
-        "rank": 38,
+        "rank": 53,
         "elo": 1016.0
       },
       {
         "date": "2024-06-01",
-        "rank": 39,
+        "rank": 54,
         "elo": 1016.0
       },
       {
         "date": "2024-07-01",
-        "rank": 39,
+        "rank": 54,
         "elo": 1016.0
       },
       {
         "date": "2024-08-01",
-        "rank": 39,
+        "rank": 54,
         "elo": 1016.0
       },
       {
         "date": "2024-09-01",
-        "rank": 39,
+        "rank": 54,
         "elo": 1016.0
       },
       {
         "date": "2024-10-01",
-        "rank": 39,
+        "rank": 54,
         "elo": 1016.0
       },
       {
         "date": "2024-11-01",
-        "rank": 39,
+        "rank": 55,
         "elo": 1016.0
       },
       {
         "date": "2024-12-01",
-        "rank": 40,
+        "rank": 56,
         "elo": 1016.0
       },
       {
         "date": "2025-01-01",
-        "rank": 40,
+        "rank": 56,
         "elo": 1016.0
       },
       {
         "date": "2025-02-01",
-        "rank": 41,
+        "rank": 57,
         "elo": 1016.0
       },
       {
         "date": "2025-03-01",
-        "rank": 41,
+        "rank": 57,
         "elo": 1016.0
       },
       {
         "date": "2025-04-01",
-        "rank": 41,
+        "rank": 57,
         "elo": 1016.0
       },
       {
         "date": "2025-05-01",
-        "rank": 41,
+        "rank": 57,
         "elo": 1016.0
       },
       {
         "date": "2025-06-01",
-        "rank": 41,
+        "rank": 57,
         "elo": 1016.0
       },
       {
         "date": "2025-07-01",
-        "rank": 41,
+        "rank": 57,
         "elo": 1016.0
       },
       {
         "date": "2025-08-01",
-        "rank": 42,
+        "rank": 57,
         "elo": 1016.0
       },
       {
         "date": "2025-09-01",
-        "rank": 42,
+        "rank": 57,
         "elo": 1016.0
       },
       {
         "date": "2025-10-01",
-        "rank": 42,
+        "rank": 57,
         "elo": 1016.0
       },
       {
         "date": "2025-11-01",
-        "rank": 44,
+        "rank": 59,
         "elo": 1016.0
       },
       {
         "date": "2025-12-01",
-        "rank": 44,
+        "rank": 59,
         "elo": 1016.0
       },
       {
         "date": "2026-01-01",
-        "rank": 44,
+        "rank": 59,
         "elo": 1016.0
       },
       {
         "date": "2026-02-01",
-        "rank": 44,
+        "rank": 61,
         "elo": 1016.0
       },
       {
         "date": "2026-03-01",
-        "rank": 44,
+        "rank": 61,
         "elo": 1016.0
       },
       {
         "date": "2026-04-01",
-        "rank": 44,
+        "rank": 61,
         "elo": 1016.0
       },
       {
         "date": "2026-05-01",
-        "rank": 45,
+        "rank": 61,
         "elo": 1016.0
       },
       {
         "date": "2026-06-01",
-        "rank": 44,
+        "rank": 62,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 62,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 62,
+        "elo": 1016.0
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 62,
         "elo": 1016.0
       }
     ],
@@ -842,10 +874,47 @@
         "date": "2026-06-01",
         "rank": 128,
         "elo": 1007.15
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 130,
+        "elo": 1007.15
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 131,
+        "elo": 1007.15
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 131,
+        "elo": 1007.15
+      }
+    ],
+    "ww": [
+      {
+        "date": "2026-09-01",
+        "rank": 92,
+        "elo": 1016.16
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-12",
+      "weight_class": "ww",
+      "weight_class_name": "Welterweight",
+      "opponent_id": "447f9858ae78f921",
+      "opponent_name": "Muslim Salikhov",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 1012.26,
+      "p4p_after": 1028.0,
+      "p4p_delta": 15.74,
+      "div_before": 1000.0,
+      "div_after": 1016.16,
+      "div_delta": 16.16
+    },
     {
       "date": "2026-03-28",
       "weight_class": "lw",

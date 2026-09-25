@@ -2,7 +2,7 @@
   "id": "9560ff14eb3129f7",
   "name": "Giga Chikadze",
   "slug": "giga-chikadze",
-  "last_fight_date": "2025-12-13",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "fw"
@@ -69,12 +69,12 @@
       },
       {
         "date": "2020-08-01",
-        "rank": 192,
+        "rank": 193,
         "elo": 1035.74
       },
       {
         "date": "2020-09-01",
-        "rank": 199,
+        "rank": 200,
         "elo": 1035.74
       },
       {
@@ -419,8 +419,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 510,
+        "rank": 512,
         "elo": 1008.74
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 519,
+        "elo": 1008.74
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 528,
+        "elo": 1008.74
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 858,
+        "elo": 982.85
       }
     ],
     "fw": [
@@ -831,12 +846,42 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 87,
+        "rank": 90,
         "elo": 1008.26
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 90,
+        "elo": 1008.26
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 90,
+        "elo": 1008.26
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 157,
+        "elo": 982.39
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "791c8437b341fba5",
+      "opponent_name": "Joanderson Brito",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1008.74,
+      "p4p_after": 982.85,
+      "p4p_delta": -25.89,
+      "div_before": 1008.26,
+      "div_after": 982.39,
+      "div_delta": -25.87
+    },
     {
       "date": "2025-12-13",
       "weight_class": "fw",

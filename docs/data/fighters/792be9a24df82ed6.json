@@ -2,7 +2,7 @@
   "id": "792be9a24df82ed6",
   "name": "Brandon Moreno",
   "slug": "brandon-moreno",
-  "last_fight_date": "2026-02-28",
+  "last_fight_date": "2026-09-12",
   "active_current_mode": true,
   "divisions": [
     "flw"
@@ -594,8 +594,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 343,
+        "rank": 342,
         "elo": 1023.14
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 344,
+        "elo": 1023.14
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 346,
+        "elo": 1023.14
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 279,
+        "elo": 1034.01
       }
     ],
     "flw": [
@@ -1181,12 +1196,42 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 22,
+        "elo": 1021.02
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 22,
+        "elo": 1021.02
+      },
+      {
+        "date": "2026-08-01",
         "rank": 23,
         "elo": 1021.02
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 22,
+        "elo": 1032.01
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-12",
+      "weight_class": "flw",
+      "weight_class_name": "Flyweight",
+      "opponent_id": "2fe9032955c2e013",
+      "opponent_name": "Joseph Morales",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 1023.14,
+      "p4p_after": 1034.01,
+      "p4p_delta": 10.87,
+      "div_before": 1021.02,
+      "div_after": 1032.01,
+      "div_delta": 10.99
+    },
     {
       "date": "2026-02-28",
       "weight_class": "flw",

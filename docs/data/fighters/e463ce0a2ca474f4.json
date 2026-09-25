@@ -2,7 +2,7 @@
   "id": "e463ce0a2ca474f4",
   "name": "Ryan Gandra",
   "slug": "ryan-gandra",
-  "last_fight_date": "2026-07-11",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -39,8 +39,18 @@
       },
       {
         "date": "2026-07-01",
-        "rank": 278,
+        "rank": 280,
         "elo": 1034.7
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 281,
+        "elo": 1034.7
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 191,
+        "elo": 1051.32
       }
     ],
     "mw": [
@@ -71,12 +81,37 @@
       },
       {
         "date": "2026-07-01",
+        "rank": 40,
+        "elo": 1033.48
+      },
+      {
+        "date": "2026-08-01",
         "rank": 41,
         "elo": 1033.48
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 29,
+        "elo": 1051.66
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "6967153c7edb4d87",
+      "opponent_name": "Ozzy Diaz",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1034.7,
+      "p4p_after": 1051.32,
+      "p4p_delta": 16.62,
+      "div_before": 1033.48,
+      "div_after": 1051.66,
+      "div_delta": 18.18
+    },
     {
       "date": "2026-07-11",
       "weight_class": "mw",

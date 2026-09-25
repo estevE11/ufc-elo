@@ -2,7 +2,7 @@
   "id": "f7e856a73c96048e",
   "name": "Gable Steveson",
   "slug": "gable-steveson",
-  "last_fight_date": "2026-07-11",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "hw"
@@ -14,19 +14,54 @@
     "p4p": [
       {
         "date": "2026-07-01",
-        "rank": 405,
+        "rank": 407,
         "elo": 1018.94
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 414,
+        "elo": 1018.94
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 902,
+        "elo": 980.34
       }
     ],
     "hw": [
       {
         "date": "2026-07-01",
-        "rank": 58,
+        "rank": 60,
         "elo": 1018.94
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 62,
+        "elo": 1018.94
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 123,
+        "elo": 980.36
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "hw",
+      "weight_class_name": "Heavyweight",
+      "opponent_id": "0f3a990526c5e706",
+      "opponent_name": "Sean Sharaf",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1018.94,
+      "p4p_after": 980.34,
+      "p4p_delta": -38.6,
+      "div_before": 1018.94,
+      "div_after": 980.36,
+      "div_delta": -38.58
+    },
     {
       "date": "2026-07-11",
       "weight_class": "hw",

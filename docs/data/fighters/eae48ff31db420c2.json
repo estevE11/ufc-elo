@@ -2,7 +2,7 @@
   "id": "eae48ff31db420c2",
   "name": "Arman Tsarukyan",
   "slug": "arman-tsarukyan",
-  "last_fight_date": "2025-11-22",
+  "last_fight_date": "2026-09-19",
   "active_current_mode": true,
   "divisions": [
     "lw"
@@ -344,12 +344,12 @@
       },
       {
         "date": "2024-10-01",
-        "rank": 30,
+        "rank": 31,
         "elo": 1114.43
       },
       {
         "date": "2024-11-01",
-        "rank": 30,
+        "rank": 31,
         "elo": 1114.43
       },
       {
@@ -446,17 +446,32 @@
         "date": "2026-06-01",
         "rank": 22,
         "elo": 1130.57
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 22,
+        "elo": 1130.57
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 22,
+        "elo": 1130.57
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 13,
+        "elo": 1146.85
       }
     ],
     "lw": [
       {
         "date": "2019-04-01",
-        "rank": 164,
+        "rank": 165,
         "elo": 980.45
       },
       {
         "date": "2019-05-01",
-        "rank": 165,
+        "rank": 166,
         "elo": 980.45
       },
       {
@@ -883,10 +898,40 @@
         "date": "2026-06-01",
         "rank": 4,
         "elo": 1132.84
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 4,
+        "elo": 1132.84
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 4,
+        "elo": 1132.84
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 4,
+        "elo": 1148.52
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-19",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "9c393e836a852f30",
+      "opponent_name": "Mauricio Ruffy",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1130.57,
+      "p4p_after": 1146.85,
+      "p4p_delta": 16.28,
+      "div_before": 1132.84,
+      "div_after": 1148.52,
+      "div_delta": 15.68
+    },
     {
       "date": "2025-11-22",
       "weight_class": "lw",

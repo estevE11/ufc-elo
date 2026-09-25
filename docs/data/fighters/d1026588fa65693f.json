@@ -1,0 +1,46 @@
+{
+  "id": "d1026588fa65693f",
+  "name": "Jessie Rosas",
+  "slug": "jessie-rosas",
+  "last_fight_date": "2026-09-12",
+  "active_current_mode": true,
+  "divisions": [
+    "fw"
+  ],
+  "division_names": {
+    "fw": "Featherweight"
+  },
+  "rank_history": {
+    "p4p": [
+      {
+        "date": "2026-09-01",
+        "rank": 1354,
+        "elo": 968.8
+      }
+    ],
+    "fw": [
+      {
+        "date": "2026-09-01",
+        "rank": 255,
+        "elo": 968.8
+      }
+    ]
+  },
+  "fights": [
+    {
+      "date": "2026-09-12",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "41523699f37d400c",
+      "opponent_name": "Sean King III",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1000.0,
+      "p4p_after": 968.8,
+      "p4p_delta": -31.2,
+      "div_before": 1000.0,
+      "div_after": 968.8,
+      "div_delta": -31.2
+    }
+  ]
+}

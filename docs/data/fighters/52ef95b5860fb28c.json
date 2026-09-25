@@ -2,7 +2,7 @@
   "id": "52ef95b5860fb28c",
   "name": "Jean Silva",
   "slug": "jean-silva",
-  "last_fight_date": "2026-01-24",
+  "last_fight_date": "2026-09-12",
   "active_current_mode": true,
   "divisions": [
     "fw",
@@ -41,7 +41,7 @@
       },
       {
         "date": "2024-06-01",
-        "rank": 224,
+        "rank": 225,
         "elo": 1037.19
       },
       {
@@ -163,6 +163,21 @@
         "date": "2026-06-01",
         "rank": 103,
         "elo": 1077.33
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 102,
+        "elo": 1077.33
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 102,
+        "elo": 1077.33
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 64,
+        "elo": 1096.11
       }
     ],
     "fw": [
@@ -315,6 +330,21 @@
         "date": "2026-06-01",
         "rank": 17,
         "elo": 1064.07
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 17,
+        "elo": 1064.07
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 18,
+        "elo": 1064.07
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 11,
+        "elo": 1083.52
       }
     ],
     "lw": [
@@ -435,12 +465,42 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 71,
+        "elo": 1020.97
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 71,
+        "elo": 1020.97
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 72,
+        "elo": 1020.97
+      },
+      {
+        "date": "2026-09-01",
         "rank": 72,
         "elo": 1020.97
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-12",
+      "weight_class": "fw",
+      "weight_class_name": "Featherweight",
+      "opponent_id": "7d6ceff6747f2de2",
+      "opponent_name": "Jose Delgado",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1077.33,
+      "p4p_after": 1096.11,
+      "p4p_delta": 18.78,
+      "div_before": 1064.07,
+      "div_after": 1083.52,
+      "div_delta": 19.45
+    },
     {
       "date": "2026-01-24",
       "weight_class": "fw",
