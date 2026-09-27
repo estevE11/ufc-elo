@@ -2,7 +2,7 @@
   "id": "5987b2458f4b5290",
   "name": "Ricky Simon",
   "slug": "ricky-simon",
-  "last_fight_date": "2025-11-08",
+  "last_fight_date": "2026-09-26",
   "active_current_mode": true,
   "divisions": [
     "bw",
@@ -506,8 +506,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 445,
+        "rank": 447,
         "elo": 1015.2
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 452,
+        "elo": 1015.2
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 462,
+        "elo": 1015.2
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 763,
+        "elo": 987.97
       }
     ],
     "bw": [
@@ -943,27 +958,27 @@
       },
       {
         "date": "2025-06-01",
-        "rank": 44,
+        "rank": 45,
         "elo": 1029.24
       },
       {
         "date": "2025-07-01",
-        "rank": 42,
+        "rank": 43,
         "elo": 1029.24
       },
       {
         "date": "2025-08-01",
-        "rank": 44,
+        "rank": 45,
         "elo": 1029.24
       },
       {
         "date": "2025-09-01",
-        "rank": 44,
+        "rank": 45,
         "elo": 1029.24
       },
       {
         "date": "2025-10-01",
-        "rank": 44,
+        "rank": 45,
         "elo": 1029.24
       },
       {
@@ -1005,6 +1020,21 @@
         "date": "2026-06-01",
         "rank": 88,
         "elo": 1005.11
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 89,
+        "elo": 1005.11
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 91,
+        "elo": 1005.11
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 144,
+        "elo": 978.55
       }
     ],
     "fw": [
@@ -1330,12 +1360,42 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 71,
+        "elo": 1016.8
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 70,
+        "elo": 1016.8
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 71,
+        "elo": 1016.8
+      },
+      {
+        "date": "2026-09-01",
         "rank": 70,
         "elo": 1016.8
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-26",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "cc1a8b4b38b92c6d",
+      "opponent_name": "Montel Jackson",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 1015.2,
+      "p4p_after": 987.97,
+      "p4p_delta": -27.23,
+      "div_before": 1005.11,
+      "div_after": 978.55,
+      "div_delta": -26.56
+    },
     {
       "date": "2025-11-08",
       "weight_class": "bw",

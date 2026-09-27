@@ -2,7 +2,7 @@
   "id": "cc1a8b4b38b92c6d",
   "name": "Montel Jackson",
   "slug": "montel-jackson",
-  "last_fight_date": "2026-04-25",
+  "last_fight_date": "2026-09-26",
   "active_current_mode": true,
   "divisions": [
     "bw"
@@ -274,7 +274,7 @@
       },
       {
         "date": "2022-12-01",
-        "rank": 192,
+        "rank": 193,
         "elo": 1041.09
       },
       {
@@ -284,12 +284,12 @@
       },
       {
         "date": "2023-02-01",
-        "rank": 197,
+        "rank": 198,
         "elo": 1041.09
       },
       {
         "date": "2023-03-01",
-        "rank": 192,
+        "rank": 193,
         "elo": 1041.09
       },
       {
@@ -484,8 +484,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 143,
+        "rank": 146,
         "elo": 1059.71
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 147,
+        "elo": 1059.71
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 148,
+        "elo": 1059.71
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 101,
+        "elo": 1077.86
       }
     ],
     "bw": [
@@ -963,10 +978,40 @@
         "date": "2026-06-01",
         "rank": 16,
         "elo": 1057.21
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 16,
+        "elo": 1057.21
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 16,
+        "elo": 1057.21
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 10,
+        "elo": 1074.92
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-26",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "5987b2458f4b5290",
+      "opponent_name": "Ricky Simon",
+      "result": "ko/tko",
+      "outcome": "W",
+      "p4p_before": 1059.71,
+      "p4p_after": 1077.86,
+      "p4p_delta": 18.15,
+      "div_before": 1057.21,
+      "div_after": 1074.92,
+      "div_delta": 17.71
+    },
     {
       "date": "2026-04-25",
       "weight_class": "bw",

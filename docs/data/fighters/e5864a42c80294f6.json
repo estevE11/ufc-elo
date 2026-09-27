@@ -2,12 +2,14 @@
   "id": "e5864a42c80294f6",
   "name": "Josiah Harrell",
   "slug": "josiah-harrell",
-  "last_fight_date": "2026-02-21",
+  "last_fight_date": "2026-09-26",
   "active_current_mode": true,
   "divisions": [
+    "lw",
     "ww"
   ],
   "division_names": {
+    "lw": "Lightweight",
     "ww": "Welterweight"
   },
   "rank_history": {
@@ -36,6 +38,28 @@
         "date": "2026-06-01",
         "rank": 1106,
         "elo": 971.91
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1111,
+        "elo": 971.91
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1130,
+        "elo": 971.91
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 2084,
+        "elo": 940.72
+      }
+    ],
+    "lw": [
+      {
+        "date": "2026-09-01",
+        "rank": 372,
+        "elo": 964.83
       }
     ],
     "ww": [
@@ -61,12 +85,42 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 283,
+        "rank": 288,
+        "elo": 971.9
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 288,
+        "elo": 971.9
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 286,
+        "elo": 971.9
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 287,
         "elo": 971.9
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-26",
+      "weight_class": "lw",
+      "weight_class_name": "Lightweight",
+      "opponent_id": "48a9a128784d53d1",
+      "opponent_name": "Elves Brener",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 971.91,
+      "p4p_after": 940.72,
+      "p4p_delta": -31.19,
+      "div_before": 1000.0,
+      "div_after": 964.83,
+      "div_delta": -35.17
+    },
     {
       "date": "2026-02-21",
       "weight_class": "ww",

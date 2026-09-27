@@ -2,7 +2,7 @@
   "id": "d3f5d33d61cd00c9",
   "name": "Norma Dumont",
   "slug": "norma-dumont",
-  "last_fight_date": "2026-04-25",
+  "last_fight_date": "2026-09-26",
   "active_current_mode": true,
   "divisions": [
     "wbw",
@@ -166,12 +166,12 @@
       },
       {
         "date": "2023-05-01",
-        "rank": 144,
+        "rank": 145,
         "elo": 1053.63
       },
       {
         "date": "2023-06-01",
-        "rank": 145,
+        "rank": 146,
         "elo": 1053.63
       },
       {
@@ -351,8 +351,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 100,
+        "rank": 99,
         "elo": 1079.08
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 98,
+        "elo": 1079.08
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 99,
+        "elo": 1079.08
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 174,
+        "elo": 1053.81
       }
     ],
     "wbw": [
@@ -695,6 +710,21 @@
         "date": "2026-06-01",
         "rank": 11,
         "elo": 1033.55
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 11,
+        "elo": 1033.55
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 11,
+        "elo": 1033.55
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 27,
+        "elo": 1013.38
       }
     ],
     "wfw": [
@@ -1007,10 +1037,40 @@
         "date": "2026-06-01",
         "rank": 2,
         "elo": 1052.15
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2,
+        "elo": 1052.15
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2,
+        "elo": 1052.15
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 2,
+        "elo": 1052.15
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-26",
+      "weight_class": "wbw",
+      "weight_class_name": "Women's Bantamweight",
+      "opponent_id": "06e4245d16fc5315",
+      "opponent_name": "Ailin Perez",
+      "result": "ud",
+      "outcome": "L",
+      "p4p_before": 1079.08,
+      "p4p_after": 1053.81,
+      "p4p_delta": -25.27,
+      "div_before": 1033.55,
+      "div_after": 1013.38,
+      "div_delta": -20.17
+    },
     {
       "date": "2026-04-25",
       "weight_class": "wbw",

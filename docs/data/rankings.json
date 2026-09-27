@@ -474,27 +474,27 @@
       },
       {
         "rank": 7,
+        "fighter_id": "fe2babf95de24fb1",
+        "name": "Raul Rosas Jr.",
+        "elo": 1092.92
+      },
+      {
+        "rank": 8,
         "fighter_id": "a09ed60aa67a3f67",
         "name": "Farid Basharat",
         "elo": 1089.59
       },
       {
-        "rank": 8,
+        "rank": 9,
         "fighter_id": "efb96bf3e9ada36f",
         "name": "Song Yadong",
         "elo": 1085.48
       },
       {
-        "rank": 9,
-        "fighter_id": "329e403448756217",
-        "name": "Nathaniel Wood",
-        "elo": 1073.91
-      },
-      {
         "rank": 10,
-        "fighter_id": "fe2babf95de24fb1",
-        "name": "Raul Rosas Jr.",
-        "elo": 1073.17
+        "fighter_id": "cc1a8b4b38b92c6d",
+        "name": "Montel Jackson",
+        "elo": 1074.92
       }
     ],
     "flw": [
@@ -694,7 +694,7 @@
         "rank": 2,
         "fighter_id": "06e4245d16fc5315",
         "name": "Ailin Perez",
-        "elo": 1089.37
+        "elo": 1102.82
       },
       {
         "rank": 3,
@@ -1276,33 +1276,33 @@
       },
       {
         "rank": 6,
+        "fighter_id": "fe2babf95de24fb1",
+        "name": "Raul Rosas Jr.",
+        "elo": 1092.92
+      },
+      {
+        "rank": 7,
         "fighter_id": "a09ed60aa67a3f67",
         "name": "Farid Basharat",
         "elo": 1089.59
       },
       {
-        "rank": 7,
+        "rank": 8,
         "fighter_id": "efb96bf3e9ada36f",
         "name": "Song Yadong",
         "elo": 1085.48
       },
       {
-        "rank": 8,
-        "fighter_id": "329e403448756217",
-        "name": "Nathaniel Wood",
-        "elo": 1073.91
-      },
-      {
         "rank": 9,
-        "fighter_id": "fe2babf95de24fb1",
-        "name": "Raul Rosas Jr.",
-        "elo": 1073.17
+        "fighter_id": "cc1a8b4b38b92c6d",
+        "name": "Montel Jackson",
+        "elo": 1074.92
       },
       {
         "rank": 10,
-        "fighter_id": "9a97acbfd5a08bfa",
-        "name": "David Martinez",
-        "elo": 1064.9
+        "fighter_id": "329e403448756217",
+        "name": "Nathaniel Wood",
+        "elo": 1073.91
       }
     ],
     "flw": [
@@ -1496,7 +1496,7 @@
         "rank": 1,
         "fighter_id": "06e4245d16fc5315",
         "name": "Ailin Perez",
-        "elo": 1089.37
+        "elo": 1102.82
       },
       {
         "rank": 2,
@@ -1536,21 +1536,21 @@
       },
       {
         "rank": 8,
-        "fighter_id": "d3f5d33d61cd00c9",
-        "name": "Norma Dumont",
-        "elo": 1033.55
-      },
-      {
-        "rank": 9,
         "fighter_id": "ca80d72da81d7224",
         "name": "Michelle Montague",
         "elo": 1030.24
       },
       {
-        "rank": 10,
+        "rank": 9,
         "fighter_id": "68d4a891e5cf2029",
         "name": "Tracy Cortez",
         "elo": 1030.18
+      },
+      {
+        "rank": 10,
+        "fighter_id": "3143bf892608139a",
+        "name": "Yana Santos",
+        "elo": 1027.32
       }
     ],
     "wfw": [
@@ -2316,7 +2316,7 @@
         "rank": 3,
         "fighter_id": "06e4245d16fc5315",
         "name": "Ailin Perez",
-        "elo": 1089.37
+        "elo": 1102.82
       },
       {
         "rank": 4,

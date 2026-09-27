@@ -2,7 +2,7 @@
   "id": "1897b7b913736a7c",
   "name": "Alatengheili",
   "slug": "alatengheili",
-  "last_fight_date": "2025-04-26",
+  "last_fight_date": "2026-09-26",
   "active_current_mode": true,
   "divisions": [
     "bw"
@@ -14,17 +14,17 @@
     "p4p": [
       {
         "date": "2019-08-01",
-        "rank": 330,
+        "rank": 337,
         "elo": 1016.0
       },
       {
         "date": "2019-09-01",
-        "rank": 331,
+        "rank": 338,
         "elo": 1016.0
       },
       {
         "date": "2019-10-01",
-        "rank": 333,
+        "rank": 336,
         "elo": 1016.0
       },
       {
@@ -59,12 +59,12 @@
       },
       {
         "date": "2020-05-01",
-        "rank": 335,
+        "rank": 344,
         "elo": 1016.0
       },
       {
         "date": "2020-06-01",
-        "rank": 340,
+        "rank": 349,
         "elo": 1016.0
       },
       {
@@ -74,12 +74,12 @@
       },
       {
         "date": "2020-08-01",
-        "rank": 362,
+        "rank": 363,
         "elo": 1016.0
       },
       {
         "date": "2020-09-01",
-        "rank": 351,
+        "rank": 360,
         "elo": 1016.0
       },
       {
@@ -424,14 +424,29 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 633,
+        "rank": 638,
         "elo": 996.4
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 638,
+        "elo": 996.4
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 650,
+        "elo": 996.4
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 538,
+        "elo": 1007.23
       }
     ],
     "bw": [
       {
         "date": "2019-08-01",
-        "rank": 36,
+        "rank": 37,
         "elo": 1016.0
       },
       {
@@ -466,12 +481,12 @@
       },
       {
         "date": "2020-03-01",
-        "rank": 36,
+        "rank": 37,
         "elo": 1016.0
       },
       {
         "date": "2020-04-01",
-        "rank": 36,
+        "rank": 37,
         "elo": 1016.0
       },
       {
@@ -843,10 +858,40 @@
         "date": "2026-06-01",
         "rank": 102,
         "elo": 995.75
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 102,
+        "elo": 995.75
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 104,
+        "elo": 995.75
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 83,
+        "elo": 1007.51
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-26",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "5fa2974cbd18e05c",
+      "opponent_name": "John Castaneda",
+      "result": "sd",
+      "outcome": "W",
+      "p4p_before": 996.4,
+      "p4p_after": 1007.23,
+      "p4p_delta": 10.83,
+      "div_before": 995.75,
+      "div_after": 1007.51,
+      "div_delta": 11.76
+    },
     {
       "date": "2025-04-26",
       "weight_class": "bw",

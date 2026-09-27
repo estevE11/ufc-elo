@@ -2,7 +2,7 @@
   "id": "260e9e0d4954aea6",
   "name": "Rodolfo Vieira",
   "slug": "rodolfo-vieira",
-  "last_fight_date": "2026-04-25",
+  "last_fight_date": "2026-09-26",
   "active_current_mode": true,
   "divisions": [
     "mw"
@@ -144,42 +144,42 @@
       },
       {
         "date": "2021-10-01",
-        "rank": 346,
+        "rank": 347,
         "elo": 1019.05
       },
       {
         "date": "2021-11-01",
-        "rank": 345,
+        "rank": 346,
         "elo": 1019.05
       },
       {
         "date": "2021-12-01",
-        "rank": 342,
+        "rank": 343,
         "elo": 1019.05
       },
       {
         "date": "2022-01-01",
-        "rank": 345,
+        "rank": 346,
         "elo": 1019.05
       },
       {
         "date": "2022-02-01",
-        "rank": 351,
+        "rank": 352,
         "elo": 1019.05
       },
       {
         "date": "2022-03-01",
-        "rank": 348,
-        "elo": 1019.05
-      },
-      {
-        "date": "2022-04-01",
         "rank": 349,
         "elo": 1019.05
       },
       {
+        "date": "2022-04-01",
+        "rank": 350,
+        "elo": 1019.05
+      },
+      {
         "date": "2022-05-01",
-        "rank": 347,
+        "rank": 348,
         "elo": 1019.05
       },
       {
@@ -424,8 +424,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 1177,
+        "rank": 1178,
         "elo": 969.68
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 1183,
+        "elo": 969.68
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 1201,
+        "elo": 969.68
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 809,
+        "elo": 985.77
       }
     ],
     "mw": [
@@ -841,12 +856,42 @@
       },
       {
         "date": "2026-06-01",
+        "rank": 242,
+        "elo": 970.6
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 242,
+        "elo": 970.6
+      },
+      {
+        "date": "2026-08-01",
         "rank": 244,
         "elo": 970.6
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 154,
+        "elo": 986.84
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-26",
+      "weight_class": "mw",
+      "weight_class_name": "Middleweight",
+      "opponent_id": "f96856f9d69fd7e4",
+      "opponent_name": "Robert Bryczek",
+      "result": "ud",
+      "outcome": "W",
+      "p4p_before": 969.68,
+      "p4p_after": 985.77,
+      "p4p_delta": 16.09,
+      "div_before": 970.6,
+      "div_after": 986.84,
+      "div_delta": 16.24
+    },
     {
       "date": "2026-04-25",
       "weight_class": "mw",

@@ -2,7 +2,7 @@
   "id": "2c483cf443f38ece",
   "name": "Vanessa Demopoulos",
   "slug": "vanessa-demopoulos",
-  "last_fight_date": "2025-06-14",
+  "last_fight_date": "2026-09-26",
   "active_current_mode": true,
   "divisions": [
     "wflw",
@@ -121,17 +121,17 @@
       },
       {
         "date": "2023-05-01",
-        "rank": 609,
+        "rank": 610,
         "elo": 994.32
       },
       {
         "date": "2023-06-01",
-        "rank": 608,
+        "rank": 609,
         "elo": 994.32
       },
       {
         "date": "2023-07-01",
-        "rank": 602,
+        "rank": 603,
         "elo": 994.32
       },
       {
@@ -201,37 +201,37 @@
       },
       {
         "date": "2024-09-01",
-        "rank": 704,
+        "rank": 705,
         "elo": 988.2
       },
       {
         "date": "2024-10-01",
-        "rank": 706,
+        "rank": 707,
         "elo": 988.2
       },
       {
         "date": "2024-11-01",
-        "rank": 711,
+        "rank": 712,
         "elo": 988.2
       },
       {
         "date": "2024-12-01",
-        "rank": 710,
+        "rank": 711,
         "elo": 988.2
       },
       {
         "date": "2025-01-01",
-        "rank": 708,
+        "rank": 709,
         "elo": 988.2
       },
       {
         "date": "2025-02-01",
-        "rank": 715,
+        "rank": 716,
         "elo": 988.2
       },
       {
         "date": "2025-03-01",
-        "rank": 721,
+        "rank": 722,
         "elo": 988.2
       },
       {
@@ -241,7 +241,7 @@
       },
       {
         "date": "2025-05-01",
-        "rank": 1412,
+        "rank": 1413,
         "elo": 964.08
       },
       {
@@ -306,8 +306,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 2008,
+        "rank": 2017,
         "elo": 941.58
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2027,
+        "elo": 941.58
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2046,
+        "elo": 941.58
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 2544,
+        "elo": 913.76
       }
     ],
     "wflw": [
@@ -605,6 +620,21 @@
         "date": "2026-06-01",
         "rank": 88,
         "elo": 951.6
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 89,
+        "elo": 951.6
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 90,
+        "elo": 951.6
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 91,
+        "elo": 951.6
       }
     ],
     "wsw": [
@@ -877,10 +907,40 @@
         "date": "2026-06-01",
         "rank": 50,
         "elo": 979.32
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 50,
+        "elo": 979.32
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 52,
+        "elo": 979.32
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 91,
+        "elo": 948.36
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-26",
+      "weight_class": "wsw",
+      "weight_class_name": "Women's Strawweight",
+      "opponent_id": "40cb680ae1cd331f",
+      "opponent_name": "Yazmin Jauregui",
+      "result": "ko/tko",
+      "outcome": "L",
+      "p4p_before": 941.58,
+      "p4p_after": 913.76,
+      "p4p_delta": -27.82,
+      "div_before": 979.32,
+      "div_after": 948.36,
+      "div_delta": -30.96
+    },
     {
       "date": "2025-06-14",
       "weight_class": "wflw",

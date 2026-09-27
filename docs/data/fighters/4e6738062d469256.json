@@ -2,29 +2,31 @@
   "id": "4e6738062d469256",
   "name": "Sedriques Dumas",
   "slug": "sedriques-dumas",
-  "last_fight_date": "2026-04-25",
+  "last_fight_date": "2026-09-26",
   "active_current_mode": true,
   "divisions": [
+    "lhw",
     "mw"
   ],
   "division_names": {
+    "lhw": "Light Heavyweight",
     "mw": "Middleweight"
   },
   "rank_history": {
     "p4p": [
       {
         "date": "2023-03-01",
-        "rank": 1357,
+        "rank": 1358,
         "elo": 963.57
       },
       {
         "date": "2023-04-01",
-        "rank": 1362,
+        "rank": 1363,
         "elo": 963.57
       },
       {
         "date": "2023-05-01",
-        "rank": 1366,
+        "rank": 1367,
         "elo": 963.57
       },
       {
@@ -139,12 +141,12 @@
       },
       {
         "date": "2025-04-01",
-        "rank": 1822,
+        "rank": 1823,
         "elo": 946.29
       },
       {
         "date": "2025-05-01",
-        "rank": 1820,
+        "rank": 1821,
         "elo": 946.29
       },
       {
@@ -159,7 +161,7 @@
       },
       {
         "date": "2025-08-01",
-        "rank": 1823,
+        "rank": 1824,
         "elo": 946.29
       },
       {
@@ -169,7 +171,7 @@
       },
       {
         "date": "2025-10-01",
-        "rank": 1830,
+        "rank": 1831,
         "elo": 946.29
       },
       {
@@ -209,8 +211,30 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 2636,
+        "rank": 2645,
         "elo": 890.47
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 2658,
+        "elo": 890.47
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 2684,
+        "elo": 890.47
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 2741,
+        "elo": 868.79
+      }
+    ],
+    "lhw": [
+      {
+        "date": "2026-09-01",
+        "rank": 172,
+        "elo": 968.8
       }
     ],
     "mw": [
@@ -396,7 +420,7 @@
       },
       {
         "date": "2026-03-01",
-        "rank": 434,
+        "rank": 435,
         "elo": 919.55
       },
       {
@@ -413,10 +437,40 @@
         "date": "2026-06-01",
         "rank": 459,
         "elo": 892.83
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 459,
+        "elo": 892.83
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 460,
+        "elo": 892.83
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 461,
+        "elo": 892.83
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-26",
+      "weight_class": "lhw",
+      "weight_class_name": "Light Heavyweight",
+      "opponent_id": "5dad1e8a516e6477",
+      "opponent_name": "Luis Hernandez",
+      "result": "sub",
+      "outcome": "L",
+      "p4p_before": 890.47,
+      "p4p_after": 868.79,
+      "p4p_delta": -21.68,
+      "div_before": 1000.0,
+      "div_after": 968.8,
+      "div_delta": -31.2
+    },
     {
       "date": "2026-04-25",
       "weight_class": "mw",

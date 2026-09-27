@@ -2,7 +2,7 @@
   "id": "7af33fc4435017f1",
   "name": "Brady Hiestand",
   "slug": "brady-hiestand",
-  "last_fight_date": "2024-06-15",
+  "last_fight_date": "2026-09-26",
   "active_current_mode": true,
   "divisions": [
     "bw"
@@ -14,27 +14,27 @@
     "p4p": [
       {
         "date": "2021-08-01",
-        "rank": 720,
+        "rank": 724,
         "elo": 983.2
       },
       {
         "date": "2021-09-01",
-        "rank": 721,
+        "rank": 724,
         "elo": 983.2
       },
       {
         "date": "2021-10-01",
-        "rank": 721,
+        "rank": 727,
         "elo": 983.2
       },
       {
         "date": "2021-11-01",
-        "rank": 722,
+        "rank": 728,
         "elo": 983.2
       },
       {
         "date": "2021-12-01",
-        "rank": 717,
+        "rank": 720,
         "elo": 983.2
       },
       {
@@ -44,22 +44,22 @@
       },
       {
         "date": "2022-02-01",
-        "rank": 720,
+        "rank": 722,
         "elo": 983.2
       },
       {
         "date": "2022-03-01",
-        "rank": 713,
+        "rank": 720,
         "elo": 983.2
       },
       {
         "date": "2022-04-01",
-        "rank": 725,
+        "rank": 727,
         "elo": 983.2
       },
       {
         "date": "2022-05-01",
-        "rank": 718,
+        "rank": 725,
         "elo": 983.2
       },
       {
@@ -69,7 +69,7 @@
       },
       {
         "date": "2022-07-01",
-        "rank": 722,
+        "rank": 729,
         "elo": 983.2
       },
       {
@@ -84,7 +84,7 @@
       },
       {
         "date": "2022-10-01",
-        "rank": 739,
+        "rank": 745,
         "elo": 983.2
       },
       {
@@ -304,8 +304,23 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 246,
+        "rank": 244,
         "elo": 1038.28
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 251,
+        "elo": 1038.28
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 253,
+        "elo": 1038.28
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 152,
+        "elo": 1059.1
       }
     ],
     "bw": [
@@ -601,12 +616,42 @@
       },
       {
         "date": "2026-06-01",
-        "rank": 30,
+        "rank": 31,
         "elo": 1039.95
+      },
+      {
+        "date": "2026-07-01",
+        "rank": 31,
+        "elo": 1039.95
+      },
+      {
+        "date": "2026-08-01",
+        "rank": 31,
+        "elo": 1039.95
+      },
+      {
+        "date": "2026-09-01",
+        "rank": 15,
+        "elo": 1060.61
       }
     ]
   },
   "fights": [
+    {
+      "date": "2026-09-26",
+      "weight_class": "bw",
+      "weight_class_name": "Bantamweight",
+      "opponent_id": "d8c811df0386d5e8",
+      "opponent_name": "Rinya Nakamura",
+      "result": "sub",
+      "outcome": "W",
+      "p4p_before": 1038.28,
+      "p4p_after": 1059.1,
+      "p4p_delta": 20.82,
+      "div_before": 1039.95,
+      "div_after": 1060.61,
+      "div_delta": 20.66
+    },
     {
       "date": "2024-06-15",
       "weight_class": "bw",
